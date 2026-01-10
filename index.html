@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- SEO Meta Tags -->
+  <title>aimay 식물관리기 - 스마트한 식물 관리의 시작</title>
+  <meta name="description" content="당신의 식물을 스마트하게 관리하세요. 물 주기, 햇빛, 비료 일정을 자동으로 관리하고 알림을 받으세요."/>
+  <meta name="keywords" content="식물관리AI, 식물 관리, 물주기 알림, 식물 앱"/>
+  <link rel="canonical" href="https://landingtest12.netlify.app/"/>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://landingtest12.netlify.app/"/>
+  <meta property="og:title" content="aimay 식물관리기"/>
+  <meta property="og:description" content="당신의 식물을 스마트하게 관리하세요. 물 주기, 햇빛, 비료 일정을 자동으로 관리하고 알림을 받으세요."/>
+  <meta property="og:image" content="https://landingtest12.netlify.app/logo.png"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:site_name" content="aimay"/>
+  <meta property="og:locale" content="ko_KR"/>
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:url" content="https://landingtest12.netlify.app/"/>
+  <meta name="twitter:title" content="aimay 식물관리기"/>
+  <meta name="twitter:description" content="당신의 식물을 스마트하게 관리하세요."/>
+  <meta name="twitter:image" content="https://landingtest12.netlify.app/logo.png"/>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/logo.png"/>
+  <link rel="apple-touch-icon" href="/logo.png"/>
+
+  <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+  <link as="style" href="https://fonts.googleapis.com/css2?display=swap&family=Noto+Sans+KR:wght@400;500;700;900&family=Space+Grotesk:wght@400;500;700" onload="this.rel='stylesheet'" rel="stylesheet"/>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+  <style>
+    .material-icons-outlined {
+      font-weight: normal;
+      font-style: normal;
+      font-size: 24px;
+      display: inline-block;
+      line-height: 1;
+      text-transform: none;
+      letter-spacing: normal;
+      word-wrap: normal;
+      white-space: nowrap;
+      direction: ltr;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      -moz-osx-font-smoothing: grayscale;
+      font-feature-settings: "liga";
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+    .gradient-bg {
+      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 50%, #bbf7d0 100%);
+    }
+    .hero-pattern {
+      background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2322c55e' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    }
+    #shader-container {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+    }
+    #shader-container canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body class="bg-white text-stone-900" style='font-family: "Space Grotesk", "Noto Sans KR", sans-serif;'>
+
+  <!-- Navigation -->
+  <nav class="fixed top-0 left-0 right-0 z-50 bg-black/50 backdrop-blur-md border-b border-white/10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <div class="flex items-center gap-2">
+          <span class="material-icons-outlined text-green-400" style="font-size: 32px">local_florist</span>
+          <span class="text-xl font-bold text-white">Plant Care</span>
+        </div>
+        <div class="hidden md:flex items-center gap-8">
+          <a href="#features" class="text-white/80 hover:text-green-400 transition-colors font-medium">기능</a>
+          <a href="#how-it-works" class="text-white/80 hover:text-green-400 transition-colors font-medium">사용방법</a>
+          <a href="#testimonials" class="text-white/80 hover:text-green-400 transition-colors font-medium">후기</a>
+          <a href="#pricing" class="text-white/80 hover:text-green-400 transition-colors font-medium">가격</a>
+        </div>
+        <div class="flex items-center gap-4">
+          <a href="#" class="hidden sm:block text-white/80 hover:text-green-400 transition-colors font-medium">로그인</a>
+          <a href="#cta" class="bg-green-500 hover:bg-green-600 text-white px-5 py-2.5 rounded-lg font-semibold transition-colors shadow-md hover:shadow-lg">
+            무료 시작
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section with Shader Animation -->
+  <section class="relative min-h-screen flex items-center overflow-hidden">
+    <!-- Shader Background -->
+    <div id="shader-container"></div>
+    <!-- Dark Overlay for better text readability -->
+    <div class="absolute inset-0 bg-black/30 z-[1]"></div>
+
+    <!-- Content -->
+    <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
+      <div class="text-center">
+        <div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md text-white px-4 py-2 rounded-full text-sm font-medium mb-6 border border-white/20">
+          <span class="material-icons-outlined" style="font-size: 18px">verified</span>
+          10,000+ 사용자가 선택한 앱
+        </div>
+        <h1 class="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6 tracking-tight">
+          당신의 식물을<br/>
+          <span class="text-green-400">스마트하게</span> 관리하세요
+        </h1>
+        <p class="text-lg sm:text-xl text-white/80 mb-10 max-w-2xl mx-auto">
+          물 주기, 햇빛, 비료 일정을 자동으로 관리하고 알림을 받으세요.
+          초보자도 쉽게 건강한 식물을 키울 수 있습니다.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+          <a href="#cta" class="inline-flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5">
+            <span class="material-icons-outlined">download</span>
+            무료로 시작하기
+          </a>
+          <a href="#how-it-works" class="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 backdrop-blur-md text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all border border-white/30 hover:border-white/50">
+            <span class="material-icons-outlined">play_circle</span>
+            사용방법 보기
+          </a>
+        </div>
+        <div class="flex items-center justify-center gap-6">
+          <div class="flex -space-x-3">
+            <img src="https://randomuser.me/api/portraits/women/1.jpg" class="w-10 h-10 rounded-full border-2 border-white/50" alt="User"/>
+            <img src="https://randomuser.me/api/portraits/men/2.jpg" class="w-10 h-10 rounded-full border-2 border-white/50" alt="User"/>
+            <img src="https://randomuser.me/api/portraits/women/3.jpg" class="w-10 h-10 rounded-full border-2 border-white/50" alt="User"/>
+            <img src="https://randomuser.me/api/portraits/men/4.jpg" class="w-10 h-10 rounded-full border-2 border-white/50" alt="User"/>
+          </div>
+          <div class="text-left">
+            <div class="flex items-center gap-1 text-yellow-400">
+              <span class="material-icons-outlined" style="font-size: 20px">star</span>
+              <span class="material-icons-outlined" style="font-size: 20px">star</span>
+              <span class="material-icons-outlined" style="font-size: 20px">star</span>
+              <span class="material-icons-outlined" style="font-size: 20px">star</span>
+              <span class="material-icons-outlined" style="font-size: 20px">star_half</span>
+            </div>
+            <p class="text-sm text-white/70">4.8/5 평점 (2,000+ 리뷰)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 animate-bounce">
+      <span class="material-icons-outlined text-white/70" style="font-size: 32px">keyboard_arrow_down</span>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="py-20 lg:py-28 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">강력한 기능들</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto">
+          식물 관리에 필요한 모든 것을 한 곳에서. 스마트한 알림과 직관적인 인터페이스로 쉽게 관리하세요.
+        </p>
+      </div>
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Feature 1 -->
+        <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-blue-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">water_drop</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">스마트 물 주기 알림</h3>
+          <p class="text-stone-600">
+            각 식물의 특성에 맞춰 최적의 물 주기를 계산하고, 알림으로 정확한 타이밍에 물을 줄 수 있도록 도와드립니다.
+          </p>
+        </div>
+        <!-- Feature 2 -->
+        <div class="bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-yellow-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">light_mode</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">햇빛 관리 가이드</h3>
+          <p class="text-stone-600">
+            식물별 필요한 햇빛 양을 알려주고, 계절과 위치에 따른 최적의 배치 장소를 추천해 드립니다.
+          </p>
+        </div>
+        <!-- Feature 3 -->
+        <div class="bg-gradient-to-br from-green-50 to-green-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-green-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">science</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">비료 일정 관리</h3>
+          <p class="text-stone-600">
+            성장 시기와 식물 종류에 맞는 비료 투여 일정을 자동으로 계획하고 관리해 드립니다.
+          </p>
+        </div>
+        <!-- Feature 4 -->
+        <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-purple-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">photo_camera</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">식물 인식 AI</h3>
+          <p class="text-stone-600">
+            사진만 찍으면 AI가 식물 종류를 자동으로 인식하고 최적의 관리 방법을 알려드립니다.
+          </p>
+        </div>
+        <!-- Feature 5 -->
+        <div class="bg-gradient-to-br from-red-50 to-red-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-red-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">healing</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">건강 상태 진단</h3>
+          <p class="text-stone-600">
+            잎의 상태를 분석하여 병충해나 영양 결핍 등의 문제를 조기에 발견하고 해결책을 제시합니다.
+          </p>
+        </div>
+        <!-- Feature 6 -->
+        <div class="bg-gradient-to-br from-teal-50 to-teal-100 rounded-2xl p-8 hover:shadow-lg transition-shadow">
+          <div class="w-14 h-14 bg-teal-500 rounded-xl flex items-center justify-center mb-6">
+            <span class="material-icons-outlined text-white" style="font-size: 28px">groups</span>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">커뮤니티</h3>
+          <p class="text-stone-600">
+            식물 애호가들과 경험을 공유하고, 전문가의 조언을 받을 수 있는 활발한 커뮤니티를 운영합니다.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works Section -->
+  <section id="how-it-works" class="py-20 lg:py-28 bg-stone-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">간단한 3단계로 시작하세요</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto">
+          복잡한 설정 없이 바로 시작할 수 있습니다.
+        </p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-8 lg:gap-12">
+        <!-- Step 1 -->
+        <div class="text-center">
+          <div class="relative w-20 h-20 mx-auto mb-6">
+            <div class="absolute inset-0 bg-green-200 rounded-full"></div>
+            <div class="absolute inset-2 bg-green-500 rounded-full flex items-center justify-center">
+              <span class="text-white text-2xl font-bold">1</span>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">앱 다운로드</h3>
+          <p class="text-stone-600">
+            iOS, Android 어디서나 무료로 앱을 다운로드하고 간편하게 가입하세요.
+          </p>
+        </div>
+        <!-- Step 2 -->
+        <div class="text-center">
+          <div class="relative w-20 h-20 mx-auto mb-6">
+            <div class="absolute inset-0 bg-green-200 rounded-full"></div>
+            <div class="absolute inset-2 bg-green-500 rounded-full flex items-center justify-center">
+              <span class="text-white text-2xl font-bold">2</span>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">식물 등록</h3>
+          <p class="text-stone-600">
+            사진을 찍거나 목록에서 선택하여 키우는 식물을 등록하세요. AI가 자동으로 인식합니다.
+          </p>
+        </div>
+        <!-- Step 3 -->
+        <div class="text-center">
+          <div class="relative w-20 h-20 mx-auto mb-6">
+            <div class="absolute inset-0 bg-green-200 rounded-full"></div>
+            <div class="absolute inset-2 bg-green-500 rounded-full flex items-center justify-center">
+              <span class="text-white text-2xl font-bold">3</span>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-stone-900 mb-3">알림 받기</h3>
+          <p class="text-stone-600">
+            물 주기, 비료, 분갈이 등 모든 케어 일정을 자동으로 알림 받으세요.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- App Preview Section -->
+  <section class="py-20 lg:py-28 bg-white overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-6">
+            직관적인 대시보드로<br/>한눈에 관리하세요
+          </h2>
+          <p class="text-lg text-stone-600 mb-8">
+            모든 식물의 상태와 다가오는 케어 일정을 한 화면에서 확인할 수 있습니다.
+            깔끔하고 사용하기 쉬운 인터페이스로 누구나 쉽게 식물을 관리할 수 있습니다.
+          </p>
+          <ul class="space-y-4">
+            <li class="flex items-start gap-3">
+              <span class="material-icons-outlined text-green-500 mt-0.5">check_circle</span>
+              <span class="text-stone-700">실시간 식물 상태 모니터링</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="material-icons-outlined text-green-500 mt-0.5">check_circle</span>
+              <span class="text-stone-700">캘린더 뷰로 한달 일정 확인</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="material-icons-outlined text-green-500 mt-0.5">check_circle</span>
+              <span class="text-stone-700">위젯으로 홈 화면에서 빠르게 확인</span>
+            </li>
+            <li class="flex items-start gap-3">
+              <span class="material-icons-outlined text-green-500 mt-0.5">check_circle</span>
+              <span class="text-stone-700">다크 모드 지원</span>
+            </li>
+          </ul>
+        </div>
+        <div class="relative">
+          <div class="absolute inset-0 bg-gradient-to-r from-green-400/20 to-teal-400/20 rounded-3xl blur-3xl"></div>
+          <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuAVu_dVZcy2_o8A3wQGnYtWggbBaotN8aQlknpxuR_anhV6TBh9nlt63JVvFyOzhDJyMbyw_RZqZcryfDwt6EiHYm1mM6V4KJN6UJcDstc238JVJAAbhvk_G7IzbLQlOhgglSxBIbKGXRREBN1pPmOTHjrNIl_ZI50E_NttvKkdY3trTt6l6hhTU2qc9WLd109rePwVt3Vu2dMLi8CsNzgbjtnAgnv9uJjdT-atZmcEQ4qvkCWkOdSJQlJOprvUDDDcTMsqrpYEgzHD"
+               alt="App Dashboard"
+               class="relative rounded-2xl shadow-2xl w-full"/>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials Section -->
+  <section id="testimonials" class="py-20 lg:py-28 bg-gradient-to-br from-green-50 to-teal-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">사용자 후기</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto">
+          Plant Care와 함께 건강한 식물을 키우고 있는 분들의 이야기
+        </p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-8">
+        <!-- Testimonial 1 -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg">
+          <div class="flex items-center gap-1 text-yellow-500 mb-4">
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+          </div>
+          <p class="text-stone-600 mb-6">
+            "식물 초보였는데 이 앱 덕분에 몬스테라를 1년 넘게 건강하게 키우고 있어요. 물 주기 알림이 정말 유용해요!"
+          </p>
+          <div class="flex items-center gap-3">
+            <img src="https://randomuser.me/api/portraits/women/32.jpg" class="w-12 h-12 rounded-full" alt="User"/>
+            <div>
+              <p class="font-semibold text-stone-900">김지현</p>
+              <p class="text-sm text-stone-500">식물 5개 관리 중</p>
+            </div>
+          </div>
+        </div>
+        <!-- Testimonial 2 -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg">
+          <div class="flex items-center gap-1 text-yellow-500 mb-4">
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+          </div>
+          <p class="text-stone-600 mb-6">
+            "AI 식물 진단 기능이 정말 놀라워요. 잎이 이상해져서 찍어봤더니 바로 문제점과 해결책을 알려줬어요."
+          </p>
+          <div class="flex items-center gap-3">
+            <img src="https://randomuser.me/api/portraits/men/45.jpg" class="w-12 h-12 rounded-full" alt="User"/>
+            <div>
+              <p class="font-semibold text-stone-900">박성민</p>
+              <p class="text-sm text-stone-500">식물 12개 관리 중</p>
+            </div>
+          </div>
+        </div>
+        <!-- Testimonial 3 -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg">
+          <div class="flex items-center gap-1 text-yellow-500 mb-4">
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star</span>
+            <span class="material-icons-outlined" style="font-size: 20px">star_half</span>
+          </div>
+          <p class="text-stone-600 mb-6">
+            "출장이 잦은 편인데, 가족에게 케어 일정을 공유할 수 있어서 식물이 시들 걱정이 없어요."
+          </p>
+          <div class="flex items-center gap-3">
+            <img src="https://randomuser.me/api/portraits/women/68.jpg" class="w-12 h-12 rounded-full" alt="User"/>
+            <div>
+              <p class="font-semibold text-stone-900">이수진</p>
+              <p class="text-sm text-stone-500">식물 8개 관리 중</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Section -->
+  <section id="pricing" class="py-20 lg:py-28 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">심플한 가격</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto">
+          기본 기능은 무료! 더 많은 기능이 필요하다면 프로로 업그레이드하세요.
+        </p>
+      </div>
+      <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <!-- Free Plan -->
+        <div class="bg-white rounded-2xl p-8 border-2 border-stone-200 hover:border-stone-300 transition-colors">
+          <h3 class="text-xl font-bold text-stone-900 mb-2">무료</h3>
+          <p class="text-stone-600 mb-6">개인 사용자에게 적합</p>
+          <div class="mb-6">
+            <span class="text-4xl font-bold text-stone-900">₩0</span>
+            <span class="text-stone-600">/월</span>
+          </div>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined text-green-500" style="font-size: 20px">check</span>
+              <span class="text-stone-700">최대 5개 식물 등록</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined text-green-500" style="font-size: 20px">check</span>
+              <span class="text-stone-700">물 주기 알림</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined text-green-500" style="font-size: 20px">check</span>
+              <span class="text-stone-700">기본 케어 가이드</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined text-stone-300" style="font-size: 20px">close</span>
+              <span class="text-stone-400">AI 식물 진단</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined text-stone-300" style="font-size: 20px">close</span>
+              <span class="text-stone-400">가족 공유</span>
+            </li>
+          </ul>
+          <a href="#" class="block w-full text-center bg-stone-100 hover:bg-stone-200 text-stone-700 px-6 py-3 rounded-lg font-semibold transition-colors">
+            무료로 시작
+          </a>
+        </div>
+        <!-- Pro Plan -->
+        <div class="bg-gradient-to-br from-green-500 to-teal-500 rounded-2xl p-8 text-white relative overflow-hidden">
+          <div class="absolute top-4 right-4 bg-white/20 text-white text-xs font-bold px-3 py-1 rounded-full">
+            인기
+          </div>
+          <h3 class="text-xl font-bold mb-2">프로</h3>
+          <p class="text-green-100 mb-6">진지한 식물 애호가를 위한</p>
+          <div class="mb-6">
+            <span class="text-4xl font-bold">₩4,900</span>
+            <span class="text-green-100">/월</span>
+          </div>
+          <ul class="space-y-3 mb-8">
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined" style="font-size: 20px">check</span>
+              <span>무제한 식물 등록</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined" style="font-size: 20px">check</span>
+              <span>모든 알림 기능</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined" style="font-size: 20px">check</span>
+              <span>상세 케어 가이드</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined" style="font-size: 20px">check</span>
+              <span>AI 식물 진단 무제한</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <span class="material-icons-outlined" style="font-size: 20px">check</span>
+              <span>가족 5명까지 공유</span>
+            </li>
+          </ul>
+          <a href="#" class="block w-full text-center bg-white hover:bg-green-50 text-green-600 px-6 py-3 rounded-lg font-semibold transition-colors">
+            프로 시작하기
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section with Registration Form -->
+  <section id="cta" class="py-20 lg:py-28 bg-stone-900">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <span class="material-icons-outlined text-green-400 mb-6" style="font-size: 64px">local_florist</span>
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-6">
+          오늘부터 식물과 더 가까워지세요
+        </h2>
+        <p class="text-lg text-stone-400 max-w-2xl mx-auto">
+          사전 등록하고 출시 알림을 받으세요. 얼리버드 혜택도 함께 드립니다!
+        </p>
+      </div>
+
+      <!-- Registration Form -->
+      <div class="max-w-xl mx-auto">
+        <form id="registrationForm" class="bg-stone-800/50 backdrop-blur-md rounded-2xl p-8 border border-stone-700">
+          <div class="space-y-6">
+            <!-- Name Field -->
+            <div>
+              <label for="userName" class="block text-sm font-medium text-stone-300 mb-2">
+                <span class="flex items-center gap-2">
+                  <span class="material-icons-outlined" style="font-size: 18px">person</span>
+                  이름
+                </span>
+              </label>
+              <input
+                type="text"
+                id="userName"
+                name="name"
+                required
+                placeholder="홍길동"
+                class="w-full px-4 py-3 bg-stone-900/50 border border-stone-600 rounded-lg text-white placeholder-stone-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all"
+              />
+            </div>
+
+            <!-- Email Field -->
+            <div>
+              <label for="userEmail" class="block text-sm font-medium text-stone-300 mb-2">
+                <span class="flex items-center gap-2">
+                  <span class="material-icons-outlined" style="font-size: 18px">email</span>
+                  이메일
+                </span>
+              </label>
+              <input
+                type="email"
+                id="userEmail"
+                name="email"
+                required
+                placeholder="example@email.com"
+                class="w-full px-4 py-3 bg-stone-900/50 border border-stone-600 rounded-lg text-white placeholder-stone-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all"
+              />
+            </div>
+
+            <!-- Phone Field -->
+            <div>
+              <label for="userPhone" class="block text-sm font-medium text-stone-300 mb-2">
+                <span class="flex items-center gap-2">
+                  <span class="material-icons-outlined" style="font-size: 18px">phone</span>
+                  연락처
+                </span>
+              </label>
+              <input
+                type="tel"
+                id="userPhone"
+                name="phone"
+                required
+                placeholder="010-1234-5678"
+                pattern="[0-9]{2,3}-[0-9]{3,4}-[0-9]{4}"
+                class="w-full px-4 py-3 bg-stone-900/50 border border-stone-600 rounded-lg text-white placeholder-stone-500 focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all"
+              />
+              <p class="mt-1 text-xs text-stone-500">형식: 010-1234-5678</p>
+            </div>
+
+            <!-- Privacy Agreement -->
+            <div class="flex items-start gap-3">
+              <input
+                type="checkbox"
+                id="privacyAgree"
+                name="privacy"
+                required
+                class="mt-1 w-4 h-4 text-green-500 bg-stone-900 border-stone-600 rounded focus:ring-green-500 focus:ring-2"
+              />
+              <label for="privacyAgree" class="text-sm text-stone-400">
+                <a href="#" class="text-green-400 hover:underline">개인정보 처리방침</a>에 동의합니다.
+                수집된 정보는 서비스 안내 목적으로만 사용됩니다.
+              </label>
+            </div>
+
+            <!-- Submit Button -->
+            <button
+              type="submit"
+              class="w-full flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-semibold text-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              <span class="material-icons-outlined">send</span>
+              사전 등록하기
+            </button>
+          </div>
+        </form>
+
+        <!-- Success Message (Hidden by default) -->
+        <div id="successMessage" class="hidden bg-green-500/20 backdrop-blur-md rounded-2xl p-8 border border-green-500/50 text-center">
+          <span class="material-icons-outlined text-green-400 mb-4" style="font-size: 64px">check_circle</span>
+          <h3 class="text-2xl font-bold text-white mb-2">등록이 완료되었습니다!</h3>
+          <p class="text-stone-300">출시 소식을 가장 먼저 알려드릴게요.</p>
+        </div>
+
+        <!-- App Store Buttons -->
+        <div class="flex flex-col sm:flex-row gap-4 justify-center mt-10">
+          <a href="#" class="inline-flex items-center justify-center gap-3 bg-black hover:bg-stone-800 text-white px-8 py-4 rounded-xl font-semibold transition-colors border border-stone-700">
+            <svg class="w-7 h-7" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+            </svg>
+            App Store
+          </a>
+          <a href="#" class="inline-flex items-center justify-center gap-3 bg-black hover:bg-stone-800 text-white px-8 py-4 rounded-xl font-semibold transition-colors border border-stone-700">
+            <svg class="w-7 h-7" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.53,12.9 20.18,13.18L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z"/>
+            </svg>
+            Google Play
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-stone-900 border-t border-stone-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div class="col-span-2 md:col-span-1">
+          <div class="flex items-center gap-2 mb-4">
+            <span class="material-icons-outlined text-green-400" style="font-size: 28px">local_florist</span>
+            <span class="text-xl font-bold text-white">Plant Care</span>
+          </div>
+          <p class="text-stone-400 text-sm">
+            당신의 식물을 스마트하게 관리하는 가장 쉬운 방법
+          </p>
+        </div>
+        <div>
+          <h4 class="font-semibold text-white mb-4">제품</h4>
+          <ul class="space-y-2">
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">기능</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">가격</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">다운로드</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold text-white mb-4">회사</h4>
+          <ul class="space-y-2">
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">소개</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">블로그</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">채용</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="font-semibold text-white mb-4">지원</h4>
+          <ul class="space-y-2">
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">도움말</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">문의하기</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">개인정보처리방침</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-stone-800 mt-10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+        <p class="text-stone-500 text-sm">
+          © 2025 Plant Care. All rights reserved.
+        </p>
+        <div class="flex items-center gap-4">
+          <a href="#" class="text-stone-400 hover:text-green-400 transition-colors">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg>
+          </a>
+          <a href="#" class="text-stone-400 hover:text-green-400 transition-colors">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+          </a>
+          <a href="#" class="text-stone-400 hover:text-green-400 transition-colors">
+            <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Form Handler Script -->
+  <script>
+    // Google Apps Script 웹 앱 URL
+    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwXIhOpb0zHsm4NT_gGBO224IT6p8pJUueSXZabLVoQxpSnz3AXr3WYe0HLCo6IMMpl/exec';
+
+    // Registration Form Handler
+    document.addEventListener('DOMContentLoaded', function() {
+      const form = document.getElementById('registrationForm');
+      const successMessage = document.getElementById('successMessage');
+
+      // Phone number auto-formatting
+      const phoneInput = document.getElementById('userPhone');
+      phoneInput.addEventListener('input', function(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 3 && value.length <= 7) {
+          value = value.slice(0, 3) + '-' + value.slice(3);
+        } else if (value.length > 7) {
+          value = value.slice(0, 3) + '-' + value.slice(3, 7) + '-' + value.slice(7, 11);
+        }
+        e.target.value = value;
+      });
+
+      form.addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const submitBtn = form.querySelector('button[type="submit"]');
+        const originalText = submitBtn.innerHTML;
+
+        // Loading state
+        submitBtn.disabled = true;
+        submitBtn.innerHTML = `
+          <svg class="animate-spin h-5 w-5 mr-2" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4" fill="none"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+          처리 중...
+        `;
+
+        // Collect form data
+        const formData = {
+          name: document.getElementById('userName').value,
+          email: document.getElementById('userEmail').value,
+          phone: document.getElementById('userPhone').value
+        };
+
+        try {
+          // Google Apps Script로 데이터 전송
+          const response = await fetch(GOOGLE_SCRIPT_URL, {
+            method: 'POST',
+            mode: 'no-cors', // CORS 우회
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+          });
+
+          // no-cors 모드에서는 응답을 읽을 수 없으므로 성공으로 처리
+          // Show success message
+          form.classList.add('hidden');
+          successMessage.classList.remove('hidden');
+
+          console.log('Registration sent:', formData);
+
+        } catch (error) {
+          console.error('Error saving registration:', error);
+          alert('등록 중 오류가 발생했습니다. 다시 시도해주세요.');
+          submitBtn.disabled = false;
+          submitBtn.innerHTML = originalText;
+        }
+      });
+    });
+  </script>
+
+  <!-- Shader Animation Script -->
+  <script>
+    (function() {
+      const container = document.getElementById('shader-container');
+      if (!container) return;
+
+      // Vertex shader
+      const vertexShader = `
+        void main() {
+          gl_Position = vec4( position, 1.0 );
+        }
+      `;
+
+      // Fragment shader
+      const fragmentShader = `
+        #define TWO_PI 6.2831853072
+        #define PI 3.14159265359
+
+        precision highp float;
+        uniform vec2 resolution;
+        uniform float time;
+
+        void main(void) {
+          vec2 uv = (gl_FragCoord.xy * 2.0 - resolution.xy) / min(resolution.x, resolution.y);
+          float t = time*0.05;
+          float lineWidth = 0.002;
+
+          vec3 color = vec3(0.0);
+          for(int j = 0; j < 3; j++){
+            for(int i=0; i < 5; i++){
+              color[j] += lineWidth*float(i*i) / abs(fract(t - 0.01*float(j)+float(i)*0.01)*5.0 - length(uv) + mod(uv.x+uv.y, 0.2));
+            }
+          }
+
+          gl_FragColor = vec4(color[0],color[1],color[2],1.0);
+        }
+      `;
+
+      // Initialize Three.js scene
+      const camera = new THREE.Camera();
+      camera.position.z = 1;
+
+      const scene = new THREE.Scene();
+      const geometry = new THREE.PlaneGeometry(2, 2);
+
+      const uniforms = {
+        time: { type: "f", value: 1.0 },
+        resolution: { type: "v2", value: new THREE.Vector2() },
+      };
+
+      const material = new THREE.ShaderMaterial({
+        uniforms: uniforms,
+        vertexShader: vertexShader,
+        fragmentShader: fragmentShader,
+      });
+
+      const mesh = new THREE.Mesh(geometry, material);
+      scene.add(mesh);
+
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setPixelRatio(window.devicePixelRatio);
+
+      container.appendChild(renderer.domElement);
+
+      // Handle window resize
+      function onWindowResize() {
+        const width = container.clientWidth;
+        const height = container.clientHeight;
+        renderer.setSize(width, height);
+        uniforms.resolution.value.x = renderer.domElement.width;
+        uniforms.resolution.value.y = renderer.domElement.height;
+      }
+
+      // Initial resize
+      onWindowResize();
+      window.addEventListener("resize", onWindowResize, false);
+
+      // Animation loop
+      function animate() {
+        requestAnimationFrame(animate);
+        uniforms.time.value += 0.05;
+        renderer.render(scene, camera);
+      }
+
+      // Start animation
+      animate();
+    })();
+  </script>
+
+</body>
+</html>

@@ -57,6 +57,13 @@
     html {
       scroll-behavior: smooth;
     }
+    .line-clamp-2 {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
     .gradient-bg {
       background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 50%, #bbf7d0 100%);
     }
@@ -88,6 +95,7 @@
         </div>
         <div class="hidden md:flex items-center gap-8">
           <a href="#features" class="text-white/80 hover:text-green-400 transition-colors font-medium">기능</a>
+          <a href="#news" class="text-white/80 hover:text-green-400 transition-colors font-medium">뉴스</a>
           <a href="#how-it-works" class="text-white/80 hover:text-green-400 transition-colors font-medium">사용방법</a>
           <a href="#testimonials" class="text-white/80 hover:text-green-400 transition-colors font-medium">후기</a>
           <a href="#pricing" class="text-white/80 hover:text-green-400 transition-colors font-medium">가격</a>
@@ -235,8 +243,47 @@
     </div>
   </section>
 
+  <!-- News Section -->
+  <section id="news" class="py-20 lg:py-28 bg-stone-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">식물 관리 뉴스</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto">
+          최신 식물 관리 트렌드와 유용한 정보를 확인하세요
+        </p>
+        <p id="news-update-time" class="text-sm text-stone-400 mt-2"></p>
+      </div>
+
+      <!-- News Grid -->
+      <div id="news-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- News cards will be dynamically inserted here -->
+        <div class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow animate-pulse">
+          <div class="h-48 bg-stone-200"></div>
+          <div class="p-5">
+            <div class="h-4 bg-stone-200 rounded mb-3"></div>
+            <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+          </div>
+        </div>
+        <div class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow animate-pulse">
+          <div class="h-48 bg-stone-200"></div>
+          <div class="p-5">
+            <div class="h-4 bg-stone-200 rounded mb-3"></div>
+            <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+          </div>
+        </div>
+        <div class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-shadow animate-pulse">
+          <div class="h-48 bg-stone-200"></div>
+          <div class="p-5">
+            <div class="h-4 bg-stone-200 rounded mb-3"></div>
+            <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- How It Works Section -->
-  <section id="how-it-works" class="py-20 lg:py-28 bg-stone-50">
+  <section id="how-it-works" class="py-20 lg:py-28 bg-stone-100">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">간단한 3단계로 시작하세요</h2>
@@ -673,7 +720,7 @@
   <!-- Form Handler Script -->
   <script>
     // Google Apps Script 웹 앱 URL
-    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwXIhOpb0zHsm4NT_gGBO224IT6p8pJUueSXZabLVoQxpSnz3AXr3WYe0HLCo6IMMpl/exec';
+    const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxZoMP_QgN5RefZnAdMTlHnP96aQnhXgPBUBZVpoWf6le5i4mVxjlJmYLznjDBugcks/exec';
 
     // Registration Form Handler
     document.addEventListener('DOMContentLoaded', function() {
@@ -829,6 +876,324 @@
 
       // Start animation
       animate();
+    })();
+  </script>
+
+  <!-- News Loading Script -->
+  <script>
+    (function() {
+      async function loadNews() {
+        try {
+          const response = await fetch('./news-data.json');
+          const data = await response.json();
+
+          const newsGrid = document.getElementById('news-grid');
+          const updateTime = document.getElementById('news-update-time');
+
+          if (data.articles && data.articles.length > 0) {
+            // Display articles (max 9)
+            const articlesToShow = data.articles.slice(0, data.displayCount || 9);
+
+            newsGrid.innerHTML = articlesToShow.map(article => `
+              <a href="${article.link}" target="_blank" rel="noopener noreferrer"
+                 class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all hover:-translate-y-1 group">
+                <div class="relative h-48 overflow-hidden bg-stone-200">
+                  <img src="${article.thumbnail}"
+                       alt="${article.title}"
+                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                       onerror="this.src='/logo.png'; this.classList.add('p-8', 'object-contain');"
+                       loading="lazy"/>
+                  <div class="absolute top-3 left-3">
+                    <span class="bg-green-500 text-white text-xs font-semibold px-2 py-1 rounded">${article.press || '뉴스'}</span>
+                  </div>
+                </div>
+                <div class="p-5">
+                  <h3 class="font-bold text-stone-900 mb-2 line-clamp-2 group-hover:text-green-600 transition-colors">
+                    ${article.title}
+                  </h3>
+                  <p class="text-sm text-stone-500 line-clamp-2">${article.description || ''}</p>
+                  <div class="flex items-center justify-between mt-3 pt-3 border-t border-stone-100">
+                    <span class="text-xs text-stone-400">${article.date || ''}</span>
+                    <span class="text-green-500 text-sm font-medium flex items-center gap-1 group-hover:gap-2 transition-all">
+                      자세히 보기
+                      <span class="material-icons-outlined" style="font-size: 16px">arrow_forward</span>
+                    </span>
+                  </div>
+                </div>
+              </a>
+            `).join('');
+
+            // Update time display
+            if (data.lastUpdatedKST) {
+              updateTime.textContent = `마지막 업데이트: ${data.lastUpdatedKST}`;
+            }
+          } else {
+            newsGrid.innerHTML = `
+              <div class="col-span-full text-center py-12 text-stone-500">
+                <span class="material-icons-outlined mb-4" style="font-size: 48px">article</span>
+                <p>뉴스를 불러오는 중입니다...</p>
+              </div>
+            `;
+          }
+        } catch (error) {
+          console.error('News loading error:', error);
+          document.getElementById('news-grid').innerHTML = `
+            <div class="col-span-full text-center py-12 text-stone-500">
+              <span class="material-icons-outlined mb-4" style="font-size: 48px">cloud_off</span>
+              <p>뉴스를 불러올 수 없습니다.</p>
+            </div>
+          `;
+        }
+      }
+
+      // Load news on page load
+      document.addEventListener('DOMContentLoaded', loadNews);
+    })();
+  </script>
+
+  <!-- Chatbot Widget -->
+  <div id="chatbot-container">
+    <!-- Chatbot Toggle Button -->
+    <button id="chatbot-toggle" class="fixed bottom-6 right-6 z-50 w-16 h-16 bg-green-500 hover:bg-green-600 text-white rounded-full shadow-lg hover:shadow-xl transition-all flex items-center justify-center">
+      <span id="chatbot-icon-open" class="material-icons-outlined" style="font-size: 32px">chat</span>
+      <span id="chatbot-icon-close" class="material-icons-outlined hidden" style="font-size: 32px">close</span>
+    </button>
+
+    <!-- Chatbot Window -->
+    <div id="chatbot-window" class="fixed bottom-24 right-6 z-50 w-96 max-w-[calc(100vw-2rem)] h-[500px] max-h-[calc(100vh-8rem)] bg-white rounded-2xl shadow-2xl flex flex-col overflow-hidden hidden">
+      <!-- Header -->
+      <div class="bg-gradient-to-r from-green-500 to-teal-500 text-white p-4 flex items-center gap-3">
+        <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+          <span class="material-icons-outlined" style="font-size: 24px">local_florist</span>
+        </div>
+        <div>
+          <h3 class="font-bold">Plant Care AI</h3>
+          <p class="text-xs text-green-100">식물 관리 전문 상담</p>
+        </div>
+      </div>
+
+      <!-- Messages Container -->
+      <div id="chatbot-messages" class="flex-1 overflow-y-auto p-4 space-y-4 bg-stone-50">
+        <!-- Welcome Message -->
+        <div class="flex gap-3">
+          <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+            <span class="material-icons-outlined text-white" style="font-size: 18px">local_florist</span>
+          </div>
+          <div class="bg-white rounded-2xl rounded-tl-none p-3 shadow-sm max-w-[80%]">
+            <p class="text-stone-700 text-sm">안녕하세요! 식물 관리 AI 도우미입니다. 🌱</p>
+            <p class="text-stone-700 text-sm mt-1">물 주기, 햇빛, 비료, 병충해 등 식물 관리에 관한 모든 질문에 답변해 드릴게요!</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Input Container -->
+      <div class="p-4 border-t border-stone-200 bg-white">
+        <form id="chatbot-form" class="flex gap-2">
+          <input
+            type="text"
+            id="chatbot-input"
+            placeholder="질문을 입력하세요..."
+            class="flex-1 px-4 py-3 bg-stone-100 border-0 rounded-xl text-stone-900 placeholder-stone-500 focus:outline-none focus:ring-2 focus:ring-green-500 transition-all"
+          />
+          <button
+            type="submit"
+            class="w-12 h-12 bg-green-500 hover:bg-green-600 text-white rounded-xl flex items-center justify-center transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            <span class="material-icons-outlined" style="font-size: 24px">send</span>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chatbot Script -->
+  <script>
+    (function() {
+      const GEMINI_API_KEY = 'AIzaSyCwt-QPipTk3xP6YJqVoLsK2rzG7XLHjNI';
+      const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
+
+      const toggleBtn = document.getElementById('chatbot-toggle');
+      const chatWindow = document.getElementById('chatbot-window');
+      const iconOpen = document.getElementById('chatbot-icon-open');
+      const iconClose = document.getElementById('chatbot-icon-close');
+      const messagesContainer = document.getElementById('chatbot-messages');
+      const chatForm = document.getElementById('chatbot-form');
+      const chatInput = document.getElementById('chatbot-input');
+
+      let isOpen = false;
+      let conversationHistory = [];
+      const sessionId = 'session-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+
+      // 대화 내용을 Google Sheets에 저장
+      async function saveChatToSheet(role, message) {
+        try {
+          await fetch(GOOGLE_SCRIPT_URL, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              type: 'chatbot',
+              sessionId: sessionId,
+              role: role,
+              message: message
+            })
+          });
+        } catch (error) {
+          console.error('Chat save error:', error);
+        }
+      }
+
+      // System prompt for plant care assistant
+      const systemPrompt = `당신은 친절하고 전문적인 식물 관리 AI 도우미입니다.
+다음 규칙을 따라주세요:
+1. 항상 한국어로 답변하세요.
+2. 식물 관리에 관한 질문(물 주기, 햇빛, 비료, 병충해, 분갈이 등)에 전문적으로 답변하세요.
+3. 답변은 간결하고 실용적으로 해주세요.
+4. 필요시 이모지를 적절히 사용하세요.
+5. 식물과 관련 없는 질문에도 친절하게 대응하되, 식물 관리 서비스임을 안내해주세요.
+6. "Plant Care" 앱을 추천하고 사전 등록을 권유하세요.`;
+
+      // Toggle chatbot window
+      toggleBtn.addEventListener('click', function() {
+        isOpen = !isOpen;
+        chatWindow.classList.toggle('hidden', !isOpen);
+        iconOpen.classList.toggle('hidden', isOpen);
+        iconClose.classList.toggle('hidden', !isOpen);
+
+        if (isOpen) {
+          chatInput.focus();
+        }
+      });
+
+      // Add message to chat
+      function addMessage(content, isUser = false) {
+        const messageDiv = document.createElement('div');
+        messageDiv.className = `flex gap-3 ${isUser ? 'flex-row-reverse' : ''}`;
+
+        const avatar = document.createElement('div');
+        avatar.className = `w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 ${isUser ? 'bg-stone-600' : 'bg-green-500'}`;
+        avatar.innerHTML = `<span class="material-icons-outlined text-white" style="font-size: 18px">${isUser ? 'person' : 'local_florist'}</span>`;
+
+        const bubble = document.createElement('div');
+        bubble.className = `${isUser ? 'bg-green-500 text-white rounded-2xl rounded-tr-none' : 'bg-white text-stone-700 rounded-2xl rounded-tl-none shadow-sm'} p-3 max-w-[80%]`;
+        bubble.innerHTML = `<p class="text-sm whitespace-pre-wrap">${content}</p>`;
+
+        messageDiv.appendChild(avatar);
+        messageDiv.appendChild(bubble);
+        messagesContainer.appendChild(messageDiv);
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+
+      // Add typing indicator
+      function addTypingIndicator() {
+        const typingDiv = document.createElement('div');
+        typingDiv.id = 'typing-indicator';
+        typingDiv.className = 'flex gap-3';
+        typingDiv.innerHTML = `
+          <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0">
+            <span class="material-icons-outlined text-white" style="font-size: 18px">local_florist</span>
+          </div>
+          <div class="bg-white rounded-2xl rounded-tl-none p-3 shadow-sm">
+            <div class="flex gap-1">
+              <span class="w-2 h-2 bg-stone-400 rounded-full animate-bounce" style="animation-delay: 0ms"></span>
+              <span class="w-2 h-2 bg-stone-400 rounded-full animate-bounce" style="animation-delay: 150ms"></span>
+              <span class="w-2 h-2 bg-stone-400 rounded-full animate-bounce" style="animation-delay: 300ms"></span>
+            </div>
+          </div>
+        `;
+        messagesContainer.appendChild(typingDiv);
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+
+      // Remove typing indicator
+      function removeTypingIndicator() {
+        const indicator = document.getElementById('typing-indicator');
+        if (indicator) indicator.remove();
+      }
+
+      // Send message to Gemini API
+      async function sendToGemini(userMessage) {
+        conversationHistory.push({
+          role: 'user',
+          parts: [{ text: userMessage }]
+        });
+
+        const requestBody = {
+          contents: [
+            {
+              role: 'user',
+              parts: [{ text: systemPrompt }]
+            },
+            ...conversationHistory
+          ],
+          generationConfig: {
+            temperature: 0.7,
+            topK: 40,
+            topP: 0.95,
+            maxOutputTokens: 1024,
+          }
+        };
+
+        try {
+          const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(requestBody)
+          });
+
+          if (!response.ok) {
+            throw new Error('API request failed');
+          }
+
+          const data = await response.json();
+          const assistantMessage = data.candidates[0].content.parts[0].text;
+
+          conversationHistory.push({
+            role: 'model',
+            parts: [{ text: assistantMessage }]
+          });
+
+          return assistantMessage;
+        } catch (error) {
+          console.error('Gemini API Error:', error);
+          return '죄송합니다. 일시적인 오류가 발생했습니다. 잠시 후 다시 시도해주세요. 🙏';
+        }
+      }
+
+      // Handle form submission
+      chatForm.addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const message = chatInput.value.trim();
+        if (!message) return;
+
+        // Clear input and disable
+        chatInput.value = '';
+        chatInput.disabled = true;
+        chatForm.querySelector('button').disabled = true;
+
+        // Add user message
+        addMessage(message, true);
+        saveChatToSheet('user', message);
+
+        // Show typing indicator
+        addTypingIndicator();
+
+        // Get response from Gemini
+        const response = await sendToGemini(message);
+
+        // Remove typing indicator and add response
+        removeTypingIndicator();
+        addMessage(response);
+        saveChatToSheet('assistant', response);
+
+        // Re-enable input
+        chatInput.disabled = false;
+        chatForm.querySelector('button').disabled = false;
+        chatInput.focus();
+      });
     })();
   </script>
 

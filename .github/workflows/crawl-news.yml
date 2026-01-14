@@ -1,0 +1,36 @@
+name: 뉴스 크롤링 자동화
+
+on:
+  schedule:
+    # 3시간마다 실행 (UTC 기준)
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Playwright 설치
+        run: |
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: 뉴스 크롤링 실행
+        run: node crawl-news.js
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add news-data.json
+          git diff --staged --quiet || git commit -m "자동 뉴스 업데이트 $(date +'%Y-%m-%d %H:%M KST')"
+          git push

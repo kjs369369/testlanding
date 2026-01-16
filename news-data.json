@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-01-16T09:22:08.570Z",
-  "lastUpdatedKST": "2026. 1. 16. 오후 6:22:08",
+  "lastUpdated": "2026-01-16T12:32:09.231Z",
+  "lastUpdatedKST": "2026. 1. 16. 오후 9:32:09",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "멸종위기종 수호자이자 파괴자, 두 얼굴의 나방",
-      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21063",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F16%2F8525.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스펭귄39분 전",
+      "title": "한방 난임치료, 난임 여성 절박함 이용한 위험한 정책",
+      "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=162974",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5088%2F2026%2F01%2F16%2F100506.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의협신문31분 전",
       "date": "2026. 1. 16.",
-      "description": "뉴스펭귄..."
+      "description": "의협신문..."
     },
     {
       "id": 2,
-      "title": "프로바이오틱스 업계 1위 hy \"특허 유산균으로 장(腸) 건강 지키세요\"",
-      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=260319",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5809%2F2026%2F01%2F16%2F74498.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스퀘스트59분 전",
+      "title": "백두대간수목원, 초롱꽃 등 5종 종자 휴면유형·발아조건 구명 성공",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=258779",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F01%2F16%2F146670.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "팍스경제TV2시간 전",
       "date": "2026. 1. 16.",
-      "description": "뉴스퀘스트..."
+      "description": "팍스경제TV..."
     },
     {
       "id": 3,
-      "title": "인도 뒤흔든 '코끼리 살인'...2800명 목숨 잃은 이유는?",
-      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21061",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F16%2F8523.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스펭귄1시간 전",
+      "title": "'서울어린이대공원 식물원' 기간제 3명 채용…연 2000만원 이상 보수 제...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=37574",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5859%2F2026%2F01%2F16%2F15009.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "퍼블릭타임스3시간 전",
+      "date": "2026. 1. 16.",
+      "description": "퍼블릭타임스..."
+    },
+    {
+      "id": 4,
+      "title": "[브리프]배스킨라빈스 던킨 파리바게뜨 풀무원 남양유업 이디야",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=347426",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F01%2F16%2F176414.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "비즈트리뷴3시간 전",
+      "date": "2026. 1. 16.",
+      "description": "비즈트리뷴..."
+    },
+    {
+      "id": 5,
+      "title": "멸종위기종 수호자이자 파괴자, 두 얼굴의 나방",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21063",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F16%2F8525.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄3시간 전",
       "date": "2026. 1. 16.",
       "description": "뉴스펭귄..."
     },
     {
-      "id": 4,
-      "title": "오브네쥬 앙퓨제 앰플 출시…피부 보습·장벽 강화·회복에 초점",
-      "link": "https://mdtoday.co.kr/news/view/1065595737525669",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F01%2F16%2F286018.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메디컬투데이2시간 전",
-      "date": "2026. 1. 16.",
-      "description": "메디컬투데이..."
-    },
-    {
-      "id": 5,
-      "title": "전남해양수산과학원, '햇바디2호' 신품종 등록 출원",
-      "link": "http://www.newstnt.com/news/articleView.html?idxno=577077",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5788%2F2026%2F01%2F16%2F193277.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스티앤티2시간 전",
-      "date": "2026. 1. 16.",
-      "description": "뉴스티앤티..."
-    },
-    {
       "id": 6,
-      "title": "멸종 위기 '조도만두나무'... 수분·가해 곤충 첫 규명",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=51576",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5692%2F2026%2F01%2F16%2F41437.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스후플러스2시간 전",
+      "title": "프로바이오틱스 업계 1위 hy \"특허 유산균으로 장(腸) 건강 지키세요\"",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=260319",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5809%2F2026%2F01%2F16%2F74498.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스퀘스트4시간 전",
       "date": "2026. 1. 16.",
-      "description": "뉴스후플러스..."
+      "description": "뉴스퀘스트..."
     },
     {
       "id": 7,
       "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
       "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "/logo.png",
-      "press": "패션비즈5분 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5088%2F2024%2F05%2F31%2Flogo_5088_18_20240531133753.png&type=f54_54&expire=24&refresh=true",
+      "press": "의협신문31분 전",
       "date": "2026. 1. 16.",
-      "description": "패션비즈..."
+      "description": "의협신문..."
     },
     {
       "id": 8,
+      "title": "인도 뒤흔든 '코끼리 살인'...2800명 목숨 잃은 이유는?",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21061",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F16%2F8523.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄4시간 전",
+      "date": "2026. 1. 16.",
+      "description": "뉴스펭귄..."
+    },
+    {
+      "id": 9,
+      "title": "오브네쥬 앙퓨제 앰플 출시…피부 보습·장벽 강화·회복에 초점",
+      "link": "https://mdtoday.co.kr/news/view/1065595737525669",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F01%2F16%2F286018.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디컬투데이5시간 전",
+      "date": "2026. 1. 16.",
+      "description": "메디컬투데이..."
+    },
+    {
+      "id": 10,
+      "title": "전남해양수산과학원, '햇바디2호' 신품종 등록 출원",
+      "link": "http://www.newstnt.com/news/articleView.html?idxno=577077",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5788%2F2026%2F01%2F16%2F193277.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스티앤티5시간 전",
+      "date": "2026. 1. 16.",
+      "description": "뉴스티앤티..."
+    },
+    {
+      "id": 11,
+      "title": "멸종 위기 '조도만두나무'... 수분·가해 곤충 첫 규명",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=51576",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5692%2F2026%2F01%2F16%2F41437.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스후플러스5시간 전",
+      "date": "2026. 1. 16.",
+      "description": "뉴스후플러스..."
+    },
+    {
+      "id": 12,
       "title": "2026 태안국제원예치유박람회 D-100…전시·운영 구성 확정",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22268",
-      "thumbnail": "/logo.png",
-      "press": "환경과조경2시간 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5849%2F2024%2F05%2F30%2Flogo_5849_18_20240530184805.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경6시간 전",
       "date": "2026. 1. 16.",
       "description": "환경과조경..."
     },
     {
-      "id": 9,
+      "id": 13,
       "title": "한과부터 건강식품까지…설 명절 앞두고 위생관리 강화",
       "link": "http://www.dailypop.kr/news/articleView.html?idxno=95388",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5516%2F2026%2F01%2F16%2F50445.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "데일리팝3시간 전",
+      "press": "데일리팝6시간 전",
       "date": "2026. 1. 16.",
       "description": "데일리팝..."
     },
     {
-      "id": 10,
+      "id": 14,
       "title": "서울 하늘공원 ‘억새물결’, 이른 봄까지 볼 수 있다",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22269",
-      "thumbnail": "/logo.png",
-      "press": "환경과조경3시간 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5849%2F2024%2F05%2F30%2Flogo_5849_18_20240530184805.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경6시간 전",
       "date": "2026. 1. 16.",
       "description": "환경과조경..."
     },
     {
-      "id": 11,
+      "id": 15,
       "title": "양주 가볼 만한 곳, 민속의 숨결과 자연의 고요가 어우러진 공간",
       "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=519621",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F01%2F16%2F372144.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "스타데일리뉴스3시간 전",
+      "press": "스타데일리뉴스6시간 전",
       "date": "2026. 1. 16.",
       "description": "스타데일리뉴스..."
     },
     {
-      "id": 12,
+      "id": 16,
       "title": "[뉴스락 특별기획] '무관세·저출산' 파고 속 유업계, 생존 방향키를 돌...",
       "link": "http://www.newslock.co.kr/news/articleView.html?idxno=123239",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5779%2F2026%2F01%2F16%2F75875.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스락3시간 전",
+      "press": "뉴스락6시간 전",
       "date": "2026. 1. 16.",
       "description": "뉴스락..."
     },
     {
-      "id": 13,
+      "id": 17,
       "title": "공무원연맹의 새로운 3년, \"'정치력' 강점 살려 실질적 성과 낼 것\"",
       "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=40164",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5495%2F2026%2F01%2F16%2F23412.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "참여와혁신3시간 전",
+      "press": "참여와혁신7시간 전",
       "date": "2026. 1. 16.",
       "description": "참여와혁신..."
     },
     {
-      "id": 14,
+      "id": 18,
       "title": "김제시의회, 새만금 기본계획 재수립 규탄…임실군, 임실엉겅퀴 K-기능...",
       "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=179613",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5370%2F2026%2F01%2F16%2F127293.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "시사오늘4시간 전",
+      "press": "시사오늘7시간 전",
       "date": "2026. 1. 16.",
       "description": "시사오늘..."
     },
     {
-      "id": 15,
+      "id": 19,
       "title": "태안국제원예치유박람회 개막 D-100일 앞두고 순항 중",
       "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=511817",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5279%2F2026%2F01%2F16%2F343616.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "일요서울4시간 전",
+      "press": "일요서울7시간 전",
       "date": "2026. 1. 16.",
       "description": "일요서울..."
     },
     {
-      "id": 16,
+      "id": 20,
       "title": "백두대간수목원, 초롱꽃과 종자 최적 발아조건 구명",
       "link": "http://amenews.kr/news/view.php?idx=65509",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5644%2F2026%2F01%2F16%2F28314.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "신소재경제신문5시간 전",
+      "press": "신소재경제신문8시간 전",
       "date": "2026. 1. 16.",
       "description": "신소재경제신문..."
     },
     {
-      "id": 17,
+      "id": 21,
       "title": "[유통가 레이더] 가정용 의료기기 시장 노리는 코웨이... 요실금 치료기...",
       "link": "https://www.greened.kr/news/articleView.html?idxno=335719",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F01%2F16%2F174846.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문5시간 전",
+      "press": "녹색경제신문9시간 전",
       "date": "2026. 1. 16.",
       "description": "녹색경제신문..."
     },
     {
-      "id": 18,
+      "id": 22,
       "title": "[약식동원] 혈관에 좋은 음식? 으뜸은 배아",
       "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=321339",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F01%2F16%2F199825.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "약업신문6시간 전",
+      "press": "약업신문9시간 전",
       "date": "2026. 1. 16.",
       "description": "약업신문..."
     },
     {
-      "id": 19,
+      "id": 23,
       "title": "[상주 24시] 상주시, '트렌드 튤립'으로 봄 경관 준비",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=359698",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F586%2F2026%2F01%2F16%2F120299.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "시사저널6시간 전네이버뉴스",
+      "press": "시사저널9시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "시사저널..."
     },
     {
-      "id": 20,
+      "id": 24,
       "title": "과수 화상병 방제는 전정 시 궤양증상 제거가 중요!",
       "link": "http://www.joongang.tv/news/articleView.html?idxno=195144",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5876%2F2026%2F01%2F16%2F20769.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙신문6시간 전",
+      "press": "중앙신문9시간 전",
       "date": "2026. 1. 16.",
       "description": "중앙신문..."
     },
     {
-      "id": 21,
+      "id": 25,
       "title": "전남 잇바디돌김 새 품종 '햇바디2호'로 생산 안정화",
       "link": "https://www.thereport.co.kr/news/articleView.html?idxno=82385",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5780%2F2026%2F01%2F16%2F50675.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더리포트7시간 전",
+      "press": "더리포트10시간 전",
       "date": "2026. 1. 16.",
       "description": "더리포트..."
     },
     {
-      "id": 22,
+      "id": 26,
       "title": "국립백두대간수목원, 초롱꽃 등 5개 종자 최적 발아조건 구명",
       "link": "http://www.fnnews.com/news/202601161053269388",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F01%2F16%2F5463948.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스7시간 전네이버뉴스",
+      "press": "파이낸셜뉴스10시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "파이낸셜뉴스..."
     },
     {
-      "id": 23,
+      "id": 27,
       "title": "전남해양수산과학원, ‘햇바디2호’ 신품종 등록 출원",
       "link": "https://www.cnbnews.com/news/article.html?no=773471",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5293%2F2026%2F01%2F16%2F494283.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "CNB뉴스7시간 전",
+      "press": "CNB뉴스10시간 전",
       "date": "2026. 1. 16.",
       "description": "CNB뉴스..."
     },
     {
-      "id": 24,
+      "id": 28,
       "title": "겨울철 온장 음료 수요 증가에 '침전물·탁함' 문의 잇따라…'보관 관리...",
       "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=748108",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5275%2F2026%2F01%2F16%2F97519.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "소비자가 만드는 신문7시간 전",
+      "press": "소비자가 만드는 신문10시간 전",
       "date": "2026. 1. 16.",
       "description": "소비자가 만드는 신문..."
     },
     {
-      "id": 25,
+      "id": 29,
       "title": "속초시, 2026 현안사업 점검회의 개최... “민선 8기 성과 완성 총력”",
       "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2178539",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5364%2F2026%2F01%2F16%2F1148321.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "신아일보7시간 전",
+      "press": "신아일보10시간 전",
       "date": "2026. 1. 16.",
       "description": "신아일보..."
     },
     {
-      "id": 26,
+      "id": 30,
       "title": "▲ 시험어장 전경 전라남도해양수산과학원은 2021년부터 개발한 잇바디돌김 계통 신품종 '햇바디2호' 개발을 완료하고, 올해 국립수산식물품종관리센터에 신품종 등록을 출원할 예정이다.",
       "link": "http://www.siminsori.com/news/articleView.html?idxno=308910",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F01%2F16%2F52406.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민의소리7시간 전",
+      "press": "시민의소리10시간 전",
       "date": "2026. 1. 16.",
       "description": "시민의소리..."
     },
     {
-      "id": 27,
+      "id": 31,
       "title": "잇바디돌김 개량…성장 빠르고 생산성 향상 기대 햇바디2호 시험어장 = 전남도 제공 전라남도해양수산과학원은 2021년부터 개발한 잇바디돌김(일명 곱창김) 계통 신품종 ‘햇바디2호’ ",
       "link": "https://www.sportsseoul.com/news/read/1578824?ref=naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F468%2F2026%2F01%2F16%2F1210043.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스포츠서울7시간 전네이버뉴스",
+      "press": "스포츠서울10시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "스포츠서울..."
     },
     {
-      "id": 28,
+      "id": 32,
       "title": "국립수목원, 조도만두나무 수분매개 나방과 종자해충 바구미 동시 발견",
       "link": "https://idsn.co.kr/news/view/1065573172757755",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5812%2F2026%2F01%2F16%2F121214.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일안전신문7시간 전",
+      "press": "매일안전신문11시간 전",
       "date": "2026. 1. 16.",
       "description": "매일안전신문..."
     },
     {
-      "id": 29,
+      "id": 33,
       "title": "전남해양수산과학원, 곱창김 계통 '햇바디2호' 개발...신품종 등록 출원",
       "link": "http://www.fnnews.com/news/202601161009270537",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F01%2F16%2F5463905.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스8시간 전네이버뉴스",
+      "press": "파이낸셜뉴스11시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "파이낸셜뉴스..."
     },
     {
-      "id": 30,
+      "id": 34,
       "title": "전남해양수산과학원, ‘햇바디2호’ 신품종 김 등록 출원",
       "link": "https://www.seoul.co.kr/news/publicnews/2026/01/16/20260116500050?wlog_tag3=naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F01%2F16%2F3609322.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "서울신문8시간 전네이버뉴스",
+      "press": "서울신문11시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "서울신문..."
     },
     {
-      "id": 31,
+      "id": 35,
       "title": "6년 연속 선택받은 배경은 품질… 삼육식품, 특수영양식품 시장 입지 굳...",
       "link": "http://www.fnnews.com/news/202601151729079936",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F01%2F16%2F5463888.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스8시간 전네이버뉴스",
+      "press": "파이낸셜뉴스11시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "파이낸셜뉴스..."
     },
     {
-      "id": 32,
+      "id": 36,
       "title": "소비자가 증명한 브랜드 가치… 삼육식품, 특수영양식품 시장서 연속 수...",
       "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=52658",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5860%2F2026%2F01%2F16%2F31307.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스로드8시간 전",
+      "press": "뉴스로드11시간 전",
       "date": "2026. 1. 16.",
       "description": "뉴스로드..."
     },
     {
-      "id": 33,
+      "id": 37,
       "title": "전남 토종 곱창김 신품종 '햇바디2호' 개발 완료",
       "link": "http://www.m-i.kr/news/articleView.html?idxno=1326136",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F01%2F16%2F834212.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보8시간 전",
+      "press": "매일일보11시간 전",
       "date": "2026. 1. 16.",
       "description": "매일일보..."
     },
     {
-      "id": 34,
+      "id": 38,
       "title": "전라남도해양수산과학원은 2021년부터 개발한 잇바디돌김(일명 곱창김) 계통 신품종 '햇바디2호' 개발을 완료하고, 올해 국립수산식물품종관리센터에 신품종 등록을 출원할 예정이다. 햇",
       "link": "http://www.suhyupnews.co.kr/news/articleView.html?idxno=34072",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5565%2F2026%2F01%2F16%2F11994.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "어업IN수산8시간 전",
+      "press": "어업IN수산11시간 전",
       "date": "2026. 1. 16.",
       "description": "어업IN수산..."
     },
     {
-      "id": 35,
+      "id": 39,
       "title": "\"정치의 뿌리는 '자비'…스스로 마음 돌보는 국회 만들 것\"",
       "link": "http://www.ibulgyo.com/news/articleView.html?idxno=434762",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5149%2F2026%2F01%2F16%2F67408.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "불교신문8시간 전",
+      "press": "불교신문11시간 전",
       "date": "2026. 1. 16.",
       "description": "불교신문..."
     },
     {
-      "id": 36,
+      "id": 40,
       "title": "전남해양수산과학원, '햇바디2호' 신품종 돌김 출원",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=809175",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F01%2F16%2F423610.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한스경제8시간 전",
+      "press": "한스경제12시간 전",
       "date": "2026. 1. 16.",
       "description": "한스경제..."
     },
     {
-      "id": 37,
+      "id": 41,
       "title": "여성 헬스케어의 방향을 바꾸다 - 제나셀 황지연 대표",
       "link": "https://www.handmk.com/news/articleView.html?idxno=35368",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5851%2F2026%2F01%2F16%2F19498.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "핸드메이커8시간 전",
+      "press": "핸드메이커12시간 전",
       "date": "2026. 1. 16.",
       "description": "핸드메이커..."
     },
     {
-      "id": 38,
+      "id": 42,
       "title": "남원시, '남원형 퀵스타트사업' 개편 운영 [글로컬소속]",
       "link": "http://www.jmbc.co.kr/news/view/61541",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F659%2F2026%2F01%2F16%2F40491.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전주MBC9시간 전네이버뉴스",
+      "press": "전주MBC12시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "전주MBC..."
     },
     {
-      "id": 39,
-      "title": "전남해양수산과학원은 2021년부터 개발해 온 잇바디돌김 계통 신품종 '햇바디2호'의 개발을 완료하고, 올해 국립수산식물품종관리센터에 품종 등록을 출원할 계획이라고 밝혔다. 햇바디2",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4062401",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5019%2F2026%2F01%2F16%2F470441.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "BBS NEWS9시간 전",
-      "date": "2026. 1. 16.",
-      "description": "BBS NEWS..."
-    },
-    {
-      "id": 40,
+      "id": 43,
       "title": "이번 주말엔 꼭 먹어볼까? 하루 한 줌 '당근'이 주는 변화",
       "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=132749",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5827%2F2026%2F01%2F16%2F122285.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "스마트에프엔9시간 전",
+      "press": "스마트에프엔12시간 전",
       "date": "2026. 1. 16.",
       "description": "스마트에프엔..."
     },
     {
-      "id": 41,
+      "id": 44,
       "title": "태안국제원예치유박람회조직위, \"태안국제원예치유박람회, D-100일 순항...",
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7145454",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5723%2F2026%2F01%2F16%2F43537.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "주간한국9시간 전",
+      "press": "주간한국12시간 전",
       "date": "2026. 1. 16.",
       "description": "주간한국..."
     },
     {
-      "id": 42,
+      "id": 45,
       "title": "전라남도 해양수산과학원은 2021년부터 개발한 잇바디돌김(일명 곱창김) 계통 신품종 '햇바디2호' 개발을 완료하고, 올해 국립수산식물품종관리센터에 신품종 등록을 출원할 예정이다. ",
       "link": "https://www.nocutnews.co.kr/news/6457234?utm_source=naver&utm_medium=article&utm_campaign=20260116084720",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F079%2F2026%2F01%2F16%2F4105787.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "노컷뉴스9시간 전네이버뉴스",
+      "press": "노컷뉴스12시간 전네이버뉴스",
       "date": "2026. 1. 16.",
       "description": "노컷뉴스..."
     },
     {
-      "id": 43,
+      "id": 46,
       "title": "품질 관리와 제품 확장으로 신뢰 쌓은 삼육식품, 특수영양식품 시장 존...",
       "link": "https://www.getnews.co.kr/news/articleView.html?idxno=857148",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F01%2F16%2F471592.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "글로벌경제9시간 전",
+      "press": "글로벌경제12시간 전",
       "date": "2026. 1. 16.",
       "description": "글로벌경제..."
     },
     {
-      "id": 44,
+      "id": 47,
       "title": "호르몬 다이어트 리포트 ②",
       "link": "http://woman.chosun.com/news/articleView.html?idxno=124395",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5238%2F2026%2F01%2F16%2F52697.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "여성조선10시간 전",
+      "press": "여성조선13시간 전",
       "date": "2026. 1. 16.",
       "description": "여성조선..."
     },
     {
-      "id": 45,
+      "id": 48,
       "title": "작물보호·영양관리 솔루션 ‘더한농’",
       "link": "https://www.newsam.co.kr/news/article.html?no=41935",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5720%2F2024%2F05%2F31%2Flogo_5720_18_20240531141954.png&type=f54_54&expire=24&refresh=true",
-      "press": "농기자재신문10시간 전",
+      "press": "농기자재신문13시간 전",
       "date": "2026. 1. 16.",
       "description": "농기자재신문..."
-    },
-    {
-      "id": 46,
-      "title": "한번 감염되면 큰 피해를 입는 ‘과수 화상병’",
-      "link": "https://www.newsam.co.kr/news/article.html?no=41926",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F01%2F16%2F28000.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "농기자재신문11시간 전",
-      "date": "2026. 1. 16.",
-      "description": "농기자재신문..."
-    },
-    {
-      "id": 47,
-      "title": "2026년 농업분야 달라지는 주요 제도",
-      "link": "https://www.newsam.co.kr/news/article.html?no=41924",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F01%2F16%2F27999.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "농기자재신문17시간 전",
-      "date": "2026. 1. 16.",
-      "description": "농기자재신문..."
-    },
-    {
-      "id": 48,
-      "title": "[판다, 광주에 올까] '국가거점동물원' 우치 현주소",
-      "link": "http://www.gjdream.com/news/articleView.html?idxno=666128",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5237%2F2026%2F01%2F16%2F109046.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "드림투데이18시간 전",
-      "date": "2026. 1. 16.",
-      "description": "드림투데이..."
     },
     {
       "id": 49,
-      "title": "푸릇푸릇, 여기 겨울 맞나요? [여행]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01082406645318376",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F01%2F16%2F6201659.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이데일리A22면 TOP18시간 전네이버뉴스",
+      "title": "한번 감염되면 큰 피해를 입는 ‘과수 화상병’",
+      "link": "https://www.newsam.co.kr/news/article.html?no=41926",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F01%2F16%2F28000.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "농기자재신문14시간 전",
       "date": "2026. 1. 16.",
-      "description": "이데일리..."
+      "description": "농기자재신문..."
     },
     {
       "id": 50,
-      "title": "상주시, 트렌드 튤립으로 도시경관 가꿔",
-      "link": "https://www.ksmnews.co.kr/news/view.php?idx=585819",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F01%2F15%2F459539.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경상매일신문22시간 전",
+      "title": "2026년 농업분야 달라지는 주요 제도",
+      "link": "https://www.newsam.co.kr/news/article.html?no=41924",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F01%2F16%2F27999.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "농기자재신문21시간 전",
       "date": "2026. 1. 16.",
-      "description": "경상매일신문..."
+      "description": "농기자재신문..."
     }
   ]
 }

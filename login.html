@@ -204,8 +204,9 @@
       const result = await signInWithGoogle();
 
       if (result.success) {
-        showLoginSuccess(result.user);
         saveUserToLocalStorage(result.user);
+        // 로그인 성공 시 메인페이지로 이동
+        window.location.href = 'index.html';
       } else {
         alert(result.error);
         btn.disabled = false;
@@ -242,8 +243,9 @@
       const result = await signInWithEmail(email, password);
 
       if (result.success) {
-        showLoginSuccess(result.user);
         saveUserToLocalStorage(result.user);
+        // 로그인 성공 시 메인페이지로 이동
+        window.location.href = 'index.html';
       } else {
         alert(result.error);
       }
@@ -264,7 +266,7 @@
       // Firebase 초기화
       initializeFirebase();
 
-      // 이미 로그인된 사용자 확인
+      // 이미 로그인된 사용자 확인 - 메인페이지로 이동
       onAuthStateChanged((user) => {
         if (user) {
           const userData = {
@@ -273,8 +275,9 @@
             email: user.email,
             picture: user.photoURL
           };
-          showLoginSuccess(userData);
           saveUserToLocalStorage(userData);
+          // 이미 로그인된 경우 메인페이지로 이동
+          window.location.href = 'index.html';
         }
       });
 

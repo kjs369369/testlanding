@@ -266,7 +266,7 @@
       // Firebase 초기화
       initializeFirebase();
 
-      // 이미 로그인된 사용자 확인 - 메인페이지로 이동
+      // 이미 로그인된 사용자 확인 - 마이페이지로 이동
       onAuthStateChanged((user) => {
         if (user) {
           const userData = {
@@ -276,8 +276,8 @@
             picture: user.photoURL
           };
           saveUserToLocalStorage(userData);
-          // 이미 로그인된 경우 메인페이지로 이동
-          window.location.href = 'index.html';
+          // 이미 로그인된 경우 마이페이지로 이동
+          window.location.href = 'mypage.html';
         }
       });
 

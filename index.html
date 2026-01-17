@@ -37,6 +37,12 @@
   <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet"/>
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-storage-compat.js"></script>
+  <script src="firebase-config.js"></script>
   <style>
     .material-icons-outlined {
       font-weight: normal;
@@ -97,7 +103,7 @@
           <a href="#features" class="text-white/80 hover:text-green-400 transition-colors font-medium">기능</a>
           <a href="#news" class="text-white/80 hover:text-green-400 transition-colors font-medium">뉴스</a>
           <a href="#how-it-works" class="text-white/80 hover:text-green-400 transition-colors font-medium">사용방법</a>
-          <a href="#testimonials" class="text-white/80 hover:text-green-400 transition-colors font-medium">후기</a>
+          <a href="#real-reviews" class="text-white/80 hover:text-green-400 transition-colors font-medium">리뷰</a>
           <a href="#pricing" class="text-white/80 hover:text-green-400 transition-colors font-medium">가격</a>
         </div>
         <div class="flex items-center gap-4">
@@ -372,6 +378,62 @@
                alt="App Dashboard"
                class="relative rounded-2xl shadow-2xl w-full"/>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Real User Reviews Section (Firebase) -->
+  <section id="real-reviews" class="py-20 lg:py-28 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">실제 사용자 리뷰</h2>
+        <p class="text-lg text-stone-600 max-w-2xl mx-auto mb-6">
+          프로 플랜을 사용하는 고객들의 생생한 후기
+        </p>
+        <!-- 평균 별점 표시 -->
+        <div id="reviewSummary" class="inline-flex items-center gap-4 bg-gradient-to-r from-green-50 to-teal-50 px-8 py-4 rounded-2xl">
+          <div class="flex items-center gap-2">
+            <span class="text-4xl font-bold text-green-600" id="averageRating">-</span>
+            <div>
+              <div id="averageStars" class="flex items-center gap-0.5 text-yellow-500">
+                <span class="material-icons-outlined" style="font-size: 20px">star_border</span>
+                <span class="material-icons-outlined" style="font-size: 20px">star_border</span>
+                <span class="material-icons-outlined" style="font-size: 20px">star_border</span>
+                <span class="material-icons-outlined" style="font-size: 20px">star_border</span>
+                <span class="material-icons-outlined" style="font-size: 20px">star_border</span>
+              </div>
+              <p class="text-sm text-stone-500"><span id="totalReviewCount">0</span>개의 리뷰</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 리뷰 카드 그리드 -->
+      <div id="realReviewsGrid" class="grid md:grid-cols-3 gap-6">
+        <!-- 로딩 상태 -->
+        <div class="bg-stone-100 rounded-2xl p-6 animate-pulse">
+          <div class="h-4 bg-stone-200 rounded w-24 mb-4"></div>
+          <div class="h-4 bg-stone-200 rounded w-full mb-2"></div>
+          <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+        </div>
+        <div class="bg-stone-100 rounded-2xl p-6 animate-pulse">
+          <div class="h-4 bg-stone-200 rounded w-24 mb-4"></div>
+          <div class="h-4 bg-stone-200 rounded w-full mb-2"></div>
+          <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+        </div>
+        <div class="bg-stone-100 rounded-2xl p-6 animate-pulse">
+          <div class="h-4 bg-stone-200 rounded w-24 mb-4"></div>
+          <div class="h-4 bg-stone-200 rounded w-full mb-2"></div>
+          <div class="h-4 bg-stone-200 rounded w-3/4"></div>
+        </div>
+      </div>
+
+      <!-- 더보기 버튼 -->
+      <div class="text-center mt-10">
+        <a href="pricing-pro.html#reviews" class="inline-flex items-center gap-2 bg-gradient-to-r from-green-500 to-teal-500 hover:from-green-600 hover:to-teal-600 text-white px-8 py-4 rounded-xl font-semibold transition-all shadow-md hover:shadow-lg">
+          <span class="material-icons-outlined">rate_review</span>
+          모든 리뷰 보기
+        </a>
       </div>
     </div>
   </section>
@@ -663,44 +725,64 @@
   <!-- Footer -->
   <footer class="bg-stone-900 border-t border-stone-800">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
-        <div class="col-span-2 md:col-span-1">
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-8">
+        <div class="col-span-2">
           <div class="flex items-center gap-2 mb-4">
             <span class="material-icons-outlined text-green-400" style="font-size: 28px">local_florist</span>
             <span class="text-xl font-bold text-white">Plant Care</span>
           </div>
-          <p class="text-stone-400 text-sm">
+          <p class="text-stone-400 text-sm mb-4">
             당신의 식물을 스마트하게 관리하는 가장 쉬운 방법
           </p>
+          <!-- 회사 정보 -->
+          <div class="text-stone-500 text-sm space-y-1">
+            <p><span class="text-stone-400">AICLab</span> 대표 김진수</p>
+            <p class="flex items-center gap-1">
+              <span class="material-icons-outlined" style="font-size: 14px">phone</span>
+              010-8921-9536
+            </p>
+            <p class="flex items-center gap-1">
+              <span class="material-icons-outlined" style="font-size: 14px">email</span>
+              <a href="mailto:info@aiclab2020.com" class="hover:text-green-400 transition-colors">info@aiclab2020.com</a>
+            </p>
+            <p class="flex items-start gap-1">
+              <span class="material-icons-outlined" style="font-size: 14px">location_on</span>
+              서울특별시 서초구 서초중앙로2길 35 (서초동)
+            </p>
+            <p class="flex items-center gap-1">
+              <span class="material-icons-outlined" style="font-size: 14px">language</span>
+              <a href="https://aiclab2020.com" target="_blank" class="hover:text-green-400 transition-colors">aiclab2020.com</a>
+            </p>
+          </div>
         </div>
         <div>
           <h4 class="font-semibold text-white mb-4">제품</h4>
           <ul class="space-y-2">
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">기능</a></li>
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">가격</a></li>
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">다운로드</a></li>
+            <li><a href="#features" class="text-stone-400 hover:text-green-400 transition-colors text-sm">기능</a></li>
+            <li><a href="#pricing" class="text-stone-400 hover:text-green-400 transition-colors text-sm">가격</a></li>
+            <li><a href="#cta" class="text-stone-400 hover:text-green-400 transition-colors text-sm">다운로드</a></li>
           </ul>
         </div>
         <div>
-          <h4 class="font-semibold text-white mb-4">회사</h4>
+          <h4 class="font-semibold text-white mb-4">서비스</h4>
           <ul class="space-y-2">
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">소개</a></li>
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">블로그</a></li>
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">채용</a></li>
+            <li><a href="#real-reviews" class="text-stone-400 hover:text-green-400 transition-colors text-sm">리뷰</a></li>
+            <li><a href="#news" class="text-stone-400 hover:text-green-400 transition-colors text-sm">뉴스</a></li>
+            <li><a href="#how-it-works" class="text-stone-400 hover:text-green-400 transition-colors text-sm">사용방법</a></li>
           </ul>
         </div>
         <div>
           <h4 class="font-semibold text-white mb-4">지원</h4>
           <ul class="space-y-2">
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">도움말</a></li>
-            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">문의하기</a></li>
+            <li><a href="mailto:info@aiclab2020.com" class="text-stone-400 hover:text-green-400 transition-colors text-sm">문의하기</a></li>
             <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">개인정보처리방침</a></li>
+            <li><a href="#" class="text-stone-400 hover:text-green-400 transition-colors text-sm">이용약관</a></li>
           </ul>
         </div>
       </div>
       <div class="border-t border-stone-800 mt-10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
         <p class="text-stone-500 text-sm">
-          © 2025 Plant Care. All rights reserved.
+          © 2025 AICLab. All rights reserved.
         </p>
         <div class="flex items-center gap-4">
           <a href="#" class="text-stone-400 hover:text-green-400 transition-colors">
@@ -876,6 +958,123 @@
 
       // Start animation
       animate();
+    })();
+  </script>
+
+  <!-- Real Reviews Loading Script -->
+  <script>
+    (function() {
+      // Firebase 초기화 및 리뷰 로드
+      document.addEventListener('DOMContentLoaded', async function() {
+        // Firebase 초기화
+        if (typeof initializeFirebase === 'function') {
+          initializeFirebase();
+        }
+
+        // 리뷰 로드
+        await loadRealReviews();
+      });
+
+      async function loadRealReviews() {
+        try {
+          // firebase-config.js의 함수 사용
+          if (typeof getReviews !== 'function' || typeof getAverageRating !== 'function') {
+            console.warn('Firebase 함수를 찾을 수 없습니다.');
+            showNoReviews();
+            return;
+          }
+
+          // 리뷰 및 평균 별점 가져오기
+          const [reviews, ratingData] = await Promise.all([
+            getReviews('pro', 3),  // 최신 3개만
+            getAverageRating('pro')
+          ]);
+
+          // 평균 별점 표시
+          if (ratingData && ratingData.count > 0) {
+            document.getElementById('averageRating').textContent = ratingData.average.toFixed(1);
+            document.getElementById('totalReviewCount').textContent = ratingData.count;
+            renderStars('averageStars', ratingData.average);
+          }
+
+          // 리뷰 카드 표시
+          const grid = document.getElementById('realReviewsGrid');
+          if (reviews && reviews.length > 0) {
+            grid.innerHTML = reviews.map(review => createReviewCard(review)).join('');
+          } else {
+            showNoReviews();
+          }
+        } catch (error) {
+          console.error('리뷰 로드 오류:', error);
+          showNoReviews();
+        }
+      }
+
+      function renderStars(containerId, rating) {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+
+        const fullStars = Math.floor(rating);
+        const hasHalf = rating - fullStars >= 0.5;
+        let starsHtml = '';
+
+        for (let i = 0; i < 5; i++) {
+          if (i < fullStars) {
+            starsHtml += '<span class="material-icons-outlined" style="font-size: 20px">star</span>';
+          } else if (i === fullStars && hasHalf) {
+            starsHtml += '<span class="material-icons-outlined" style="font-size: 20px">star_half</span>';
+          } else {
+            starsHtml += '<span class="material-icons-outlined" style="font-size: 20px">star_border</span>';
+          }
+        }
+        container.innerHTML = starsHtml;
+      }
+
+      function createReviewCard(review) {
+        const date = review.createdAt?.toDate ? review.createdAt.toDate() : new Date(review.createdAt || Date.now());
+        const dateStr = date.toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
+
+        let starsHtml = '';
+        for (let i = 0; i < 5; i++) {
+          starsHtml += `<span class="material-icons-outlined" style="font-size: 18px">${i < review.rating ? 'star' : 'star_border'}</span>`;
+        }
+
+        const imageHtml = review.imageUrl ? `
+          <div class="mb-4">
+            <img src="${review.imageUrl}" alt="리뷰 이미지" class="w-full h-32 object-cover rounded-lg">
+          </div>
+        ` : '';
+
+        return `
+          <div class="bg-gradient-to-br from-stone-50 to-stone-100 rounded-2xl p-6 hover:shadow-lg transition-shadow">
+            ${imageHtml}
+            <div class="flex items-center gap-1 text-yellow-500 mb-3">
+              ${starsHtml}
+            </div>
+            <p class="text-stone-700 mb-4 line-clamp-3">"${review.content}"</p>
+            <div class="flex items-center gap-3 pt-4 border-t border-stone-200">
+              <div class="w-10 h-10 rounded-full bg-green-500 flex items-center justify-center text-white font-bold">
+                ${review.userName ? review.userName.charAt(0).toUpperCase() : 'U'}
+              </div>
+              <div>
+                <p class="font-semibold text-stone-900">${review.userName || '익명'}</p>
+                <p class="text-xs text-stone-500">${dateStr}</p>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+
+      function showNoReviews() {
+        const grid = document.getElementById('realReviewsGrid');
+        grid.innerHTML = `
+          <div class="col-span-full text-center py-12">
+            <span class="material-icons-outlined text-stone-300 mb-4" style="font-size: 64px">rate_review</span>
+            <p class="text-stone-500">아직 등록된 리뷰가 없습니다.</p>
+            <p class="text-stone-400 text-sm mt-2">프로 플랜을 사용하고 첫 번째 리뷰를 남겨보세요!</p>
+          </div>
+        `;
+      }
     })();
   </script>
 

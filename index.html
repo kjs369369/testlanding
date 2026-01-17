@@ -1248,13 +1248,50 @@
     <!-- Chatbot Window -->
     <div id="chatbot-window" class="fixed bottom-24 right-6 z-50 w-96 max-w-[calc(100vw-2rem)] h-[500px] max-h-[calc(100vh-8rem)] bg-white rounded-2xl shadow-2xl flex flex-col overflow-hidden hidden">
       <!-- Header -->
-      <div class="bg-gradient-to-r from-green-500 to-teal-500 text-white p-4 flex items-center gap-3">
-        <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
-          <span class="material-icons-outlined" style="font-size: 24px">local_florist</span>
+      <div class="bg-gradient-to-r from-green-500 to-teal-500 text-white p-4 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+            <span class="material-icons-outlined" style="font-size: 24px">local_florist</span>
+          </div>
+          <div>
+            <h3 class="font-bold">Plant Care AI</h3>
+            <p class="text-xs text-green-100">식물 관리 전문 상담</p>
+          </div>
         </div>
-        <div>
-          <h3 class="font-bold">Plant Care AI</h3>
-          <p class="text-xs text-green-100">식물 관리 전문 상담</p>
+        <button id="chatbot-settings-btn" class="w-8 h-8 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors" title="API 키 설정">
+          <span class="material-icons-outlined" style="font-size: 18px">settings</span>
+        </button>
+      </div>
+
+      <!-- API Key Settings Modal -->
+      <div id="api-key-modal" class="hidden absolute inset-0 bg-black/50 flex items-center justify-center z-10">
+        <div class="bg-white rounded-xl p-5 m-4 w-full max-w-sm shadow-xl">
+          <div class="flex items-center justify-between mb-4">
+            <h4 class="font-bold text-stone-900">Gemini API 키 설정</h4>
+            <button id="api-modal-close" class="text-stone-400 hover:text-stone-600">
+              <span class="material-icons-outlined" style="font-size: 20px">close</span>
+            </button>
+          </div>
+          <p class="text-sm text-stone-500 mb-4">
+            Google AI Studio에서 발급받은 Gemini API 키를 입력하세요.
+            <a href="https://aistudio.google.com/app/apikey" target="_blank" class="text-green-600 hover:underline">API 키 발급받기</a>
+          </p>
+          <div class="space-y-3">
+            <input
+              type="password"
+              id="api-key-input"
+              placeholder="AIza..."
+              class="w-full px-4 py-3 border border-stone-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent text-sm"
+            />
+            <div class="flex items-center gap-2">
+              <input type="checkbox" id="show-api-key" class="w-4 h-4 text-green-500 rounded">
+              <label for="show-api-key" class="text-sm text-stone-600">API 키 보기</label>
+            </div>
+            <div id="api-key-status" class="hidden text-sm p-2 rounded-lg"></div>
+            <button id="save-api-key" class="w-full bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl font-semibold transition-colors">
+              저장하기
+            </button>
+          </div>
         </div>
       </div>
 
@@ -1295,8 +1332,17 @@
   <!-- Chatbot Script -->
   <script>
     (function() {
-      const GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY'; // Vercel 환경변수에서 설정
-      const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
+      const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+      const API_KEY_STORAGE_KEY = 'plantcare_gemini_api_key';
+
+      // API 키 관리
+      function getApiKey() {
+        return localStorage.getItem(API_KEY_STORAGE_KEY) || '';
+      }
+
+      function setApiKey(key) {
+        localStorage.setItem(API_KEY_STORAGE_KEY, key);
+      }
 
       const toggleBtn = document.getElementById('chatbot-toggle');
       const chatWindow = document.getElementById('chatbot-window');
@@ -1306,9 +1352,95 @@
       const chatForm = document.getElementById('chatbot-form');
       const chatInput = document.getElementById('chatbot-input');
 
+      // API 키 모달 요소
+      const settingsBtn = document.getElementById('chatbot-settings-btn');
+      const apiKeyModal = document.getElementById('api-key-modal');
+      const apiModalClose = document.getElementById('api-modal-close');
+      const apiKeyInput = document.getElementById('api-key-input');
+      const showApiKeyCheckbox = document.getElementById('show-api-key');
+      const saveApiKeyBtn = document.getElementById('save-api-key');
+      const apiKeyStatus = document.getElementById('api-key-status');
+
       let isOpen = false;
       let conversationHistory = [];
       const sessionId = 'session-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+
+      // API 키 모달 열기
+      settingsBtn.addEventListener('click', function() {
+        apiKeyModal.classList.remove('hidden');
+        const savedKey = getApiKey();
+        if (savedKey) {
+          apiKeyInput.value = savedKey;
+        }
+      });
+
+      // API 키 모달 닫기
+      apiModalClose.addEventListener('click', function() {
+        apiKeyModal.classList.add('hidden');
+        apiKeyStatus.classList.add('hidden');
+      });
+
+      // API 키 보기/숨기기
+      showApiKeyCheckbox.addEventListener('change', function() {
+        apiKeyInput.type = this.checked ? 'text' : 'password';
+      });
+
+      // API 키 저장
+      saveApiKeyBtn.addEventListener('click', async function() {
+        const apiKey = apiKeyInput.value.trim();
+        if (!apiKey) {
+          showApiKeyStatus('API 키를 입력해주세요.', 'error');
+          return;
+        }
+
+        // API 키 유효성 검사
+        saveApiKeyBtn.disabled = true;
+        saveApiKeyBtn.textContent = '확인 중...';
+
+        const isValid = await validateApiKey(apiKey);
+
+        if (isValid) {
+          setApiKey(apiKey);
+          showApiKeyStatus('API 키가 저장되었습니다!', 'success');
+          setTimeout(() => {
+            apiKeyModal.classList.add('hidden');
+            apiKeyStatus.classList.add('hidden');
+          }, 1500);
+        } else {
+          showApiKeyStatus('유효하지 않은 API 키입니다. 다시 확인해주세요.', 'error');
+        }
+
+        saveApiKeyBtn.disabled = false;
+        saveApiKeyBtn.textContent = '저장하기';
+      });
+
+      // API 키 상태 표시
+      function showApiKeyStatus(message, type) {
+        apiKeyStatus.textContent = message;
+        apiKeyStatus.classList.remove('hidden', 'bg-green-100', 'text-green-700', 'bg-red-100', 'text-red-700');
+        if (type === 'success') {
+          apiKeyStatus.classList.add('bg-green-100', 'text-green-700');
+        } else {
+          apiKeyStatus.classList.add('bg-red-100', 'text-red-700');
+        }
+      }
+
+      // API 키 유효성 검사
+      async function validateApiKey(apiKey) {
+        try {
+          const response = await fetch(`${GEMINI_API_URL}?key=${apiKey}`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              contents: [{ role: 'user', parts: [{ text: 'Hi' }] }],
+              generationConfig: { maxOutputTokens: 10 }
+            })
+          });
+          return response.ok;
+        } catch (error) {
+          return false;
+        }
+      }
 
       // 대화 내용을 Google Sheets에 저장
       async function saveChatToSheet(role, message) {
@@ -1348,6 +1480,10 @@
 
         if (isOpen) {
           chatInput.focus();
+          // API 키가 없으면 모달 자동 열기
+          if (!getApiKey()) {
+            setTimeout(() => apiKeyModal.classList.remove('hidden'), 500);
+          }
         }
       });
 
@@ -1399,6 +1535,12 @@
 
       // Send message to Gemini API
       async function sendToGemini(userMessage) {
+        const apiKey = getApiKey();
+        if (!apiKey) {
+          apiKeyModal.classList.remove('hidden');
+          return 'API 키가 설정되지 않았습니다. 상단의 설정 버튼(⚙️)을 클릭하여 Gemini API 키를 입력해주세요.';
+        }
+
         conversationHistory.push({
           role: 'user',
           parts: [{ text: userMessage }]
@@ -1421,7 +1563,7 @@
         };
 
         try {
-          const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+          const response = await fetch(`${GEMINI_API_URL}?key=${apiKey}`, {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
@@ -1430,6 +1572,9 @@
           });
 
           if (!response.ok) {
+            if (response.status === 400 || response.status === 403) {
+              return 'API 키가 유효하지 않습니다. 설정에서 API 키를 다시 확인해주세요.';
+            }
             throw new Error('API request failed');
           }
 

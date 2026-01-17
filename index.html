@@ -1079,9 +1079,9 @@
 
           // 평균 별점 표시
           if (ratingData && ratingData.count > 0) {
-            document.getElementById('averageRating').textContent = ratingData.average.toFixed(1);
+            document.getElementById('averageRating').textContent = ratingData.average;
             document.getElementById('totalReviewCount').textContent = ratingData.count;
-            renderStars('averageStars', ratingData.average);
+            renderStars('averageStars', parseFloat(ratingData.average));
           }
 
           // 리뷰 카드 표시

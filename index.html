@@ -106,11 +106,17 @@
           <a href="#real-reviews" class="text-white/80 hover:text-green-400 transition-colors font-medium">리뷰</a>
           <a href="#pricing" class="text-white/80 hover:text-green-400 transition-colors font-medium">가격</a>
         </div>
-        <div class="flex items-center gap-4">
-          <a href="login.html" class="hidden sm:block text-white/80 hover:text-green-400 transition-colors font-medium">로그인</a>
-          <a href="signup.html" class="bg-green-500 hover:bg-green-600 text-white px-5 py-2.5 rounded-lg font-semibold transition-colors shadow-md hover:shadow-lg">
+        <div id="authButtons" class="flex items-center gap-4">
+          <!-- 비로그인 상태 -->
+          <a href="login.html" id="loginBtn" class="hidden sm:block text-white/80 hover:text-green-400 transition-colors font-medium">로그인</a>
+          <a href="signup.html" id="signupBtn" class="bg-green-500 hover:bg-green-600 text-white px-5 py-2.5 rounded-lg font-semibold transition-colors shadow-md hover:shadow-lg">
             무료 시작
           </a>
+          <!-- 로그인 상태 (기본 숨김) -->
+          <a href="mypage.html" id="mypageBtn" class="hidden text-white/80 hover:text-green-400 transition-colors font-medium">마이페이지</a>
+          <button id="logoutBtn" onclick="handleLogout()" class="hidden bg-stone-600 hover:bg-stone-700 text-white px-4 py-2 rounded-lg font-medium transition-colors">
+            로그아웃
+          </button>
         </div>
       </div>
     </div>
@@ -869,6 +875,87 @@
           submitBtn.innerHTML = originalText;
         }
       });
+    });
+  </script>
+
+  <!-- Auth State Handler Script -->
+  <script>
+    // 로그인 상태에 따라 헤더 버튼 변경
+    function updateAuthUI(isLoggedIn) {
+      const loginBtn = document.getElementById('loginBtn');
+      const signupBtn = document.getElementById('signupBtn');
+      const mypageBtn = document.getElementById('mypageBtn');
+      const logoutBtn = document.getElementById('logoutBtn');
+
+      if (isLoggedIn) {
+        // 로그인 상태
+        if (loginBtn) loginBtn.classList.add('hidden');
+        if (signupBtn) signupBtn.classList.add('hidden');
+        if (mypageBtn) mypageBtn.classList.remove('hidden');
+        if (logoutBtn) logoutBtn.classList.remove('hidden');
+      } else {
+        // 비로그인 상태
+        if (loginBtn) loginBtn.classList.remove('hidden');
+        if (signupBtn) signupBtn.classList.remove('hidden');
+        if (mypageBtn) mypageBtn.classList.add('hidden');
+        if (logoutBtn) logoutBtn.classList.add('hidden');
+      }
+    }
+
+    // 로그아웃 처리
+    async function handleLogout() {
+      try {
+        await signOut();
+        localStorage.removeItem('plantcare_user');
+        updateAuthUI(false);
+        window.location.reload();
+      } catch (error) {
+        console.error('로그아웃 오류:', error);
+      }
+    }
+
+    // 페이지 로드 시 로그인 상태 확인
+    document.addEventListener('DOMContentLoaded', () => {
+      // Firebase 초기화
+      if (typeof initializeFirebase === 'function') {
+        initializeFirebase();
+      }
+
+      // Firebase Auth 상태 확인
+      if (typeof onAuthStateChanged === 'function') {
+        onAuthStateChanged((user) => {
+          if (user) {
+            // 로그인 상태 - localStorage에도 저장
+            const userData = {
+              uid: user.uid,
+              name: user.displayName || user.email.split('@')[0],
+              email: user.email,
+              picture: user.photoURL,
+              isLoggedIn: true,
+              loginDate: new Date().toISOString()
+            };
+            localStorage.setItem('plantcare_user', JSON.stringify(userData));
+            updateAuthUI(true);
+          } else {
+            // 비로그인 상태
+            localStorage.removeItem('plantcare_user');
+            updateAuthUI(false);
+          }
+        });
+      } else {
+        // Firebase가 아직 로드되지 않은 경우 localStorage 확인
+        const savedUser = localStorage.getItem('plantcare_user');
+        if (savedUser) {
+          try {
+            const userData = JSON.parse(savedUser);
+            if (userData.isLoggedIn) {
+              updateAuthUI(true);
+            }
+          } catch (e) {
+            console.error('사용자 정보 파싱 오류:', e);
+          }
+        }
+      }
     });
   </script>
 

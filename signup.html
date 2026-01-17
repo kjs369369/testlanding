@@ -268,13 +268,16 @@
     // ============================================
     // 페이지 로드 시 초기화
     // ============================================
+    let isSigningUp = false; // 회원가입 진행 중 플래그
+
     window.addEventListener('load', () => {
       // Firebase 초기화
       initializeFirebase();
 
-      // 이미 로그인된 사용자 확인 - 마이페이지로 이동
+      // 이미 로그인된 사용자 확인
       onAuthStateChanged((user) => {
-        if (user) {
+        // 회원가입 진행 중이면 리다이렉트하지 않음
+        if (user && !isSigningUp) {
           const userData = {
             uid: user.uid,
             name: user.displayName || user.email.split('@')[0],
@@ -282,14 +285,20 @@
             picture: user.photoURL
           };
           saveUserToLocalStorage(userData);
-          // 이미 로그인된 경우 마이페이지로 이동
-          window.location.href = 'mypage.html';
+          // 이미 로그인된 상태로 회원가입 페이지에 온 경우 메인으로 이동
+          window.location.href = 'index.html';
         }
       });
 
       // 이벤트 리스너 등록
-      document.getElementById('googleSignupBtn').addEventListener('click', handleGoogleSignup);
-      document.getElementById('emailSignupForm').addEventListener('submit', handleEmailSignup);
+      document.getElementById('googleSignupBtn').addEventListener('click', () => {
+        isSigningUp = true;
+        handleGoogleSignup();
+      });
+      document.getElementById('emailSignupForm').addEventListener('submit', (e) => {
+        isSigningUp = true;
+        handleEmailSignup(e);
+      });
     });
   </script>
 </body>

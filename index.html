@@ -1127,8 +1127,8 @@
         }
 
         const imageHtml = review.imageUrl ? `
-          <div class="mb-4">
-            <img src="${review.imageUrl}" alt="리뷰 이미지" class="w-full h-32 object-cover rounded-lg">
+          <div class="mb-4 bg-stone-100 rounded-lg overflow-hidden">
+            <img src="${review.imageUrl}" alt="리뷰 이미지" class="w-full max-h-48 object-contain">
           </div>
         ` : '';
 

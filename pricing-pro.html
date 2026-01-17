@@ -579,7 +579,7 @@
 
         // 이미지 HTML
         const imageHtml = review.imageUrl
-          ? `<div class="mt-4"><img src="${review.imageUrl}" alt="리뷰 이미지" class="max-w-full sm:max-w-xs rounded-xl"></div>`
+          ? `<div class="mt-4 bg-stone-100 rounded-xl overflow-hidden inline-block"><img src="${review.imageUrl}" alt="리뷰 이미지" class="max-w-full sm:max-w-sm max-h-64 object-contain"></div>`
           : '';
 
         // 삭제 버튼 (본인 리뷰만)

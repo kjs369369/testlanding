@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>관리자 대시보드 - Plant Care</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+  <script src="firebase-config.js"></script>
+  <style>
+    * { font-family: 'Noto Sans KR', sans-serif; }
+    .sidebar-link.active {
+      background: linear-gradient(135deg, #22c55e 0%, #14b8a6 100%);
+      color: white;
+    }
+    .stat-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body class="bg-stone-100 min-h-screen">
+  <div class="flex">
+    <!-- Sidebar -->
+    <aside class="w-64 bg-stone-900 min-h-screen fixed left-0 top-0 z-40">
+      <div class="p-6">
+        <!-- Logo -->
+        <a href="index.html" class="flex items-center gap-3 mb-10">
+          <div class="w-10 h-10 bg-gradient-to-br from-green-500 to-teal-500 rounded-xl flex items-center justify-center">
+            <span class="material-icons-outlined text-white" style="font-size: 24px">eco</span>
+          </div>
+          <div>
+            <span class="text-white font-bold text-lg">Plant Care</span>
+            <span class="block text-stone-500 text-xs">Admin Dashboard</span>
+          </div>
+        </a>
+
+        <!-- Navigation -->
+        <nav class="space-y-2">
+          <a href="#" class="sidebar-link active flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">dashboard</span>
+            대시보드
+          </a>
+          <a href="#" class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">people</span>
+            사용자 관리
+          </a>
+          <a href="#" class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">payments</span>
+            결제 내역
+          </a>
+          <a href="#" class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">chat</span>
+            챗봇 로그
+          </a>
+          <a href="#" class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">newspaper</span>
+            뉴스 관리
+          </a>
+          <a href="#" class="sidebar-link flex items-center gap-3 px-4 py-3 rounded-xl text-stone-400 hover:bg-stone-800 hover:text-white transition-all">
+            <span class="material-icons-outlined" style="font-size: 20px">settings</span>
+            설정
+          </a>
+        </nav>
+      </div>
+
+      <!-- Admin Profile -->
+      <div class="absolute bottom-0 left-0 right-0 p-6 border-t border-stone-800">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
+            <span class="text-white font-bold">A</span>
+          </div>
+          <div class="flex-1">
+            <p class="text-white text-sm font-medium">관리자</p>
+            <p class="text-stone-500 text-xs">admin@plantcare.com</p>
+          </div>
+          <button class="text-stone-500 hover:text-white transition-colors">
+            <span class="material-icons-outlined" style="font-size: 20px">logout</span>
+          </button>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="flex-1 ml-64">
+      <!-- Top Header -->
+      <header class="bg-white shadow-sm sticky top-0 z-30">
+        <div class="flex items-center justify-between px-8 py-4">
+          <div>
+            <h1 class="text-2xl font-bold text-stone-900">대시보드</h1>
+            <p class="text-stone-500 text-sm">Plant Care 서비스 현황을 한눈에 확인하세요</p>
+          </div>
+          <div class="flex items-center gap-4">
+            <button class="relative p-2 text-stone-500 hover:text-stone-700 hover:bg-stone-100 rounded-lg transition-colors">
+              <span class="material-icons-outlined">notifications</span>
+              <span class="absolute top-1 right-1 w-2 h-2 bg-red-500 rounded-full"></span>
+            </button>
+            <div class="h-8 w-px bg-stone-200"></div>
+            <span class="text-sm text-stone-500">오늘: <span class="text-stone-900 font-medium" id="currentDate"></span></span>
+          </div>
+        </div>
+      </header>
+
+      <div class="p-8">
+        <!-- Stats Cards -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+          <!-- Total Users -->
+          <div class="stat-card bg-white rounded-2xl p-6 shadow-sm transition-all cursor-pointer">
+            <div class="flex items-center justify-between mb-4">
+              <div class="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center">
+                <span class="material-icons-outlined text-blue-600" style="font-size: 24px">people</span>
+              </div>
+              <span class="inline-flex items-center gap-1 text-green-600 text-sm font-medium">
+                <span class="material-icons-outlined" style="font-size: 16px">trending_up</span>
+                실시간
+              </span>
+            </div>
+            <p class="text-stone-500 text-sm mb-1">전체 사용자</p>
+            <p id="totalUsers" class="text-3xl font-bold text-stone-900">-</p>
+          </div>
+
+          <!-- Pro Users -->
+          <div class="stat-card bg-white rounded-2xl p-6 shadow-sm transition-all cursor-pointer">
+            <div class="flex items-center justify-between mb-4">
+              <div class="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center">
+                <span class="material-icons-outlined text-purple-600" style="font-size: 24px">workspace_premium</span>
+              </div>
+              <span class="inline-flex items-center gap-1 text-green-600 text-sm font-medium">
+                <span class="material-icons-outlined" style="font-size: 16px">trending_up</span>
+                실시간
+              </span>
+            </div>
+            <p class="text-stone-500 text-sm mb-1">프로 구독자</p>
+            <p id="proUsers" class="text-3xl font-bold text-stone-900">-</p>
+          </div>
+
+          <!-- Monthly Revenue -->
+          <div class="stat-card bg-white rounded-2xl p-6 shadow-sm transition-all cursor-pointer">
+            <div class="flex items-center justify-between mb-4">
+              <div class="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center">
+                <span class="material-icons-outlined text-green-600" style="font-size: 24px">payments</span>
+              </div>
+              <span class="inline-flex items-center gap-1 text-green-600 text-sm font-medium">
+                <span class="material-icons-outlined" style="font-size: 16px">trending_up</span>
+                실시간
+              </span>
+            </div>
+            <p class="text-stone-500 text-sm mb-1">월 매출</p>
+            <p id="monthlyRevenue" class="text-3xl font-bold text-stone-900">-</p>
+          </div>
+
+          <!-- Total Revenue -->
+          <div class="stat-card bg-white rounded-2xl p-6 shadow-sm transition-all cursor-pointer">
+            <div class="flex items-center justify-between mb-4">
+              <div class="w-12 h-12 bg-amber-100 rounded-xl flex items-center justify-center">
+                <span class="material-icons-outlined text-amber-600" style="font-size: 24px">account_balance</span>
+              </div>
+              <span class="inline-flex items-center gap-1 text-green-600 text-sm font-medium">
+                <span class="material-icons-outlined" style="font-size: 16px">trending_up</span>
+                누적
+              </span>
+            </div>
+            <p class="text-stone-500 text-sm mb-1">총 매출</p>
+            <p id="totalRevenue" class="text-3xl font-bold text-stone-900">-</p>
+          </div>
+        </div>
+
+        <!-- Charts Row -->
+        <div class="grid lg:grid-cols-3 gap-6 mb-8">
+          <!-- Revenue Chart -->
+          <div class="lg:col-span-2 bg-white rounded-2xl p-6 shadow-sm">
+            <div class="flex items-center justify-between mb-6">
+              <h2 class="text-lg font-bold text-stone-900">매출 추이</h2>
+              <select class="text-sm border border-stone-200 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-green-500">
+                <option>최근 7일</option>
+                <option>최근 30일</option>
+                <option>최근 90일</option>
+              </select>
+            </div>
+            <canvas id="revenueChart" height="120"></canvas>
+          </div>
+
+          <!-- User Distribution -->
+          <div class="bg-white rounded-2xl p-6 shadow-sm">
+            <h2 class="text-lg font-bold text-stone-900 mb-6">구독 현황</h2>
+            <canvas id="subscriptionChart" height="200"></canvas>
+            <div class="mt-6 space-y-3">
+              <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                  <span class="w-3 h-3 bg-stone-300 rounded-full"></span>
+                  <span class="text-sm text-stone-600">무료</span>
+                </div>
+                <span class="text-sm font-medium text-stone-900">- (0%)</span>
+              </div>
+              <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                  <span class="w-3 h-3 bg-green-500 rounded-full"></span>
+                  <span class="text-sm text-stone-600">프로</span>
+                </div>
+                <span class="text-sm font-medium text-stone-900">- (0%)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Recent Activity & Users -->
+        <div class="grid lg:grid-cols-2 gap-6">
+          <!-- Recent Users -->
+          <div class="bg-white rounded-2xl p-6 shadow-sm">
+            <div class="flex items-center justify-between mb-6">
+              <h2 class="text-lg font-bold text-stone-900">최근 가입 사용자</h2>
+              <a href="#" class="text-green-600 hover:text-green-700 text-sm font-medium">전체 보기</a>
+            </div>
+            <div id="recentUsersList" class="space-y-4">
+              <p class="text-stone-400 text-center py-8">데이터 로딩 중...</p>
+            </div>
+          </div>
+
+          <!-- Recent Payments -->
+          <div class="bg-white rounded-2xl p-6 shadow-sm">
+            <div class="flex items-center justify-between mb-6">
+              <h2 class="text-lg font-bold text-stone-900">최근 결제</h2>
+              <a href="#" class="text-green-600 hover:text-green-700 text-sm font-medium">전체 보기</a>
+            </div>
+            <div id="recentPaymentsList" class="space-y-4">
+              <p class="text-stone-400 text-center py-8">데이터 로딩 중...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chatbot Analytics -->
+        <div class="mt-6 bg-white rounded-2xl p-6 shadow-sm">
+          <div class="flex items-center justify-between mb-6">
+            <h2 class="text-lg font-bold text-stone-900">챗봇 분석</h2>
+            <span class="text-sm text-stone-500">오늘 기준</span>
+          </div>
+          <div class="grid md:grid-cols-4 gap-6">
+            <div class="text-center p-4 bg-stone-50 rounded-xl">
+              <p class="text-3xl font-bold text-stone-900 mb-1">324</p>
+              <p class="text-sm text-stone-500">총 대화 수</p>
+            </div>
+            <div class="text-center p-4 bg-stone-50 rounded-xl">
+              <p class="text-3xl font-bold text-stone-900 mb-1">2.5분</p>
+              <p class="text-sm text-stone-500">평균 대화 시간</p>
+            </div>
+            <div class="text-center p-4 bg-stone-50 rounded-xl">
+              <p class="text-3xl font-bold text-green-600 mb-1">94%</p>
+              <p class="text-sm text-stone-500">만족도</p>
+            </div>
+            <div class="text-center p-4 bg-stone-50 rounded-xl">
+              <p class="text-3xl font-bold text-stone-900 mb-1">8.2</p>
+              <p class="text-sm text-stone-500">메시지/세션</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // ============================================
+    // 차트 인스턴스 저장
+    // ============================================
+    let revenueChart, subscriptionChart;
+
+    // ============================================
+    // 금액 포맷팅 함수
+    // ============================================
+    function formatCurrency(amount) {
+      if (amount >= 1000000) {
+        return `₩${(amount / 1000000).toFixed(2)}M`;
+      } else if (amount >= 10000) {
+        return `₩${(amount / 10000).toFixed(0)}만`;
+      } else {
+        return `₩${amount.toLocaleString()}`;
+      }
+    }
+
+    // ============================================
+    // 시간 포맷팅 함수
+    // ============================================
+    function timeAgo(date) {
+      const now = new Date();
+      const diff = now - date;
+      const minutes = Math.floor(diff / 60000);
+      const hours = Math.floor(diff / 3600000);
+      const days = Math.floor(diff / 86400000);
+
+      if (minutes < 1) return '방금 전';
+      if (minutes < 60) return `${minutes}분 전`;
+      if (hours < 24) return `${hours}시간 전`;
+      return `${days}일 전`;
+    }
+
+    // ============================================
+    // 대시보드 통계 로드
+    // ============================================
+    async function loadDashboardStats() {
+      try {
+        // 사용자 통계
+        const totalUsers = await getTotalUsers();
+        const proUsers = await getProUsers();
+
+        document.getElementById('totalUsers').textContent = totalUsers.toLocaleString();
+        document.getElementById('proUsers').textContent = proUsers.toLocaleString();
+
+        // 매출 통계
+        const monthlyRevenue = await getMonthlyRevenue();
+        const totalRevenue = await getTotalRevenue();
+
+        document.getElementById('monthlyRevenue').textContent = formatCurrency(monthlyRevenue);
+        document.getElementById('totalRevenue').textContent = formatCurrency(totalRevenue);
+
+        // 구독 현황 차트 업데이트
+        const freeUsers = totalUsers - proUsers;
+        updateSubscriptionChart(freeUsers, proUsers);
+
+      } catch (error) {
+        console.error('통계 로드 실패:', error);
+      }
+    }
+
+    // ============================================
+    // 최근 사용자 목록 로드
+    // ============================================
+    async function loadRecentUsers() {
+      try {
+        const users = await getRecentUsers(5);
+        const container = document.getElementById('recentUsersList');
+
+        if (users.length === 0) {
+          container.innerHTML = '<p class="text-stone-400 text-center py-8">등록된 사용자가 없습니다.</p>';
+          return;
+        }
+
+        const colors = ['22c55e', '6366f1', 'ec4899', 'f59e0b', '14b8a6'];
+        container.innerHTML = users.map((user, index) => `
+          <div class="flex items-center gap-4 p-3 hover:bg-stone-50 rounded-xl transition-colors">
+            <img src="${user.picture || `https://ui-avatars.com/api/?name=${encodeURIComponent(user.name)}&background=${colors[index % colors.length]}&color=fff`}" class="w-10 h-10 rounded-full">
+            <div class="flex-1">
+              <p class="font-medium text-stone-900">${user.name}</p>
+              <p class="text-sm text-stone-500">${user.email}</p>
+            </div>
+            <span class="px-3 py-1 ${user.isPro ? 'bg-green-100 text-green-700' : 'bg-stone-100 text-stone-600'} text-xs font-medium rounded-full">
+              ${user.isPro ? '프로' : '무료'}
+            </span>
+          </div>
+        `).join('');
+
+      } catch (error) {
+        console.error('사용자 목록 로드 실패:', error);
+        document.getElementById('recentUsersList').innerHTML =
+          '<p class="text-red-400 text-center py-8">데이터 로드 실패</p>';
+      }
+    }
+
+    // ============================================
+    // 최근 결제 목록 로드
+    // ============================================
+    async function loadRecentPayments() {
+      try {
+        const payments = await getRecentPayments(5);
+        const container = document.getElementById('recentPaymentsList');
+
+        if (payments.length === 0) {
+          container.innerHTML = '<p class="text-stone-400 text-center py-8">결제 내역이 없습니다.</p>';
+          return;
+        }
+
+        container.innerHTML = payments.map(payment => {
+          const isSuccess = payment.status === 'completed';
+          const createdAt = payment.createdAt?.toDate ? payment.createdAt.toDate() : new Date(payment.createdAt);
+
+          return `
+            <div class="flex items-center justify-between p-3 hover:bg-stone-50 rounded-xl transition-colors">
+              <div class="flex items-center gap-4">
+                <div class="w-10 h-10 ${isSuccess ? 'bg-green-100' : 'bg-red-100'} rounded-full flex items-center justify-center">
+                  <span class="material-icons-outlined ${isSuccess ? 'text-green-600' : 'text-red-600'}" style="font-size: 20px">
+                    ${isSuccess ? 'check_circle' : 'cancel'}
+                  </span>
+                </div>
+                <div>
+                  <p class="font-medium text-stone-900">${payment.orderName}</p>
+                  <p class="text-sm text-stone-500">${payment.userEmail?.split('@')[0] || '알 수 없음'} · ${timeAgo(createdAt)}</p>
+                </div>
+              </div>
+              <span class="font-semibold ${isSuccess ? 'text-stone-900' : 'text-red-500'}">₩${payment.amount?.toLocaleString() || 0}</span>
+            </div>
+          `;
+        }).join('');
+
+      } catch (error) {
+        console.error('결제 내역 로드 실패:', error);
+        document.getElementById('recentPaymentsList').innerHTML =
+          '<p class="text-red-400 text-center py-8">데이터 로드 실패</p>';
+      }
+    }
+
+    // ============================================
+    // 구독 현황 차트 업데이트
+    // ============================================
+    function updateSubscriptionChart(freeUsers, proUsers) {
+      if (subscriptionChart) {
+        subscriptionChart.data.datasets[0].data = [freeUsers, proUsers];
+        subscriptionChart.update();
+
+        // 범례 텍스트도 업데이트
+        const total = freeUsers + proUsers;
+        const freePercent = total > 0 ? Math.round((freeUsers / total) * 100) : 0;
+        const proPercent = total > 0 ? Math.round((proUsers / total) * 100) : 0;
+
+        const legendContainer = document.querySelector('#subscriptionChart').closest('.bg-white').querySelector('.mt-6');
+        if (legendContainer) {
+          legendContainer.innerHTML = `
+            <div class="flex items-center justify-between">
+              <div class="flex items-center gap-2">
+                <span class="w-3 h-3 bg-stone-300 rounded-full"></span>
+                <span class="text-sm text-stone-600">무료</span>
+              </div>
+              <span class="text-sm font-medium text-stone-900">${freeUsers}명 (${freePercent}%)</span>
+            </div>
+            <div class="flex items-center justify-between">
+              <div class="flex items-center gap-2">
+                <span class="w-3 h-3 bg-green-500 rounded-full"></span>
+                <span class="text-sm text-stone-600">프로</span>
+              </div>
+              <span class="text-sm font-medium text-stone-900">${proUsers}명 (${proPercent}%)</span>
+            </div>
+          `;
+        }
+      }
+    }
+
+    // ============================================
+    // 초기화
+    // ============================================
+    window.addEventListener('load', () => {
+      // 현재 날짜 표시
+      document.getElementById('currentDate').textContent = new Date().toLocaleDateString('ko-KR', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+
+      // Firebase 초기화
+      initializeFirebase();
+
+      // 매출 차트
+      const revenueCtx = document.getElementById('revenueChart').getContext('2d');
+      revenueChart = new Chart(revenueCtx, {
+        type: 'line',
+        data: {
+          labels: ['1월', '2월', '3월', '4월', '5월', '6월', '7월'],
+          datasets: [{
+            label: '매출 (만원)',
+            data: [0, 0, 0, 0, 0, 0, 0],
+            borderColor: '#22c55e',
+            backgroundColor: 'rgba(34, 197, 94, 0.1)',
+            fill: true,
+            tension: 0.4,
+            pointBackgroundColor: '#22c55e',
+            pointBorderColor: '#fff',
+            pointBorderWidth: 2,
+            pointRadius: 4
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: { display: false }
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: { color: 'rgba(0,0,0,0.05)' }
+            },
+            x: {
+              grid: { display: false }
+            }
+          }
+        }
+      });
+
+      // 구독 현황 차트
+      const subscriptionCtx = document.getElementById('subscriptionChart').getContext('2d');
+      subscriptionChart = new Chart(subscriptionCtx, {
+        type: 'doughnut',
+        data: {
+          labels: ['무료', '프로'],
+          datasets: [{
+            data: [0, 0],
+            backgroundColor: ['#d6d3d1', '#22c55e'],
+            borderWidth: 0,
+            cutout: '70%'
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: { display: false }
+          }
+        }
+      });
+
+      // 사이드바 링크 활성화
+      document.querySelectorAll('.sidebar-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+          document.querySelectorAll('.sidebar-link').forEach(l => l.classList.remove('active'));
+          this.classList.add('active');
+        });
+      });
+
+      // 데이터 로드
+      loadDashboardStats();
+      loadRecentUsers();
+      loadRecentPayments();
+    });
+  </script>
+</body>
+</html>

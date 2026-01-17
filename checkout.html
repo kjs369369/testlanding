@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>프로 플랜 결제 - Plant Care</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- 토스페이먼츠 SDK (v1) -->
+  <script src="https://js.tosspayments.com/v1/payment"></script>
+  <style>
+    * { font-family: 'Noto Sans KR', sans-serif; }
+  </style>
+</head>
+<body class="bg-stone-100 min-h-screen">
+  <!-- Header -->
+  <header class="bg-white shadow-sm sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <a href="index.html" class="flex items-center gap-2">
+          <span class="material-icons-outlined text-green-500" style="font-size: 32px">eco</span>
+          <span class="text-xl font-bold text-stone-900">Plant Care</span>
+        </a>
+        <a href="pricing-pro.html" class="text-stone-600 hover:text-green-500 flex items-center gap-1">
+          <span class="material-icons-outlined" style="font-size: 20px">arrow_back</span>
+          돌아가기
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="py-12">
+    <div class="max-w-4xl mx-auto px-4">
+      <div class="grid lg:grid-cols-5 gap-8">
+
+        <!-- 결제 폼 (왼쪽) -->
+        <div class="lg:col-span-3">
+          <div class="bg-white rounded-2xl p-8 shadow-sm">
+            <h1 class="text-2xl font-bold text-stone-900 mb-6">프로 플랜 결제</h1>
+
+            <!-- 플랜 선택 -->
+            <div class="mb-8">
+              <h2 class="text-sm font-medium text-stone-700 mb-3">결제 플랜 선택</h2>
+              <div class="grid sm:grid-cols-2 gap-4">
+                <label class="relative cursor-pointer">
+                  <input type="radio" name="plan" value="monthly" class="peer sr-only" checked>
+                  <div class="border-2 border-stone-200 peer-checked:border-green-500 peer-checked:bg-green-50 rounded-xl p-4 transition-all">
+                    <div class="flex items-center justify-between mb-2">
+                      <span class="font-semibold text-stone-900">월간 플랜</span>
+                      <span class="w-5 h-5 border-2 border-stone-300 peer-checked:border-green-500 peer-checked:bg-green-500 rounded-full flex items-center justify-center">
+                        <span class="hidden peer-checked:block w-2 h-2 bg-white rounded-full"></span>
+                      </span>
+                    </div>
+                    <p class="text-2xl font-bold text-stone-900">₩4,900<span class="text-sm font-normal text-stone-500">/월</span></p>
+                  </div>
+                  <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/4 hidden peer-checked:block">
+                    <span class="material-icons-outlined text-green-500 bg-white rounded-full" style="font-size: 24px">check_circle</span>
+                  </div>
+                </label>
+
+                <label class="relative cursor-pointer">
+                  <input type="radio" name="plan" value="yearly" class="peer sr-only">
+                  <div class="border-2 border-stone-200 peer-checked:border-green-500 peer-checked:bg-green-50 rounded-xl p-4 transition-all">
+                    <div class="flex items-center justify-between mb-2">
+                      <span class="font-semibold text-stone-900">연간 플랜</span>
+                      <span class="inline-flex items-center bg-green-100 text-green-700 text-xs font-bold px-2 py-0.5 rounded-full">2개월 무료</span>
+                    </div>
+                    <p class="text-2xl font-bold text-stone-900">₩49,000<span class="text-sm font-normal text-stone-500">/년</span></p>
+                  </div>
+                  <div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/4 hidden peer-checked:block">
+                    <span class="material-icons-outlined text-green-500 bg-white rounded-full" style="font-size: 24px">check_circle</span>
+                  </div>
+                </label>
+              </div>
+            </div>
+
+            <!-- 구매자 정보 -->
+            <div class="mb-8">
+              <h2 class="text-sm font-medium text-stone-700 mb-3">구매자 정보</h2>
+              <div class="space-y-4">
+                <div>
+                  <label for="customerName" class="block text-sm text-stone-600 mb-1">이름</label>
+                  <input
+                    type="text"
+                    id="customerName"
+                    placeholder="홍길동"
+                    class="w-full px-4 py-3 border border-stone-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                  >
+                </div>
+                <div>
+                  <label for="customerEmail" class="block text-sm text-stone-600 mb-1">이메일</label>
+                  <input
+                    type="email"
+                    id="customerEmail"
+                    placeholder="example@email.com"
+                    class="w-full px-4 py-3 border border-stone-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                  >
+                </div>
+                <div>
+                  <label for="customerPhone" class="block text-sm text-stone-600 mb-1">연락처</label>
+                  <input
+                    type="tel"
+                    id="customerPhone"
+                    placeholder="010-1234-5678"
+                    class="w-full px-4 py-3 border border-stone-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent"
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- 약관 동의 -->
+            <div class="mb-8">
+              <label class="flex items-start gap-3 cursor-pointer">
+                <input type="checkbox" id="agreeTerms" class="mt-1 w-5 h-5 text-green-500 border-stone-300 rounded focus:ring-green-500">
+                <span class="text-sm text-stone-600">
+                  <a href="#" class="text-green-600 underline">이용약관</a> 및
+                  <a href="#" class="text-green-600 underline">개인정보처리방침</a>에 동의합니다.
+                  <span class="text-red-500">*</span>
+                </span>
+              </label>
+            </div>
+
+            <!-- 결제 버튼 -->
+            <button
+              id="paymentButton"
+              class="w-full bg-gradient-to-r from-green-500 to-teal-500 hover:from-green-600 hover:to-teal-600 text-white py-4 rounded-xl font-semibold text-lg transition-all flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              <span class="material-icons-outlined">lock</span>
+              <span id="paymentButtonText">4,900원 결제하기</span>
+            </button>
+
+            <p class="text-center text-sm text-stone-500 mt-4">
+              <span class="material-icons-outlined align-middle" style="font-size: 16px">verified_user</span>
+              토스페이먼츠 보안 결제
+            </p>
+          </div>
+        </div>
+
+        <!-- 주문 요약 (오른쪽) -->
+        <div class="lg:col-span-2">
+          <div class="bg-white rounded-2xl p-6 shadow-sm sticky top-24">
+            <h2 class="text-lg font-bold text-stone-900 mb-4">주문 요약</h2>
+
+            <div class="flex items-center gap-4 pb-4 border-b border-stone-200">
+              <div class="w-16 h-16 bg-gradient-to-br from-green-500 to-teal-500 rounded-xl flex items-center justify-center">
+                <span class="material-icons-outlined text-white" style="font-size: 32px">workspace_premium</span>
+              </div>
+              <div>
+                <h3 class="font-semibold text-stone-900">Plant Care 프로</h3>
+                <p id="planDescription" class="text-sm text-stone-500">월간 구독</p>
+              </div>
+            </div>
+
+            <div class="py-4 space-y-3">
+              <div class="flex justify-between text-stone-600">
+                <span>상품 금액</span>
+                <span id="productPrice">₩4,900</span>
+              </div>
+              <div class="flex justify-between text-stone-600">
+                <span>할인</span>
+                <span id="discountPrice" class="text-green-600">-₩0</span>
+              </div>
+            </div>
+
+            <div class="pt-4 border-t border-stone-200">
+              <div class="flex justify-between items-center">
+                <span class="font-semibold text-stone-900">총 결제 금액</span>
+                <span id="totalPrice" class="text-2xl font-bold text-green-600">₩4,900</span>
+              </div>
+            </div>
+
+            <!-- 프로 혜택 -->
+            <div class="mt-6 pt-6 border-t border-stone-200">
+              <h3 class="text-sm font-medium text-stone-700 mb-3">프로 혜택</h3>
+              <ul class="space-y-2">
+                <li class="flex items-center gap-2 text-sm text-stone-600">
+                  <span class="material-icons-outlined text-green-500" style="font-size: 18px">check</span>
+                  무제한 식물 등록
+                </li>
+                <li class="flex items-center gap-2 text-sm text-stone-600">
+                  <span class="material-icons-outlined text-green-500" style="font-size: 18px">check</span>
+                  AI 식물 진단
+                </li>
+                <li class="flex items-center gap-2 text-sm text-stone-600">
+                  <span class="material-icons-outlined text-green-500" style="font-size: 18px">check</span>
+                  가족 5명 공유
+                </li>
+                <li class="flex items-center gap-2 text-sm text-stone-600">
+                  <span class="material-icons-outlined text-green-500" style="font-size: 18px">check</span>
+                  우선 고객 지원
+                </li>
+              </ul>
+            </div>
+
+            <!-- 보장 -->
+            <div class="mt-6 bg-stone-50 rounded-xl p-4">
+              <div class="flex items-center gap-3">
+                <span class="material-icons-outlined text-green-500" style="font-size: 24px">shield</span>
+                <div>
+                  <p class="font-medium text-stone-900 text-sm">7일 환불 보장</p>
+                  <p class="text-xs text-stone-500">만족하지 않으시면 전액 환불</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  <!-- 결제 완료 모달 -->
+  <div id="successModal" class="fixed inset-0 bg-black/50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-2xl p-8 max-w-md mx-4 text-center">
+      <div class="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
+        <span class="material-icons-outlined text-green-500" style="font-size: 48px">check_circle</span>
+      </div>
+      <h2 class="text-2xl font-bold text-stone-900 mb-2">결제가 완료되었습니다!</h2>
+      <p class="text-stone-600 mb-6">Plant Care 프로 플랜을 이용해 주셔서 감사합니다.</p>
+      <a href="index.html" class="inline-flex items-center justify-center gap-2 bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-xl font-semibold transition-colors">
+        홈으로 돌아가기
+      </a>
+    </div>
+  </div>
+
+  <!-- 결제 실패 모달 -->
+  <div id="failModal" class="fixed inset-0 bg-black/50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-2xl p-8 max-w-md mx-4 text-center">
+      <div class="w-20 h-20 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-6">
+        <span class="material-icons-outlined text-red-500" style="font-size: 48px">error</span>
+      </div>
+      <h2 class="text-2xl font-bold text-stone-900 mb-2">결제에 실패했습니다</h2>
+      <p id="failMessage" class="text-stone-600 mb-6">다시 시도해 주세요.</p>
+      <button onclick="closeFailModal()" class="inline-flex items-center justify-center gap-2 bg-stone-200 hover:bg-stone-300 text-stone-700 px-8 py-3 rounded-xl font-semibold transition-colors">
+        다시 시도
+      </button>
+    </div>
+  </div>
+
+  <script>
+    // ============================================
+    // 토스페이먼츠 설정
+    // ============================================
+    // 토스페이먼츠 API 키 (테스트)
+    const TOSS_CLIENT_KEY = 'YOUR_TOSS_CLIENT_KEY'; // Vercel 환경변수에서 설정
+
+    // 결제 성공/실패 리다이렉트 URL
+    const SUCCESS_URL = window.location.origin + '/payment-success.html';
+    const FAIL_URL = window.location.origin + '/payment-fail.html';
+
+    // ============================================
+    // 가격 정보
+    // ============================================
+    const PLANS = {
+      monthly: {
+        name: '월간 구독',
+        price: 4900,
+        originalPrice: 4900,
+        discount: 0
+      },
+      yearly: {
+        name: '연간 구독',
+        price: 49000,
+        originalPrice: 58800, // 4900 * 12
+        discount: 9800 // 2개월 무료
+      }
+    };
+
+    let selectedPlan = 'monthly';
+    let tossPayments = null;
+
+    // ============================================
+    // 토스페이먼츠 초기화
+    // ============================================
+    async function initTossPayments() {
+      try {
+        tossPayments = TossPayments(TOSS_CLIENT_KEY);
+      } catch (error) {
+        console.error('토스페이먼츠 초기화 실패:', error);
+      }
+    }
+
+    // ============================================
+    // UI 업데이트
+    // ============================================
+    function updatePriceDisplay() {
+      const plan = PLANS[selectedPlan];
+
+      document.getElementById('planDescription').textContent = plan.name;
+      document.getElementById('productPrice').textContent = `₩${plan.originalPrice.toLocaleString()}`;
+      document.getElementById('discountPrice').textContent = plan.discount > 0
+        ? `-₩${plan.discount.toLocaleString()}`
+        : '-₩0';
+      document.getElementById('totalPrice').textContent = `₩${plan.price.toLocaleString()}`;
+      document.getElementById('paymentButtonText').textContent = `${plan.price.toLocaleString()}원 결제하기`;
+    }
+
+    // ============================================
+    // 플랜 선택 이벤트
+    // ============================================
+    document.querySelectorAll('input[name="plan"]').forEach(radio => {
+      radio.addEventListener('change', (e) => {
+        selectedPlan = e.target.value;
+        updatePriceDisplay();
+
+        // 체크 아이콘 표시 업데이트
+        document.querySelectorAll('input[name="plan"]').forEach(r => {
+          const checkIcon = r.closest('label').querySelector('.absolute');
+          const container = r.nextElementSibling;
+          if (r.checked) {
+            checkIcon?.classList.remove('hidden');
+            container.classList.add('border-green-500', 'bg-green-50');
+            container.classList.remove('border-stone-200');
+          } else {
+            checkIcon?.classList.add('hidden');
+            container.classList.remove('border-green-500', 'bg-green-50');
+            container.classList.add('border-stone-200');
+          }
+        });
+      });
+    });
+
+    // ============================================
+    // 폼 유효성 검사
+    // ============================================
+    function validateForm() {
+      const name = document.getElementById('customerName').value.trim();
+      const email = document.getElementById('customerEmail').value.trim();
+      const phone = document.getElementById('customerPhone').value.trim();
+      const agreeTerms = document.getElementById('agreeTerms').checked;
+
+      if (!name) {
+        alert('이름을 입력해주세요.');
+        return false;
+      }
+      if (!email || !email.includes('@')) {
+        alert('올바른 이메일을 입력해주세요.');
+        return false;
+      }
+      if (!phone) {
+        alert('연락처를 입력해주세요.');
+        return false;
+      }
+      if (!agreeTerms) {
+        alert('이용약관에 동의해주세요.');
+        return false;
+      }
+      return true;
+    }
+
+    // ============================================
+    // 결제 요청
+    // ============================================
+    async function requestPayment() {
+      if (!validateForm()) return;
+      if (!tossPayments) {
+        alert('결제 시스템을 불러오는 중입니다. 잠시 후 다시 시도해주세요.');
+        return;
+      }
+
+      const plan = PLANS[selectedPlan];
+      const orderId = 'PLANT_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
+      const customerName = document.getElementById('customerName').value.trim();
+      const customerEmail = document.getElementById('customerEmail').value.trim();
+      const customerPhone = document.getElementById('customerPhone').value.trim().replace(/-/g, '');
+
+      // 토스페이먼츠 v1 결제창 호출
+      tossPayments.requestPayment('카드', {
+        amount: plan.price,
+        orderId: orderId,
+        orderName: `Plant Care 프로 (${plan.name})`,
+        customerName: customerName,
+        customerEmail: customerEmail,
+        customerMobilePhone: customerPhone,
+        successUrl: SUCCESS_URL,
+        failUrl: FAIL_URL
+      }).catch(function (error) {
+        if (error.code === 'USER_CANCEL') {
+          console.log('사용자가 결제를 취소했습니다.');
+        } else if (error.code === 'INVALID_CARD_COMPANY') {
+          alert('유효하지 않은 카드입니다.');
+        } else {
+          console.error('결제 요청 실패:', error);
+          showFailModal(error.message || '결제 요청에 실패했습니다.');
+        }
+      });
+    }
+
+    // ============================================
+    // 결제 결과 처리
+    // ============================================
+    function handlePaymentResult() {
+      const urlParams = new URLSearchParams(window.location.search);
+
+      if (urlParams.get('success') === 'true') {
+        // 결제 성공
+        // 실제 서비스에서는 서버에서 paymentKey, orderId, amount를 검증해야 합니다
+        const paymentKey = urlParams.get('paymentKey');
+        const orderId = urlParams.get('orderId');
+        const amount = urlParams.get('amount');
+
+        console.log('결제 성공:', { paymentKey, orderId, amount });
+
+        // 성공 모달 표시
+        document.getElementById('successModal').classList.remove('hidden');
+
+        // URL 파라미터 제거
+        window.history.replaceState({}, document.title, window.location.pathname);
+      }
+
+      if (urlParams.get('fail') === 'true') {
+        // 결제 실패
+        const errorCode = urlParams.get('code');
+        const errorMessage = urlParams.get('message');
+
+        console.error('결제 실패:', { errorCode, errorMessage });
+
+        showFailModal(errorMessage || '결제에 실패했습니다.');
+
+        // URL 파라미터 제거
+        window.history.replaceState({}, document.title, window.location.pathname);
+      }
+    }
+
+    // ============================================
+    // 모달 제어
+    // ============================================
+    function showFailModal(message) {
+      document.getElementById('failMessage').textContent = message;
+      document.getElementById('failModal').classList.remove('hidden');
+    }
+
+    function closeFailModal() {
+      document.getElementById('failModal').classList.add('hidden');
+    }
+
+    // ============================================
+    // 초기화
+    // ============================================
+    document.addEventListener('DOMContentLoaded', () => {
+      initTossPayments();
+      updatePriceDisplay();
+      handlePaymentResult();
+
+      // 결제 버튼 이벤트
+      document.getElementById('paymentButton').addEventListener('click', requestPayment);
+    });
+  </script>
+
+  <!-- Footer -->
+  <footer class="bg-stone-900 py-8 mt-12">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+      <a href="index.html" class="inline-flex items-center gap-2 text-white mb-4">
+        <span class="material-icons-outlined text-green-400" style="font-size: 24px">eco</span>
+        <span class="font-bold">Plant Care</span>
+      </a>
+      <p class="text-stone-500 text-sm">&copy; 2025 Plant Care. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>결제 실패 - Plant Care</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { font-family: 'Noto Sans KR', sans-serif; }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-red-50 to-orange-50 min-h-screen flex flex-col">
+  <!-- Header -->
+  <header class="bg-white/80 backdrop-blur-md shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-center h-16">
+        <a href="index.html" class="flex items-center gap-2">
+          <span class="material-icons-outlined text-green-500" style="font-size: 32px">eco</span>
+          <span class="text-xl font-bold text-stone-900">Plant Care</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main class="flex-1 flex items-center justify-center py-12 px-4">
+    <div class="w-full max-w-lg">
+      <div class="bg-white rounded-3xl shadow-xl p-10 text-center">
+        <div class="w-24 h-24 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-6">
+          <span class="material-icons-outlined text-red-500" style="font-size: 56px">error_outline</span>
+        </div>
+        <h1 class="text-2xl font-bold text-stone-900 mb-2">결제에 실패했습니다</h1>
+        <p id="errorMessage" class="text-stone-600 mb-6">결제 처리 중 문제가 발생했습니다.</p>
+
+        <!-- 에러 정보 -->
+        <div class="bg-red-50 rounded-2xl p-5 mb-8 text-left">
+          <div class="flex items-start gap-3">
+            <span class="material-icons-outlined text-red-500 mt-0.5" style="font-size: 20px">info</span>
+            <div>
+              <p class="font-medium text-red-800 mb-1">오류 코드</p>
+              <p id="errorCode" class="text-red-600 text-sm">-</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 해결 방법 -->
+        <div class="bg-stone-50 rounded-2xl p-5 mb-8 text-left">
+          <h3 class="font-semibold text-stone-900 mb-3">다음을 확인해 주세요</h3>
+          <ul class="space-y-2 text-sm text-stone-600">
+            <li class="flex items-start gap-2">
+              <span class="material-icons-outlined text-stone-400" style="font-size: 18px">credit_card</span>
+              카드 한도 및 잔액이 충분한지 확인하세요
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="material-icons-outlined text-stone-400" style="font-size: 18px">security</span>
+              카드 정보가 올바르게 입력되었는지 확인하세요
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="material-icons-outlined text-stone-400" style="font-size: 18px">wifi</span>
+              인터넷 연결 상태를 확인하세요
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="material-icons-outlined text-stone-400" style="font-size: 18px">phone</span>
+              문제가 지속되면 카드사에 문의하세요
+            </li>
+          </ul>
+        </div>
+
+        <!-- 버튼 -->
+        <div class="space-y-3">
+          <a href="checkout.html" class="block w-full bg-gradient-to-r from-green-500 to-teal-500 hover:from-green-600 hover:to-teal-600 text-white py-4 rounded-xl font-semibold transition-all text-center">
+            <span class="material-icons-outlined align-middle mr-1" style="font-size: 20px">refresh</span>
+            다시 결제하기
+          </a>
+          <a href="pricing-pro.html" class="block w-full bg-stone-100 hover:bg-stone-200 text-stone-700 py-4 rounded-xl font-semibold transition-all text-center">
+            다른 플랜 선택하기
+          </a>
+          <a href="index.html" class="block w-full text-stone-500 hover:text-stone-700 py-2 font-medium transition-colors text-center">
+            홈으로 돌아가기
+          </a>
+        </div>
+
+        <!-- 고객센터 -->
+        <div class="mt-8 pt-6 border-t border-stone-200">
+          <p class="text-sm text-stone-500">
+            문제가 해결되지 않으면
+            <a href="mailto:support@plantcare.com" class="text-green-600 hover:text-green-700 font-medium">고객센터</a>로
+            문의해 주세요.
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // URL 파라미터에서 에러 정보 추출
+    document.addEventListener('DOMContentLoaded', () => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const errorCode = urlParams.get('code');
+      const errorMessage = urlParams.get('message');
+
+      if (errorCode) {
+        document.getElementById('errorCode').textContent = errorCode;
+      }
+
+      if (errorMessage) {
+        document.getElementById('errorMessage').textContent = decodeURIComponent(errorMessage);
+      }
+
+      // 에러 로깅
+      console.error('결제 실패:', { errorCode, errorMessage });
+    });
+  </script>
+</body>
+</html>

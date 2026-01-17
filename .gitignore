@@ -1,1 +1,8 @@
 .vercel
+node_modules/
+.env
+.env.local
+*.log
+debug-*.js
+debug-*.html
+debug-*.png

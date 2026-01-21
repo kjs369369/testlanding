@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-01-20T21:16:44.349Z",
-  "lastUpdatedKST": "2026. 1. 21. 오전 6:16:44",
+  "lastUpdated": "2026-01-21T01:15:55.747Z",
+  "lastUpdatedKST": "2026. 1. 21. 오전 10:15:55",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "K-막걸리, 왕의 옷을 입고 세계로 향하다",
-      "link": "https://www.abcn.kr/news/articleView.html?idxno=85982",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5628%2F2026%2F01%2F21%2F19908.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "ABC뉴스4시간 전",
-      "date": "2026. 1. 20.",
-      "description": "ABC뉴스..."
+      "title": "[김진목의 건강제안]사소한 습관만 바꿔도 건강은 달라질 수 있습니다",
+      "link": "https://www.ikunkang.com/news/articleView.html?idxno=50273",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5454%2F2026%2F01%2F21%2F15480.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "건강다이제스트5분 전",
+      "date": "2026. 1. 21.",
+      "description": "건강다이제스트..."
     },
     {
       "id": 2,
-      "title": "겨울 끝에서 가장 먼저 향을 내는 채소, 미나리",
-      "link": "https://cooknchefnews.com/news/view/1065613095091786",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23384.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "쿡앤셰프6시간 전",
-      "date": "2026. 1. 20.",
-      "description": "쿡앤셰프..."
-    },
-    {
-      "id": 3,
-      "title": "[식생활 건강노트] 겨울에 몸이 먼저 찾는 해조류, 매생이의 영양 밀도",
-      "link": "https://cooknchefnews.com/news/view/1065576445171563",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23379.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "쿡앤셰프6시간 전",
-      "date": "2026. 1. 20.",
-      "description": "쿡앤셰프..."
-    },
-    {
-      "id": 4,
-      "title": "식물성 음료, 원료 따라 영양 ‘천차만별’… “목적에 맞춰 골라야”",
-      "link": "https://cooknchefnews.com/news/view/1065593310535403",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23376.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "쿡앤셰프6시간 전",
-      "date": "2026. 1. 20.",
-      "description": "쿡앤셰프..."
-    },
-    {
-      "id": 5,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5297%2F2024%2F08%2F12%2Flogo_5297_18_20240812141503.png&type=f54_54&expire=24&refresh=true",
-      "press": "브레이크뉴스4분 전",
-      "date": "2026. 1. 20.",
-      "description": "브레이크뉴스..."
-    },
-    {
-      "id": 6,
-      "title": "[기후탐사대] 판다·대나무·곰…기후 위기의 경고?",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464101&ref=A",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F01%2F20%2F12108850.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS10시간 전네이버뉴스",
-      "date": "2026. 1. 20.",
-      "description": "KBS..."
-    },
-    {
-      "id": 7,
-      "title": "[이슈] 개헌 합의해도 투표 불가... 11년째 식물법안 된 국민투표법, 6월...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=335869",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F01%2F20%2F174970.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문11시간 전",
-      "date": "2026. 1. 20.",
-      "description": "녹색경제신문..."
-    },
-    {
-      "id": 8,
-      "title": "KAIST-대전시 글로벌 창업 앵커 역할 '톡톡'···딥테크 기업, 시장 안착...",
-      "link": "http://www.hellodd.com/news/articleView.html?idxno=110597",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5409%2F2026%2F01%2F20%2F26578.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "헬로디디11시간 전",
-      "date": "2026. 1. 20.",
-      "description": "헬로디디..."
-    },
-    {
-      "id": 9,
-      "title": "해양 '탄소 저장' 방해하는 미세플라스틱, 기후 변화 새 변수 됐다",
-      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=305887",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5194%2F2026%2F01%2F20%2F125445.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "그린포스트코리아11시간 전",
-      "date": "2026. 1. 20.",
-      "description": "그린포스트코리아..."
-    },
-    {
-      "id": 10,
-      "title": "서천호 의원, 임업소득 비과세 확대 법안 발의…\"조세 형평성 회복\"",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=400762",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F01%2F20%2F79294.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한국농어민신문12시간 전",
-      "date": "2026. 1. 20.",
-      "description": "한국농어민신문..."
-    },
-    {
-      "id": 11,
-      "title": "탄소중립에서 자원순환까지…예천군 ‘클린예천’ 실현 박차",
-      "link": "https://www.cnbnews.com/news/article.html?no=774169",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5293%2F2026%2F01%2F20%2F494989.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "CNB뉴스12시간 전",
-      "date": "2026. 1. 20.",
-      "description": "CNB뉴스..."
-    },
-    {
-      "id": 12,
-      "title": "정관장 '기다림 침향', 출시 1년 8개월 만에 매출 200억 돌파",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=653123",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5206%2F2026%2F01%2F20%2F121490.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한국금융경제신문13시간 전",
-      "date": "2026. 1. 20.",
-      "description": "한국금융경제신문..."
-    },
-    {
-      "id": 13,
-      "title": "예천군, 2026년 환경정책에 225억 투입…탄소중립 선도도시 추진",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1223174",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F01%2F20%2F300037.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전국매일신문13시간 전",
-      "date": "2026. 1. 20.",
-      "description": "전국매일신문..."
-    },
-    {
-      "id": 14,
-      "title": "예천군, ‘탄소중립 선도도시·지속가능한 클린예천’ 사업 추진",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=798361",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F01%2F20%2F764963.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "NSP통신13시간 전",
-      "date": "2026. 1. 20.",
-      "description": "NSP통신..."
-    },
-    {
-      "id": 15,
-      "title": "CJ웰케어, 건강 선물세트 48종 선봬",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596435297597",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F01%2F20%2F72518.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "메가경제..."
-    },
-    {
-      "id": 16,
-      "title": "CJ웰케어, 2026년 설 명절 건강 선물세트 구성과 특징은?",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=411163",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F01%2F20%2F290755.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스워커14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "뉴스워커..."
-    },
-    {
-      "id": 17,
-      "title": "\"안전 통제 되지 않아\" 마라톤 유망주, 대회 중 참변...유족 '분통'",
-      "link": "http://www.fnnews.com/news/202601201538301388",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F01%2F20%2F5465630.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스14시간 전네이버뉴스",
-      "date": "2026. 1. 20.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 18,
-      "title": "예천군, 탄소중립 선도도시 건설 박차",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=858023",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F01%2F20%2F472003.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "글로벌경제14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "글로벌경제..."
-    },
-    {
-      "id": 19,
-      "title": "\"피부 건강 수명 관리\" 한국암웨이, '아티스트리 롱제비티 크림' 2종 출...",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1324773",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F01%2F20%2F756369.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "데일리한국14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "데일리한국..."
-    },
-    {
-      "id": 20,
-      "title": "\"붉은 말의 기운을 선물하세요\" CJ웰케어, '흑삼대보 적마 에디션' 한정...",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=95582",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5516%2F2026%2F01%2F20%2F50535.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "데일리팝14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "데일리팝..."
-    },
-    {
-      "id": 21,
-      "title": "예천군, 환경정책에 225억 투입…탄소중립 선도도시 조성 박차",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4062217",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F01%2F20%2F506454.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경북일보14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "경북일보..."
-    },
-    {
-      "id": 22,
-      "title": "차분한 풍경 속 따뜻한 공간들, 이천 가볼만한곳 한눈에",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15939541",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F01%2F20%2F1185380.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "톱스타뉴스14시간 전",
-      "date": "2026. 1. 20.",
-      "description": "톱스타뉴스..."
-    },
-    {
-      "id": 23,
-      "title": "예천군, 2026년 환경정책에 225억 투입…전기차 224대·노후경유차 320대...",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2383798",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F01%2F20%2F1142619.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이뉴스투데이15시간 전",
-      "date": "2026. 1. 20.",
-      "description": "이뉴스투데이..."
-    },
-    {
-      "id": 24,
-      "title": "자연산 바다생선 단백질로 시작하는 식이민감증 관리...포르자10 액티브...",
-      "link": "https://www.dailyvet.co.kr/news/industry/270799",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5392%2F2026%2F01%2F20%2F21894.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "데일리벳15시간 전",
-      "date": "2026. 1. 20.",
-      "description": "데일리벳..."
-    },
-    {
-      "id": 25,
-      "title": "[최병일의 북토피아]온실에서 피어난 이야기의 꽃",
-      "link": "https://www.nc.press/news/articleView.html?idxno=605178",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5339%2F2026%2F01%2F20%2F319976.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스컬처15시간 전",
-      "date": "2026. 1. 20.",
-      "description": "뉴스컬처..."
-    },
-    {
-      "id": 26,
-      "title": "해남 가볼 만한 곳, 바람이 선사하는 겨울 파노라마",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=487960",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F20%2F154722.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스15시간 전",
-      "date": "2026. 1. 20.",
+      "title": "굶지 않는 다이어트가 뜬다...식품사들, 저당·고단백·간편식에 승부수",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=488161",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F21%2F154874.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "중앙이코노미뉴스7분 전",
+      "date": "2026. 1. 21.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 27,
-      "title": "겨울철 온장고 쌍화탕 침전물…'고온보관' 원인",
-      "link": "https://www.consumuch.com/news/articleView.html?idxno=77084",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5777%2F2026%2F01%2F20%2F17286.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "컨슈머치15시간 전",
-      "date": "2026. 1. 20.",
-      "description": "컨슈머치..."
+      "id": 3,
+      "title": "서울시, 남산타워 4층 '서울 정원문화힐링센터'에서 봄맞이 가드닝 프로...",
+      "link": "https://www.lecturernews.com/news/articleView.html?idxno=195173",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5566%2F2026%2F01%2F21%2F159423.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "한국강사신문9분 전",
+      "date": "2026. 1. 21.",
+      "description": "한국강사신문..."
     },
     {
-      "id": 28,
-      "title": "공립수목원 된 광주시립수목원, ‘식물 표본 전시회’ 개최",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22295",
-      "thumbnail": "/logo.png",
-      "press": "환경과조경15시간 전",
-      "date": "2026. 1. 20.",
-      "description": "환경과조경..."
+      "id": 4,
+      "title": "완도의 겨울 별미로 미식 여행 즐기세요…유자·김·굴·매생이·삼치 5...",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=314404",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5633%2F2026%2F01%2F21%2F62499.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "지이코노미23분 전",
+      "date": "2026. 1. 21.",
+      "description": "지이코노미..."
     },
     {
-      "id": 29,
-      "title": "CJ웰케어, 전통과 새해 상징 담은 설 건강 선물세트 48종 선봬",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=106010",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5875%2F2026%2F01%2F20%2F63792.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈니스플러스16시간 전",
-      "date": "2026. 1. 20.",
-      "description": "비즈니스플러스..."
+      "id": 5,
+      "title": "리쥬란코스메틱, '리쥬란 피에이치 밸런싱 젤 클렌저' 출시",
+      "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2268315",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F01%2F21%2F211418.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의학신문27분 전",
+      "date": "2026. 1. 21.",
+      "description": "의학신문..."
     },
     {
-      "id": 30,
-      "title": "[기획특집] 탄소중립 선도도시·지속가능한 '클린 예천' 조성 박차",
-      "link": "https://www.kbsm.net/news/view.php?idx=505413",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5533%2F2026%2F01%2F20%2F321060.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경북신문16시간 전",
-      "date": "2026. 1. 20.",
-      "description": "경북신문..."
+      "id": 6,
+      "title": "리쥬란 피에이치 밸런싱 젤 클렌저는 ﻿리쥬란코스메틱의 독자 성분 c-PDRN, 식물 유래 추출물을 함유해 세정 단계부터 피부 장벽을 보호하는 것이... 제품이다\"라며 \"민감성 피부",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=289512",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5679%2F2026%2F01%2F21%2F255152.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "포인트데일리33분 전",
+      "date": "2026. 1. 21.",
+      "description": "포인트데일리..."
     },
     {
-      "id": 31,
-      "title": "식물성 음료 11종 비교해보니…단백질 '검은콩', 탄수화물 '오트' 최고",
-      "link": "https://www.kizmom.com/news/articleView.html?idxno=107192",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5310%2F2026%2F01%2F20%2F59638.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "키즈맘16시간 전",
-      "date": "2026. 1. 20.",
-      "description": "키즈맘..."
+      "id": 7,
+      "title": "리쥬란코스메틱, 클리닉 라인 '피에이치 밸런싱 젤 클렌저' 출시",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=689411",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F01%2F21%2F493233.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "컨슈머타임스37분 전",
+      "date": "2026. 1. 21.",
+      "description": "컨슈머타임스..."
     },
     {
-      "id": 32,
-      "title": "GIST-FAO(유엔식량농업기구), 전략적 파트너십 출범 LOI(협력의향서) 체...",
-      "link": "http://www.kyosu.net/news/articleView.html?idxno=155513",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5150%2F2026%2F01%2F20%2F109201.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "교수신문16시간 전",
-      "date": "2026. 1. 20.",
-      "description": "교수신문..."
+      "id": 8,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5454%2F2024%2F05%2F30%2Flogo_5454_18_20240530183250.png&type=f54_54&expire=24&refresh=true",
+      "press": "건강다이제스트5분 전",
+      "date": "2026. 1. 21.",
+      "description": "건강다이제스트..."
     },
     {
-      "id": 33,
-      "title": "CJ웰케어, 설 맞아 흑삼 중심 건강 선물세트 48종 출시",
-      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3070764",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F01%2F20%2F47931.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)16시간 전",
-      "date": "2026. 1. 20.",
-      "description": "퍼블릭뉴스통신(public news-network for TTL)..."
+      "id": 9,
+      "title": "[읍면동간담회]동면 \"신도시 정주여건 개선\" 양주 \"노후화 된 도심에 활...",
+      "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=122385",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5904%2F2026%2F01%2F21%2F7550.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "양산신문55분 전",
+      "date": "2026. 1. 21.",
+      "description": "양산신문..."
     },
     {
-      "id": 34,
-      "title": "식음료업계 신년 다짐 소비 공략 나서",
-      "link": "https://www.naeil.com/news/read/575016?ref=naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5312%2F2026%2F01%2F20%2F322543.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "내일신문17시간 전",
-      "date": "2026. 1. 20.",
-      "description": "내일신문..."
-    },
-    {
-      "id": 35,
-      "title": "\"새해 건강해질 결심\"…거래액 233%나 증가한 '이것'",
-      "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77254",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F01%2F20%2F23426.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "매경헬스17시간 전",
-      "date": "2026. 1. 20.",
-      "description": "매경헬스..."
-    },
-    {
-      "id": 36,
-      "title": "석류, 흑마늘, 배도라지, 양배추, 브로콜리 등 식물성 원료를 기반으로 한 제품군으로, 일상적인 건강 관리를 고려한 구성이 특징이다. ‘자연건강 석류콜라겐’, ‘자연건강 흑마늘달임",
-      "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=322072",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F01%2F20%2F199960.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "약업신문17시간 전",
-      "date": "2026. 1. 20.",
+      "id": 10,
+      "title": "그래디언트 래디웰, ‘하루영양’ 시리즈 론칭…신제품 2종 출시",
+      "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=322110",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F01%2F21%2F199996.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "약업신문1시간 전",
+      "date": "2026. 1. 21.",
       "description": "약업신문..."
     },
     {
-      "id": 37,
-      "title": "CJ웰케어, 설 건강 선물세트 48종 선봬",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=68789",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5853%2F2026%2F01%2F20%2F38026.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "포인트경제18시간 전",
-      "date": "2026. 1. 20.",
-      "description": "포인트경제..."
+      "id": 11,
+      "title": "파마리서치 리쥬란코스메틱, '리쥬란 피에이치 밸런싱 젤 클렌저' 출시",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=405652",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F01%2F21%2F231350.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디파나뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "메디파나뉴스..."
     },
     {
-      "id": 38,
-      "title": "단백질 보충은 '매일두유 검은콩', 다이어트엔 '오트몬드' 적합",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1695935",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5093%2F2026%2F01%2F20%2F663277.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "EBN18시간 전",
-      "date": "2026. 1. 20.",
-      "description": "EBN..."
+      "id": 12,
+      "title": "이번 신제품은 리쥬란 코스메틱만의 독자 성분 c-PDRN과 식물 유래 추출물을 함유해, 세정 단계부터 피부 장벽을 보호하고 건강한 피부 환경을 유지하는... 이러한 저자극 세정력을",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=71256",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5201%2F2026%2F01%2F21%2F38265.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "프레스나인1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "프레스나인..."
     },
     {
-      "id": 39,
-      "title": "CJ웰케어, '한뿌리 흑삼'부터 유산균까지 설 선물세트 대전",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257173",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5120%2F2026%2F01%2F20%2F200909.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "화이트페이퍼18시간 전",
-      "date": "2026. 1. 20.",
-      "description": "화이트페이퍼..."
+      "id": 13,
+      "title": "리쥬란 코스메틱, '리쥬란 피에이치 밸런싱 젤 클렌저' 출시",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=73070",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5911%2F2026%2F01%2F21%2F23682.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "히트뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "히트뉴스..."
     },
     {
-      "id": 40,
-      "title": "\"어떻게 못 봐\" 마라톤 유망주, 대회 중 참변...유족 분통",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03037286645319688",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F01%2F20%2F6203761.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이데일리18시간 전네이버뉴스",
-      "date": "2026. 1. 20.",
-      "description": "이데일리..."
+      "id": 14,
+      "title": "포케올데이, 탄단지 밸런스 앞세운 웰니스 도시락 '밸런스 박스' 5종 출...",
+      "link": "http://www.e2news.com/news/articleView.html?idxno=327058",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5118%2F2026%2F01%2F21%2F154479.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이투뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "이투뉴스..."
     },
     {
-      "id": 41,
-      "title": "'녹슨 철' 재활용…정원 철제 조형물로 재탄생",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000020311",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5379%2F2026%2F01%2F20%2F292605.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전남일보19시간 전",
-      "date": "2026. 1. 20.",
-      "description": "전남일보..."
+      "id": 15,
+      "title": "이번 신제품은 리쥬란 코스메틱만의 독자 성분 c-PDRN과 식물 유래 추출물을 함유해 세정 단계부터 피부 장벽을 보호하고 건강한 피부 환경을 유지하는 데... 이러한 저자극 세정력",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=133677",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F01%2F21%2F57957.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "메디소비자뉴스..."
     },
     {
-      "id": 42,
-      "title": "CJ웰케어, 설 건강선물세트 48종 선봬...최대 55% 할인전",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=710427",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F01%2F20%2F630069.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "싱글리스트19시간 전",
-      "date": "2026. 1. 20.",
+      "id": 16,
+      "title": "뉴질랜드 비치우드 감로꿀이 특별한 이유",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=102018",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F01%2F21%2F96489.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "E동아1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "E동아..."
+    },
+    {
+      "id": 17,
+      "title": "포케올데이, 탄단지 밸런스 신메뉴 '밸런스 박스' 5종 출시···웰니스식...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46102",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F01%2F21%2F31172.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이넷뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "이넷뉴스..."
+    },
+    {
+      "id": 18,
+      "title": "파마리서치, 클리닉 라인 신제품 '리쥬란 피에이치 밸런싱 젤 클렌저' 출...",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=300994",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F01%2F21%2F48389.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 19,
+      "title": "파마리서치, 리쥬란 클리닉 신제품 출시",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=810364",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F01%2F21%2F424585.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한스경제1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "한스경제..."
+    },
+    {
+      "id": 20,
+      "title": "파마리서치, '리쥬란 pH 밸런싱 젤 클렌저' 출시",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=419831",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F01%2F21%2F383821.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "핀포인트뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "핀포인트뉴스..."
+    },
+    {
+      "id": 21,
+      "title": "빙그레 영업익 3년 만에 1000억 하회…김광수 대표 수익성 시험대",
+      "link": "http://www.datanews.co.kr/news/article.html?no=142881",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5024%2F2026%2F01%2F21%2F118210.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데이터뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "데이터뉴스..."
+    },
+    {
+      "id": 22,
+      "title": "바로나코스메틱, 남성용 건강 마사지 젤 '엠존 프로(M-ZONE PRO)' 출시",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=147152",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F01%2F21%2F97312.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "베이비뉴스1시간 전",
+      "date": "2026. 1. 21.",
+      "description": "베이비뉴스..."
+    },
+    {
+      "id": 23,
+      "title": "브리티시엠, 생강 더한 두피 건강 '진저 딥 클렌저' 출시",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=36275",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5763%2F2026%2F01%2F21%2F22668.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "글로벌E2시간 전",
+      "date": "2026. 1. 21.",
+      "description": "글로벌E..."
+    },
+    {
+      "id": 24,
+      "title": "'‌‌원조 ‌숲해설가'가 ‌만든‌ 1,000평‌ 온실‌ 식물원 [마인바움...",
+      "link": "http://san.chosun.com/news/articleView.html?idxno=25421",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F094%2F2026%2F01%2F21%2F13233.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "월간 산2시간 전네이버뉴스",
+      "date": "2026. 1. 21.",
+      "description": "월간 산..."
+    },
+    {
+      "id": 25,
+      "title": "브리티시엠, 생강 성분 함유 '진저 딥 클렌저' 출시",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=710629",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F01%2F21%2F630265.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "싱글리스트2시간 전",
+      "date": "2026. 1. 21.",
       "description": "싱글리스트..."
     },
     {
+      "id": 26,
+      "title": "농림축산식품부 공공기관 브랜드평판 1월 빅데이터 분석... 1위 한국농어...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=419793",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F01%2F21%2F383775.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "핀포인트뉴스2시간 전",
+      "date": "2026. 1. 21.",
+      "description": "핀포인트뉴스..."
+    },
+    {
+      "id": 27,
+      "title": "K-막걸리, 왕의 옷을 입고 세계로 향하다",
+      "link": "https://www.abcn.kr/news/articleView.html?idxno=85982",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5628%2F2026%2F01%2F21%2F19908.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "ABC뉴스8시간 전",
+      "date": "2026. 1. 21.",
+      "description": "ABC뉴스..."
+    },
+    {
+      "id": 28,
+      "title": "겨울 끝에서 가장 먼저 향을 내는 채소, 미나리",
+      "link": "https://cooknchefnews.com/news/view/1065613095091786",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23384.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "쿡앤셰프10시간 전",
+      "date": "2026. 1. 21.",
+      "description": "쿡앤셰프..."
+    },
+    {
+      "id": 29,
+      "title": "[식생활 건강노트] 겨울에 몸이 먼저 찾는 해조류, 매생이의 영양 밀도",
+      "link": "https://cooknchefnews.com/news/view/1065576445171563",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23379.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "쿡앤셰프10시간 전",
+      "date": "2026. 1. 21.",
+      "description": "쿡앤셰프..."
+    },
+    {
+      "id": 30,
+      "title": "식물성 음료, 원료 따라 영양 ‘천차만별’… “목적에 맞춰 골라야”",
+      "link": "https://cooknchefnews.com/news/view/1065593310535403",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F01%2F20%2F23376.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "쿡앤셰프10시간 전",
+      "date": "2026. 1. 21.",
+      "description": "쿡앤셰프..."
+    },
+    {
+      "id": 31,
+      "title": "[기후탐사대] 판다·대나무·곰…기후 위기의 경고?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8464101&ref=A",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F01%2F20%2F12108850.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "KBS14시간 전네이버뉴스",
+      "date": "2026. 1. 21.",
+      "description": "KBS..."
+    },
+    {
+      "id": 32,
+      "title": "[이슈] 개헌 합의해도 투표 불가... 11년째 식물법안 된 국민투표법, 6월...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=335869",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F01%2F20%2F174970.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "녹색경제신문15시간 전",
+      "date": "2026. 1. 21.",
+      "description": "녹색경제신문..."
+    },
+    {
+      "id": 33,
+      "title": "KAIST-대전시 글로벌 창업 앵커 역할 '톡톡'···딥테크 기업, 시장 안착...",
+      "link": "http://www.hellodd.com/news/articleView.html?idxno=110597",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5409%2F2026%2F01%2F20%2F26578.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "헬로디디15시간 전",
+      "date": "2026. 1. 21.",
+      "description": "헬로디디..."
+    },
+    {
+      "id": 34,
+      "title": "해양 '탄소 저장' 방해하는 미세플라스틱, 기후 변화 새 변수 됐다",
+      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=305887",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5194%2F2026%2F01%2F20%2F125445.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "그린포스트코리아15시간 전",
+      "date": "2026. 1. 21.",
+      "description": "그린포스트코리아..."
+    },
+    {
+      "id": 35,
+      "title": "서천호 의원, 임업소득 비과세 확대 법안 발의…\"조세 형평성 회복\"",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=400762",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F01%2F20%2F79294.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "한국농어민신문16시간 전",
+      "date": "2026. 1. 21.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 36,
+      "title": "탄소중립에서 자원순환까지…예천군 ‘클린예천’ 실현 박차",
+      "link": "https://www.cnbnews.com/news/article.html?no=774169",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5293%2F2026%2F01%2F20%2F494989.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "CNB뉴스16시간 전",
+      "date": "2026. 1. 21.",
+      "description": "CNB뉴스..."
+    },
+    {
+      "id": 37,
+      "title": "정관장 '기다림 침향', 출시 1년 8개월 만에 매출 200억 돌파",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=653123",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5206%2F2026%2F01%2F20%2F121490.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "한국금융경제신문17시간 전",
+      "date": "2026. 1. 21.",
+      "description": "한국금융경제신문..."
+    },
+    {
+      "id": 38,
+      "title": "예천군, 2026년 환경정책에 225억 투입…탄소중립 선도도시 추진",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1223174",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F01%2F20%2F300037.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "전국매일신문17시간 전",
+      "date": "2026. 1. 21.",
+      "description": "전국매일신문..."
+    },
+    {
+      "id": 39,
+      "title": "예천군, ‘탄소중립 선도도시·지속가능한 클린예천’ 사업 추진",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=798361",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F01%2F20%2F764963.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "NSP통신17시간 전",
+      "date": "2026. 1. 21.",
+      "description": "NSP통신..."
+    },
+    {
+      "id": 40,
+      "title": "CJ웰케어, 건강 선물세트 48종 선봬",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596435297597",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F01%2F20%2F72518.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메가경제18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "메가경제..."
+    },
+    {
+      "id": 41,
+      "title": "CJ웰케어, 2026년 설 명절 건강 선물세트 구성과 특징은?",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=411163",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F01%2F20%2F290755.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스워커18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "뉴스워커..."
+    },
+    {
+      "id": 42,
+      "title": "\"안전 통제 되지 않아\" 마라톤 유망주, 대회 중 참변...유족 '분통'",
+      "link": "http://www.fnnews.com/news/202601201538301388",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F01%2F20%2F5465630.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스18시간 전네이버뉴스",
+      "date": "2026. 1. 21.",
+      "description": "파이낸셜뉴스..."
+    },
+    {
       "id": 43,
-      "title": "[오늘 뭐 먹지] 제주삼다수·농심·매일유업 외",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=720846",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F01%2F20%2F384491.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프라임경제19시간 전",
-      "date": "2026. 1. 20.",
-      "description": "프라임경제..."
+      "title": "예천군, 탄소중립 선도도시 건설 박차",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=858023",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F01%2F20%2F472003.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "글로벌경제18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "글로벌경제..."
     },
     {
       "id": 44,
-      "title": "\"24년만에 처음, 서울시 고마워요\"... 매년 12월 사라졌던 이것, 봄까지...",
-      "link": "https://www.insight.co.kr/news/538860",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F01%2F20%2F328993.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인사이트19시간 전",
-      "date": "2026. 1. 20.",
-      "description": "인사이트..."
+      "title": "\"피부 건강 수명 관리\" 한국암웨이, '아티스트리 롱제비티 크림' 2종 출...",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1324773",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F01%2F20%2F756369.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리한국18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "데일리한국..."
     },
     {
       "id": 45,
-      "title": "배박ㆍ감귤박…농산부산물, 식품 소재 등 다양한 재활용 유형 실증",
-      "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=116910",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5595%2F2026%2F01%2F20%2F29858.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "식품저널 foodnews20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "식품저널 foodnews..."
+      "title": "\"붉은 말의 기운을 선물하세요\" CJ웰케어, '흑삼대보 적마 에디션' 한정...",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=95582",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5516%2F2026%2F01%2F20%2F50535.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리팝18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "데일리팝..."
     },
     {
       "id": 46,
-      "title": "\"평택항을 태양광으로 덮을 것인가, 미래 성장으로 키울 것인가\"",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=462756",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5713%2F2026%2F01%2F20%2F74565.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경인방송20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "경인방송..."
+      "title": "예천군, 환경정책에 225억 투입…탄소중립 선도도시 조성 박차",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4062217",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F01%2F20%2F506454.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경북일보18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "경북일보..."
     },
     {
       "id": 47,
-      "title": "CJ웰케어, 설 명절 맞아 건강 선물세트 48종 선봬",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=545891",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5824%2F2026%2F01%2F20%2F72054.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스저널리즘20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "뉴스저널리즘..."
+      "title": "차분한 풍경 속 따뜻한 공간들, 이천 가볼만한곳 한눈에",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15939541",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F01%2F20%2F1185380.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "톱스타뉴스18시간 전",
+      "date": "2026. 1. 21.",
+      "description": "톱스타뉴스..."
     },
     {
       "id": 48,
-      "title": "석류, 흑마늘, 배도라지, 양배추, 브로콜리 등 식물성 원료를 기반으로 한 제품군으로, 일상적인 건강 관리를 고려한 구성이 특징이다. '자연건강 석류콜라겐', '자연건강 흑마늘달임",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=194648",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5589%2F2026%2F01%2F20%2F137913.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "SR타임스20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "SR타임스..."
+      "title": "예천군, 2026년 환경정책에 225억 투입…전기차 224대·노후경유차 320대...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2383798",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F01%2F20%2F1142619.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이뉴스투데이19시간 전",
+      "date": "2026. 1. 21.",
+      "description": "이뉴스투데이..."
     },
     {
       "id": 49,
-      "title": "CJ웰케어, 전통과 새해 상징 담은 '설 건강 선물세트' 48종 출시",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=105563",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F01%2F20%2F60753.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "뉴스드림..."
+      "title": "자연산 바다생선 단백질로 시작하는 식이민감증 관리...포르자10 액티브...",
+      "link": "https://www.dailyvet.co.kr/news/industry/270799",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5392%2F2026%2F01%2F20%2F21894.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리벳19시간 전",
+      "date": "2026. 1. 21.",
+      "description": "데일리벳..."
     },
     {
       "id": 50,
-      "title": "GIST - FAO, 전략적 파트너십 출범 LOI(협력의향서) 체결 및 공동워크숍...",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=411026",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F01%2F20%2F290653.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스워커20시간 전",
-      "date": "2026. 1. 20.",
-      "description": "뉴스워커..."
+      "title": "[최병일의 북토피아]온실에서 피어난 이야기의 꽃",
+      "link": "https://www.nc.press/news/articleView.html?idxno=605178",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5339%2F2026%2F01%2F20%2F319976.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스컬처19시간 전",
+      "date": "2026. 1. 21.",
+      "description": "뉴스컬처..."
     }
   ]
 }

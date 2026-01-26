@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-01-26T04:14:30.577Z",
-  "lastUpdatedKST": "2026. 1. 26. 오후 1:14:30",
+  "lastUpdated": "2026-01-26T06:29:43.322Z",
+  "lastUpdatedKST": "2026. 1. 26. 오후 3:29:43",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "브라운성형외과, 더모 코스메틱 '디브라우너즈' 론칭",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=147461",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F01%2F26%2F97582.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스3분 전",
+      "title": "한국연구재단 \"메타유전체 빅데이터 기능 분석 파이프라인 개발\"",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=123493",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F01%2F26%2F25308.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스3분 전",
       "date": "2026. 1. 26.",
-      "description": "베이비뉴스..."
+      "description": "이코노미사이언스..."
     },
     {
       "id": 2,
-      "title": "NRF, 메타유전체 빅데이터 기능 분석 도구 소개",
-      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399437",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F01%2F26%2F248701.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청뉴스9분 전",
+      "title": "뉴케어, '당플랜 저당 안심 크런치칩' 2종 출시",
+      "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4017515",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5544%2F2026%2F01%2F26%2F893759.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "내외경제tv7분 전",
       "date": "2026. 1. 26.",
-      "description": "충청뉴스..."
+      "description": "내외경제tv..."
     },
     {
       "id": 3,
-      "title": "\"당 걱정 줄이고 바삭함은 그대로\"…대상웰라이프, 뉴케어 당플랜 크런...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=489645",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F26%2F156298.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스43분 전",
+      "title": "로레알, 1000대 1 뚫은 '미래 뷰티' 혁신기업 13팀 선정... 1억 유로 투자...",
+      "link": "http://www.impacton.net/news/articleView.html?idxno=17732",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5885%2F2026%2F01%2F26%2F6527.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "임팩트온17분 전",
+      "date": "2026. 1. 26.",
+      "description": "임팩트온..."
+    },
+    {
+      "id": 4,
+      "title": "대상웰라이프, 뉴케어 '당플랜 저당 안심 크런치칩' 출시",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=121279",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5489%2F2026%2F01%2F26%2F89206.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "직썰27분 전",
+      "date": "2026. 1. 26.",
+      "description": "직썰..."
+    },
+    {
+      "id": 5,
+      "title": "고령 가볼 만한 곳, 전통과 자연이 어우러진 겨울 산책",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=489772",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F26%2F156356.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "중앙이코노미뉴스1시간 전",
       "date": "2026. 1. 26.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 4,
-      "title": "[제약소식] 동화약품, 입술염 치료제 '큐립연고' 마일드허브향 출시 등",
-      "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77347",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F01%2F26%2F23492.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "매경헬스45분 전",
-      "date": "2026. 1. 26.",
-      "description": "매경헬스..."
-    },
-    {
-      "id": 5,
-      "title": "연구재단, '메타펀' 기술 개발...마이크로바이옴 분석 쉽고 빠르게",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=870388",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F01%2F26%2F489513.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충남일보1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "충남일보..."
-    },
-    {
       "id": 6,
-      "title": "사후 관리(애프터 케어)에 대한 노하우를 접목해 견고한 피부 장벽의 재설계를 위한 '스킨 아키텍처 솔루션'을 디브라우너즈에 담았다. 디브라우너즈는 론칭과 함께 앰플·크림·클렌저 총",
-      "link": "http://www.ktnews.com/news/articleView.html?idxno=143612",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5381%2F2026%2F01%2F26%2F46697.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국섬유신문1시간 전",
+      "title": "대상웰라이프 뉴케어, '당플랜 저당 안심 크런치칩' 2종 출시",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=421706",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F01%2F26%2F385588.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "핀포인트뉴스1시간 전",
       "date": "2026. 1. 26.",
-      "description": "한국섬유신문..."
+      "description": "핀포인트뉴스..."
     },
     {
       "id": 7,
       "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
       "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5295%2F2024%2F05%2F30%2Flogo_5295_18_20240530174756.png&type=f54_54&expire=24&refresh=true",
-      "press": "베이비뉴스3분 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5550%2F2025%2F01%2F14%2Flogo_5550_18_20250114134930.png&type=f54_54&expire=24&refresh=true",
+      "press": "이코노미사이언스3분 전",
+      "date": "2026. 1. 26.",
+      "description": "이코노미사이언스..."
+    },
+    {
+      "id": 8,
+      "title": "단호박 유기재배<22> 덩굴쪼김병과 바이러스병",
+      "link": "https://www.farmnmarket.com/news/article.html?no=25366",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5649%2F2026%2F01%2F26%2F17008.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "팜앤마켓매거진1시간 전",
+      "date": "2026. 1. 26.",
+      "description": "팜앤마켓매거진..."
+    },
+    {
+      "id": 9,
+      "title": "삼청당, 저당·저칼로리 냉동김밥 2종 출시",
+      "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4017524",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5544%2F2026%2F01%2F26%2F893754.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "내외경제tv1시간 전",
+      "date": "2026. 1. 26.",
+      "description": "내외경제tv..."
+    },
+    {
+      "id": 10,
+      "title": "대상웰라이프, 짭짤한 감칠맛으로 '식단 관리' 종결시킨 저당 고단백 크...",
+      "link": "https://www.insight.co.kr/news/539921",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F01%2F26%2F330023.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인사이트1시간 전",
+      "date": "2026. 1. 26.",
+      "description": "인사이트..."
+    },
+    {
+      "id": 11,
+      "title": "대상웰라이프 '뉴케어 당플랜 저당 안심 크런치칩' 출시",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=546392",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5824%2F2026%2F01%2F26%2F72492.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스저널리즘1시간 전",
+      "date": "2026. 1. 26.",
+      "description": "뉴스저널리즘..."
+    },
+    {
+      "id": 12,
+      "title": "대상웰라이프, '뉴케어 당플랜 저당 안심 크런치칩' 2종 선봬",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=191916",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5560%2F2026%2F01%2F26%2F143241.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "더퍼스트2시간 전",
+      "date": "2026. 1. 26.",
+      "description": "더퍼스트..."
+    },
+    {
+      "id": 13,
+      "title": "브라운성형외과, 더모 코스메틱 '디브라우너즈' 론칭",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=147461",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F01%2F26%2F97582.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "베이비뉴스2시간 전",
       "date": "2026. 1. 26.",
       "description": "베이비뉴스..."
     },
     {
-      "id": 8,
-      "title": "상품성 뛰어난 우아한 우리 꽃 '벌개미취'",
-      "link": "http://www.dtnews24.com/news/articleView.html?idxno=805899",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5232%2F2026%2F01%2F26%2F249328.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "디트뉴스241시간 전",
-      "date": "2026. 1. 26.",
-      "description": "디트뉴스24..."
-    },
-    {
-      "id": 9,
-      "title": "\"카사바·녹두 구워 '바삭함·포만감' 높인 185㎉스낵\" 뉴케어 '안심크런...",
-      "link": "https://www.catchnews.kr/news/articleView.html?idxno=119860",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5140%2F2026%2F01%2F26%2F99143.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "CATCH NEWS1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "CATCH NEWS..."
-    },
-    {
-      "id": 10,
-      "title": "안면 윤곽 분야 및 사후 관리(애프터 케어)에 대한 노하우를 접목해 견고한 피부 장벽 재설계를 위한 '스킨 아키텍처 솔루션'을 담았다. 디브라우너즈는 론칭과 함께 앰플·크림·클렌저",
-      "link": "http://www.bokuennews.com/news/article.html?no=272867",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F01%2F26%2F108777.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "보건뉴스1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "보건뉴스..."
-    },
-    {
-      "id": 11,
-      "title": "남원시, 기후변화 속 병해충 선제 차단 나선다",
-      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=790539",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5232%2F2024%2F05%2F31%2Flogo_5232_18_20240531135652.png&type=f54_54&expire=24&refresh=true",
-      "press": "전라일보1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "전라일보..."
-    },
-    {
-      "id": 12,
-      "title": "[유통가 레이더] '불닭 대박' 삼양식품, 명동 시대 열었다... 불닭 탄생...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=336104",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F01%2F26%2F175155.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "녹색경제신문..."
-    },
-    {
-      "id": 13,
-      "title": "[수원시 소식] 2026년 공유재산 사전 전수조사·수원박물관 '입춘첩 나누...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=828531",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F01%2F26%2F421134.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스웍스1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "뉴스웍스..."
-    },
-    {
       "id": 14,
-      "title": "뉴케어, '당플랜 저당 안심 크런치칩' 2종 출시",
-      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=239857",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5517%2F2026%2F01%2F26%2F141526.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인사이트코리아1시간 전",
-      "date": "2026. 1. 26.",
-      "description": "인사이트코리아..."
-    },
-    {
-      "id": 15,
-      "title": "국립백두대간수목원, 백두대간 자생식물 종자수집사업 성공적",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=531507",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5581%2F2024%2F05%2F31%2Flogo_5581_18_20240531135746.png&type=f54_54&expire=24&refresh=true",
-      "press": "대경일보2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "대경일보..."
-    },
-    {
-      "id": 16,
-      "title": "디오스랩 '디오스트리플러스', 하남 스타필드 약국 입점",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46396",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F01%2F26%2F31296.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이넷뉴스2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "이넷뉴스..."
-    },
-    {
-      "id": 17,
-      "title": "[칼럼] 세금을 내는 나무와 유전체를 품은 나무",
-      "link": "https://www.sejungilbo.com/news/articleView.html?idxno=56790",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5571%2F2026%2F01%2F26%2F29076.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "세정일보2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "세정일보..."
-    },
-    {
-      "id": 18,
-      "title": "태안군, \"마음의 문 똑똑\" 찾아가는 방문상담 운영",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=888305",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5498%2F2024%2F05%2F31%2Flogo_5498_18_20240531134840.png&type=f54_54&expire=24&refresh=true",
-      "press": "충청타임즈2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "충청타임즈..."
-    },
-    {
-      "id": 19,
-      "title": "태안군 \"마음의 문 똑똑\" 찾아가는 방문상담 운영",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1138009",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5356%2F2026%2F01%2F26%2F774594.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "금강일보2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "금강일보..."
-    },
-    {
-      "id": 20,
-      "title": "저당에 '바삭함'까지 잡았다… 대상웰라이프 '저당 안심 크런치칩' 출시",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=245433",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5703%2F2026%2F01%2F26%2F147673.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜포스트2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "파이낸셜포스트..."
-    },
-    {
-      "id": 21,
-      "title": "대상웰라이프, '뉴케어 당플랜 저당 안심 크런치칩' 출시… 저당·고단...",
-      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=119155",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5693%2F2026%2F01%2F26%2F101091.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스마트경제2시간 전",
-      "date": "2026. 1. 26.",
-      "description": "스마트경제..."
-    },
-    {
-      "id": 22,
-      "title": "'얼음골, 겨울에 따뜻한 이유는'…국립수목원 25곳 조사",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008417914&plink=ORI&cooper=NAVER",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F055%2F2026%2F01%2F26%2F1327432.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "SBS2시간 전네이버뉴스",
-      "date": "2026. 1. 26.",
-      "description": "SBS..."
-    },
-    {
-      "id": 23,
-      "title": "대상웰라이프, 저당 간식 내놨다… \"혈당 관리도 바삭하게\"",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=176462",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5638%2F2026%2F01%2F26%2F135316.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국면세뉴스3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "한국면세뉴스..."
-    },
-    {
-      "id": 24,
-      "title": "[이동재의 기능의학] 매일의 식사가 세포 나이를 바꿉니다!",
-      "link": "https://www.ikunkang.com/news/articleView.html?idxno=50276",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5454%2F2026%2F01%2F26%2F15493.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "건강다이제스트3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "건강다이제스트..."
-    },
-    {
-      "id": 25,
-      "title": "브라운성형외과, 17년 노하우 담은 '디브라우너즈' 론칭",
-      "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2268619",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F01%2F26%2F211667.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "의학신문3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "의학신문..."
-    },
-    {
-      "id": 26,
-      "title": "대상웰라이프 '뉴케어', '당플랜 저당 안심 크런치칩' 2종 출시",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=105958",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F01%2F26%2F61120.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "뉴스드림..."
-    },
-    {
-      "id": 27,
-      "title": "이후 푸드테라피와 반려식물 돌봄, 가족 케이크 만들기 등 오감을 활용한 활동을 병행한다. 일상의 스트레스를 해소하고 가족 간 긍정적인 대화법을... 센터에서는 홈페이지를 통한 공개",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2393773",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5116%2F2024%2F05%2F30%2Flogo_5116_18_20240530171556.png&type=f54_54&expire=24&refresh=true",
-      "press": "충청일보3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "충청일보..."
-    },
-    {
-      "id": 28,
-      "title": "대상웰라이프,  저당 설계...고단백·고식이섬유 영양 간식",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=720832",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F01%2F26%2F473074.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "폴리뉴스3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "폴리뉴스..."
-    },
-    {
-      "id": 29,
-      "title": "[정책브리핑] 산업부, 대·중·소기업 '공급망 탄소파트너십' 모집",
-      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14248",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F01%2F26%2F9361.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "ESG경제3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "ESG경제..."
-    },
-    {
-      "id": 30,
-      "title": "[해외브리핑] 유럽 주요국, 트럼프 비판에도 풍력 발전 경쟁적 확대",
-      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14249",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F01%2F26%2F9362.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "ESG경제3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "ESG경제..."
-    },
-    {
-      "id": 31,
-      "title": "【데일리 ESG정책 브리핑】정부, 재생에너지 확대에 따라 수급관리 체계...",
-      "link": "http://www.impacton.net/news/articleView.html?idxno=17724",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5885%2F2026%2F01%2F26%2F6524.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "임팩트온3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "임팩트온..."
-    },
-    {
-      "id": 32,
-      "title": "대상웰라이프, 당류 0.5g 저당 스낵 출시",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02542006645321656",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F01%2F26%2F6207005.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이데일리3시간 전네이버뉴스",
-      "date": "2026. 1. 26.",
-      "description": "이데일리..."
-    },
-    {
-      "id": 33,
-      "title": "뉴케어, 당플랜 저당 안심 크런치칩으로 부담 없는 간식 확장",
-      "link": "http://www.m-i.kr/news/articleView.html?idxno=1329454",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F01%2F26%2F836818.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보3시간 전",
-      "date": "2026. 1. 26.",
-      "description": "매일일보..."
-    },
-    {
-      "id": 34,
-      "title": "태안군, 찾아가는 방문상담 운영",
-      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399397",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F01%2F26%2F248642.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청뉴스3시간 전",
+      "title": "NRF, 메타유전체 빅데이터 기능 분석 도구 소개",
+      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399437",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F01%2F26%2F248701.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청뉴스2시간 전",
       "date": "2026. 1. 26.",
       "description": "충청뉴스..."
     },
     {
-      "id": 35,
-      "title": "1봉(40g) 기준 185kcal, 당류 0.5g으로 설계돼 식단 관리 중에도 부담 없이 즐길 수 있으며, 고 단백질(7g), 고 식이섬유(2.8g) 함유로 포만감을 높였다. 여기",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=711781",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F01%2F26%2F631373.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "싱글리스트3시간 전",
+      "id": 15,
+      "title": "\"당 걱정 줄이고 바삭함은 그대로\"…대상웰라이프, 뉴케어 당플랜 크런...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=489645",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F26%2F156298.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "중앙이코노미뉴스2시간 전",
       "date": "2026. 1. 26.",
-      "description": "싱글리스트..."
+      "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 36,
-      "title": "대상웰라이프, '뉴케어 당플랜 저당 안심 크런치칩' 출시",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=272070",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F01%2F26%2F215802.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "열린뉴스통신3시간 전",
+      "id": 16,
+      "title": "[제약소식] 동화약품, 입술염 치료제 '큐립연고' 마일드허브향 출시 등",
+      "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77347",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F01%2F26%2F23492.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "매경헬스3시간 전",
       "date": "2026. 1. 26.",
-      "description": "열린뉴스통신..."
+      "description": "매경헬스..."
     },
     {
-      "id": 37,
-      "title": "대상웰라이프 뉴케어, '당플랜 저당 안심 크런치칩' 2종 출시",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=109602",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F01%2F26%2F72381.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팝콘뉴스3시간 전",
+      "id": 17,
+      "title": "연구재단, '메타펀' 기술 개발...마이크로바이옴 분석 쉽고 빠르게",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=870388",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F01%2F26%2F489513.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충남일보3시간 전",
       "date": "2026. 1. 26.",
-      "description": "팝콘뉴스..."
+      "description": "충남일보..."
     },
     {
-      "id": 38,
-      "title": "[기누카사의 잔디관리 기초 22] 저녁관수는 생장 돕지만 저온기에는 피...",
-      "link": "http://www.golfin.co.kr/news/articleView.html?idxno=7553",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5661%2F2026%2F01%2F26%2F4201.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "골프산업신문3시간 전",
+      "id": 18,
+      "title": "사후 관리(애프터 케어)에 대한 노하우를 접목해 견고한 피부 장벽의 재설계를 위한 '스킨 아키텍처 솔루션'을 디브라우너즈에 담았다. 디브라우너즈는 론칭과 함께 앰플·크림·클렌저 총",
+      "link": "http://www.ktnews.com/news/articleView.html?idxno=143612",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5381%2F2026%2F01%2F26%2F46697.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국섬유신문3시간 전",
       "date": "2026. 1. 26.",
-      "description": "골프산업신문..."
+      "description": "한국섬유신문..."
     },
     {
-      "id": 39,
-      "title": "[위클리오늘] 대상웰라이프, 저당·고단백 간식 '뉴케어 당플랜 크런치...",
-      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=754195",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5294%2F2026%2F01%2F26%2F440815.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "위클리오늘3시간 전",
+      "id": 19,
+      "title": "상품성 뛰어난 우아한 우리 꽃 '벌개미취'",
+      "link": "http://www.dtnews24.com/news/articleView.html?idxno=805899",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5232%2F2026%2F01%2F26%2F249328.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "디트뉴스243시간 전",
       "date": "2026. 1. 26.",
-      "description": "위클리오늘..."
+      "description": "디트뉴스24..."
     },
     {
-      "id": 40,
-      "title": "[박치현의 기후과학] 기후위기와 농업 생태계의 구조적 재편",
-      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21104",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F26%2F8563.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스펭귄4시간 전",
+      "id": 20,
+      "title": "\"카사바·녹두 구워 '바삭함·포만감' 높인 185㎉스낵\" 뉴케어 '안심크런...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=119860",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5140%2F2026%2F01%2F26%2F99143.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "CATCH NEWS3시간 전",
       "date": "2026. 1. 26.",
-      "description": "뉴스펭귄..."
+      "description": "CATCH NEWS..."
     },
     {
-      "id": 41,
-      "title": "전주 도도동 일대, 정원산업·도시농업 중심지로 탈바꿈",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8468436&ref=A",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F01%2F26%2F12112131.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS5시간 전네이버뉴스",
+      "id": 21,
+      "title": "안면 윤곽 분야 및 사후 관리(애프터 케어)에 대한 노하우를 접목해 견고한 피부 장벽 재설계를 위한 '스킨 아키텍처 솔루션'을 담았다. 디브라우너즈는 론칭과 함께 앰플·크림·클렌저",
+      "link": "http://www.bokuennews.com/news/article.html?no=272867",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F01%2F26%2F108777.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "보건뉴스3시간 전",
       "date": "2026. 1. 26.",
-      "description": "KBS..."
+      "description": "보건뉴스..."
     },
     {
-      "id": 42,
-      "title": "신품종보호 출원 1만4000건 넘어서…기후변화·바이오·소재 분야까지 ...",
-      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=312839",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F421%2F2025%2F03%2F07%2Flogo_421_100_20250307145710.png&type=f54_54&expire=24&refresh=true",
-      "press": "농수축산신문6시간 전",
+      "id": 22,
+      "title": "남원시, 기후변화 속 병해충 선제 차단 나선다",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=790539",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5140%2F2024%2F06%2F04%2Flogo_5140_18_20240604161500.png&type=f54_54&expire=24&refresh=true",
+      "press": "전라일보4시간 전",
       "date": "2026. 1. 26.",
-      "description": "농수축산신문..."
+      "description": "전라일보..."
     },
     {
-      "id": 43,
-      "title": "[땅이름 산책] (20) 세종시와 조치원: 풍수적으로는 안 좋지만 땅이름이...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3367403",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F01%2F26%2F1149575.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보8시간 전",
+      "id": 23,
+      "title": "[유통가 레이더] '불닭 대박' 삼양식품, 명동 시대 열었다... 불닭 탄생...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=336104",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F01%2F26%2F175155.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "녹색경제신문4시간 전",
       "date": "2026. 1. 26.",
-      "description": "천지일보..."
+      "description": "녹색경제신문..."
     },
     {
-      "id": 44,
-      "title": "가벼운 옷차림에 아이스크림까지…강추위 덮치자 '북적'",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008417365&plink=ORI&cooper=NAVER",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F055%2F2026%2F01%2F25%2F1327300.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "SBS16시간 전네이버뉴스",
+      "id": 24,
+      "title": "[수원시 소식] 2026년 공유재산 사전 전수조사·수원박물관 '입춘첩 나누...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=828531",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F01%2F26%2F421134.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스웍스4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "뉴스웍스..."
+    },
+    {
+      "id": 25,
+      "title": "1봉(40g) 기준 185kcal, 당류 0.5g으로 설계돼 식단 관리 중에도 부담 없이 즐길 수 있으며 고 단백질(7g), 고 식이섬유(2.8g) 함유로 포만감을 높였다. 여기에",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=239857",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5517%2F2026%2F01%2F26%2F141526.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인사이트코리아4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "인사이트코리아..."
+    },
+    {
+      "id": 26,
+      "title": "국립백두대간수목원, 백두대간 자생식물 종자수집사업 성공적",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=531507",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5581%2F2024%2F05%2F31%2Flogo_5581_18_20240531135746.png&type=f54_54&expire=24&refresh=true",
+      "press": "대경일보4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "대경일보..."
+    },
+    {
+      "id": 27,
+      "title": "[칼럼] 세금을 내는 나무와 유전체를 품은 나무",
+      "link": "https://www.sejungilbo.com/news/articleView.html?idxno=56790",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5571%2F2026%2F01%2F26%2F29076.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "세정일보4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "세정일보..."
+    },
+    {
+      "id": 28,
+      "title": "디오스랩 '디오스트리플러스', 하남 스타필드 약국 입점",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46396",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F01%2F26%2F31296.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이넷뉴스4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "이넷뉴스..."
+    },
+    {
+      "id": 29,
+      "title": "태안군, \"마음의 문 똑똑\" 찾아가는 방문상담 운영",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=888305",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5498%2F2024%2F05%2F31%2Flogo_5498_18_20240531134840.png&type=f54_54&expire=24&refresh=true",
+      "press": "충청타임즈4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "충청타임즈..."
+    },
+    {
+      "id": 30,
+      "title": "태안군 \"마음의 문 똑똑\" 찾아가는 방문상담 운영",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1138009",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5356%2F2026%2F01%2F26%2F774594.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "금강일보4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "금강일보..."
+    },
+    {
+      "id": 31,
+      "title": "저당에 '바삭함'까지 잡았다… 대상웰라이프 '저당 안심 크런치칩' 출시",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=245433",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5703%2F2026%2F01%2F26%2F147673.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜포스트4시간 전",
+      "date": "2026. 1. 26.",
+      "description": "파이낸셜포스트..."
+    },
+    {
+      "id": 32,
+      "title": "대상웰라이프, '뉴케어 당플랜 저당 안심 크런치칩' 출시… 저당·고단...",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=119155",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5693%2F2026%2F01%2F26%2F101091.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스마트경제5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "스마트경제..."
+    },
+    {
+      "id": 33,
+      "title": "'얼음골, 겨울에 따뜻한 이유는'…국립수목원 25곳 조사",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008417914&plink=ORI&cooper=NAVER",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F055%2F2026%2F01%2F26%2F1327432.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "SBS5시간 전네이버뉴스",
       "date": "2026. 1. 26.",
       "description": "SBS..."
     },
     {
-      "id": 45,
-      "title": "누적 관람객 610만 명 돌파…국립수목원·정원, 국민 관광지로 자리매김",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=536798",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5341%2F2026%2F01%2F25%2F355133.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대구신문20시간 전",
+      "id": 34,
+      "title": "대상웰라이프, 저당 간식 내놨다… \"혈당 관리도 바삭하게\"",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=176462",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5638%2F2026%2F01%2F26%2F135316.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국면세뉴스5시간 전",
       "date": "2026. 1. 26.",
-      "description": "대구신문..."
+      "description": "한국면세뉴스..."
+    },
+    {
+      "id": 35,
+      "title": "[이동재의 기능의학] 매일의 식사가 세포 나이를 바꿉니다!",
+      "link": "https://www.ikunkang.com/news/articleView.html?idxno=50276",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5454%2F2026%2F01%2F26%2F15493.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "건강다이제스트5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "건강다이제스트..."
+    },
+    {
+      "id": 36,
+      "title": "브라운성형외과, 17년 노하우 담은 '디브라우너즈' 론칭",
+      "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2268619",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F01%2F26%2F211667.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의학신문5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "의학신문..."
+    },
+    {
+      "id": 37,
+      "title": "대상웰라이프 '뉴케어', '당플랜 저당 안심 크런치칩' 2종 출시",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=105958",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F01%2F26%2F61120.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스드림5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "뉴스드림..."
+    },
+    {
+      "id": 38,
+      "title": "이후 푸드테라피와 반려식물 돌봄, 가족 케이크 만들기 등 오감을 활용한 활동을 병행한다. 일상의 스트레스를 해소하고 가족 간 긍정적인 대화법을... 센터에서는 홈페이지를 통한 공개",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2393773",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5116%2F2024%2F05%2F30%2Flogo_5116_18_20240530171556.png&type=f54_54&expire=24&refresh=true",
+      "press": "충청일보5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "충청일보..."
+    },
+    {
+      "id": 39,
+      "title": "대상웰라이프,  저당 설계...고단백·고식이섬유 영양 간식",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=720832",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F01%2F26%2F473074.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "폴리뉴스5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "폴리뉴스..."
+    },
+    {
+      "id": 40,
+      "title": "[해외브리핑] 유럽 주요국, 트럼프 비판에도 풍력 발전 경쟁적 확대",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14249",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F01%2F26%2F9362.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "ESG경제5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "ESG경제..."
+    },
+    {
+      "id": 41,
+      "title": "[정책브리핑] 산업부, 대·중·소기업 '공급망 탄소파트너십' 모집",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14248",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F01%2F26%2F9361.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "ESG경제5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "ESG경제..."
+    },
+    {
+      "id": 42,
+      "title": "【데일리 ESG정책 브리핑】정부, 재생에너지 확대에 따라 수급관리 체계...",
+      "link": "http://www.impacton.net/news/articleView.html?idxno=17724",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5885%2F2026%2F01%2F26%2F6524.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "임팩트온5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "임팩트온..."
+    },
+    {
+      "id": 43,
+      "title": "대상웰라이프, 당류 0.5g 저당 스낵 출시",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02542006645321656",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F01%2F26%2F6207005.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이데일리5시간 전네이버뉴스",
+      "date": "2026. 1. 26.",
+      "description": "이데일리..."
+    },
+    {
+      "id": 44,
+      "title": "뉴케어, 당플랜 저당 안심 크런치칩으로 부담 없는 간식 확장",
+      "link": "http://www.m-i.kr/news/articleView.html?idxno=1329454",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F01%2F26%2F836818.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일일보5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "매일일보..."
+    },
+    {
+      "id": 45,
+      "title": "태안군, 찾아가는 방문상담 운영",
+      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=399397",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F01%2F26%2F248642.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청뉴스5시간 전",
+      "date": "2026. 1. 26.",
+      "description": "충청뉴스..."
     },
     {
       "id": 46,
-      "title": "구리시 이문안호수공원, 도심 속 복합 문화 힐링 명소로 재탄생",
-      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2056572",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5920%2F2026%2F01%2F25%2F12536.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "웹이코노미22시간 전",
+      "title": "1봉(40g) 기준 185kcal, 당류 0.5g으로 설계돼 식단 관리 중에도 부담 없이 즐길 수 있으며, 고 단백질(7g), 고 식이섬유(2.8g) 함유로 포만감을 높였다. 여기",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=711781",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F01%2F26%2F631373.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "싱글리스트5시간 전",
       "date": "2026. 1. 26.",
-      "description": "웹이코노미..."
+      "description": "싱글리스트..."
     },
     {
       "id": 47,
-      "title": "이창숙 칼럼 차의 맛 소통의 맛<199> 차의 길 102",
-      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1543440",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5259%2F2026%2F01%2F25%2F457574.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전북도민일보22시간 전",
+      "title": "대상웰라이프, '뉴케어 당플랜 저당 안심 크런치칩' 출시",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=272070",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F01%2F26%2F215802.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "열린뉴스통신5시간 전",
       "date": "2026. 1. 26.",
-      "description": "전북도민일보..."
+      "description": "열린뉴스통신..."
     },
     {
       "id": 48,
-      "title": "서귀포시, 자배봉유아숲체험원 시설 확대",
-      "link": "http://www.samdailbo.com/news/articleView.html?idxno=258459",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5452%2F2025%2F03%2F05%2Flogo_5452_18_20250305204354.png&type=f54_54&expire=24&refresh=true",
-      "press": "삼다일보1일 전",
+      "title": "[기누카사의 잔디관리 기초 22] 저녁관수는 생장 돕지만 저온기에는 피...",
+      "link": "http://www.golfin.co.kr/news/articleView.html?idxno=7553",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5661%2F2026%2F01%2F26%2F4201.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "골프산업신문6시간 전",
       "date": "2026. 1. 26.",
-      "description": "삼다일보..."
+      "description": "골프산업신문..."
     },
     {
       "id": 49,
-      "title": "[자연과 인간] 이 운동 14일 하면, 더 희망적인 사람 될 수 있다",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=691231",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5136%2F2026%2F01%2F25%2F357713.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스타운1일 전",
+      "title": "[위클리오늘] 대상웰라이프, 저당·고단백 간식 '뉴케어 당플랜 크런치...",
+      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=754195",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5294%2F2026%2F01%2F26%2F440815.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "위클리오늘6시간 전",
       "date": "2026. 1. 26.",
-      "description": "뉴스타운..."
+      "description": "위클리오늘..."
     },
     {
       "id": 50,
-      "title": "서귀포시,자배봉유아숲체험원 온라인 예약시스템 도입",
-      "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=585664",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5267%2F2026%2F01%2F25%2F298064.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "헤드라인제주1일 전",
+      "title": "[박치현의 기후과학] 기후위기와 농업 생태계의 구조적 재편",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21104",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F26%2F8563.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄6시간 전",
       "date": "2026. 1. 26.",
-      "description": "헤드라인제주..."
+      "description": "뉴스펭귄..."
     }
   ]
 }

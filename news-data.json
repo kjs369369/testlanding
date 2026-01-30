@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-01-30T06:40:23.738Z",
-  "lastUpdatedKST": "2026. 1. 30. 오후 3:40:23",
+  "lastUpdated": "2026-01-30T09:33:25.107Z",
+  "lastUpdatedKST": "2026. 1. 30. 오후 6:33:25",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
+      "title": "달서구의회, 청소년 안전사고 예방 협력 강화",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=721468",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F01%2F30%2F473602.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "폴리뉴스13분 전",
+      "date": "2026. 1. 30.",
+      "description": "폴리뉴스..."
+    },
+    {
+      "id": 2,
+      "title": "해남군, 봄배추 추대 예방 위한 온도관리 당부",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160298492497963",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F01%2F30%2F875083.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시민일보19분 전",
+      "date": "2026. 1. 30.",
+      "description": "시민일보..."
+    },
+    {
+      "id": 3,
+      "title": "[박윤옥 논설위원] 인류는 영원한 지배종일 수 있는가",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=512391",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5279%2F2026%2F01%2F30%2F344040.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "일요서울25분 전",
+      "date": "2026. 1. 30.",
+      "description": "일요서울..."
+    },
+    {
+      "id": 4,
+      "title": "해남군, 봄배추 추대 예방 위한 온도관리 '당부'",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=412611",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F01%2F30%2F292062.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스워커27분 전",
+      "date": "2026. 1. 30.",
+      "description": "뉴스워커..."
+    },
+    {
+      "id": 5,
+      "title": "\"화원 재배·안전 의무교육, 민간 위탁 바람직\"",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401146",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F01%2F30%2F79630.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "한국농어민신문27분 전",
+      "date": "2026. 1. 30.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 6,
+      "title": "대우건설, '중랑천 생태활동 활성화 사업' 업무협약 체결",
+      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=42261",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5890%2F2026%2F01%2F30%2F29664.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스마트타임스35분 전",
+      "date": "2026. 1. 30.",
+      "description": "스마트타임스..."
+    },
+    {
+      "id": 7,
+      "title": "성장기 어린이 면역력 관리, 생활습관부터 점검하세요",
+      "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77425",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F01%2F30%2F23554.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "매경헬스35분 전",
+      "date": "2026. 1. 30.",
+      "description": "매경헬스..."
+    },
+    {
+      "id": 8,
+      "title": "[위클리오늘] 해남군, 봄배추 추대 예방 위한 온도관리 당부",
+      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=755913",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5294%2F2026%2F01%2F30%2F442223.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "위클리오늘41분 전",
+      "date": "2026. 1. 30.",
+      "description": "위클리오늘..."
+    },
+    {
+      "id": 9,
+      "title": "[인사] 농림축산식품부",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=77532",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5580%2F2024%2F05%2F30%2Flogo_5580_18_20240530172156.png&type=f54_54&expire=24&refresh=true",
+      "press": "인더스트리뉴스55분 전",
+      "date": "2026. 1. 30.",
+      "description": "인더스트리뉴스..."
+    },
+    {
+      "id": 10,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5052%2F2024%2F05%2F30%2Flogo_5052_18_20240530163613.png&type=f54_54&expire=24&refresh=true",
+      "press": "폴리뉴스13분 전",
+      "date": "2026. 1. 30.",
+      "description": "폴리뉴스..."
+    },
+    {
+      "id": 11,
+      "title": "1호 국가 희귀·특산식물 보전기관 지정",
+      "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=110798",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5855%2F2026%2F01%2F30%2F13085.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "당진시대1시간 전",
+      "date": "2026. 1. 30.",
+      "description": "당진시대..."
+    },
+    {
+      "id": 12,
+      "title": "삼성전자, A4 크기 '삼성 컬러 이페이퍼' 출시",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290417591287",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F01%2F30%2F875068.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시민일보1시간 전",
+      "date": "2026. 1. 30.",
+      "description": "시민일보..."
+    },
+    {
+      "id": 13,
+      "title": "[브리프] 삼성전자 LG전자 네이버 한컴 카카오",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348206",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F01%2F30%2F177064.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "비즈트리뷴1시간 전",
+      "date": "2026. 1. 30.",
+      "description": "비즈트리뷴..."
+    },
+    {
+      "id": 14,
+      "title": "삼성전자, A4 크기 13형 '삼성 컬러 이페이퍼' 순차 출시",
+      "link": "http://www.hg-times.com/news/articleView.html?idxno=279345",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5290%2F2026%2F01%2F30%2F190807.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한강타임즈1시간 전",
+      "date": "2026. 1. 30.",
+      "description": "한강타임즈..."
+    },
+    {
+      "id": 15,
+      "title": "대우건설, 성동구·사회적협동조합 한강과 '중랑천 생태 복원' 맞손",
+      "link": "https://www.newspim.com/news/view/20260130001079",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F01%2F30%2F3085250.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스핌2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "뉴스핌..."
+    },
+    {
+      "id": 16,
+      "title": "한앤코 체제 남양유업, 700억 족쇄 풀었지만...'이름값' 회복 숙제",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=653165",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F293%2F2026%2F01%2F30%2F78687.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "블로터2시간 전네이버뉴스",
+      "date": "2026. 1. 30.",
+      "description": "블로터..."
+    },
+    {
+      "id": 17,
+      "title": "'숲으로 행복한 제주' 산림녹지 분야 685억 원 투자",
+      "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=586062",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5267%2F2024%2F05%2F31%2Flogo_5267_18_20240531140227.png&type=f54_54&expire=24&refresh=true",
+      "press": "헤드라인제주2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "헤드라인제주..."
+    },
+    {
+      "id": 18,
+      "title": "삼성전자, A4 크기의 '삼성 컬러 이페이퍼' 출시",
+      "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=84306",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5562%2F2026%2F01%2F30%2F43195.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이코리아2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "이코리아..."
+    },
+    {
+      "id": 19,
+      "title": "달서구의회, 거제시 의회 방문해 의정 운영 사례 벤치마킹",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=813452",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F01%2F30%2F427270.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한스경제2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "한스경제..."
+    },
+    {
+      "id": 20,
+      "title": "조경 브랜드 KLIF(클리프), 메종오브제 박람회 성료 및 2026 연이은 글로...",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595786757323",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F01%2F30%2F73484.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메가경제2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "메가경제..."
+    },
+    {
+      "id": 21,
+      "title": "보은 가볼 만한 곳, 신라의 역사와 숲의 고요함이 흐르는 길",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124258",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F01%2F30%2F25999.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "이코노미사이언스..."
+    },
+    {
+      "id": 22,
+      "title": "삼성전자, 13형 '삼성 컬러 이페티퍼' 출시...환경 혁신 소재 적용",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=196524",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5767%2F2026%2F01%2F30%2F37197.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "더밸류뉴스2시간 전",
+      "date": "2026. 1. 30.",
+      "description": "더밸류뉴스..."
+    },
+    {
+      "id": 23,
       "title": "농진청, 2026년도 농약 등록·시험담당자 교육 성료",
       "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=313352",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F01%2F30%2F132728.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농수축산신문3분 전",
+      "press": "농수축산신문2시간 전",
       "date": "2026. 1. 30.",
       "description": "농수축산신문..."
     },
     {
-      "id": 2,
+      "id": 24,
       "title": "정부 친환경 교재서 축산 배제",
       "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=79576",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5603%2F2026%2F01%2F30%2F25745.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "축산경제신문13분 전",
+      "press": "축산경제신문3시간 전",
       "date": "2026. 1. 30.",
       "description": "축산경제신문..."
     },
     {
-      "id": 3,
+      "id": 25,
       "title": "[함게가자 우리ESG] 대우건설, 성동구와 생물다양성 보존 맞손",
       "link": "http://www.newslock.co.kr/news/articleView.html?idxno=124286",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5779%2F2026%2F01%2F30%2F76638.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스락15분 전",
+      "press": "뉴스락3시간 전",
       "date": "2026. 1. 30.",
       "description": "뉴스락..."
     },
     {
-      "id": 4,
+      "id": 26,
       "title": "삼성전자, A4 크기 '삼성 컬러 이페이퍼' 출시…초저전력 디지털 종이 시...",
       "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316030",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5554%2F2026%2F01%2F30%2F61400.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "업다운뉴스15분 전",
+      "press": "업다운뉴스3시간 전",
       "date": "2026. 1. 30.",
       "description": "업다운뉴스..."
     },
     {
-      "id": 5,
+      "id": 27,
       "title": "부산 기장 가볼 만한 곳, 겨울 바다와 푸른 자연이 머무는 풍경",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=491555",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F01%2F30%2F157973.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스17분 전",
+      "press": "중앙이코노미뉴스3시간 전",
       "date": "2026. 1. 30.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 6,
-      "title": "삼성전자, A4 크기의 '삼성 컬러 이페이퍼' 출시",
+      "id": 28,
+      "title": "이번 13형 '삼성 컬러 이페이퍼' 신제품은 세계 최초로 식물성 플랑크톤 오일 기반의 바이오 레진이 적용된 디스플레이다. 이 소재는 레진 생산... 삼성전자의 사이니지 콘텐츠 운영",
       "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=192385",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5560%2F2026%2F01%2F30%2F143702.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼스트17분 전",
+      "press": "더퍼스트3시간 전",
       "date": "2026. 1. 30.",
       "description": "더퍼스트..."
     },
     {
-      "id": 7,
+      "id": 29,
       "title": "국산 감귤 '탐나는봉' 보호 기술 확보… 유전체 기반 100% 식별 가능",
       "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=313343",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F01%2F30%2F132723.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농수축산신문27분 전",
+      "press": "농수축산신문3시간 전",
       "date": "2026. 1. 30.",
       "description": "농수축산신문..."
     },
     {
-      "id": 8,
+      "id": 30,
       "title": "라엘, 올리브영 '올리브베러' 입점…우먼 웰니스 공략 강화",
       "link": "https://www.cstimes.com/news/articleView.html?idxno=691158",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F01%2F30%2F494686.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "컨슈머타임스31분 전",
+      "press": "컨슈머타임스3시간 전",
       "date": "2026. 1. 30.",
       "description": "컨슈머타임스..."
     },
     {
-      "id": 9,
+      "id": 31,
       "title": "삼성전자, A4 크기 초저전력 ‘삼성 컬러 이페이퍼’ 출시…전 세계 순...",
       "link": "https://swtvnews.com/news/newsview.php?ncode=1065592309917565",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5753%2F2026%2F01%2F30%2F53499.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "SWTV35분 전",
+      "press": "SWTV3시간 전",
       "date": "2026. 1. 30.",
       "description": "SWTV..."
     },
     {
-      "id": 10,
+      "id": 32,
       "title": "삼성전자, A4 크기의 '삼성 컬러 이페이퍼' 출시... 수량 기준 17년 연속...",
       "link": "http://www.lkp.news/news/articleView.html?idxno=75730",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5791%2F2026%2F01%2F30%2F60792.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "리버티코리아포스트37분 전",
+      "press": "리버티코리아포스트3시간 전",
       "date": "2026. 1. 30.",
       "description": "리버티코리아포스트..."
     },
     {
-      "id": 11,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "/logo.png",
-      "press": "농수축산신문3분 전",
-      "date": "2026. 1. 30.",
-      "description": "농수축산신문..."
-    },
-    {
-      "id": 12,
+      "id": 33,
       "title": "국립세종수목원 올해 가든샵 수탁판매 운영자 모집",
       "link": "http://www.m-i.kr/news/articleView.html?idxno=1331843",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F01%2F30%2F838697.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보44분 전",
+      "press": "매일일보3시간 전",
       "date": "2026. 1. 30.",
       "description": "매일일보..."
     },
     {
-      "id": 13,
+      "id": 34,
       "title": "삼성전자, 13형 '컬러 이페이퍼' 글로벌 출시",
       "link": "https://www.cstimes.com/news/articleView.html?idxno=691157",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F01%2F30%2F494685.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "컨슈머타임스44분 전",
+      "press": "컨슈머타임스3시간 전",
       "date": "2026. 1. 30.",
       "description": "컨슈머타임스..."
     },
     {
-      "id": 14,
+      "id": 35,
       "title": "라엘, 웰니스 큐레이팅 플랫폼 '올리브베러' 입점",
       "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=40075",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5910%2F2026%2F01%2F30%2F15202.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "파이낸셜리뷰56분 전",
+      "press": "파이낸셜리뷰3시간 전",
       "date": "2026. 1. 30.",
       "description": "파이낸셜리뷰..."
     },
     {
-      "id": 15,
+      "id": 36,
       "title": "삼성전자, A4크기 초저전력 사이니지 '컬러 이페이퍼' 출시",
       "link": "http://www.joseilbo.com/news/news_read.php?uid=561951&class=17&grp=",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F01%2F30%2F2376871.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보58분 전네이버뉴스",
+      "press": "조세일보3시간 전네이버뉴스",
       "date": "2026. 1. 30.",
       "description": "조세일보..."
     },
     {
-      "id": 16,
+      "id": 37,
       "title": "삼성전자, 초저전력 A4 사이즈 디지털 사이니지 공개",
       "link": "https://www.hellot.net/news/article.html?no=109896",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5417%2F2026%2F01%2F30%2F72256.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "헬로티1시간 전",
+      "press": "헬로티3시간 전",
       "date": "2026. 1. 30.",
       "description": "헬로티..."
     },
     {
-      "id": 17,
-      "title": "이번 13형 '삼성 컬러 이페이퍼' 신제품은 세계 최초로 식물성 플랑크톤 오일 기반의 바이오 레진이 적용된 디스플레이다. 이 소재는 레진 생산... 삼성전자의 사이니지 콘텐츠 운영",
-      "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73823",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5697%2F2026%2F01%2F30%2F53857.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "마켓뉴스1시간 전",
-      "date": "2026. 1. 30.",
-      "description": "마켓뉴스..."
-    },
-    {
-      "id": 18,
+      "id": 38,
       "title": "삼성전자, A4 크기 ‘삼성 컬러 이페이퍼’ 출시…초저전력 사이니지 라...",
       "link": "https://www.nspna.com/news/?mode=view&newsid=800252",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F01%2F30%2F766784.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "NSP통신1시간 전",
+      "press": "NSP통신4시간 전",
       "date": "2026. 1. 30.",
       "description": "NSP통신..."
     },
     {
-      "id": 19,
+      "id": 39,
       "title": "HLB생활건강 '미인실록', 펩타이드 헤어·바디케어 라인 출시",
       "link": "https://www.medipana.com/news/articleView.html?idxno=406139",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F01%2F30%2F231781.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디파나뉴스1시간 전",
+      "press": "메디파나뉴스4시간 전",
       "date": "2026. 1. 30.",
       "description": "메디파나뉴스..."
     },
     {
-      "id": 20,
+      "id": 40,
       "title": "삼성전자, 전기 없이 화면 유지하는 컬러 이페이퍼 글로벌 출시",
       "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2063557",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5920%2F2026%2F01%2F30%2F12878.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "웹이코노미1시간 전",
+      "press": "웹이코노미4시간 전",
       "date": "2026. 1. 30.",
       "description": "웹이코노미..."
     },
     {
-      "id": 21,
+      "id": 41,
       "title": "현대건설, 국내 최초 건설현장에 '원격제어 타워크레인' 도입 [건설오늘...",
       "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=180056",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5370%2F2026%2F01%2F30%2F127659.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "시사오늘1시간 전",
+      "press": "시사오늘4시간 전",
       "date": "2026. 1. 30.",
       "description": "시사오늘..."
     },
     {
-      "id": 22,
+      "id": 42,
       "title": "[인사] 농림축산식품부(국ㆍ과장급)",
       "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=117105",
-      "thumbnail": "/logo.png",
-      "press": "식품저널 foodnews1시간 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5417%2F2024%2F05%2F31%2Flogo_5417_18_20240531143147.png&type=f54_54&expire=24&refresh=true",
+      "press": "식품저널 foodnews4시간 전",
       "date": "2026. 1. 30.",
       "description": "식품저널 foodnews..."
     },
     {
-      "id": 23,
+      "id": 43,
       "title": "[박정로의 주간 브리핑] 인천시의회, 목조건축 활성화 정책 토론회 개최",
       "link": "https://www.imwood.co.kr/news/articleView.html?idxno=40390",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5784%2F2026%2F01%2F30%2F13551.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "나무신문1시간 전",
+      "press": "나무신문4시간 전",
       "date": "2026. 1. 30.",
       "description": "나무신문..."
     },
     {
-      "id": 24,
+      "id": 44,
       "title": "[인사]농림축산식품부 국립농산물품질관리원장 김철",
       "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4064679",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5019%2F2024%2F05%2F30%2Flogo_5019_18_20240530191302.png&type=f54_54&expire=24&refresh=true",
-      "press": "BBS NEWS1시간 전",
+      "press": "BBS NEWS4시간 전",
       "date": "2026. 1. 30.",
       "description": "BBS NEWS..."
     },
     {
-      "id": 25,
+      "id": 45,
       "title": "삼성전자, A4 크기 종이처럼 얇은 디지털 사이니지 '삼성 컬러 이페이퍼...",
       "link": "http://www.techholic.co.kr/news/articleView.html?idxno=219788",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5404%2F2026%2F01%2F30%2F52857.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "테크홀릭1시간 전",
+      "press": "테크홀릭4시간 전",
       "date": "2026. 1. 30.",
       "description": "테크홀릭..."
     },
     {
-      "id": 26,
+      "id": 46,
       "title": "알파셀, ‘2025 고객감동 우수브랜드 대상’ 건강기능식품 부문 1위 수상",
       "link": "https://www.donga.com/news/Economy/article/all/20260130/133264146/1",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F01%2F30%2F3693727.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아일보1시간 전네이버뉴스",
+      "press": "동아일보4시간 전네이버뉴스",
       "date": "2026. 1. 30.",
       "description": "동아일보..."
     },
     {
-      "id": 27,
+      "id": 47,
       "title": "삼성전자, A4 크기 ‘컬러 이페이퍼’ 출시…초저전력 디지털 종이 시장...",
       "link": "https://www.socialvalue.kr/news/view/1065587535402722",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5825%2F2026%2F01%2F30%2F45466.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "소셜밸류2시간 전",
+      "press": "소셜밸류4시간 전",
       "date": "2026. 1. 30.",
       "description": "소셜밸류..."
     },
     {
-      "id": 28,
-      "title": "삼성전자, A4 크기 디스플레이 '삼성 컬러 이페이퍼' 출시",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=727777",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F01%2F30%2F422674.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노믹리뷰2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "이코노믹리뷰..."
-    },
-    {
-      "id": 29,
+      "id": 48,
       "title": "알싸하고 향긋한 건강 채소, 산마늘",
       "link": "http://www.hortitimes.com/news/articleView.html?idxno=33480",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5512%2F2026%2F01%2F30%2F13457.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "월간원예2시간 전",
+      "press": "월간원예5시간 전",
       "date": "2026. 1. 30.",
       "description": "월간원예..."
     },
     {
-      "id": 30,
-      "title": "삼성 '컬러 이페이퍼'로 종이 대체 선언…초저전력·초슬림·초경량",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=85711",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5798%2F2026%2F01%2F30%2F36812.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴시안2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "뉴시안..."
-    },
-    {
-      "id": 31,
-      "title": "울릉의 겨울 가볼 만한 곳, 대자연의 품격과 고요함이 흐르는 섬",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=521751",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F01%2F30%2F374168.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "스타데일리뉴스..."
-    },
-    {
-      "id": 32,
-      "title": "삼성전자, A4 크기 '컬러 이페이퍼' 출시…초저전력 디지털 사이니지 확...",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=260260",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F01%2F30%2F148034.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "팍스경제TV2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "팍스경제TV..."
-    },
-    {
-      "id": 33,
-      "title": "HLB생활건강, '미인실록' 펩타이드 담은 헤어·바디 신제품 3종 출시",
-      "link": "https://mdtoday.co.kr/news/view/1065577894556703",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F01%2F30%2F286675.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메디컬투데이2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "메디컬투데이..."
-    },
-    {
-      "id": 34,
-      "title": "삼성전자, A4 크기 컬러 이페이퍼 출시",
-      "link": "https://www.koit.co.kr/news/articleView.html?idxno=205249",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5839%2F2026%2F01%2F30%2F45108.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "정보통신신문2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "정보통신신문..."
-    },
-    {
-      "id": 35,
-      "title": "대우건설, 성동구·사회적협동조합 한강과 '중랑천 생태활동 활성화 사...",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=272720",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F01%2F30%2F216389.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "열린뉴스통신2시간 전",
-      "date": "2026. 1. 30.",
-      "description": "열린뉴스통신..."
-    },
-    {
-      "id": 36,
-      "title": "홀리스틱 뷰티를 말하다…美 비건 스킨케어 '수퍼에그', 한국 상륙",
-      "link": "http://www.k-health.com/news/articleView.html?idxno=89446",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5534%2F2026%2F01%2F30%2F38034.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "헬스경향3시간 전",
-      "date": "2026. 1. 30.",
-      "description": "헬스경향..."
-    },
-    {
-      "id": 37,
-      "title": "전기 안 먹는 디스플레이의 등장…삼성, 종이를 산업으로 대체하다",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=721393",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F01%2F30%2F473540.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "폴리뉴스3시간 전",
-      "date": "2026. 1. 30.",
-      "description": "폴리뉴스..."
-    },
-    {
-      "id": 38,
-      "title": "삼성전자, A4 크기 '삼성 컬러 이페이퍼' 출시··· 초저전력·친환경 ...",
-      "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=134423",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5827%2F2026%2F01%2F30%2F123733.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "스마트에프엔4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "스마트에프엔..."
-    },
-    {
-      "id": 39,
-      "title": "삼성전자, A4 크기 사이니지 '삼성 컬러 이페이퍼' 출시",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=619917",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5001%2F2026%2F01%2F30%2F482490.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울파이낸스4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "서울파이낸스..."
-    },
-    {
-      "id": 40,
-      "title": "삼성전자, A4 크기 '컬러 이페이퍼' 공개…디지털 사이니지 1위 지킨다",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=829327",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F01%2F30%2F421782.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스웍스4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "뉴스웍스..."
-    },
-    {
-      "id": 41,
-      "title": "봄철, 반려식물 분갈이의 계절이 돌아온다!",
-      "link": "http://www.joongang.tv/news/articleView.html?idxno=197904",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5876%2F2026%2F01%2F30%2F21034.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙신문4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "중앙신문..."
-    },
-    {
-      "id": 42,
-      "title": "경기도산림환경연구소, '도립공원 희귀식물' 책자 발간",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1329561",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F01%2F30%2F759787.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리한국4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "데일리한국..."
-    },
-    {
-      "id": 43,
-      "title": "삼성전자, A4 크기 ‘삼성 컬러 이페이퍼’ 출시",
-      "link": "https://weekly.cnbnews.com/news/article.html?no=204448",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5127%2F2026%2F01%2F30%2F104350.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "CNB저널(문화경제)4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "CNB저널(문화경제)..."
-    },
-    {
-      "id": 44,
-      "title": "통합 관리도 가능하다. 삼성 VXT는 '삼성 컬러 이페이퍼' 전용 기능인 △콘텐츠 화질 최적화 △실제 보여지는 콘텐츠 색감을 미리 확인할 수 있는 미리보기 등을 제공하여 한층 편리",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=110244",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F01%2F30%2F72986.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팝콘뉴스4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "팝콘뉴스..."
-    },
-    {
-      "id": 45,
-      "title": "대우건설, 중랑천 생태 복원 프로젝트 추진",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257691",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5120%2F2026%2F01%2F30%2F201362.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "화이트페이퍼4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "화이트페이퍼..."
-    },
-    {
-      "id": 46,
-      "title": "잊지 말아야 할 이달의 멸종뉴스5",
-      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21137",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F01%2F30%2F8587.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스펭귄4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "뉴스펭귄..."
-    },
-    {
-      "id": 47,
-      "title": "삼성전자, A4 크기의 '컬러 이페이퍼' 출시",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=354321",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5518%2F2026%2F01%2F30%2F112974.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "파이낸셜투데이4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "파이낸셜투데이..."
-    },
-    {
-      "id": 48,
-      "title": "경기도산림환경연구소, 도내 '도립공원 희귀식물' 책자 발간",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=425307",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5524%2F2026%2F01%2F30%2F383374.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노뉴스4시간 전",
-      "date": "2026. 1. 30.",
-      "description": "이코노뉴스..."
-    },
-    {
       "id": 49,
-      "title": "대우건설-성동구, 중랑천 생태 회복위한 업무협약 체결",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=721381",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F01%2F30%2F473530.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "폴리뉴스4시간 전",
+      "title": "삼성전자, A4 크기 디스플레이 '삼성 컬러 이페이퍼' 출시",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=727777",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F01%2F30%2F422674.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이코노믹리뷰5시간 전",
       "date": "2026. 1. 30.",
-      "description": "폴리뉴스..."
+      "description": "이코노믹리뷰..."
     },
     {
       "id": 50,
-      "title": "국립세종수목원, 가든숍 수탁판매 업체 공개모집",
-      "link": "https://www.sjsori.com/news/articleView.html?idxno=83931",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5776%2F2026%2F01%2F30%2F22206.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "세종의 소리4시간 전",
+      "title": "갱년기 증상 완화하고 면역증진 효과 탁월한 백수오(白首烏)",
+      "link": "http://www.hortitimes.com/news/articleView.html?idxno=33474",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5512%2F2026%2F01%2F30%2F13458.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "월간원예5시간 전",
       "date": "2026. 1. 30.",
-      "description": "세종의 소리..."
+      "description": "월간원예..."
     }
   ]
 }

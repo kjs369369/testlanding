@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-02T18:35:29.273Z",
-  "lastUpdatedKST": "2026. 2. 3. 오전 3:35:29",
+  "lastUpdated": "2026-02-03T01:29:29.432Z",
+  "lastUpdatedKST": "2026. 2. 3. 오전 10:29:29",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "길어진 독감 유행, 주목받는 '비타민 D'",
-      "link": "http://www.fsnews.co.kr/news/articleView.html?idxno=59893",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5470%2F2026%2F02%2F02%2F34020.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대한급식신문6시간 전",
-      "date": "2026. 2. 2.",
-      "description": "대한급식신문..."
+      "title": "검역본부, 유전자변형생물체 검사 대상 확대",
+      "link": "http://www.bokuennews.com/news/article.html?no=273290",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5602%2F2024%2F05%2F31%2Flogo_5602_18_20240531135908.png&type=f54_54&expire=24&refresh=true",
+      "press": "보건뉴스5분 전",
+      "date": "2026. 2. 3.",
+      "description": "보건뉴스..."
     },
     {
       "id": 2,
-      "title": "GHG 프로토콜, 토지 부문 배출량 산정 표준 공개",
-      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14359",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F02%2F02%2F9459.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "ESG경제6시간 전",
-      "date": "2026. 2. 2.",
-      "description": "ESG경제..."
+      "title": "[오늘 뭐 먹지] KGC인삼공사·SPC삼립·빙그레 외",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=722778",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F03%2F386189.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "프라임경제11분 전",
+      "date": "2026. 2. 3.",
+      "description": "프라임경제..."
     },
     {
       "id": 3,
-      "title": "[야식 뭐 먹지?] 바로 먹는 100% 콩 간식…CJ제일제당 '맛콩'",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=728005",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F02%2F422961.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노믹리뷰6시간 전",
-      "date": "2026. 2. 2.",
-      "description": "이코노믹리뷰..."
+      "title": "[유통가 레이더] '봄부터 즐기는 한국의 맛'... 한국맥도날드, '해피 스...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=336510",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F03%2F175506.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "녹색경제신문22분 전",
+      "date": "2026. 2. 3.",
+      "description": "녹색경제신문..."
     },
     {
       "id": 4,
-      "title": "“나쁜 콜레스테롤, 약 없이 낮추려면?” 일상 속 실천법",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=562099&class=27&grp=",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F02%2F2377013.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보7시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
-      "description": "조세일보..."
-    },
-    {
-      "id": 5,
-      "title": "[신향식의 365건강칼럼] 고장면 교수 \"아마씨, 반드시 챙겨야 할 건강식...",
-      "link": "http://www.interview365.com/news/articleView.html?idxno=111096",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5081%2F2026%2F02%2F02%2F92813.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "인터뷰3658시간 전",
-      "date": "2026. 2. 2.",
-      "description": "인터뷰365..."
-    },
-    {
-      "id": 6,
-      "title": "플로네아, 지중해식 오일 루틴 담은 '올리브오일 캡슐 3 in 1' 출시",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=292971",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5787%2F2026%2F02%2F02%2F166826.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼블릭9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "더퍼블릭..."
-    },
-    {
-      "id": 7,
-      "title": "콩 그대로 즐긴다...CJ제일제당 '맛콩' 출시",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=293898",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5677%2F2026%2F02%2F02%2F138099.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "스트레이트뉴스9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "스트레이트뉴스..."
-    },
-    {
-      "id": 8,
-      "title": "CJ제일제당, 콩 원물간식 ‘맛콩’ 2종 선봬… 원물간식 라인업 확대",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000090844",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5730%2F2026%2F02%2F02%2F34820.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "서울타임즈뉴스9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "서울타임즈뉴스..."
-    },
-    {
-      "id": 9,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F346%2F2025%2F03%2F27%2Flogo_346_100_20250327110759.png&type=f54_54&expire=24&refresh=true",
-      "press": "헬스조선5시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
-      "description": "헬스조선..."
-    },
-    {
-      "id": 10,
-      "title": "[ESG 리포트] KT·두산, 습지 생태계 보전 위해 기술·자금 지원",
-      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306025",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5194%2F2026%2F02%2F02%2F125552.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "그린포스트코리아9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "그린포스트코리아..."
-    },
-    {
-      "id": 11,
-      "title": "프로게이너, 균형 잡힌 영양 설계의 신제품 '마이단백쉐이크' 출시",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46652",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F02%2F02%2F31511.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이넷뉴스9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "이넷뉴스..."
-    },
-    {
-      "id": 12,
-      "title": "국립공원 신규 습지 9곳 생물다양성 조사",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22399",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5194%2F2024%2F05%2F31%2Flogo_5194_18_20240531135147.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경9시간 전",
-      "date": "2026. 2. 2.",
-      "description": "환경과조경..."
-    },
-    {
-      "id": 13,
-      "title": "CJ제일제당, 100% 콩 원물간식 '맛콩' 2종 출시",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=653846",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5206%2F2026%2F02%2F02%2F122119.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국금융경제신문10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "한국금융경제신문..."
-    },
-    {
-      "id": 14,
-      "title": "[브리프]파스쿠찌 오뚜기 CJ제일제당 동원산업 농심 삼양라운드스퀘어...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348284",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F02%2F177133.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비즈트리뷴10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "비즈트리뷴..."
-    },
-    {
-      "id": 15,
-      "title": "[로컬거버넌스] 전남 강진군, 올해 장기 농업교육 5개 과정 운영",
-      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278828359797",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F02%2F02%2F875407.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민일보10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "시민일보..."
-    },
-    {
-      "id": 16,
-      "title": "수원시, 수원수목원 자원봉사자 ‘수수랑’ 4기 모집",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=800629",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F02%2F767107.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "NSP통신10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "NSP통신..."
-    },
-    {
-      "id": 17,
-      "title": "기장 장안읍 폐기물 매립장 ‘허가기간 만료’에 기장군 “연장 반대”",
-      "link": "http://www.fnnews.com/news/202602021653330317",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F02%2F5472082.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스10시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 18,
-      "title": "김신호 양산시 부시장, 주요 환경시설 현장 점검",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=532297",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5714%2F2026%2F02%2F02%2F177727.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스경남10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "뉴스경남..."
-    },
-    {
-      "id": 19,
-      "title": "CJ제일제당, 바로 먹는 100% 콩 간식 '맛콩' 2종 출시",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=122278",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5489%2F2026%2F02%2F02%2F90063.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "직썰10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "직썰..."
-    },
-    {
-      "id": 20,
-      "title": "세종수목원, ‘국민참여전시’공개 모집",
-      "link": "http://amenews.kr/news/view.php?idx=65684",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5644%2F2026%2F02%2F02%2F28488.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "신소재경제신문10시간 전",
-      "date": "2026. 2. 2.",
-      "description": "신소재경제신문..."
-    },
-    {
-      "id": 21,
-      "title": "CJ제일제당, 바로 먹는 콩 간식 '맛콩' 2종 출시",
-      "link": "https://www.mhj21.com/news/articleView.html?idxno=250203",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5420%2F2026%2F02%2F02%2F69963.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "문화저널2110시간 전",
-      "date": "2026. 2. 2.",
-      "description": "문화저널21..."
-    },
-    {
-      "id": 22,
-      "title": "해남군, 봄배추 추대 예방 위한 온도관리 당부",
-      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=313452",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F02%2F02%2F132898.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농수축산신문11시간 전",
-      "date": "2026. 2. 2.",
-      "description": "농수축산신문..."
-    },
-    {
-      "id": 23,
-      "title": "국립공원 신규 습지 조사서 멸종위기 9종 확인",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2254935",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F656%2F2026%2F02%2F02%2F165416.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대전일보11시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
+      "title": "이른 봄철 봉군관리, 양봉농가 성패 좌우한다",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2255018",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F656%2F2026%2F02%2F03%2F165509.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대전일보27분 전네이버뉴스",
+      "date": "2026. 2. 3.",
       "description": "대전일보..."
     },
     {
+      "id": 5,
+      "title": "부산시민공원, 시민꽃밭 가꿀 참여자 9일까지 모집",
+      "link": "http://www.fnnews.com/news/202602030950478618",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F03%2F5472398.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스35분 전네이버뉴스",
+      "date": "2026. 2. 3.",
+      "description": "파이낸셜뉴스..."
+    },
+    {
+      "id": 6,
+      "title": "[제약업계 소식] 2월 3일",
+      "link": "http://www.doctorstimes.com/news/articleView.html?idxno=236641",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5826%2F2026%2F02%2F03%2F21443.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "의사신문55분 전",
+      "date": "2026. 2. 3.",
+      "description": "의사신문..."
+    },
+    {
+      "id": 7,
+      "title": "[정책브리핑] 2026년 02월 03일 화요일 주요 정책",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234141",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5369%2F2026%2F02%2F03%2F167756.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시선뉴스1시간 전",
+      "date": "2026. 2. 3.",
+      "description": "시선뉴스..."
+    },
+    {
+      "id": 8,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5602%2F2024%2F05%2F31%2Flogo_5602_18_20240531135908.png&type=f54_54&expire=24&refresh=true",
+      "press": "보건뉴스5분 전",
+      "date": "2026. 2. 3.",
+      "description": "보건뉴스..."
+    },
+    {
+      "id": 9,
+      "title": "[박치현의 기후과학] 겨울을 극복한 글로벌 농업 현장 리포트",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21150",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F02%2F03%2F8602.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄1시간 전",
+      "date": "2026. 2. 3.",
+      "description": "뉴스펭귄..."
+    },
+    {
+      "id": 10,
+      "title": "봄 배추 꽃대 나오면 상품성 떨어져, 예방 관리 점검표 제시",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42062",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F02%2F03%2F28126.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "농기자재신문2시간 전",
+      "date": "2026. 2. 3.",
+      "description": "농기자재신문..."
+    },
+    {
+      "id": 11,
+      "title": "한국석유관리원, 석유대체연료센터 건축 본격 착수",
+      "link": "https://www.todayenergy.kr/news/articleView.html?idxno=293829",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5300%2F2026%2F02%2F03%2F119769.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "투데이에너지3시간 전",
+      "date": "2026. 2. 3.",
+      "description": "투데이에너지..."
+    },
+    {
+      "id": 12,
+      "title": "근육 키우는 시대 끝? 2026년 건강식품 키워드 '회복·두뇌·피부'",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=528668",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F03%2F112812.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "약사공론4시간 전",
+      "date": "2026. 2. 3.",
+      "description": "약사공론..."
+    },
+    {
+      "id": 13,
+      "title": "국립세종수목원, 국민의 손으로 피어나는 '국민참여전시' 공개 모집",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=691472",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F03%2F494985.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "컨슈머타임스4시간 전",
+      "date": "2026. 2. 3.",
+      "description": "컨슈머타임스..."
+    },
+    {
+      "id": 14,
+      "title": "죽어가던 장흥댐 신풍습지, 민-관-공 힘 모아 열달만에 살려냈다",
+      "link": "https://www.donga.com/news/Society/article/all/20260203/133283720/2",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F03%2F3694449.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동아일보A19면 TOP5시간 전네이버뉴스",
+      "date": "2026. 2. 3.",
+      "description": "동아일보..."
+    },
+    {
+      "id": 15,
+      "title": "길어진 독감 유행, 주목받는 '비타민 D'",
+      "link": "http://www.fsnews.co.kr/news/articleView.html?idxno=59893",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5470%2F2026%2F02%2F02%2F34020.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대한급식신문13시간 전",
+      "date": "2026. 2. 3.",
+      "description": "대한급식신문..."
+    },
+    {
+      "id": 16,
+      "title": "GHG 프로토콜, 토지 부문 배출량 산정 표준 공개",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14359",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F02%2F02%2F9459.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "ESG경제13시간 전",
+      "date": "2026. 2. 3.",
+      "description": "ESG경제..."
+    },
+    {
+      "id": 17,
+      "title": "[야식 뭐 먹지?] 바로 먹는 100% 콩 간식…CJ제일제당 '맛콩'",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=728005",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F02%2F422961.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이코노믹리뷰13시간 전",
+      "date": "2026. 2. 3.",
+      "description": "이코노믹리뷰..."
+    },
+    {
+      "id": 18,
+      "title": "“나쁜 콜레스테롤, 약 없이 낮추려면?” 일상 속 실천법",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=562099&class=27&grp=",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F02%2F2377013.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "조세일보14시간 전네이버뉴스",
+      "date": "2026. 2. 3.",
+      "description": "조세일보..."
+    },
+    {
+      "id": 19,
+      "title": "[신향식의 365건강칼럼] 고장면 교수 \"아마씨, 반드시 챙겨야 할 건강식...",
+      "link": "http://www.interview365.com/news/articleView.html?idxno=111096",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5081%2F2026%2F02%2F02%2F92813.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "인터뷰36515시간 전",
+      "date": "2026. 2. 3.",
+      "description": "인터뷰365..."
+    },
+    {
+      "id": 20,
+      "title": "플로네아, 지중해식 오일 루틴 담은 '올리브오일 캡슐 3 in 1' 출시",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=292971",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5787%2F2026%2F02%2F02%2F166826.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "더퍼블릭16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "더퍼블릭..."
+    },
+    {
+      "id": 21,
+      "title": "콩 그대로 즐긴다...CJ제일제당 '맛콩' 출시",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=293898",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5677%2F2026%2F02%2F02%2F138099.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "스트레이트뉴스16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "스트레이트뉴스..."
+    },
+    {
+      "id": 22,
+      "title": "CJ제일제당, 콩 원물간식 ‘맛콩’ 2종 선봬… 원물간식 라인업 확대",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000090844",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5730%2F2026%2F02%2F02%2F34820.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "서울타임즈뉴스16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "서울타임즈뉴스..."
+    },
+    {
+      "id": 23,
+      "title": "프로게이너, 균형 잡힌 영양 설계의 신제품 '마이단백쉐이크' 출시",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46652",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F02%2F02%2F31511.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이넷뉴스16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "이넷뉴스..."
+    },
+    {
       "id": 24,
-      "title": "CJ제일제당, 콩 그대로 담은 ‘맛콩’ 선봬",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596222683762",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F02%2F73651.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제11시간 전",
-      "date": "2026. 2. 2.",
-      "description": "메가경제..."
+      "title": "[ESG 리포트] KT·두산, 습지 생태계 보전 위해 기술·자금 지원",
+      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306025",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5194%2F2026%2F02%2F02%2F125552.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "그린포스트코리아16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "그린포스트코리아..."
     },
     {
       "id": 25,
-      "title": "완주 가볼 만한 곳, 겨울 숲과 산이 빚어낸 고요한 풍경",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124440",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F02%2F26156.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스11시간 전",
-      "date": "2026. 2. 2.",
-      "description": "이코노미사이언스..."
+      "title": "국립공원 신규 습지 9곳 생물다양성 조사",
+      "link": "http://www.lak.co.kr/news/boardview.php?id=22399",
+      "thumbnail": "/logo.png",
+      "press": "환경과조경16시간 전",
+      "date": "2026. 2. 3.",
+      "description": "환경과조경..."
     },
     {
       "id": 26,
-      "title": "안전성과 관리 상태, 운영실태 등을 종합적으로 점검했다. 원동면 용당리 산18-11에 위치한 양산당곡생태학습관은 생태보전의 중요성을 체험할수 있는 다양한 환경체험교육 프로그램과 멸",
-      "link": "https://www.ulsanpress.net/news/articleView.html?idxno=568425",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5906%2F2026%2F02%2F02%2F62383.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "울산신문11시간 전",
-      "date": "2026. 2. 2.",
-      "description": "울산신문..."
+      "title": "CJ제일제당, 100% 콩 원물간식 '맛콩' 2종 출시",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=653846",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5206%2F2026%2F02%2F02%2F122119.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국금융경제신문17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "한국금융경제신문..."
     },
     {
       "id": 27,
-      "title": "서귀포 가볼 만한 곳, 파도 소리 위로 흐르는 자연의 숨결",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=492148",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F02%2F158543.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스11시간 전",
-      "date": "2026. 2. 2.",
-      "description": "중앙이코노미뉴스..."
+      "title": "[브리프]파스쿠찌 오뚜기 CJ제일제당 동원산업 농심 삼양라운드스퀘어...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348284",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F02%2F177133.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "비즈트리뷴17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "비즈트리뷴..."
     },
     {
       "id": 28,
-      "title": "유원대, 충북RISE '행복부모-자녀 성장 스쿨' 성료",
-      "link": "http://www.kyosu.net/news/articleView.html?idxno=156807",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5150%2F2026%2F02%2F02%2F110414.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "교수신문12시간 전",
-      "date": "2026. 2. 2.",
-      "description": "교수신문..."
+      "title": "수원시, 수원수목원 자원봉사자 ‘수수랑’ 4기 모집",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=800629",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F02%2F767107.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "NSP통신17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "NSP통신..."
     },
     {
       "id": 29,
-      "title": "아로마티카, 웰니스 큐레이팅 플랫폼 '올리브베러' 매장 입점",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=147919",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F02%2F98011.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스12시간 전",
-      "date": "2026. 2. 2.",
-      "description": "베이비뉴스..."
+      "title": "[로컬거버넌스] 전남 강진군, 올해 장기 농업교육 5개 과정 운영",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160278828359797",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F02%2F02%2F875407.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시민일보17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "시민일보..."
     },
     {
       "id": 30,
-      "title": "김신호 양산시 부시장, 생태학습관·폐수처리시설 운영 실태 점검",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=692700",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5136%2F2026%2F02%2F02%2F358678.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스타운12시간 전",
-      "date": "2026. 2. 2.",
-      "description": "뉴스타운..."
+      "title": "기장 장안읍 폐기물 매립장 ‘허가기간 만료’에 기장군 “연장 반대”",
+      "link": "http://www.fnnews.com/news/202602021653330317",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F02%2F5472082.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스17시간 전네이버뉴스",
+      "date": "2026. 2. 3.",
+      "description": "파이낸셜뉴스..."
     },
     {
       "id": 31,
-      "title": "유원대, 충북 RISE로 지역 '가족교육' 새 모델 제시",
-      "link": "https://www.bzeronews.com/news/articleView.html?idxno=810259",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F02%2F444234.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "불교공뉴스12시간 전",
-      "date": "2026. 2. 2.",
-      "description": "불교공뉴스..."
+      "title": "김신호 양산시 부시장, 주요 환경시설 현장 점검",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=532297",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5714%2F2026%2F02%2F02%2F177727.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스경남17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "뉴스경남..."
     },
     {
       "id": 32,
-      "title": "식물성 단백질 원물인 콩을 그대로 활용한 '맛콩'은 '병아리콩'과 '검은콩' 두 가지로 선보였다. 최적의 침지 조건 설계로 촉촉한 형태와 식감을... 특히 30~40대 직장인과 식",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124417",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F02%2F26135.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스12시간 전",
-      "date": "2026. 2. 2.",
-      "description": "이코노미사이언스..."
+      "title": "CJ제일제당, 바로 먹는 100% 콩 간식 '맛콩' 2종 출시",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=122278",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5489%2F2026%2F02%2F02%2F90063.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "직썰17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "직썰..."
     },
     {
       "id": 33,
-      "title": "수원시 수원수목원 자원봉사자 수수랑 4기 60명 모집",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=272960",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F02%2F02%2F216578.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "열린뉴스통신13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "열린뉴스통신..."
+      "title": "세종수목원, ‘국민참여전시’공개 모집",
+      "link": "http://amenews.kr/news/view.php?idx=65684",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5644%2F2026%2F02%2F02%2F28488.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "신소재경제신문17시간 전",
+      "date": "2026. 2. 3.",
+      "description": "신소재경제신문..."
     },
     {
       "id": 34,
-      "title": "식물성 단백질 원물인 콩을 그대로 활용한 '맛콩'은 '병아리콩'과 '검은콩' 두 가지로 선보였다. 최적의 침지(浸漬) 조건 설계로 촉촉한 형태와 식감을... 특히 30~40대 직장",
-      "link": "https://www.pressman.kr/news/articleView.html?idxno=99335",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5681%2F2026%2F02%2F02%2F67193.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프레스맨13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "프레스맨..."
+      "title": "CJ제일제당, 바로 먹는 콩 간식 '맛콩' 2종 출시",
+      "link": "https://www.mhj21.com/news/articleView.html?idxno=250203",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5420%2F2026%2F02%2F02%2F69963.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "문화저널2117시간 전",
+      "date": "2026. 2. 3.",
+      "description": "문화저널21..."
     },
     {
       "id": 35,
-      "title": "CJ제일제당, 100% 콩 간식 '맛콩' 출시",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=70283",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5853%2F2026%2F02%2F02%2F38934.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "포인트경제13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "포인트경제..."
+      "title": "해남군, 봄배추 추대 예방 위한 온도관리 당부",
+      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=313452",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F02%2F02%2F132898.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "농수축산신문18시간 전",
+      "date": "2026. 2. 3.",
+      "description": "농수축산신문..."
     },
     {
       "id": 36,
-      "title": "본 과정은 1월 6일부터 22일까지 총 6회기로 운영됐으며, 회차별 수업에서는 테라리움 구성과 식물 관리 방법, 가족 공동 참여 활동 등이 단계적으로 진행됐다. 교육은 지역 원예교",
-      "link": "http://www.veritas-a.com/news/articleView.html?idxno=596591",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5258%2F2026%2F02%2F02%2F384372.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "베리타스알파13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "베리타스알파..."
+      "title": "국립공원 신규 습지 조사서 멸종위기 9종 확인",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2254935",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F656%2F2026%2F02%2F02%2F165416.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대전일보18시간 전네이버뉴스",
+      "date": "2026. 2. 3.",
+      "description": "대전일보..."
     },
     {
       "id": 37,
-      "title": "국립공원공단, 국립공원 습지서 멸종위기 야생생물 9종 확인",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=38369",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5877%2F2026%2F02%2F02%2F26565.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "S-저널13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "S-저널..."
+      "title": "CJ제일제당, 콩 그대로 담은 ‘맛콩’ 선봬",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596222683762",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F02%2F73651.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메가경제18시간 전",
+      "date": "2026. 2. 3.",
+      "description": "메가경제..."
     },
     {
       "id": 38,
-      "title": "온라인서 산 약재 달여 마셨다가 사망…알고 보니 ‘독성’",
-      "link": "https://www.donga.com/news/Inter/article/all/20260202/133279499/2",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F02%2F3694268.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아일보13시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
-      "description": "동아일보..."
+      "title": "완주 가볼 만한 곳, 겨울 숲과 산이 빚어낸 고요한 풍경",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124440",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F02%2F26156.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스18시간 전",
+      "date": "2026. 2. 3.",
+      "description": "이코노미사이언스..."
     },
     {
       "id": 39,
-      "title": "세종수목원, 국민이 만드는 전시 연다··'국민참여전시' 참가자 모집",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=260435",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F02%2F148180.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "팍스경제TV13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "팍스경제TV..."
+      "title": "안전성과 관리 상태, 운영실태 등을 종합적으로 점검했다. 원동면 용당리 산18-11에 위치한 양산당곡생태학습관은 생태보전의 중요성을 체험할수 있는 다양한 환경체험교육 프로그램과 멸",
+      "link": "https://www.ulsanpress.net/news/articleView.html?idxno=568425",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5906%2F2026%2F02%2F02%2F62383.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "울산신문18시간 전",
+      "date": "2026. 2. 3.",
+      "description": "울산신문..."
     },
     {
       "id": 40,
-      "title": "국립세종수목원, 국민 창작활동 '참여전시' 공모",
-      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1084188",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5613%2F2026%2F02%2F02%2F154239.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "디스커버리뉴스13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "디스커버리뉴스..."
+      "title": "서귀포 가볼 만한 곳, 파도 소리 위로 흐르는 자연의 숨결",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=492148",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F02%2F158543.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "중앙이코노미뉴스18시간 전",
+      "date": "2026. 2. 3.",
+      "description": "중앙이코노미뉴스..."
     },
     {
       "id": 41,
-      "title": "CJ제일제당, '맛밤' 신화 콩으로 잇는다…원물 간식 '맛콩' 2종 출시",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=68596",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5863%2F2026%2F02%2F02%2F54456.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더페어13시간 전",
-      "date": "2026. 2. 2.",
-      "description": "더페어..."
+      "title": "유원대, 충북RISE '행복부모-자녀 성장 스쿨' 성료",
+      "link": "http://www.kyosu.net/news/articleView.html?idxno=156807",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5150%2F2026%2F02%2F02%2F110414.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "교수신문19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "교수신문..."
     },
     {
       "id": 42,
-      "title": "겨울의 비움에서 봄을 기다리며",
-      "link": "http://www.hortitimes.com/news/articleView.html?idxno=33586",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5512%2F2026%2F02%2F02%2F13507.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "월간원예14시간 전",
-      "date": "2026. 2. 2.",
-      "description": "월간원예..."
+      "title": "아로마티카, 웰니스 큐레이팅 플랫폼 '올리브베러' 매장 입점",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=147919",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F02%2F98011.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "베이비뉴스19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "베이비뉴스..."
     },
     {
       "id": 43,
-      "title": "명장의 진심이 담긴 순백의 심비디움 '스노우펄'",
-      "link": "http://www.hortitimes.com/news/articleView.html?idxno=33599",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5512%2F2026%2F02%2F02%2F13482.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "월간원예14시간 전",
-      "date": "2026. 2. 2.",
-      "description": "월간원예..."
+      "title": "김신호 양산시 부시장, 생태학습관·폐수처리시설 운영 실태 점검",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=692700",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5136%2F2026%2F02%2F02%2F358678.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스타운19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "뉴스타운..."
     },
     {
       "id": 44,
-      "title": "국민이 기획하는 전시, 세종수목원서 열린다",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=440162",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5285%2F2026%2F02%2F02%2F188593.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "굿모닝충청14시간 전",
-      "date": "2026. 2. 2.",
-      "description": "굿모닝충청..."
+      "title": "유원대, 충북 RISE로 지역 '가족교육' 새 모델 제시",
+      "link": "https://www.bzeronews.com/news/articleView.html?idxno=810259",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F02%2F444234.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "불교공뉴스19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "불교공뉴스..."
     },
     {
       "id": 45,
-      "title": "CJ제일제당, 바로 먹는 100% 콩 간식 ‘맛콩’ 2종 출시",
-      "link": "https://www.fetv.co.kr/news/article.html?no=211551",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5484%2F2026%2F02%2F02%2F190717.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "FETV14시간 전",
-      "date": "2026. 2. 2.",
-      "description": "FETV..."
+      "title": "식물성 단백질 원물인 콩을 그대로 활용한 '맛콩'은 '병아리콩'과 '검은콩' 두 가지로 선보였다. 최적의 침지 조건 설계로 촉촉한 형태와 식감을... 특히 30~40대 직장인과 식",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=124417",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F02%2F26135.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "이코노미사이언스..."
     },
     {
       "id": 46,
-      "title": "대구시, 농업분야 전문인 양성 나선다! '조경기능사' 교육생 모집",
-      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=205131",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5820%2F2026%2F02%2F02%2F165179.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "잡포스트15시간 전",
-      "date": "2026. 2. 2.",
-      "description": "잡포스트..."
+      "title": "수원시 수원수목원 자원봉사자 수수랑 4기 60명 모집",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=272960",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F02%2F02%2F216578.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "열린뉴스통신19시간 전",
+      "date": "2026. 2. 3.",
+      "description": "열린뉴스통신..."
     },
     {
       "id": 47,
-      "title": "죽어가던 장흥 신풍습지 되살렸다…철새 돌아온 ‘워터 포지티브’",
-      "link": "https://www.donga.com/news/Society/article/all/20260202/133278723/1",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F02%2F3694244.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아일보15시간 전네이버뉴스",
-      "date": "2026. 2. 2.",
-      "description": "동아일보..."
+      "title": "식물성 단백질 원물인 콩을 그대로 활용한 '맛콩'은 '병아리콩'과 '검은콩' 두 가지로 선보였다. 최적의 침지(浸漬) 조건 설계로 촉촉한 형태와 식감을... 특히 30~40대 직장",
+      "link": "https://www.pressman.kr/news/articleView.html?idxno=99335",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5681%2F2026%2F02%2F02%2F67193.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "프레스맨20시간 전",
+      "date": "2026. 2. 3.",
+      "description": "프레스맨..."
     },
     {
       "id": 48,
-      "title": "CJ제일제당, '100% 콩 간식' 맛콩 출시",
-      "link": "http://www.nongaek.com/news/articleView.html?idxno=94191",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5507%2F2026%2F02%2F02%2F18102.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "논객닷컴15시간 전",
-      "date": "2026. 2. 2.",
-      "description": "논객닷컴..."
+      "title": "CJ제일제당, 100% 콩 간식 '맛콩' 출시",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=70283",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5853%2F2026%2F02%2F02%2F38934.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "포인트경제20시간 전",
+      "date": "2026. 2. 3.",
+      "description": "포인트경제..."
     },
     {
       "id": 49,
-      "title": "파괴된 제주 자연의 보고 '해안사구', 보전 움직임 본격 시작",
-      "link": "https://www.mediajeju.com/news/articleView.html?idxno=362706",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5522%2F2026%2F02%2F02%2F54023.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "미디어제주16시간 전",
-      "date": "2026. 2. 2.",
-      "description": "미디어제주..."
+      "title": "본 과정은 1월 6일부터 22일까지 총 6회기로 운영됐으며, 회차별 수업에서는 테라리움 구성과 식물 관리 방법, 가족 공동 참여 활동 등이 단계적으로 진행됐다. 교육은 지역 원예교",
+      "link": "http://www.veritas-a.com/news/articleView.html?idxno=596591",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5258%2F2026%2F02%2F02%2F384372.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "베리타스알파20시간 전",
+      "date": "2026. 2. 3.",
+      "description": "베리타스알파..."
     },
     {
       "id": 50,
-      "title": "아로마티카, 웰니스 큐레이팅 플랫폼 '올리브베러' 입점",
-      "link": "http://www.ktnews.com/news/articleView.html?idxno=143789",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5381%2F2026%2F02%2F02%2F46865.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국섬유신문16시간 전",
-      "date": "2026. 2. 2.",
-      "description": "한국섬유신문..."
+      "title": "국립공원공단, 국립공원 습지서 멸종위기 야생생물 9종 확인",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=38369",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5877%2F2026%2F02%2F02%2F26565.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "S-저널20시간 전",
+      "date": "2026. 2. 3.",
+      "description": "S-저널..."
     }
   ]
 }

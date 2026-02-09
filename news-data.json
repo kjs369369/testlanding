@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-09T15:49:34.560Z",
-  "lastUpdatedKST": "2026. 2. 10. 오전 12:49:34",
+  "lastUpdated": "2026-02-09T18:50:48.053Z",
+  "lastUpdatedKST": "2026. 2. 10. 오전 3:50:48",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "국립생태원 '한농대 우수 장기현장실습장' 선정…\"핵심 인재 양성\"",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=705995",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F09%2F441809.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울와이어1시간 전",
+      "title": "한국수목원정원관리원, 'AI 콘텐츠 전시' 선보여",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=692736",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F10%2F496021.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "컨슈머타임스2시간 전",
       "date": "2026. 2. 9.",
-      "description": "서울와이어..."
+      "description": "컨슈머타임스..."
     },
     {
       "id": 2,
-      "title": "농어촌공사 전북본부, 농지임대수탁 수수료 없앤다",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401448",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79971.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농어민신문2시간 전",
+      "title": "한국수목원정원관리원, 잠자던 산림종자 '천연 항산화제로 효능' 입증",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=692734",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F10%2F496054.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "컨슈머타임스2시간 전",
       "date": "2026. 2. 9.",
-      "description": "한국농어민신문..."
+      "description": "컨슈머타임스..."
     },
     {
       "id": 3,
-      "title": "[주목 이 제품] 경농 석회보르도액 '펜큐브레'···과수화상병 예방 효...",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401470",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79957.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농어민신문2시간 전",
-      "date": "2026. 2. 9.",
-      "description": "한국농어민신문..."
-    },
-    {
-      "id": 4,
-      "title": "[여행을 떠나요] 성곽에서 호수까지, 하루에 담아낸 수원의 시간",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3373428",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F09%2F1154610.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보3시간 전",
-      "date": "2026. 2. 9.",
-      "description": "천지일보..."
-    },
-    {
-      "id": 5,
-      "title": "국립생태원, 한농대 '우수 장기현장실습장' 선정",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=838575",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F09%2F465354.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동양일보3시간 전",
-      "date": "2026. 2. 9.",
-      "description": "동양일보..."
-    },
-    {
-      "id": 6,
-      "title": "심장이 건강해지는 식단 5가지",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=562615&class=27&grp=",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F09%2F2377516.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보3시간 전네이버뉴스",
-      "date": "2026. 2. 9.",
-      "description": "조세일보..."
-    },
-    {
-      "id": 7,
-      "title": "[브리프]오뚜기 풀무원 농심 CJ프레시웨이 롯데웰푸드 삼양식품 상하농...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348669",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F09%2F177475.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비즈트리뷴4시간 전",
-      "date": "2026. 2. 9.",
-      "description": "비즈트리뷴..."
-    },
-    {
-      "id": 8,
-      "title": "수목원정원관리원, 오송역서 AI 생성 수목원·정원 이미지 전시",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=261411",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F09%2F149054.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팍스경제TV5시간 전",
-      "date": "2026. 2. 9.",
-      "description": "팍스경제TV..."
-    },
-    {
-      "id": 9,
-      "title": "[이들이 경남 청년人·家]김해 '올라라' 농장 김성도 대표",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630200",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304594.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보5시간 전",
-      "date": "2026. 2. 9.",
-      "description": "경남일보..."
-    },
-    {
-      "id": 10,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5526%2F2024%2F05%2F31%2Flogo_5526_18_20240531135114.png&type=f54_54&expire=24&refresh=true",
-      "press": "서울와이어1시간 전",
+      "title": "국립생태원 '한농대 우수 장기현장실습장' 선정…\"핵심 인재 양성\"",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=705995",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F09%2F441809.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울와이어4시간 전",
       "date": "2026. 2. 9.",
       "description": "서울와이어..."
     },
     {
-      "id": 11,
-      "title": "거제식물원 정글돔, 앵무새 전시로 관람 콘텐츠 확대",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630166",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304579.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보5시간 전",
-      "date": "2026. 2. 9.",
-      "description": "경남일보..."
-    },
-    {
-      "id": 12,
-      "title": "광주 무등산서 복수초·개구리 산란",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=900957",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F02%2F09%2F312288.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "남도일보5시간 전",
-      "date": "2026. 2. 9.",
-      "description": "남도일보..."
-    },
-    {
-      "id": 13,
-      "title": "식물성 음료, 우유 이미지 빌려 '꼼수 광고' 논란",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401547",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79945.jpg&type=fface200_200&expire=2&refresh=true",
+      "id": 4,
+      "title": "농어촌공사 전북본부, 농지임대수탁 수수료 없앤다",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401448",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79971.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "한국농어민신문5시간 전",
       "date": "2026. 2. 9.",
       "description": "한국농어민신문..."
     },
     {
+      "id": 5,
+      "title": "[주목 이 제품] 경농 석회보르도액 '펜큐브레'···과수화상병 예방 효...",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401470",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79957.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농어민신문5시간 전",
+      "date": "2026. 2. 9.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 6,
+      "title": "[여행을 떠나요] 성곽에서 호수까지, 하루에 담아낸 수원의 시간",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3373428",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F09%2F1154610.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "천지일보6시간 전",
+      "date": "2026. 2. 9.",
+      "description": "천지일보..."
+    },
+    {
+      "id": 7,
+      "title": "국립생태원, 한농대 '우수 장기현장실습장' 선정",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=838575",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F09%2F465354.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동양일보6시간 전",
+      "date": "2026. 2. 9.",
+      "description": "동양일보..."
+    },
+    {
+      "id": 8,
+      "title": "심장이 건강해지는 식단 5가지",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=562615&class=27&grp=",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F09%2F2377516.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "조세일보6시간 전네이버뉴스",
+      "date": "2026. 2. 9.",
+      "description": "조세일보..."
+    },
+    {
+      "id": 9,
+      "title": "[브리프]오뚜기 풀무원 농심 CJ프레시웨이 롯데웰푸드 삼양식품 상하농...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348669",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F09%2F177475.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "비즈트리뷴7시간 전",
+      "date": "2026. 2. 9.",
+      "description": "비즈트리뷴..."
+    },
+    {
+      "id": 10,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5174%2F2024%2F05%2F31%2Flogo_5174_18_20240531134949.png&type=f54_54&expire=24&refresh=true",
+      "press": "컨슈머타임스2시간 전",
+      "date": "2026. 2. 9.",
+      "description": "컨슈머타임스..."
+    },
+    {
+      "id": 11,
+      "title": "수목원정원관리원, 오송역서 AI 생성 수목원·정원 이미지 전시",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=261411",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F09%2F149054.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팍스경제TV8시간 전",
+      "date": "2026. 2. 9.",
+      "description": "팍스경제TV..."
+    },
+    {
+      "id": 12,
+      "title": "[이들이 경남 청년人·家]김해 '올라라' 농장 김성도 대표",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630200",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304594.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경남일보8시간 전",
+      "date": "2026. 2. 9.",
+      "description": "경남일보..."
+    },
+    {
+      "id": 13,
+      "title": "거제식물원 정글돔, 앵무새 전시로 관람 콘텐츠 확대",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630166",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304579.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경남일보8시간 전",
+      "date": "2026. 2. 9.",
+      "description": "경남일보..."
+    },
+    {
       "id": 14,
+      "title": "광주 무등산서 복수초·개구리 산란",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=900957",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F02%2F09%2F312288.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "남도일보8시간 전",
+      "date": "2026. 2. 9.",
+      "description": "남도일보..."
+    },
+    {
+      "id": 15,
+      "title": "식물성 음료, 우유 이미지 빌려 '꼼수 광고' 논란",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401547",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79945.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농어민신문8시간 전",
+      "date": "2026. 2. 9.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 16,
       "title": "사하구, 낙동강하구둑 교량 위서 낚시하면 무조건 처벌한다",
       "link": "http://www.fnnews.com/news/202602091833017846",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475891.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스6시간 전네이버뉴스",
+      "press": "파이낸셜뉴스9시간 전네이버뉴스",
       "date": "2026. 2. 9.",
       "description": "파이낸셜뉴스..."
     },
     {
-      "id": 15,
+      "id": 17,
       "title": "국립생태원, 한농대 '2025학년도 우수 장기현장실습장' 선정",
       "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=872975",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F09%2F491675.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충남일보6시간 전",
+      "press": "충남일보9시간 전",
       "date": "2026. 2. 9.",
       "description": "충남일보..."
     },
     {
-      "id": 16,
+      "id": 18,
       "title": "한국수목원정원관리원, 오송역서 ‘AI 콘텐츠’ 전시",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22457",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5217%2F2024%2F05%2F31%2Flogo_5217_18_20240531135511.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경6시간 전",
+      "thumbnail": "/logo.png",
+      "press": "환경과조경9시간 전",
       "date": "2026. 2. 9.",
       "description": "환경과조경..."
     },
     {
-      "id": 17,
+      "id": 19,
       "title": "양구 가볼 만한 곳, DMZ의 숨결이 깃든 안보와 평화의 공간",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=494420",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F09%2F160622.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스6시간 전",
+      "press": "중앙이코노미뉴스9시간 전",
       "date": "2026. 2. 9.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 18,
+      "id": 20,
       "title": "'나혼산' 한경록, 홍대 떠난 '캡틴록 하우스'서 반전 일상",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=494429",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F09%2F160628.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스6시간 전",
+      "press": "중앙이코노미뉴스9시간 전",
       "date": "2026. 2. 9.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 19,
+      "id": 21,
       "title": "이영실 거제시농업기술센터소장은 \"정글돔 내 앵무새 전시는 식물 위주의 관람에서 나아가 생물 전시 요소를 함께 즐길 수 있도록 마련한 신규 콘텐츠\"라며 \"전시 환경과 생육 상태를 지",
       "link": "http://www.gndomin.com/news/articleView.html?idxno=464899",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5416%2F2026%2F02%2F09%2F344817.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경남도민신문7시간 전",
+      "press": "경남도민신문10시간 전",
       "date": "2026. 2. 9.",
       "description": "경남도민신문..."
     },
     {
-      "id": 20,
+      "id": 22,
       "title": "백두대간수목원, 산림 자생 '뱀딸기 종자'서 높은 항산화 함량 확인",
       "link": "https://www.hankookilbo.com/news/article/A2026020916010003770?did=NA",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F469%2F2026%2F02%2F09%2F913663.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국일보7시간 전네이버뉴스",
+      "press": "한국일보10시간 전네이버뉴스",
       "date": "2026. 2. 9.",
       "description": "한국일보..."
     },
     {
-      "id": 21,
+      "id": 23,
       "title": "국립생태원, 한농대 ‘우수 장기현장실습장’ 선정",
       "link": "https://www.dailian.co.kr/news/view/1608615/?sc=Naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F02%2F09%2F3057874.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리안7시간 전네이버뉴스",
+      "press": "데일리안10시간 전네이버뉴스",
       "date": "2026. 2. 9.",
       "description": "데일리안..."
     },
     {
-      "id": 22,
+      "id": 24,
       "title": "신세계인터 연작, ‘알파낙스 아이크림’ 선봬",
       "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065600666908359",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F09%2F74276.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제7시간 전",
+      "press": "메가경제10시간 전",
       "date": "2026. 2. 9.",
       "description": "메가경제..."
     },
     {
-      "id": 23,
+      "id": 25,
       "title": "한수정, AI 콘텐츠 전시 진행",
       "link": "http://amenews.kr/news/view.php?idx=65746",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5644%2F2026%2F02%2F09%2F28549.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "신소재경제신문7시간 전",
+      "press": "신소재경제신문10시간 전",
       "date": "2026. 2. 9.",
       "description": "신소재경제신문..."
     },
     {
-      "id": 24,
+      "id": 26,
       "title": "거제식물원 정글돔, 생태 전시 콘텐츠 '다양'",
       "link": "https://www.newsgn.com/news/articleView.html?idxno=533972",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5714%2F2026%2F02%2F09%2F179177.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스경남7시간 전",
+      "press": "뉴스경남10시간 전",
       "date": "2026. 2. 9.",
       "description": "뉴스경남..."
     },
     {
-      "id": 25,
+      "id": 27,
       "title": "또 실습생들의 식물 관리 전문성을 키우기 위해 국립생태원 전문가와의 일 대 일(1:1) 도제식 교육을 통해 ▲기후대별⸱자생환경별 식물 생육 관리 ▲국제적 멸종위기 식물(CITES)",
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7149468",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5723%2F2026%2F02%2F09%2F45612.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "주간한국7시간 전",
+      "press": "주간한국10시간 전",
       "date": "2026. 2. 9.",
       "description": "주간한국..."
     },
     {
-      "id": 26,
+      "id": 28,
+      "title": "산림종자에서 찾은 항산화 보물, 산업화 가능성 열렸다",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4064093",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F02%2F09%2F508321.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경북일보10시간 전",
+      "date": "2026. 2. 9.",
+      "description": "경북일보..."
+    },
+    {
+      "id": 29,
       "title": "[신상품] 오뚜기 '제주담음 제주 흑돼지 스프카레' 외",
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=620818",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5001%2F2026%2F02%2F09%2F483272.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울파이낸스7시간 전",
+      "press": "서울파이낸스11시간 전",
       "date": "2026. 2. 9.",
       "description": "서울파이낸스..."
     },
     {
-      "id": 27,
+      "id": 30,
       "title": "뉴트리코어, '하이퍼셀 식물성 멜라토닌 함유 멜라바인 2mg' 리뉴얼 제품...",
       "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134451",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F09%2F58671.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스8시간 전",
+      "press": "메디소비자뉴스11시간 전",
       "date": "2026. 2. 9.",
       "description": "메디소비자뉴스..."
     },
     {
-      "id": 28,
+      "id": 31,
       "title": "서초구, ‘서초역 향나무’ 제1호 서초구 향토유산 지정",
       "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289578284439",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F02%2F09%2F877372.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민일보8시간 전",
+      "press": "시민일보11시간 전",
       "date": "2026. 2. 9.",
       "description": "시민일보..."
     },
     {
-      "id": 29,
+      "id": 32,
       "title": "뉴트리코어,'하이퍼셀 식물성 멜라토닌 함유 멜라바인 2mg' 리뉴얼 출시...",
       "link": "http://www.bokuennews.com/news/article.html?no=273599",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F09%2F109490.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "보건뉴스8시간 전",
+      "press": "보건뉴스11시간 전",
       "date": "2026. 2. 9.",
       "description": "보건뉴스..."
     },
     {
-      "id": 30,
+      "id": 33,
       "title": "자월도에 힐링꽃섬, 지방정원 조성",
       "link": "http://www.incheonin.com/news/articleView.html?idxno=115591",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5808%2F2026%2F02%2F09%2F35713.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인천in9시간 전",
+      "press": "인천in12시간 전",
       "date": "2026. 2. 9.",
       "description": "인천in..."
     },
     {
-      "id": 31,
+      "id": 34,
       "title": "국제사이버대학교, 경기도소방재난본부와 소방공무원 대상 온라인 교육...",
       "link": "https://www.socialvalue.kr/news/view/1065594323156256",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5825%2F2026%2F02%2F09%2F45789.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "소셜밸류9시간 전",
+      "press": "소셜밸류12시간 전",
       "date": "2026. 2. 9.",
       "description": "소셜밸류..."
     },
     {
-      "id": 32,
+      "id": 35,
       "title": "연작, 강력한 항산화 효능의 신규 아이크림 '알파낙스'",
       "link": "http://www.ktnews.com/news/articleView.html?idxno=143934",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5381%2F2026%2F02%2F09%2F46996.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국섬유신문9시간 전",
+      "press": "한국섬유신문12시간 전",
       "date": "2026. 2. 9.",
       "description": "한국섬유신문..."
     },
     {
-      "id": 33,
+      "id": 36,
       "title": "조용한 겨울 여행지로 주목받는 인천 가볼 만한 곳",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=15961401",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F09%2F1195184.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "톱스타뉴스9시간 전",
-      "date": "2026. 2. 9.",
-      "description": "톱스타뉴스..."
-    },
-    {
-      "id": 34,
-      "title": "[단독] \"대학-기업 가교역할 충실히\"… 전북라이즈(RISE)센터, '바이오 ...",
-      "link": "https://news.unn.net/news/articleView.html?idxno=589734",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5189%2F2026%2F02%2F09%2F177588.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국대학신문10시간 전",
-      "date": "2026. 2. 9.",
-      "description": "한국대학신문..."
-    },
-    {
-      "id": 35,
-      "title": "[송문석 칼럼] 동계올림픽의 도시 밀라노에는 '수직의 숲' 보스코 베르...",
-      "link": "http://www.civicnews.com/news/articleView.html?idxno=39337",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5461%2F2026%2F02%2F09%2F20845.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시빅뉴스10시간 전",
-      "date": "2026. 2. 9.",
-      "description": "시빅뉴스..."
-    },
-    {
-      "id": 36,
-      "title": "\"자연유산이라 낚시 금지인데\"…결국 칼 빼든 사하구",
-      "link": "http://www.fnnews.com/news/202602061632216066",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475601.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스10시간 전네이버뉴스",
-      "date": "2026. 2. 9.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 37,
-      "title": "똥꼬샵, 예민한 부위용 프리미엄 '이너프 더블케어 비데 티슈' 런칭",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328450",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5752%2F2026%2F02%2F09%2F77783.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "테크월드11시간 전",
-      "date": "2026. 2. 9.",
-      "description": "테크월드..."
-    },
-    {
-      "id": 38,
-      "title": "구리시 평생학습관ㆍ평생학습센터, 2026년 상반기 수강생 모집",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=883971",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5199%2F2026%2F02%2F09%2F434995.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경기신문11시간 전",
-      "date": "2026. 2. 9.",
-      "description": "경기신문..."
-    },
-    {
-      "id": 39,
-      "title": "[수원시 소식] 지방세외수입 종합평가 최우수·수원시농수산물도매시장...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=830470",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F02%2F09%2F422761.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스웍스11시간 전",
-      "date": "2026. 2. 9.",
-      "description": "뉴스웍스..."
-    },
-    {
-      "id": 40,
-      "title": "케토식, 우울증 환자에게 도움",
-      "link": "https://mdtoday.co.kr/news/view/1065593022500729",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F02%2F09%2F287105.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메디컬투데이11시간 전",
-      "date": "2026. 2. 9.",
-      "description": "메디컬투데이..."
-    },
-    {
-      "id": 41,
-      "title": "경산 가볼 만한 곳, 역사와 자연이 어우러진 겨울 산책길",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523348",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F09%2F375680.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스12시간 전",
-      "date": "2026. 2. 9.",
-      "description": "스타데일리뉴스..."
-    },
-    {
-      "id": 42,
-      "title": "태백 가볼 만한 곳, 겨울 자연과 문화가 어우러진 풍경",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523339",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F09%2F375676.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스12시간 전",
-      "date": "2026. 2. 9.",
-      "description": "스타데일리뉴스..."
-    },
-    {
-      "id": 43,
-      "title": "윤상현, \"아침약복용\" 일상 속 건강 관리 근황",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15961265",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F09%2F1195114.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "톱스타뉴스12시간 전",
       "date": "2026. 2. 9.",
       "description": "톱스타뉴스..."
     },
     {
-      "id": 44,
-      "title": "재고 쌓인 국산콩… 해법은 판촉이 아닌 산업화",
-      "link": "https://www.m-economynews.com/news/article.html?no=64511",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5180%2F2026%2F02%2F09%2F56717.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "M이코노미뉴스12시간 전",
+      "id": 37,
+      "title": "[단독] \"대학-기업 가교역할 충실히\"… 전북라이즈(RISE)센터, '바이오 ...",
+      "link": "https://news.unn.net/news/articleView.html?idxno=589734",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5189%2F2026%2F02%2F09%2F177588.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국대학신문13시간 전",
       "date": "2026. 2. 9.",
-      "description": "M이코노미뉴스..."
+      "description": "한국대학신문..."
     },
     {
-      "id": 45,
-      "title": "‘서초역 향나무’, 서초구 제1호 향토유산 지정",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22448",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F003%2F2025%2F03%2F07%2Flogo_003_100_20250307145615.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경13시간 전",
+      "id": 38,
+      "title": "[송문석 칼럼] 동계올림픽의 도시 밀라노에는 '수직의 숲' 보스코 베르...",
+      "link": "http://www.civicnews.com/news/articleView.html?idxno=39337",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5461%2F2026%2F02%2F09%2F20845.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시빅뉴스13시간 전",
       "date": "2026. 2. 9.",
-      "description": "환경과조경..."
+      "description": "시빅뉴스..."
     },
     {
-      "id": 46,
-      "title": "구리시 평생학습관·평생학습센터, '2026년 상반기 수강생' 모집",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=692616",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F09%2F495929.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "컨슈머타임스13시간 전",
-      "date": "2026. 2. 9.",
-      "description": "컨슈머타임스..."
-    },
-    {
-      "id": 47,
-      "title": "한국수목원정원관리원, AI 콘텐츠 전시 선보인다",
-      "link": "http://www.fnnews.com/news/202602091002541773",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475481.jpg&type=fface200_200&expire=2&refresh=true",
+      "id": 39,
+      "title": "\"자연유산이라 낚시 금지인데\"…결국 칼 빼든 사하구",
+      "link": "http://www.fnnews.com/news/202602061632216066",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475601.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "파이낸셜뉴스13시간 전네이버뉴스",
       "date": "2026. 2. 9.",
       "description": "파이낸셜뉴스..."
     },
     {
-      "id": 48,
-      "title": "[오늘 뭐 먹지] 하림·오뚜기·삼양식품 외",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=723606",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F09%2F386918.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프라임경제13시간 전",
+      "id": 40,
+      "title": "똥꼬샵, 예민한 부위용 프리미엄 '이너프 더블케어 비데 티슈' 런칭",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=328450",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5752%2F2026%2F02%2F09%2F77783.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "테크월드14시간 전",
       "date": "2026. 2. 9.",
-      "description": "프라임경제..."
+      "description": "테크월드..."
+    },
+    {
+      "id": 41,
+      "title": "구리시 평생학습관ㆍ평생학습센터, 2026년 상반기 수강생 모집",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=883971",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5199%2F2026%2F02%2F09%2F434995.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경기신문14시간 전",
+      "date": "2026. 2. 9.",
+      "description": "경기신문..."
+    },
+    {
+      "id": 42,
+      "title": "[수원시 소식] 지방세외수입 종합평가 최우수·수원시농수산물도매시장...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=830470",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F02%2F09%2F422761.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스웍스14시간 전",
+      "date": "2026. 2. 9.",
+      "description": "뉴스웍스..."
+    },
+    {
+      "id": 43,
+      "title": "케토식, 우울증 환자에게 도움",
+      "link": "https://mdtoday.co.kr/news/view/1065593022500729",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F02%2F09%2F287105.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디컬투데이15시간 전",
+      "date": "2026. 2. 9.",
+      "description": "메디컬투데이..."
+    },
+    {
+      "id": 44,
+      "title": "경산 가볼 만한 곳, 역사와 자연이 어우러진 겨울 산책길",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523348",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F09%2F375680.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스15시간 전",
+      "date": "2026. 2. 9.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 45,
+      "title": "태백 가볼 만한 곳, 겨울 자연과 문화가 어우러진 풍경",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523339",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F09%2F375676.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스15시간 전",
+      "date": "2026. 2. 9.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 46,
+      "title": "윤상현, \"아침약복용\" 일상 속 건강 관리 근황",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15961265",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F09%2F1195114.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "톱스타뉴스15시간 전",
+      "date": "2026. 2. 9.",
+      "description": "톱스타뉴스..."
+    },
+    {
+      "id": 47,
+      "title": "재고 쌓인 국산콩… 해법은 판촉이 아닌 산업화",
+      "link": "https://www.m-economynews.com/news/article.html?no=64511",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5180%2F2026%2F02%2F09%2F56717.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "M이코노미뉴스15시간 전",
+      "date": "2026. 2. 9.",
+      "description": "M이코노미뉴스..."
+    },
+    {
+      "id": 48,
+      "title": "‘서초역 향나무’, 서초구 제1호 향토유산 지정",
+      "link": "http://www.lak.co.kr/news/boardview.php?id=22448",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5736%2F2024%2F05%2F31%2Flogo_5736_18_20240531142125.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경16시간 전",
+      "date": "2026. 2. 9.",
+      "description": "환경과조경..."
     },
     {
       "id": 49,
-      "title": "대구시 \"도심 속 녹색 문화를 이끌 도시농업전문가 찾습니다\"",
-      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=206531",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5820%2F2026%2F02%2F09%2F166412.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "잡포스트14시간 전",
+      "title": "구리시 평생학습관·평생학습센터, '2026년 상반기 수강생' 모집",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=692616",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F09%2F495929.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "컨슈머타임스16시간 전",
       "date": "2026. 2. 9.",
-      "description": "잡포스트..."
+      "description": "컨슈머타임스..."
     },
     {
       "id": 50,
-      "title": "담서원의 '20루피'…오리온, '글로벌 사우스'서 새 성공방정식 쓴다",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3045666",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5793%2F2026%2F02%2F09%2F48546.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "AP신문14시간 전",
+      "title": "한국수목원정원관리원, AI 콘텐츠 전시 선보인다",
+      "link": "http://www.fnnews.com/news/202602091002541773",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475481.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스16시간 전네이버뉴스",
       "date": "2026. 2. 9.",
-      "description": "AP신문..."
+      "description": "파이낸셜뉴스..."
     }
   ]
 }

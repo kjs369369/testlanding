@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-10T01:54:11.348Z",
-  "lastUpdatedKST": "2026. 2. 10. 오전 10:54:11",
+  "lastUpdated": "2026-02-10T05:00:06.757Z",
+  "lastUpdatedKST": "2026. 2. 10. 오후 2:00:06",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "동국제약, '형개추출분말' 식약처 개별인정형 원료 신청",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=111658",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F02%2F10%2F74254.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팝콘뉴스7분 전",
+      "title": "동국제약, '근력 개선' 건기식 내년 출시 목표",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=816170",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F02%2F10%2F429431.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한스경제1분 전",
       "date": "2026. 2. 10.",
-      "description": "팝콘뉴스..."
+      "description": "한스경제..."
     },
     {
       "id": 2,
-      "title": "동국제약 '형개추출분말' 식약처 개별인정형 원료 신청",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=547768",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5824%2F2026%2F02%2F10%2F73715.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스저널리즘9분 전",
+      "title": "포천/광릉숲에 사는 생명만 6,564종...한반도 생물다양성의 10% 이상 기록...",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=884140",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5199%2F2024%2F05%2F31%2Flogo_5199_18_20240531135236.png&type=f54_54&expire=24&refresh=true",
+      "press": "경기신문3분 전",
       "date": "2026. 2. 10.",
-      "description": "뉴스저널리즘..."
+      "description": "경기신문..."
     },
     {
       "id": 3,
-      "title": "실거주와 투자 동시에…대형 건설사 브랜드 오피스텔 '롯데캐슬 르웨스...",
-      "link": "https://edu.donga.com/news/articleView.html?idxno=103165",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F02%2F10%2F97466.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "E동아13분 전",
-      "date": "2026. 2. 10.",
-      "description": "E동아..."
-    },
-    {
-      "id": 4,
-      "title": "동국제약, '형개추출분말' 개별인정형 원료 신청…\"내년 제품 출시 목표...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=212685",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5686%2F2026%2F02%2F10%2F181655.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "청년일보13분 전",
-      "date": "2026. 2. 10.",
-      "description": "청년일보..."
-    },
-    {
-      "id": 5,
-      "title": "국립수목원 \"광릉숲 서식 생물 6564종…한반도 생물다양성의 10% 이상\"",
-      "link": "https://www.imwood.co.kr/news/articleView.html?idxno=40546",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5784%2F2026%2F02%2F10%2F13630.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "나무신문23분 전",
-      "date": "2026. 2. 10.",
-      "description": "나무신문..."
-    },
-    {
-      "id": 6,
-      "title": "동국제약, ‘형개추출분말’ 개별인정형 원료 신청",
-      "link": "https://www.fetv.co.kr/news/article.html?no=212447",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5484%2F2026%2F02%2F10%2F191523.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "FETV29분 전",
-      "date": "2026. 2. 10.",
-      "description": "FETV..."
-    },
-    {
-      "id": 7,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5527%2F2024%2F05%2F31%2Flogo_5527_18_20240531135146.png&type=f54_54&expire=24&refresh=true",
-      "press": "뉴스투데이1분 전",
-      "date": "2026. 2. 10.",
-      "description": "뉴스투데이..."
-    },
-    {
-      "id": 8,
-      "title": "서초구, '정원도시 서초' 만드는 정원사 키운다",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1229803",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F10%2F305145.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전국매일신문29분 전",
-      "date": "2026. 2. 10.",
-      "description": "전국매일신문..."
-    },
-    {
-      "id": 9,
-      "title": "국립생태원, 한농대 '2025학년도 우수 장기현장실습장' 선정",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1229770",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F10%2F305138.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전국매일신문31분 전",
-      "date": "2026. 2. 10.",
-      "description": "전국매일신문..."
-    },
-    {
-      "id": 10,
-      "title": "동국제약, 형개추출분말 개별인정형 원료 신청",
-      "link": "https://www.dailypharm.com/user/news/335618?REFERER=NP",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F10%2F170529.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리팜31분 전",
-      "date": "2026. 2. 10.",
-      "description": "데일리팜..."
-    },
-    {
-      "id": 11,
-      "title": "동국제약, ‘형개추출분말(DKB-138)’ 식약처에 개별인정형 원료 신청",
-      "link": "https://hbnpress.com/news/view/1065575855062691",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5744%2F2026%2F02%2F10%2F161295.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "HBN뉴스33분 전",
-      "date": "2026. 2. 10.",
-      "description": "HBN뉴스..."
-    },
-    {
-      "id": 12,
-      "title": "서초구, 도심 속 정원사 키운다… '서초정원사 양성 교육' 본격 운영",
-      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2190213",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5364%2F2026%2F02%2F10%2F1158059.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "신아일보35분 전",
-      "date": "2026. 2. 10.",
-      "description": "신아일보..."
-    },
-    {
-      "id": 13,
-      "title": "동국제약, '형개추출분말(DKB-138)' 개별인정형 원료 신청",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=72200",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5201%2F2026%2F02%2F10%2F39108.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프레스나인35분 전",
-      "date": "2026. 2. 10.",
-      "description": "프레스나인..."
-    },
-    {
-      "id": 14,
-      "title": "동국제약, 식약처에 '헝개추출분말' 개별인정형 원료 신청",
-      "link": "https://www.dailian.co.kr/news/view/1608831/?sc=Naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F02%2F10%2F3058087.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리안36분 전네이버뉴스",
-      "date": "2026. 2. 10.",
-      "description": "데일리안..."
-    },
-    {
-      "id": 15,
-      "title": "동국제약, 근력 개선 '형개추출분말' 개별인정형 원료 신청",
-      "link": "http://www.wsobi.com/news/articleView.html?idxno=304228",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5493%2F2026%2F02%2F10%2F133412.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "여성소비자신문37분 전",
-      "date": "2026. 2. 10.",
-      "description": "여성소비자신문..."
-    },
-    {
-      "id": 16,
-      "title": "동국제약, 형개추출분말 'DKB-138' 개별인정형 원료 신청",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529225",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F10%2F113111.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "약사공론37분 전",
-      "date": "2026. 2. 10.",
-      "description": "약사공론..."
-    },
-    {
-      "id": 17,
-      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 지난 3년간 근력 개선 기능성 원료 개발에 집중했으며 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출시",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=107332",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F10%2F62442.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림39분 전",
-      "date": "2026. 2. 10.",
-      "description": "뉴스드림..."
-    },
-    {
-      "id": 18,
-      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 3년간 근력 개선 기능성 원료 개발에 집중했으며, 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출시를 ",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=427853",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F10%2F391269.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "핀포인트뉴스41분 전",
-      "date": "2026. 2. 10.",
-      "description": "핀포인트뉴스..."
-    },
-    {
-      "id": 19,
-      "title": "동국제약, '형개추출분말' 개별인정형 원료 신청",
-      "link": "https://www.newspim.com/news/view/20260210000369",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F10%2F3093808.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스핌41분 전",
-      "date": "2026. 2. 10.",
-      "description": "뉴스핌..."
-    },
-    {
-      "id": 20,
-      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 지난 3년간 근력 개선 기능성 원료 개발에 집중했으며, 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134476",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F10%2F58698.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스43분 전",
-      "date": "2026. 2. 10.",
-      "description": "메디소비자뉴스..."
-    },
-    {
-      "id": 21,
-      "title": "인천, 바다로 탄소 잡는다",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2392910",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F10%2F1150708.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이뉴스투데이43분 전",
-      "date": "2026. 2. 10.",
-      "description": "이뉴스투데이..."
-    },
-    {
-      "id": 22,
-      "title": "동국제약, 초고령사회 겨냥 ‘근력 원료’ 승부수…형개추출분말 개별...",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575144337624",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F10%2F74293.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제45분 전",
-      "date": "2026. 2. 10.",
-      "description": "메가경제..."
-    },
-    {
-      "id": 23,
-      "title": "위바이옴 '두뇌엔 닥터 PS 70' 리뉴얼 출시, 세린에이드® 원료 적용",
-      "link": "http://www.e2news.com/news/articleView.html?idxno=327743",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5118%2F2026%2F02%2F10%2F155032.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이투뉴스57분 전",
-      "date": "2026. 2. 10.",
-      "description": "이투뉴스..."
-    },
-    {
-      "id": 24,
-      "title": "살포 시기·빈도 등 잘 맞추면 겨울에도 일관된 초록 연출",
-      "link": "http://www.golfin.co.kr/news/articleView.html?idxno=7573",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5661%2F2026%2F02%2F10%2F4221.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "골프산업신문1시간 전",
-      "date": "2026. 2. 10.",
-      "description": "골프산업신문..."
-    },
-    {
-      "id": 25,
-      "title": "국립수목원, 광릉숲 6564종 생물 서식…한반도 10% 차지",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03138966645349208",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F02%2F10%2F6216441.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이데일리1시간 전네이버뉴스",
-      "date": "2026. 2. 10.",
-      "description": "이데일리..."
-    },
-    {
-      "id": 26,
-      "title": "대주관 대구시회, 아파트 조경식재 실무교육 실시",
-      "link": "http://www.aptn.co.kr/news/articleView.html?idxno=111181",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5501%2F2026%2F02%2F10%2F20552.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "아파트관리신문1시간 전",
-      "date": "2026. 2. 10.",
-      "description": "아파트관리신문..."
-    },
-    {
-      "id": 27,
-      "title": "\"광릉숲 서식 생명은 6564종...한반도 생물다양성의 10%이상\"",
-      "link": "http://www.fnnews.com/news/202602100849563569",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F10%2F5476022.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스1시간 전네이버뉴스",
-      "date": "2026. 2. 10.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 28,
-      "title": "[정책브리핑] 2026년 02월 10일 화요일 주요 정책",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234411",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5369%2F2026%2F02%2F10%2F167944.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시선뉴스1시간 전",
-      "date": "2026. 2. 10.",
-      "description": "시선뉴스..."
-    },
-    {
-      "id": 29,
-      "title": "경기도, 동절기 과수화상병 확산 방지를 위한 궤양 제거 당부",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=426996",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5524%2F2026%2F02%2F10%2F385035.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노뉴스2시간 전",
-      "date": "2026. 2. 10.",
-      "description": "이코노뉴스..."
-    },
-    {
-      "id": 30,
-      "title": "한국수목원정원관리원, 잠자던 산림종자 '천연 항산화제로 효능' 입증",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=692734",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F10%2F496054.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "컨슈머타임스9시간 전",
-      "date": "2026. 2. 10.",
-      "description": "컨슈머타임스..."
-    },
-    {
-      "id": 31,
-      "title": "한국수목원정원관리원, 'AI 콘텐츠 전시' 선보여",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=692736",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F10%2F496021.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "컨슈머타임스9시간 전",
-      "date": "2026. 2. 10.",
-      "description": "컨슈머타임스..."
-    },
-    {
-      "id": 32,
-      "title": "국립생태원 '한농대 우수 장기현장실습장' 선정…\"핵심 인재 양성\"",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=705995",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F09%2F441809.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울와이어11시간 전",
-      "date": "2026. 2. 10.",
-      "description": "서울와이어..."
-    },
-    {
-      "id": 33,
-      "title": "농어촌공사 전북본부, 농지임대수탁 수수료 없앤다",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401448",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79971.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농어민신문12시간 전",
-      "date": "2026. 2. 10.",
-      "description": "한국농어민신문..."
-    },
-    {
-      "id": 34,
-      "title": "[주목 이 제품] 경농 석회보르도액 '펜큐브레'···과수화상병 예방 효...",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401470",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79957.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농어민신문12시간 전",
-      "date": "2026. 2. 10.",
-      "description": "한국농어민신문..."
-    },
-    {
-      "id": 35,
-      "title": "[여행을 떠나요] 성곽에서 호수까지, 하루에 담아낸 수원의 시간",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3373428",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F09%2F1154610.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보13시간 전",
-      "date": "2026. 2. 10.",
-      "description": "천지일보..."
-    },
-    {
-      "id": 36,
-      "title": "국립생태원, 한농대 '우수 장기현장실습장' 선정",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=838575",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F09%2F465354.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동양일보13시간 전",
-      "date": "2026. 2. 10.",
-      "description": "동양일보..."
-    },
-    {
-      "id": 37,
-      "title": "심장이 건강해지는 식단 5가지",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=562615&class=27&grp=",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F09%2F2377516.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보13시간 전네이버뉴스",
-      "date": "2026. 2. 10.",
-      "description": "조세일보..."
-    },
-    {
-      "id": 38,
-      "title": "[브리프]오뚜기 풀무원 농심 CJ프레시웨이 롯데웰푸드 삼양식품 상하농...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=348669",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F09%2F177475.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비즈트리뷴15시간 전",
-      "date": "2026. 2. 10.",
-      "description": "비즈트리뷴..."
-    },
-    {
-      "id": 39,
-      "title": "수목원정원관리원, 오송역서 AI 생성 수목원·정원 이미지 전시",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=261411",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F09%2F149054.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팍스경제TV15시간 전",
-      "date": "2026. 2. 10.",
-      "description": "팍스경제TV..."
-    },
-    {
-      "id": 40,
-      "title": "[이들이 경남 청년人·家]김해 '올라라' 농장 김성도 대표",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630200",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304594.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보15시간 전",
-      "date": "2026. 2. 10.",
-      "description": "경남일보..."
-    },
-    {
-      "id": 41,
-      "title": "광주 무등산서 복수초·개구리 산란",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=900957",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F02%2F09%2F312288.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "남도일보15시간 전",
-      "date": "2026. 2. 10.",
-      "description": "남도일보..."
-    },
-    {
-      "id": 42,
-      "title": "거제식물원 정글돔, 앵무새 전시로 관람 콘텐츠 확대",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=630166",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F09%2F304579.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보15시간 전",
-      "date": "2026. 2. 10.",
-      "description": "경남일보..."
-    },
-    {
-      "id": 43,
-      "title": "식물성 음료, 우유 이미지 빌려 '꼼수 광고' 논란",
-      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401547",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F09%2F79945.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농어민신문16시간 전",
-      "date": "2026. 2. 10.",
-      "description": "한국농어민신문..."
-    },
-    {
-      "id": 44,
-      "title": "사하구, 낙동강하구둑 교량 위서 낚시하면 무조건 처벌한다",
-      "link": "http://www.fnnews.com/news/202602091833017846",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F09%2F5475891.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스16시간 전네이버뉴스",
-      "date": "2026. 2. 10.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 45,
-      "title": "또한, 실습생들의 식물 관리 전문성을 키우기 위해 국립생태원 전문가와의 1:1 도제식 교육을 통해 ▲기후대별⸱자생환경별 식물 생육 관리 ▲국제적 멸종위기 식물(CITES) 증식 ▲",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=872975",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F09%2F491675.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충남일보16시간 전",
-      "date": "2026. 2. 10.",
-      "description": "충남일보..."
-    },
-    {
-      "id": 46,
-      "title": "한국수목원정원관리원, 오송역서 ‘AI 콘텐츠’ 전시",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22457",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F023%2F2025%2F03%2F07%2Flogo_023_100_20250307145706.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경17시간 전",
+      "title": "“광릉숲에 생물 6564종 산다”…한반도 전체 중 10% 기록",
+      "link": "http://www.lak.co.kr/news/boardview.php?id=22462",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5438%2F2024%2F05%2F31%2Flogo_5438_18_20240531143444.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경13분 전",
       "date": "2026. 2. 10.",
       "description": "환경과조경..."
     },
     {
-      "id": 47,
-      "title": "양구 가볼 만한 곳, DMZ의 숨결이 깃든 안보와 평화의 공간",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=494420",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F09%2F160622.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스17시간 전",
+      "id": 4,
+      "title": "동국제약, ‘형개추출분말’ 개별인정형 원료 신청",
+      "link": "https://www.m-economynews.com/news/article.html?no=64564",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5180%2F2026%2F02%2F10%2F56758.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "M이코노미뉴스13분 전",
       "date": "2026. 2. 10.",
-      "description": "중앙이코노미뉴스..."
+      "description": "M이코노미뉴스..."
+    },
+    {
+      "id": 5,
+      "title": "동국제약, '형개추출분말' 개별인정형 원료 신청",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1334361",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F10%2F763231.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리한국15분 전",
+      "date": "2026. 2. 10.",
+      "description": "데일리한국..."
+    },
+    {
+      "id": 6,
+      "title": "서초구, 도심 속 정원사 키운다... ‘서초정원사 양성 교육’ 본격 운영",
+      "link": "https://weekly.cnbnews.com/news/article.html?no=205544",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5127%2F2026%2F02%2F10%2F105421.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "CNB저널(문화경제)23분 전",
+      "date": "2026. 2. 10.",
+      "description": "CNB저널(문화경제)..."
+    },
+    {
+      "id": 7,
+      "title": "동국제약, '형개추출분말' 식품의약품안전처 개별인정형 원료 신청",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=723876",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F10%2F387151.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "프라임경제23분 전",
+      "date": "2026. 2. 10.",
+      "description": "프라임경제..."
+    },
+    {
+      "id": 8,
+      "title": "동국제약, ‘형개추출분말’ 개별인정형 원료 신청 완료",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000091357",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5730%2F2026%2F02%2F10%2F35324.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "서울타임즈뉴스27분 전",
+      "date": "2026. 2. 10.",
+      "description": "서울타임즈뉴스..."
+    },
+    {
+      "id": 9,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5438%2F2024%2F05%2F31%2Flogo_5438_18_20240531143444.png&type=f54_54&expire=24&refresh=true",
+      "press": "한스경제1분 전",
+      "date": "2026. 2. 10.",
+      "description": "한스경제..."
+    },
+    {
+      "id": 10,
+      "title": "[C-워드] 포스코이앤씨·현대엔지니어링·DK아시아·KCC·무영CM",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=723871",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F10%2F387148.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "프라임경제37분 전",
+      "date": "2026. 2. 10.",
+      "description": "프라임경제..."
+    },
+    {
+      "id": 11,
+      "title": "100% 식물성 유기농 오일 블렌드 주목... 트루엔, '올리브 햄프 369'출시",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134494",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F10%2F58716.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스39분 전",
+      "date": "2026. 2. 10.",
+      "description": "메디소비자뉴스..."
+    },
+    {
+      "id": 12,
+      "title": "서초구, '서초정원사 양성 교육' 본격 운영",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3490482",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F10%2F2451626.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "국제뉴스..."
+    },
+    {
+      "id": 13,
+      "title": "동국제약 \"근력 개선 '형개추출분말', 기능성 원료 신청\"",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=111270",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5214%2F2026%2F02%2F10%2F61075.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "딜라이트닷넷1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "딜라이트닷넷..."
+    },
+    {
+      "id": 14,
+      "title": "동국제약, '형개추출분말(DKB-138)' 개별인정형 원료 신청",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=150792",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5187%2F2026%2F02%2F10%2F80303.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "Korea IT Times1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "Korea IT Times..."
+    },
+    {
+      "id": 15,
+      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 지난 3년간 근력 개선 기능성 원료 개발에 집중했으며, 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=729231",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F10%2F423965.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이코노믹리뷰1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "이코노믹리뷰..."
+    },
+    {
+      "id": 16,
+      "title": "동국제약 \"만50~70세, 형개추출분말 12주섭취시 악력·대퇴근력 유의적...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=120530",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5140%2F2026%2F02%2F10%2F99790.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "CATCH NEWS1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "CATCH NEWS..."
+    },
+    {
+      "id": 17,
+      "title": "신안 가거도 가볼 만한 곳, 웅장한 절경이 펼쳐지는 섬의 고요",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523508",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F10%2F375838.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스1시간 전",
+      "date": "2026. 2. 10.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 18,
+      "title": "창녕 가볼 만한 곳, 자연의 숨결과 오랜 역사가 공존하는 겨울 산책",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523507",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F10%2F375835.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 19,
+      "title": "동국제약, 근력 개선 도움 '형개추출분말' 개별인정형 원료 신청",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=406731",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F02%2F10%2F232298.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디파나뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "메디파나뉴스..."
+    },
+    {
+      "id": 20,
+      "title": "광릉숲에 사는 생명만 6,564종…한반도 생물다양성의 10% 이상 차지",
+      "link": "https://www.livesnews.com/news/article.html?no=59411",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5811%2F2026%2F02%2F10%2F27498.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "라이브뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "라이브뉴스..."
+    },
+    {
+      "id": 21,
+      "title": "횡성 가볼 만한 곳, 고요한 자연 속 태기산의 겨울 풍경",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=523492",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F10%2F375820.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 22,
+      "title": "동국제약, 근력 개선 신소재 식약처 승인 신청",
+      "link": "https://mdtoday.co.kr/news/view/1065579700727818",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F02%2F10%2F287176.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디컬투데이2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "메디컬투데이..."
+    },
+    {
+      "id": 23,
+      "title": "동국제약, 근감소증 예방 위한 '형개추출분말' 개별인정형 원료 신청",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301423",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F10%2F48782.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 24,
+      "title": "산림청 국립수목원, 광릉숲 생물다양성 조사 성과 공개...6,564종 서식",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3502828",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F10%2F2451561.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "국제뉴스..."
+    },
+    {
+      "id": 25,
+      "title": "경기도, 동절기 과수화상병 확산 방지 위한 궤양 제거 당부",
+      "link": "http://www.nongup.net/news/articleView.html?idxno=32422",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5806%2F2026%2F02%2F10%2F6929.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "농업정보신문2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "농업정보신문..."
+    },
+    {
+      "id": 26,
+      "title": "최정록 농림축산검역본부장, 식물검역관과 소통의 자리 가져",
+      "link": "http://www.nongup.net/news/articleView.html?idxno=32409",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5806%2F2026%2F02%2F10%2F6919.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "농업정보신문2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "농업정보신문..."
+    },
+    {
+      "id": 27,
+      "title": "글루코스 컨트롤, 식후 혈당 상승을 관리하는 새로운 웰니스",
+      "link": "https://www.sportsseoul.com/news/read/1585112?ref=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F468%2F2026%2F02%2F10%2F1216328.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스포츠서울2시간 전네이버뉴스",
+      "date": "2026. 2. 10.",
+      "description": "스포츠서울..."
+    },
+    {
+      "id": 28,
+      "title": "동국제약, 기능성 원료 '형개추출분말' 개별인정형 원료 신청 완료",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=246829",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5141%2F2026%2F02%2F10%2F170335.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "넥스트데일리2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "넥스트데일리..."
+    },
+    {
+      "id": 29,
+      "title": "국립생태원 국립한국농수산대학교 2025년 장기현장 실습장 선정",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1141237",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5356%2F2026%2F02%2F10%2F777457.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "금강일보2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "금강일보..."
+    },
+    {
+      "id": 30,
+      "title": "한경국립대,  캄보디아 기후변화 대응 농업역량 강화사업 착수",
+      "link": "http://www.veritas-a.com/news/articleView.html?idxno=597755",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5258%2F2026%2F02%2F10%2F385453.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "베리타스알파2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "베리타스알파..."
+    },
+    {
+      "id": 31,
+      "title": "국립백두대간수목원, '뱀딸기' 산림종자서 '천연 항산화' 가능성 확인",
+      "link": "https://www.idaegu.com/news/articleView.html?idxno=656907",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5287%2F2026%2F02%2F10%2F289645.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대구일보2시간 전",
+      "date": "2026. 2. 10.",
+      "description": "대구일보..."
+    },
+    {
+      "id": 32,
+      "title": "매일헬스뉴트리션X쿠첸, 혈당 케어 협업",
+      "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=490982",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5400%2F2026%2F02%2F10%2F248769.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스포츠Q3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "스포츠Q..."
+    },
+    {
+      "id": 33,
+      "title": "동물원에서 태어나 숲으로...달팽이의 멸종 '역주행'",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21193",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F02%2F10%2F8641.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "뉴스펭귄..."
+    },
+    {
+      "id": 34,
+      "title": "동국제약, '형개추출분말' 식약처 개별인정형 원료 신청",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=111658",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F02%2F10%2F74254.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팝콘뉴스3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "팝콘뉴스..."
+    },
+    {
+      "id": 35,
+      "title": "동국제약 '형개추출분말' 식약처 개별인정형 원료 신청",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=547768",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5824%2F2026%2F02%2F10%2F73715.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스저널리즘3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "뉴스저널리즘..."
+    },
+    {
+      "id": 36,
+      "title": "실거주와 투자 동시에…대형 건설사 브랜드 오피스텔 '롯데캐슬 르웨스...",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=103165",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F02%2F10%2F97466.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "E동아3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "E동아..."
+    },
+    {
+      "id": 37,
+      "title": "동국제약, '형개추출분말' 개별인정형 원료 신청…\"내년 제품 출시 목표...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=212685",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5686%2F2026%2F02%2F10%2F181655.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "청년일보3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "청년일보..."
+    },
+    {
+      "id": 38,
+      "title": "국립수목원 \"광릉숲 서식 생물 6564종…한반도 생물다양성의 10% 이상\"",
+      "link": "https://www.imwood.co.kr/news/articleView.html?idxno=40546",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5784%2F2026%2F02%2F10%2F13630.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "나무신문3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "나무신문..."
+    },
+    {
+      "id": 39,
+      "title": "동국제약, 근력 개선 신원료 '형개추출분말' 식약처 개별인정 신청",
+      "link": "http://www.bokuennews.com/news/article.html?no=273637",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5602%2F2024%2F05%2F31%2Flogo_5602_18_20240531135908.png&type=f54_54&expire=24&refresh=true",
+      "press": "보건뉴스3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "보건뉴스..."
+    },
+    {
+      "id": 40,
+      "title": "서초구, '정원도시 서초' 만드는 정원사 키운다",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1229803",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F10%2F305145.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "전국매일신문3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "전국매일신문..."
+    },
+    {
+      "id": 41,
+      "title": "동국제약, 형개추출분말 개별인정형 원료 신청",
+      "link": "https://www.dailypharm.com/user/news/335618?REFERER=NP",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F10%2F170529.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리팜3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "데일리팜..."
+    },
+    {
+      "id": 42,
+      "title": "동국제약, ‘형개추출분말(DKB-138)’ 식약처에 개별인정형 원료 신청",
+      "link": "https://hbnpress.com/news/view/1065575855062691",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5744%2F2026%2F02%2F10%2F161295.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "HBN뉴스3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "HBN뉴스..."
+    },
+    {
+      "id": 43,
+      "title": "서초구, 도심 속 정원사 키운다… '서초정원사 양성 교육' 본격 운영",
+      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2190213",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5364%2F2026%2F02%2F10%2F1158059.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "신아일보3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "신아일보..."
+    },
+    {
+      "id": 44,
+      "title": "동국제약, 식약처에 '헝개추출분말' 개별인정형 원료 신청",
+      "link": "https://www.dailian.co.kr/news/view/1608831/?sc=Naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F02%2F10%2F3058087.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리안3시간 전네이버뉴스",
+      "date": "2026. 2. 10.",
+      "description": "데일리안..."
+    },
+    {
+      "id": 45,
+      "title": "동국제약, 근력 개선 '형개추출분말' 개별인정형 원료 신청",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=304228",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5493%2F2026%2F02%2F10%2F133412.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "여성소비자신문3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "여성소비자신문..."
+    },
+    {
+      "id": 46,
+      "title": "동국제약, 형개추출분말 'DKB-138' 개별인정형 원료 신청",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529225",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F10%2F113111.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "약사공론3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "약사공론..."
+    },
+    {
+      "id": 47,
+      "title": "동국제약 '형개추출분말' 개별인정형 원료 신청",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=240957",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5517%2F2026%2F02%2F10%2F142471.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인사이트코리아3시간 전",
+      "date": "2026. 2. 10.",
+      "description": "인사이트코리아..."
     },
     {
       "id": 48,
-      "title": "'나혼산' 한경록, 홍대 떠난 '캡틴록 하우스'서 반전 일상",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=494429",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F09%2F160628.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스17시간 전",
+      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 지난 3년간 근력 개선 기능성 원료 개발에 집중했으며 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출시",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=107332",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F10%2F62442.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스드림3시간 전",
       "date": "2026. 2. 10.",
-      "description": "중앙이코노미뉴스..."
+      "description": "뉴스드림..."
     },
     {
       "id": 49,
-      "title": "이영실 거제시농업기술센터소장은 \"정글돔 내 앵무새 전시는 식물 위주의 관람에서 나아가 생물 전시 요소를 함께 즐길 수 있도록 마련한 신규 콘텐츠\"라며 \"전시 환경과 생육 상태를 지",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=464899",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5416%2F2026%2F02%2F09%2F344817.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경남도민신문17시간 전",
+      "title": "근력 관리 수요가 늘고 있다. 동국제약은 이러한 변화에 대응하고자 3년간 근력 개선 기능성 원료 개발에 집중했으며, 개별인정형 원료 인정 절차 완료 후 2027년 내 제품 출시를 ",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=427853",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F10%2F391269.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "핀포인트뉴스3시간 전",
       "date": "2026. 2. 10.",
-      "description": "경남도민신문..."
+      "description": "핀포인트뉴스..."
     },
     {
       "id": 50,
-      "title": "백두대간수목원, 산림 자생 '뱀딸기 종자'서 높은 항산화 함량 확인",
-      "link": "https://www.hankookilbo.com/news/article/A2026020916010003770?did=NA",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F469%2F2026%2F02%2F09%2F913663.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국일보17시간 전네이버뉴스",
+      "title": "인천, 바다로 탄소 잡는다",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2392910",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F10%2F1150708.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이뉴스투데이3시간 전",
       "date": "2026. 2. 10.",
-      "description": "한국일보..."
+      "description": "이뉴스투데이..."
     }
   ]
 }

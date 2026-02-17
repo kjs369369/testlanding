@@ -1,84 +1,93 @@
 {
-  "lastUpdated": "2026-02-17T09:41:41.422Z",
-  "lastUpdatedKST": "2026. 2. 17. 오후 6:41:41",
+  "lastUpdated": "2026-02-17T12:50:50.311Z",
+  "lastUpdatedKST": "2026. 2. 17. 오후 9:50:50",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
+      "title": "블루카본 '잘피'...\"면적 1/3 감소\"",
+      "link": "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026021718473803715?feed=na",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F661%2F2026%2F02%2F17%2F71480.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "JIBS1시간 전네이버뉴스",
+      "date": "2026. 2. 17.",
+      "description": "JIBS..."
+    },
+    {
+      "id": 2,
       "title": "[약식동원] 고기 뺨치는 단백질 보충제 참깨",
       "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=322501",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F02%2F17%2F201255.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "약업신문5시간 전",
+      "press": "약업신문8시간 전",
       "date": "2026. 2. 17.",
       "description": "약업신문..."
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "[조경] 칡넝쿨(Kudzu vine) 제거 및 관리",
       "link": "http://www.aptn.co.kr/news/articleView.html?idxno=111225",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5501%2F2026%2F02%2F17%2F20589.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "아파트관리신문7시간 전",
+      "press": "아파트관리신문11시간 전",
       "date": "2026. 2. 17.",
       "description": "아파트관리신문..."
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F661%2F2025%2F03%2F07%2Flogo_661_100_20250307145705.png&type=f54_54&expire=24&refresh=true",
+      "press": "JIBS1시간 전네이버뉴스",
+      "date": "2026. 2. 17.",
+      "description": "JIBS..."
+    },
+    {
+      "id": 5,
       "title": "국민 6명 중 1명 당 과잉…젊은 층 '이 병'도 늘었다",
       "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77646",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F02%2F17%2F23739.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "매경헬스8시간 전",
+      "press": "매경헬스11시간 전",
       "date": "2026. 2. 17.",
       "description": "매경헬스..."
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "쿠첸X매일헬스뉴트리션, 혈당 케어 콜라보레이션 전개",
       "link": "https://www.slist.kr/news/articleView.html?idxno=717490",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F02%2F17%2F636834.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "싱글리스트8시간 전",
+      "press": "싱글리스트12시간 전",
       "date": "2026. 2. 17.",
       "description": "싱글리스트..."
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "스마트팜 및 귀농 관심자 \"무료수강\" 전문가 및 지도사 자격증 교육 제...",
       "link": "https://edu.donga.com/news/articleView.html?idxno=103394",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F02%2F17%2F97752.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "E동아9시간 전",
+      "press": "E동아12시간 전",
       "date": "2026. 2. 17.",
       "description": "E동아..."
     },
     {
-      "id": 6,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "/logo.png",
-      "press": "부산MBC1시간 전",
-      "date": "2026. 2. 17.",
-      "description": "부산MBC..."
-    },
-    {
-      "id": 7,
+      "id": 8,
       "title": "\"가격 낮추고 품질 높이고\"…약국용 실속형 건기식 '눈길'",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=124919",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F17%2F94491.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드14시간 전",
-      "date": "2026. 2. 17.",
-      "description": "비즈월드..."
-    },
-    {
-      "id": 8,
-      "title": "경기도농업기술원, '사이버식물병원 상담사례집' 발간",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125689",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F16%2F94482.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드22시간 전",
+      "press": "비즈월드18시간 전",
       "date": "2026. 2. 17.",
       "description": "비즈월드..."
     },
     {
       "id": 9,
+      "title": "경기도농업기술원, '사이버식물병원 상담사례집' 발간",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125689",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F16%2F94482.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "비즈월드1일 전",
+      "date": "2026. 2. 17.",
+      "description": "비즈월드..."
+    },
+    {
+      "id": 10,
       "title": "인내와 사랑, 설레임을 피우다… 세계꽃식물원에 만개한 '칼랑코에'",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3375709",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F16%2F1156464.jpg&type=fface200_200&expire=2&refresh=true",
@@ -87,7 +96,7 @@
       "description": "천지일보..."
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "온실 가득 채운 봄빛… 세계꽃식물원, 형형색색 '제라늄 향연'",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3375708",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F16%2F1156463.jpg&type=fface200_200&expire=2&refresh=true",
@@ -96,7 +105,7 @@
       "description": "천지일보..."
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "충남 세계꽃식물원 '군자란' 활짝… 겨울 속 고귀한 '군자(君子)'",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3375707",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F16%2F1156462.jpg&type=fface200_200&expire=2&refresh=true",
@@ -105,7 +114,7 @@
       "description": "천지일보..."
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "동국제약, 설 명절 맞아 부모님을 위한 '증상별 맞춤 건강관리'는?",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=124581",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F16%2F94472.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -114,7 +123,7 @@
       "description": "비즈월드..."
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "[연휴에 뭐하지?] 짧지만 알차다! 설 연휴, 도심형 명절 여행 떠나볼까...",
       "link": "http://www.sisacast.kr/news/articleView.html?idxno=91982",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5854%2F2026%2F02%2F16%2F53219.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -123,7 +132,7 @@
       "description": "시사캐스트..."
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "[설특집] 명절 단골 선물 '한우'... 우리 소, 뭐가 다를까?",
       "link": "http://www.economytalk.kr/news/articleView.html?idxno=417880",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5192%2F2026%2F02%2F16%2F125986.jpg&type=fface200_200&expire=2&refresh=true",
@@ -132,7 +141,7 @@
       "description": "이코노미톡뉴스..."
     },
     {
-      "id": 15,
+      "id": 16,
       "title": "[칼럼] 정완 로스쿨 교수 \"국회의원 국민소환제 입법해야 마땅하다\"",
       "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=18539",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5775%2F2026%2F02%2F16%2F13656.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -141,7 +150,7 @@
       "description": "로리더..."
     },
     {
-      "id": 16,
+      "id": 17,
       "title": "고려은단, 설 명절 맞아 네이버 '오늘의 팝업' 진행",
       "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=587683",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5721%2F2026%2F02%2F16%2F156343.jpg&type=fface200_200&expire=2&refresh=true",
@@ -150,22 +159,13 @@
       "description": "오늘경제..."
     },
     {
-      "id": 17,
+      "id": 18,
       "title": "머스크 '그록' 美정부 영양봇 투입…\"채소의 항문 삽입\" 부적절 답변 논...",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=15973008",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F16%2F1198807.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "톱스타뉴스1일 전",
       "date": "2026. 2. 17.",
       "description": "톱스타뉴스..."
-    },
-    {
-      "id": 18,
-      "title": "건강하고 즐거운 설 명절 보내기 위해 알아두면 좋은 건강정보",
-      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=246985",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5141%2F2026%2F02%2F16%2F170455.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "넥스트데일리1일 전",
-      "date": "2026. 2. 17.",
-      "description": "넥스트데일리..."
     },
     {
       "id": 19,
@@ -178,6 +178,15 @@
     },
     {
       "id": 20,
+      "title": "건강하고 즐거운 설 명절 보내기 위해 알아두면 좋은 건강정보",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=246985",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5141%2F2026%2F02%2F16%2F170455.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "넥스트데일리1일 전",
+      "date": "2026. 2. 17.",
+      "description": "넥스트데일리..."
+    },
+    {
+      "id": 21,
       "title": "계룡시, 반려식물 관리 지도사 20명 배출... '녹색 복지' 시동",
       "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=873976",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F16%2F492557.jpg&type=fface200_200&expire=2&refresh=true",
@@ -186,7 +195,7 @@
       "description": "충남일보..."
     },
     {
-      "id": 21,
+      "id": 22,
       "title": "'포켓파크 칸토', 요미우리랜드에 펼쳐진 리얼 포켓몬 월드 (후편)",
       "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=55508",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5858%2F2026%2F02%2F16%2F21511.jpg&type=fface200_200&expire=2&refresh=true",
@@ -195,7 +204,7 @@
       "description": "게임뷰..."
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "아이소이, '트러블 흔적세럼' 출시…마데카소사이드 1000ppm으로 흔적·요...",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=429471",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F16%2F393178.jpg&type=fface200_200&expire=2&refresh=true",
@@ -204,7 +213,7 @@
       "description": "핀포인트뉴스..."
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "대한민국 과학전초기지 '남극기지' 속 기계설비",
       "link": "http://www.kmecnews.co.kr/news/articleView.html?idxno=45492",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5895%2F2026%2F02%2F16%2F6334.jpg&type=fface200_200&expire=2&refresh=true",
@@ -213,7 +222,7 @@
       "description": "기계설비신문..."
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "고물가에도 선택은 '건강'…실속형 설 선물세트 인기",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=429624",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F16%2F393172.jpg&type=fface200_200&expire=2&refresh=true",
@@ -222,7 +231,7 @@
       "description": "핀포인트뉴스..."
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "\"좋은 것만 모아\"…다양한 건기식 신제품 쏟아진다",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=292651",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5679%2F2026%2F02%2F16%2F258509.jpg&type=fface200_200&expire=2&refresh=true",
@@ -231,7 +240,7 @@
       "description": "포인트데일리..."
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "[비건 Q&A]⑮반려동물·특수 동물 비건 케어, 가능 범위·한계·점검 기...",
       "link": "https://www.vegannews.co.kr/news/article.html?no=381601",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5888%2F2026%2F02%2F16%2F21874.jpg&type=fface200_200&expire=2&refresh=true",
@@ -240,7 +249,7 @@
       "description": "비건뉴스..."
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "농산물 수입 발판 확대에…국내 생산기반 점점 위축",
       "link": "http://www.ikpnews.net/news/articleView.html?idxno=69631",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5414%2F2026%2F02%2F15%2F27774.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -249,7 +258,7 @@
       "description": "한국농정신문..."
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "경기도농업기술원 '사이버식물병원 상담사례집' 발간",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3375521",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F15%2F1156301.jpg&type=fface200_200&expire=2&refresh=true",
@@ -258,7 +267,7 @@
       "description": "천지일보..."
     },
     {
-      "id": 29,
+      "id": 30,
       "title": "[비건 Q&A]⑭특정 질환·증상별 채식 가이드 100문답",
       "link": "https://www.vegannews.co.kr/news/article.html?no=381600",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5888%2F2026%2F02%2F15%2F21873.jpg&type=fface200_200&expire=2&refresh=true",
@@ -267,7 +276,7 @@
       "description": "비건뉴스..."
     },
     {
-      "id": 30,
+      "id": 31,
       "title": "박중수 환경농업연구과장은 \"이번에 발간한 상담사례집이 농가 현장에서 실질적인 도움을 주고, 반려식물을 기르는 도시민에게도 올바른 관리 정보를 제공하는 자료가 될 것\"이라며 \"앞으로",
       "link": "https://www.newspim.com/news/view/20260215000088",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F15%2F3098968.jpg&type=fface200_200&expire=2&refresh=true",
@@ -276,7 +285,7 @@
       "description": "뉴스핌..."
     },
     {
-      "id": 31,
+      "id": 32,
       "title": "따듯한 봄과 함께 찾아오는 불청객 ‘응애’",
       "link": "https://www.newsam.co.kr/news/article.html?no=42149",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F02%2F15%2F28204.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -285,7 +294,7 @@
       "description": "농기자재신문..."
     },
     {
-      "id": 32,
+      "id": 33,
       "title": "출범 5개월 '식물 방미통위'… 국회 첫 업무보고서 숙제 한가득",
       "link": "http://www.journalist.or.kr/news/article.html?no=60346",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F127%2F2026%2F02%2F15%2F38885.jpg&type=fface200_200&expire=2&refresh=true",
@@ -294,7 +303,7 @@
       "description": "기자협회보..."
     },
     {
-      "id": 33,
+      "id": 34,
       "title": "[비건 Q&A]⑬비거니즘 역사와 철학, 상징 인물 100문답",
       "link": "https://www.vegannews.co.kr/news/article.html?no=381599",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5888%2F2026%2F02%2F15%2F21872.jpg&type=fface200_200&expire=2&refresh=true",
@@ -303,7 +312,7 @@
       "description": "비건뉴스..."
     },
     {
-      "id": 34,
+      "id": 35,
       "title": "'식물 관리 고민 해결'…경기도농업기술원, ‘사이버식물병원 사례집’...",
       "link": "https://www.dailian.co.kr/news/view/1611266/?sc=Naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F02%2F15%2F3060226.jpg&type=fface200_200&expire=2&refresh=true",
@@ -312,7 +321,7 @@
       "description": "데일리안..."
     },
     {
-      "id": 35,
+      "id": 36,
       "title": "경기도농업기술원, 사이버식물병원 상담사례집 발간",
       "link": "http://www.seoulwire.com/news/articleView.html?idxno=707065",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F15%2F442729.jpg&type=fface200_200&expire=2&refresh=true",
@@ -321,7 +330,7 @@
       "description": "서울와이어..."
     },
     {
-      "id": 36,
+      "id": 37,
       "title": "부천 가볼 만한 곳, 도심 속 다채로운 자연과 문화의 조화",
       "link": "https://www.e-science.co.kr/news/articleView.html?idxno=125716",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F15%2F27676.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -330,7 +339,7 @@
       "description": "이코노미사이언스..."
     },
     {
-      "id": 37,
+      "id": 38,
       "title": "공주 가볼 만한 곳, 백제의 숨결과 자연의 고요함이 머무는 길",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=495209",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F15%2F162254.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -339,7 +348,7 @@
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 38,
+      "id": 39,
       "title": "\"설 선물 뭐 살까\"...고려은단, 네이버 라방 연다",
       "link": "http://www.kdfnews.com/news/articleView.html?idxno=178101",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5638%2F2026%2F02%2F15%2F136910.jpg&type=fface200_200&expire=2&refresh=true",
@@ -348,7 +357,7 @@
       "description": "한국면세뉴스..."
     },
     {
-      "id": 39,
+      "id": 40,
       "title": "고려은단, 설 맞이 '네이버 오늘의 팝업' 기획전 진행",
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=621303",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5001%2F2026%2F02%2F15%2F483744.jpg&type=fface200_200&expire=2&refresh=true",
@@ -357,7 +366,7 @@
       "description": "서울파이낸스..."
     },
     {
-      "id": 40,
+      "id": 41,
       "title": "식물 관리 고민 해결…경기도농업기술원, '사이버식물병원 사례집' 발간",
       "link": "http://www.econonews.co.kr/news/articleView.html?idxno=427732",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5524%2F2026%2F02%2F15%2F385747.jpg&type=fface200_200&expire=2&refresh=true",
@@ -366,7 +375,7 @@
       "description": "이코노뉴스..."
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "전북 순창 가볼 만한 곳, 자연과 어우러진 발효 테마의 여정",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=15965301",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F15%2F1198502.jpg&type=fface200_200&expire=2&refresh=true",
@@ -375,7 +384,7 @@
       "description": "톱스타뉴스..."
     },
     {
-      "id": 42,
+      "id": 43,
       "title": "대구 가볼 만한 곳, 전통과 자연이 어우러진 겨울 산책",
       "link": "https://www.e-science.co.kr/news/articleView.html?idxno=125701",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F15%2F27669.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -384,7 +393,7 @@
       "description": "이코노미사이언스..."
     },
     {
-      "id": 43,
+      "id": 44,
       "title": "“한국 공항서 벌금 500만원 때려 맞았습니다” 주의보 퍼진 이유",
       "link": "https://www.seoul.co.kr/news/international/2026/02/14/20260214500080?wlog_tag3=naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F14%2F3618236.jpg&type=fface200_200&expire=2&refresh=true",
@@ -393,7 +402,7 @@
       "description": "서울신문..."
     },
     {
-      "id": 44,
+      "id": 45,
       "title": "'톤업 장착은 기본'... 봄 시즌 선케어 경쟁 돌입 [최기자의 화장품 털기...",
       "link": "https://www.meconomynews.com/news/articleView.html?idxno=127903",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5528%2F2026%2F02%2F14%2F92155.jpg&type=fface200_200&expire=2&refresh=true",
@@ -402,7 +411,7 @@
       "description": "시장경제신문..."
     },
     {
-      "id": 45,
+      "id": 46,
       "title": "수원특례시, 'AI 활용 정원 관리 교육' 참가자 모집",
       "link": "https://www.thereport.co.kr/news/articleView.html?idxno=84232",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5780%2F2026%2F02%2F14%2F52270.jpg&type=fface200_200&expire=2&refresh=true",
@@ -411,7 +420,7 @@
       "description": "더리포트..."
     },
     {
-      "id": 46,
+      "id": 47,
       "title": "\"마곡의 상전벽해는 현재진행형\"...전세계 韓商 부른다",
       "link": "https://www.dongponews.net/news/articleView.html?idxno=56202",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5176%2F2026%2F02%2F14%2F30316.jpg&type=fface200_200&expire=2&refresh=true",
@@ -420,16 +429,16 @@
       "description": "재외동포신문..."
     },
     {
-      "id": 47,
+      "id": 48,
       "title": "교원웰스, 신애라 앰배서더 발탁...내달 디지털 광고 시작 본격 활동",
       "link": "http://www.econonews.co.kr/news/articleView.html?idxno=427721",
-      "thumbnail": "/logo.png",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5780%2F2024%2F05%2F30%2Flogo_5780_18_20240530184612.jpg&type=f54_54&expire=24&refresh=true",
       "press": "이코노뉴스3일 전",
       "date": "2026. 2. 17.",
       "description": "이코노뉴스..."
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "계룡시, 반려식물 관리 지도사 양성 교육 성료",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1142132",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5356%2F2026%2F02%2F14%2F778244.jpg&type=fface200_200&expire=2&refresh=true",
@@ -438,22 +447,13 @@
       "description": "금강일보..."
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "오늘 일출·일몰시간, \"15일(일) 전국 해돋이 명소, 해 뜨는 시간과 해 ...",
       "link": "https://www.lecturernews.com/news/articleView.html?idxno=196787",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5566%2F2026%2F02%2F14%2F160843.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
       "press": "한국강사신문3일 전",
       "date": "2026. 2. 17.",
       "description": "한국강사신문..."
-    },
-    {
-      "id": 50,
-      "title": "인공지능으로 정원 관리를? …수원특례시,‘인공지능 활용 정원 관리 교...",
-      "link": "http://www.cfnews.kr/news/view.php?no=105284",
-      "thumbnail": "/logo.png",
-      "press": "유교신문3일 전",
-      "date": "2026. 2. 17.",
-      "description": "유교신문..."
     }
   ]
 }

@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-19T01:43:06.657Z",
-  "lastUpdatedKST": "2026. 2. 19. 오전 10:43:06",
+  "lastUpdated": "2026-02-19T04:49:27.369Z",
+  "lastUpdatedKST": "2026. 2. 19. 오후 1:49:27",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "농진청, '민간연구개발지원사업' 연중 운영",
-      "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71081",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5537%2F2026%2F02%2F19%2F37085.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농축유통신문2분 전",
+      "title": "'30정 7900원' 동국제약, 국민건강 프로젝트 유산균·밀크씨슬·비타민C...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=120797",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5140%2F2026%2F02%2F19%2F100017.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "CATCH NEWS9분 전",
       "date": "2026. 2. 19.",
-      "description": "농축유통신문..."
+      "description": "CATCH NEWS..."
     },
     {
       "id": 2,
-      "title": "콜롬비아관광청, 웨비나 통해 최신 관광정보와 프리미엄 여행경험 공유",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125715",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F19%2F94617.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드6분 전",
+      "title": "조용익 부천시장, 설 연휴에 시설 점검하며 주민의견 청취",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03909766645352160",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F02%2F19%2F6220803.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이데일리12분 전네이버뉴스",
       "date": "2026. 2. 19.",
-      "description": "비즈월드..."
+      "description": "이데일리..."
     },
     {
       "id": 3,
-      "title": "동국제약, '국민 건강 프로젝트' 신제품 3종 출시",
-      "link": "http://www.bokuennews.com/news/article.html?no=273993",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F19%2F109877.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "보건뉴스12분 전",
-      "date": "2026. 2. 19.",
-      "description": "보건뉴스..."
-    },
-    {
-      "id": 4,
-      "title": "동국제약, '국민 건강 프로젝트' 신제품 3종 출시…\"핵심 영양 성분 엄선...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=213477",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5686%2F2026%2F02%2F19%2F182396.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "청년일보18분 전",
-      "date": "2026. 2. 19.",
-      "description": "청년일보..."
-    },
-    {
-      "id": 5,
-      "title": "동국제약, 유산균·밀크씨슬·비타민C 출시...기초 건강 관리 라인업 확...",
-      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=100557",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5848%2F2026%2F02%2F19%2F36217.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "우먼타임스18분 전",
-      "date": "2026. 2. 19.",
-      "description": "우먼타임스..."
-    },
-    {
-      "id": 6,
-      "title": "동국제약, '국민 건강 프로젝트' 위한 신제품 3종 출시",
-      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=151014",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5187%2F2026%2F02%2F19%2F80518.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "Korea IT Times20분 전",
-      "date": "2026. 2. 19.",
-      "description": "Korea IT Times..."
-    },
-    {
-      "id": 7,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "/logo.png",
-      "press": "농축유통신문2분 전",
-      "date": "2026. 2. 19.",
-      "description": "농축유통신문..."
-    },
-    {
-      "id": 8,
-      "title": "더스킨팩토리 쿤달, ULTA Beauty UAE 첫 오프라인 매장 내 바디케어 14종...",
-      "link": "https://www.livesnews.com/news/article.html?no=59616",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5811%2F2026%2F02%2F19%2F27689.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "라이브뉴스26분 전",
+      "title": "뉴트맘스 코엔자임Q10 코큐텐 출시",
+      "link": "https://www.livesnews.com/news/article.html?no=59634",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5811%2F2026%2F02%2F19%2F27706.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "라이브뉴스18분 전",
       "date": "2026. 2. 19.",
       "description": "라이브뉴스..."
     },
     {
-      "id": 9,
-      "title": "동국제약, 기초 건강 성분 담은 건기식 신제품 3종 출시",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1336962",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F19%2F765088.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리한국26분 전",
+      "id": 4,
+      "title": "키디오(Kiddio), 친환경 소재·국내 생산 기반 유아 완구로 ‘안전의 기...",
+      "link": "https://www.etoday.co.kr/news/view/2557471",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5003%2F2026%2F02%2F19%2F2144459.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이투데이26분 전",
       "date": "2026. 2. 19.",
-      "description": "데일리한국..."
+      "description": "이투데이..."
     },
     {
-      "id": 10,
-      "title": "동국제약, '국민 건강 프로젝트'를 위한 신제품 3종 출시",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=730138",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F19%2F424762.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노믹리뷰28분 전",
+      "id": 5,
+      "title": "동국제약, 기초 건강 관리 신제품 3종 출시",
+      "link": "https://mdtoday.co.kr/news/view/1065586316310987",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5269%2F2026%2F02%2F19%2F287495.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디컬투데이26분 전",
       "date": "2026. 2. 19.",
-      "description": "이코노믹리뷰..."
+      "description": "메디컬투데이..."
     },
     {
-      "id": 11,
-      "title": "동국제약 '국민 건강 프로젝트' 위한 신제품 3종 선보여",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=72465",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5201%2F2026%2F02%2F19%2F39343.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프레스나인30분 전",
+      "id": 6,
+      "title": "[제약계는 지금] 제약업계, 사회공헌부터 성장 동력 확보까지 '분주'",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=86305",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5798%2F2026%2F02%2F19%2F37287.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴시안30분 전",
       "date": "2026. 2. 19.",
-      "description": "프레스나인..."
+      "description": "뉴시안..."
     },
     {
-      "id": 12,
-      "title": "또한 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. '동국 밀크씨슬'",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=107941",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F19%2F63029.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림30분 전",
-      "date": "2026. 2. 19.",
-      "description": "뉴스드림..."
-    },
-    {
-      "id": 13,
-      "title": "동국제약, ‘국민 건강 프로젝트’ 신제품 3종 출시…기초 영양 시장 공...",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575308323567",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F19%2F74832.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제32분 전",
-      "date": "2026. 2. 19.",
-      "description": "메가경제..."
-    },
-    {
-      "id": 14,
-      "title": "동국제약, '국민 건강 프로젝트' 본격 시동…기초 건강 겨냥 신제품 3종...",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529652",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F19%2F113349.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "약사공론32분 전",
-      "date": "2026. 2. 19.",
-      "description": "약사공론..."
-    },
-    {
-      "id": 15,
-      "title": "또 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며, 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. '동국 밀크씨슬'",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134754",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F19%2F58956.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스32분 전",
-      "date": "2026. 2. 19.",
-      "description": "메디소비자뉴스..."
-    },
-    {
-      "id": 16,
-      "title": "[오늘 뭐 먹지] 아워홈·오리온·CJ웰케어 외",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=724607",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F19%2F387807.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프라임경제40분 전",
-      "date": "2026. 2. 19.",
-      "description": "프라임경제..."
-    },
-    {
-      "id": 17,
-      "title": "늘해온, 구강 관리 제품 '이가호강' 출시",
-      "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=88360",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5523%2F2026%2F02%2F19%2F43854.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한국목재신문42분 전",
-      "date": "2026. 2. 19.",
-      "description": "한국목재신문..."
-    },
-    {
-      "id": 18,
-      "title": "[유통가 레이더] 대안 찾는 LG생활건강, VDL 유시몰로 동남아 온라인 시...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=337058",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F19%2F175970.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문48분 전",
-      "date": "2026. 2. 19.",
-      "description": "녹색경제신문..."
-    },
-    {
-      "id": 19,
-      "title": "순천시-서울대 블루카본사업단-LG전자(주), 블루카본 복원 협력체계 구...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1338195",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F19%2F843956.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보52분 전",
+      "id": 7,
+      "title": "부천시, 설 연휴에도 민생·안전 현장 점검…\"쉬지 않는 시정\" 추진",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1338324",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F19%2F844067.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일일보46분 전",
       "date": "2026. 2. 19.",
       "description": "매일일보..."
     },
     {
-      "id": 20,
-      "title": "인천시, 교과 연계 텃밭교육으로 \"창의·인성 기른다\"",
-      "link": "https://www.tournews21.com/news/articleView.html?idxno=129876",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5675%2F2026%2F02%2F19%2F74270.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "투어코리아뉴스56분 전",
+      "id": 8,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5366%2F2024%2F05%2F31%2Flogo_5366_18_20240531142035.png&type=f54_54&expire=24&refresh=true",
+      "press": "글로벌이코노믹1분 전",
       "date": "2026. 2. 19.",
-      "description": "투어코리아뉴스..."
+      "description": "글로벌이코노믹..."
+    },
+    {
+      "id": 9,
+      "title": "조용익 부천시장, '설 연휴 내내 민생 현장 속으로'",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3508915",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F19%2F2456612.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스47분 전",
+      "date": "2026. 2. 19.",
+      "description": "국제뉴스..."
+    },
+    {
+      "id": 10,
+      "title": "동국제약, '국민 건강 프로젝트' 위한 신제품 3종 출시",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1338340",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F19%2F844061.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일일보49분 전",
+      "date": "2026. 2. 19.",
+      "description": "매일일보..."
+    },
+    {
+      "id": 11,
+      "title": "또한 1.2㎝ 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며, 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. 동국 밀크씨슬은 ",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=707267",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F19%2F442907.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울와이어51분 전",
+      "date": "2026. 2. 19.",
+      "description": "서울와이어..."
+    },
+    {
+      "id": 12,
+      "title": "부천시, 설 연휴 민생 현장 행정 강화…안전·복지·상권 두루 점검",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=694459",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5136%2F2026%2F02%2F19%2F360286.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스타운1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "뉴스타운..."
+    },
+    {
+      "id": 13,
+      "title": "[브리핑] 대상웰라이프 '아르포텐' 리뉴얼 출시",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2107707",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5665%2F2026%2F02%2F19%2F120152.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "포쓰저널1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "포쓰저널..."
+    },
+    {
+      "id": 14,
+      "title": "[제약 브리핑] JW중외제약·동국제약·GC녹십자",
+      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89143",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5810%2F2026%2F02%2F19%2F8467.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "나이스경제1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "나이스경제..."
+    },
+    {
+      "id": 15,
+      "title": "또한, 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며, 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. 동국 밀크씨슬",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=407041",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F02%2F19%2F232590.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디파나뉴스1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "메디파나뉴스..."
+    },
+    {
+      "id": 16,
+      "title": "동국제약, 장ㆍ면역 위한 건기식 3종 출시",
+      "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2270180",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F02%2F19%2F213008.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의학신문1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "의학신문..."
+    },
+    {
+      "id": 17,
+      "title": "거창군, 시민정원사 양성교육 기초과정 수강생 모집",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=535662",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5714%2F2026%2F02%2F19%2F180846.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스경남1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "뉴스경남..."
+    },
+    {
+      "id": 18,
+      "title": "항산화·구강 항균…제대로 알고 쓰는 '프로폴리스 사용법'",
+      "link": "https://www.dailypharm.com/user/news/335802?REFERER=NP",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F19%2F170727.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리팜1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "데일리팜..."
+    },
+    {
+      "id": 19,
+      "title": "동국제약, 건강기능식품 3종 출시하며 '국민 건강 프로젝트' 전개",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301570",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F19%2F48910.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스1시간 전",
+      "date": "2026. 2. 19.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 20,
+      "title": "\"물이 순환해야 진정한 명품도시\"",
+      "link": "http://www.dtnews24.com/news/articleView.html?idxno=807237",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5232%2F2026%2F02%2F19%2F250423.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "디트뉴스241시간 전",
+      "date": "2026. 2. 19.",
+      "description": "디트뉴스24..."
     },
     {
       "id": 21,
-      "title": "습지는 생물들의 '곳간'",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=443905",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5085%2F2026%2F02%2F19%2F198896.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "제주의소리1시간 전",
+      "title": "\"핵심 영양만 선별해 구성\"... 동국제약 '유산균·밀크씨슬·비타민' 신...",
+      "link": "https://www.insight.co.kr/news/543552",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F02%2F19%2F333631.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인사이트2시간 전",
       "date": "2026. 2. 19.",
-      "description": "제주의소리..."
+      "description": "인사이트..."
     },
     {
       "id": 22,
-      "title": "[정책브리핑] 2026년 02월 19일 목요일 주요 정책",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234631",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5369%2F2026%2F02%2F19%2F168132.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시선뉴스1시간 전",
+      "title": "동국제약, 국민 건강 프로젝트 신제품 3종 출시",
+      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3081247",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F19%2F51408.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)2시간 전",
       "date": "2026. 2. 19.",
-      "description": "시선뉴스..."
+      "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
     {
       "id": 23,
-      "title": "충북대, 'RISE-UP' 창업대회서 미래 CEO 발굴 …최우수 TESORI팀 영예",
-      "link": "http://www.kyosu.net/news/articleView.html?idxno=158058",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5150%2F2026%2F02%2F19%2F111594.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "교수신문1시간 전",
+      "title": "동국제약, 유산균·밀크씨슬·비타민C 등 건강기능식품 3종 출시",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=96642",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5516%2F2026%2F02%2F19%2F51481.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리팝2시간 전",
       "date": "2026. 2. 19.",
-      "description": "교수신문..."
+      "description": "데일리팝..."
     },
     {
       "id": 24,
-      "title": "우리 아이 ADHD, 한의학 치료는 어떻게 다를까요?",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=148820",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F19%2F98843.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "베이비뉴스2시간 전",
+      "title": "또한, 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며, 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. '동국 밀크씨",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=588017",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5721%2F2026%2F02%2F19%2F156426.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "오늘경제2시간 전",
       "date": "2026. 2. 19.",
-      "description": "베이비뉴스..."
+      "description": "오늘경제..."
     },
     {
       "id": 25,
-      "title": "[CJ제일제당 리빌딩] ④성장 가능성 평가, 생존 갈림길 선 '카테고리'",
-      "link": "https://www.fetv.co.kr/news/article.html?no=212908",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5484%2F2026%2F02%2F19%2F192011.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "FETV2시간 전",
+      "title": "폭우에도 안전한 세종 행복도시… '땅이 빗물 삼킨다'",
+      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=441273",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5285%2F2026%2F02%2F19%2F189556.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "굿모닝충청2시간 전",
       "date": "2026. 2. 19.",
-      "description": "FETV..."
+      "description": "굿모닝충청..."
     },
     {
       "id": 26,
-      "title": "농촌진흥청, 민간 농업기술 검증으로 상용화 길 연다",
-      "link": "https://www.newsam.co.kr/news/article.html?no=42151",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F02%2F19%2F28207.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "농기자재신문3시간 전",
+      "title": "[제약소식] 유한양행, 항 IgE 신약 '레시게르셉트' 다국가 2상 착수 등",
+      "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=77659",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5717%2F2026%2F02%2F19%2F23750.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "매경헬스2시간 전",
       "date": "2026. 2. 19.",
-      "description": "농기자재신문..."
+      "description": "매경헬스..."
     },
     {
       "id": 27,
-      "title": "수원특례시, '인공지능 활용 정원 관리 교육' 운영",
-      "link": "https://www.lecturernews.com/news/articleView.html?idxno=197054",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5566%2F2026%2F02%2F19%2F160991.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한국강사신문4시간 전",
+      "title": "동국제약, '동국 유산균', '동국 밀크씨슬', '동국 비타민C 1000' 신제품 ...",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247008",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5141%2F2026%2F02%2F19%2F170473.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "넥스트데일리2시간 전",
       "date": "2026. 2. 19.",
-      "description": "한국강사신문..."
+      "description": "넥스트데일리..."
     },
     {
       "id": 28,
-      "title": "'페바로젯' 성공 맛 본 안국약품, 순환기ㆍ피부미용 맛집 노린다",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134722",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F19%2F58933.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스4시간 전",
+      "title": "또한 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며, 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. '동국 밀크씨슬",
+      "link": "https://www.apsk.co.kr/news/articleView.html?idxno=538674",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5672%2F2026%2F02%2F19%2F36561.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디팜스투데이2시간 전",
       "date": "2026. 2. 19.",
-      "description": "메디소비자뉴스..."
+      "description": "메디팜스투데이..."
     },
     {
       "id": 29,
-      "title": "농촌진흥청, 민간 농업기술 '공공 검증'으로 상용화 가속",
-      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57589",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F02%2F19%2F40743.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국영농신문10시간 전",
+      "title": "동국제약, '국민 건강 프로젝트' 신제품 3종 출시",
+      "link": "https://www.newspim.com/news/view/20260219000485",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F19%2F3099964.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스핌2시간 전",
       "date": "2026. 2. 19.",
-      "description": "한국영농신문..."
+      "description": "뉴스핌..."
     },
     {
       "id": 30,
-      "title": "국립새만금수목원 전시원 조성 본격화… 수목 식재 전문가 자문회의 개...",
-      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57581",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F02%2F18%2F40733.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국영농신문11시간 전",
+      "title": "풀무원헬스케어, '저당·고단백·식이섬유' 다 잡았다…디자인밀 '저당...",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57603",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F02%2F19%2F40756.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국영농신문2시간 전",
       "date": "2026. 2. 19.",
       "description": "한국영농신문..."
     },
     {
       "id": 31,
-      "title": "[인사] 농림축산식품부 인사발령",
-      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57575",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F421%2F2025%2F03%2F07%2Flogo_421_100_20250307145710.png&type=f54_54&expire=24&refresh=true",
-      "press": "한국영농신문12시간 전",
+      "title": "더스킨팩토리 쿤달, ULTA Beauty 첫 오프라인 매장 내 바디케어 제품 정...",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=54709",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5860%2F2026%2F02%2F19%2F33215.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스로드2시간 전",
       "date": "2026. 2. 19.",
-      "description": "한국영농신문..."
+      "description": "뉴스로드..."
     },
     {
       "id": 32,
-      "title": "양산시민정원학교, 27일까지 교육생 모집",
-      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=580848",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5346%2F2026%2F02%2F18%2F283282.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남매일신문12시간 전",
+      "title": "인천시, 초등4년 대상 텃밭교육 학교 모집",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=315459",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5688%2F2026%2F02%2F19%2F55031.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인천투데이2시간 전",
       "date": "2026. 2. 19.",
-      "description": "경남매일신문..."
+      "description": "인천투데이..."
     },
     {
       "id": 33,
-      "title": "산림청, 국립새만금수목원 조성 본격화…식재 전문가 자문회의 개최",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=274483",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F02%2F18%2F217966.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "열린뉴스통신13시간 전",
+      "title": "동국제약, '국민 건강 프로젝트' 위한 신제품 선봬",
+      "link": "https://www.meconomynews.com/news/articleView.html?idxno=127940",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5528%2F2026%2F02%2F19%2F92185.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시장경제신문2시간 전",
+      "date": "2026. 2. 19.",
+      "description": "시장경제신문..."
+    },
+    {
+      "id": 34,
+      "title": "동국제약, '국민 건강 프로젝트' 유산균·밀크씨슬·비타민C 3종 출시",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=274530",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5818%2F2026%2F02%2F19%2F217995.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "열린뉴스통신2시간 전",
       "date": "2026. 2. 19.",
       "description": "열린뉴스통신..."
     },
     {
-      "id": 34,
-      "title": "\"설 연휴 깨진 영양 균형\"…남양유업, 단백질·저당·식물성 음료 제안",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3045983",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5793%2F2026%2F02%2F18%2F48797.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "AP신문13시간 전",
-      "date": "2026. 2. 19.",
-      "description": "AP신문..."
-    },
-    {
       "id": 35,
-      "title": "<특집> 물고기와 새가 돌아왔다…포항 ‘학산천’ 30년만에 시민 품으로",
-      "link": "https://www.ksmnews.co.kr/news/view.php?idx=590943",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F02%2F18%2F464696.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경상매일신문13시간 전",
+      "title": "동국제약 '국민 건강 프로젝트' 유산균·밀크씨슬·비타민 신제품 3종 출...",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351712",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5296%2F2026%2F02%2F19%2F193032.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "중소기업신문2시간 전",
       "date": "2026. 2. 19.",
-      "description": "경상매일신문..."
+      "description": "중소기업신문..."
     },
     {
       "id": 36,
-      "title": "[사설] 경제성 낮은 식물원 건립 타당한가",
-      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1317330",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5193%2F2024%2F05%2F30%2Flogo_5193_18_20240530172650.png&type=f54_54&expire=24&refresh=true",
-      "press": "인천일보16시간 전",
+      "title": "'초록빛 위로가 일자리로'… 계룡시, '반려식물 지도사' 20인 탄생",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2258191",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F656%2F2026%2F02%2F19%2F167556.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대전일보2시간 전네이버뉴스",
       "date": "2026. 2. 19.",
-      "description": "인천일보..."
+      "description": "대전일보..."
     },
     {
       "id": 37,
-      "title": "현재까지 다공질 필름, 기능성 멀칭, 관주용 비료, 무인방제기, 식물재배기 등 다양한 민간 기술이 이 사업을 통해 성능을 검증받았고, 일부는... 농촌진흥청 연구관리과 신성휴 과장",
-      "link": "http://sjbnews.com/news/news.php?number=871966",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5153%2F2024%2F05%2F30%2Flogo_5153_18_20240530172242.png&type=f54_54&expire=24&refresh=true",
-      "press": "새전북신문16시간 전",
+      "title": "남양유업, 설 뒤 과식 부담 줄이는 단백질·저당 음료 제안",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2081257",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5920%2F2026%2F02%2F19%2F14695.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "웹이코노미2시간 전",
       "date": "2026. 2. 19.",
-      "description": "새전북신문..."
+      "description": "웹이코노미..."
     },
     {
       "id": 38,
-      "title": "[브리프]삼성전자 S-OIL JW중외제약 KT&G 남양유업",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=349069",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F02%2F18%2F177787.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비즈트리뷴16시간 전",
+      "title": "숲에서 찾은 미래 자원",
+      "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=343098",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5699%2F2026%2F02%2F19%2F137511.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "충청리뷰2시간 전",
       "date": "2026. 2. 19.",
-      "description": "비즈트리뷴..."
+      "description": "충청리뷰..."
     },
     {
       "id": 39,
-      "title": "양산시 2026년 양산시민정원학교 교육생 모집",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=465562",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5416%2F2026%2F02%2F18%2F345695.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경남도민신문17시간 전",
+      "title": "인천시, 초등생 대상 '학습능력 향상 원예활동교육' 운영",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1338271",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F19%2F844015.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일일보3시간 전",
       "date": "2026. 2. 19.",
-      "description": "경남도민신문..."
+      "description": "매일일보..."
     },
     {
       "id": 40,
-      "title": "설 연휴 포항 관광객 13만 명 몰려…주요 관광지·골목상권 활기",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=534164",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5581%2F2026%2F02%2F18%2F296403.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대경일보17시간 전",
+      "title": "행복도시, 물순환도시의 새 이정표를 세우다",
+      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=401667",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F02%2F19%2F250753.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청뉴스3시간 전",
       "date": "2026. 2. 19.",
-      "description": "대경일보..."
+      "description": "충청뉴스..."
     },
     {
       "id": 41,
-      "title": "남양유업, 설 과식 이후 ‘회복 루틴’ 제안",
-      "link": "https://www.fetv.co.kr/news/article.html?no=212967",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5484%2F2026%2F02%2F18%2F191997.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "FETV17시간 전",
+      "title": "농진청, '민간연구개발지원사업' 연중 운영",
+      "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71081",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5537%2F2026%2F02%2F19%2F37085.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "농축유통신문3시간 전",
       "date": "2026. 2. 19.",
-      "description": "FETV..."
+      "description": "농축유통신문..."
     },
     {
       "id": 42,
-      "title": "남양유업, 설 과식 이후 '회복 루틴' 제안…단백질∙저당∙식물성 음료",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=107517",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5875%2F2026%2F02%2F18%2F65232.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈니스플러스17시간 전",
+      "title": "콜롬비아관광청, 웨비나 통해 최신 관광정보와 프리미엄 여행경험 공유",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125715",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F19%2F94617.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "비즈월드3시간 전",
       "date": "2026. 2. 19.",
-      "description": "비즈니스플러스..."
+      "description": "비즈월드..."
     },
     {
       "id": 43,
-      "title": "‘경기도-시군 공동연구사업’, 지역 농업 애로기술 해결",
-      "link": "https://www.farmnmarket.com/news/article.html?no=25687",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5649%2F2026%2F02%2F18%2F17164.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팜앤마켓매거진17시간 전",
+      "title": "동국제약이 일상 속 기초 건강 관리를 위한 '국민 건강 프로젝트'의 일환으로 신제품 3종 '동국 유산균', '동국 밀크씨슬', '동국 비타민C 1000'을... 소형 식물성 캡슐과",
+      "link": "http://www.bokuennews.com/news/article.html?no=273993",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F19%2F109877.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "보건뉴스3시간 전",
       "date": "2026. 2. 19.",
-      "description": "팜앤마켓매거진..."
+      "description": "보건뉴스..."
     },
     {
       "id": 44,
-      "title": "충남 계룡시, '반려식물 관리 지도사' 양성 교육 '성료'",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1063614",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5278%2F2026%2F02%2F18%2F589401.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청매일18시간 전",
+      "title": "동국제약, '국민 건강 프로젝트' 신제품 3종 출시…\"핵심 영양 성분 엄선...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=213477",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5686%2F2026%2F02%2F19%2F182396.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "청년일보3시간 전",
       "date": "2026. 2. 19.",
-      "description": "충청매일..."
+      "description": "청년일보..."
     },
     {
       "id": 45,
-      "title": "남양유업, 설 과식 이후 '회복 루틴' 제안",
-      "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=263360",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5652%2F2026%2F02%2F18%2F155526.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비지니스코리아18시간 전",
+      "title": "동국제약, 유산균·밀크씨슬·비타민C 출시...기초 건강 관리 라인업 확...",
+      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=100557",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5848%2F2026%2F02%2F19%2F36217.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "우먼타임스3시간 전",
       "date": "2026. 2. 19.",
-      "description": "비지니스코리아..."
+      "description": "우먼타임스..."
     },
     {
       "id": 46,
-      "title": "[유통가 레이더] 디저트 지형 바꾼 신세계백화점 스위트파크, 오픈 2주년...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=337047",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F18%2F175963.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문18시간 전",
+      "title": "또한 1.2cm 크기의 식물성 소형 캡슐을 적용해 섭취 편의성을 높였고, 전용 용기를 사용해 냉장 보관 없이도 유산균 생존력을 유지할 수 있도록 설계했다. '동국 밀크씨슬'은 간 ",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=151014",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5187%2F2026%2F02%2F19%2F80518.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "Korea IT Times3시간 전",
       "date": "2026. 2. 19.",
-      "description": "녹색경제신문..."
+      "description": "Korea IT Times..."
     },
     {
       "id": 47,
-      "title": "균형 관리를 돕는 '회복 루틴' 음료 라인업을 제안한다. 고함량 단백질 보충이 가능한 '테이크핏', 발효유 '불가리스', 제로슈거 식물성 음료 '아몬드데이 언스위트' 등을 중심으로",
-      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1085377",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5613%2F2026%2F02%2F18%2F155172.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "디스커버리뉴스22시간 전",
+      "title": "더스킨팩토리 쿤달, ULTA Beauty UAE 첫 오프라인 매장 내 바디케어 14종...",
+      "link": "https://www.livesnews.com/news/article.html?no=59616",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5811%2F2026%2F02%2F19%2F27689.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "라이브뉴스3시간 전",
       "date": "2026. 2. 19.",
-      "description": "디스커버리뉴스..."
+      "description": "라이브뉴스..."
     },
     {
       "id": 48,
-      "title": "양산시민정원학교, '내 손으로 정원 만들기' 요람",
-      "link": "https://www.idomin.com/news/articleView.html?idxno=956558",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5163%2F2026%2F02%2F18%2F372478.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남도민일보22시간 전",
+      "title": "동국제약, 기초 건강 성분 담은 건기식 신제품 3종 출시",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1336962",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F19%2F765088.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리한국3시간 전",
       "date": "2026. 2. 19.",
-      "description": "경남도민일보..."
+      "description": "데일리한국..."
     },
     {
       "id": 49,
-      "title": "농진청, 민간 농업기술 검증 통해 상용화 돕는다",
-      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=792538",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5395%2F2026%2F02%2F18%2F310876.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전라일보22시간 전",
+      "title": "동국제약, '국민 건강 프로젝트'를 위한 신제품 3종 출시",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=730138",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F19%2F424762.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이코노믹리뷰3시간 전",
       "date": "2026. 2. 19.",
-      "description": "전라일보..."
+      "description": "이코노믹리뷰..."
     },
     {
       "id": 50,
-      "title": "농진청, 민간 농업기술 검증으로 상용화 길 연다",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4067668",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5019%2F2026%2F02%2F18%2F474618.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "BBS NEWS23시간 전",
+      "title": "또한 1.2cm 크기의 소형 식물성 캡슐을 적용해 섭취 부담을 줄였으며 전용 용기를 사용해 냉장 보관 없이도 유산균의 생존력을 안정적으로 유지할 수 있도록 했다. '동국 밀크씨슬'",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=107941",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F19%2F63029.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스드림3시간 전",
       "date": "2026. 2. 19.",
-      "description": "BBS NEWS..."
+      "description": "뉴스드림..."
     }
   ]
 }

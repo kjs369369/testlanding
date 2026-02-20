@@ -1,304 +1,304 @@
 {
-  "lastUpdated": "2026-02-20T09:35:26.070Z",
-  "lastUpdatedKST": "2026. 2. 20. 오후 6:35:26",
+  "lastUpdated": "2026-02-20T12:43:24.139Z",
+  "lastUpdatedKST": "2026. 2. 20. 오후 9:43:24",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
+      "title": "민간 개발 농업기술·농자재 검증 속도낸다",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401835",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5396%2F2024%2F05%2F30%2Flogo_5396_18_20240530183001.png&type=f54_54&expire=24&refresh=true",
+      "press": "한국농어민신문2시간 전",
+      "date": "2026. 2. 20.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 2,
+      "title": "경기도농업기술원 '사이버식물병원 상담사례집' 발간",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=401812",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5396%2F2026%2F02%2F20%2F80239.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농어민신문2시간 전",
+      "date": "2026. 2. 20.",
+      "description": "한국농어민신문..."
+    },
+    {
+      "id": 3,
       "title": "[제약·바이오 레이더] 유한양행·동국제약·대원제약, 건기식·일반약...",
       "link": "http://www.thevaluenews.co.kr/news/view.php?idx=197055",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5767%2F2026%2F02%2F20%2F37704.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "더밸류뉴스55분 전",
+      "press": "더밸류뉴스4시간 전",
       "date": "2026. 2. 20.",
       "description": "더밸류뉴스..."
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "[식품업계기상도]삼양사·CJ제일제당 등 제분7사, 설탕 이어 밀가루 담...",
       "link": "https://www.nspna.com/news/?mode=view&newsid=803569",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F20%2F769953.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "NSP통신1시간 전",
+      "press": "NSP통신4시간 전",
       "date": "2026. 2. 20.",
       "description": "NSP통신..."
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "인천 남동구 명소, 자연과 동물이 선사하는 겨울날의 이야기",
       "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126467",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F20%2F27970.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스1시간 전",
+      "press": "이코노미사이언스4시간 전",
       "date": "2026. 2. 20.",
       "description": "이코노미사이언스..."
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "[KFE 유통로그]KGC인삼공사·NS홈쇼핑",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=654671",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5206%2F2026%2F02%2F20%2F122711.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국금융경제신문1시간 전",
+      "press": "한국금융경제신문4시간 전",
       "date": "2026. 2. 20.",
       "description": "한국금융경제신문..."
     },
     {
-      "id": 5,
+      "id": 7,
       "title": "LG화학 두경부암 신약 후보물질, 임상 3상 지속 진행 권고 획득 外",
       "link": "http://www.newsmp.com/news/articleView.html?idxno=251720",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5842%2F2026%2F02%2F20%2F26334.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "의약뉴스1시간 전",
+      "press": "의약뉴스4시간 전",
       "date": "2026. 2. 20.",
       "description": "의약뉴스..."
-    },
-    {
-      "id": 6,
-      "title": "NS홈쇼핑, ‘리세포 셀바이오 시딩 에센스’ 론칭",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599558076418",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F20%2F74970.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제1시간 전",
-      "date": "2026. 2. 20.",
-      "description": "메가경제..."
-    },
-    {
-      "id": 7,
-      "title": "대원제약 멘토라이프, 항산화·면역 케어 신제품 2종 출시",
-      "link": "https://www.rapportian.com/news/articleView.html?idxno=232685",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5248%2F2026%2F02%2F20%2F110015.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "라포르시안1시간 전",
-      "date": "2026. 2. 20.",
-      "description": "라포르시안..."
     },
     {
       "id": 8,
       "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
       "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5767%2F2024%2F05%2F31%2Flogo_5767_18_20240531142630.png&type=f54_54&expire=24&refresh=true",
-      "press": "더밸류뉴스55분 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5396%2F2024%2F05%2F30%2Flogo_5396_18_20240530183001.png&type=f54_54&expire=24&refresh=true",
+      "press": "한국농어민신문2시간 전",
       "date": "2026. 2. 20.",
-      "description": "더밸류뉴스..."
+      "description": "한국농어민신문..."
     },
     {
       "id": 9,
+      "title": "NS홈쇼핑, ‘리세포 셀바이오 시딩 에센스’ 론칭",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599558076418",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F20%2F74970.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메가경제4시간 전",
+      "date": "2026. 2. 20.",
+      "description": "메가경제..."
+    },
+    {
+      "id": 10,
+      "title": "대원제약 멘토라이프, 항산화·면역 케어 신제품 2종 출시",
+      "link": "https://www.rapportian.com/news/articleView.html?idxno=232685",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5248%2F2026%2F02%2F20%2F110015.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "라포르시안5시간 전",
+      "date": "2026. 2. 20.",
+      "description": "라포르시안..."
+    },
+    {
+      "id": 11,
       "title": "[연재-여류 추리작가 '권경희'의 추리퀴즈-당신의 추리력은?] 저린 손 끝...",
       "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=513320",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5279%2F2024%2F05%2F31%2Flogo_5279_18_20240531140503.png&type=f54_54&expire=24&refresh=true",
-      "press": "일요서울1시간 전",
+      "press": "일요서울5시간 전",
       "date": "2026. 2. 20.",
       "description": "일요서울..."
     },
     {
-      "id": 10,
+      "id": 12,
       "title": "대원제약 현대인의 항산화, 어린아이 면역력 증강 건기식 2종 출시",
       "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351835",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5296%2F2026%2F02%2F20%2F193162.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중소기업신문1시간 전",
+      "press": "중소기업신문5시간 전",
       "date": "2026. 2. 20.",
       "description": "중소기업신문..."
     },
     {
-      "id": 11,
+      "id": 13,
       "title": "대원제약 멘토라이프, 항산화&면역 케어 신제품 2종 출시",
       "link": "https://www.ibabynews.com/news/articleView.html?idxno=148975",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F20%2F98949.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스1시간 전",
+      "press": "베이비뉴스5시간 전",
       "date": "2026. 2. 20.",
       "description": "베이비뉴스..."
     },
     {
-      "id": 12,
+      "id": 14,
       "title": "서울 구로구 가볼 만한 곳, 푸른 자연과 문화가 숨 쉬는 공간",
       "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126425",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F20%2F27950.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스2시간 전",
+      "press": "이코노미사이언스5시간 전",
       "date": "2026. 2. 20.",
       "description": "이코노미사이언스..."
     },
     {
-      "id": 13,
+      "id": 15,
       "title": "특히 이 제품은 혈압 관리와 비타민B군을 결합한 '항산화 에너지 포뮬러'를 채택해 바쁜 일상 속 피로와 노화 케어가 필요한 성인에게 적합하다. 또한, 동물성 원료를 배제한 식물성 ",
       "link": "https://www.econovill.com/news/articleView.html?idxno=730342",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F20%2F424941.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노믹리뷰2시간 전",
+      "press": "이코노믹리뷰5시간 전",
       "date": "2026. 2. 20.",
       "description": "이코노믹리뷰..."
     },
     {
-      "id": 14,
+      "id": 16,
       "title": "겨울에 가볼 만한 곳, 화성의 자연 속에서 찾는 다채로운 시간",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=496765",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5567%2F2026%2F02%2F20%2F162803.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "중앙이코노미뉴스2시간 전",
+      "press": "중앙이코노미뉴스5시간 전",
       "date": "2026. 2. 20.",
       "description": "중앙이코노미뉴스..."
     },
     {
-      "id": 15,
+      "id": 17,
       "title": "NS홈쇼핑, '리세포 셀바이오 시딩 에센스' 홈쇼핑 최초 론칭",
       "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7150934",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5723%2F2026%2F02%2F20%2F46379.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "주간한국2시간 전",
+      "press": "주간한국5시간 전",
       "date": "2026. 2. 20.",
       "description": "주간한국..."
     },
     {
-      "id": 16,
+      "id": 18,
       "title": "대원제약 멘토라이프, 항산화&면역 케어 2종 출시",
       "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2270280",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F02%2F20%2F213065.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "의학신문2시간 전",
+      "press": "의학신문5시간 전",
       "date": "2026. 2. 20.",
       "description": "의학신문..."
     },
     {
-      "id": 17,
+      "id": 19,
       "title": "NS홈쇼핑, 리세포 셀바이오 시딩 에센스 론칭",
       "link": "https://www.ngetnews.com/news/articleView.html?idxno=548382",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5824%2F2026%2F02%2F20%2F74276.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스저널리즘2시간 전",
+      "press": "뉴스저널리즘5시간 전",
       "date": "2026. 2. 20.",
       "description": "뉴스저널리즘..."
     },
     {
-      "id": 18,
+      "id": 20,
       "title": "순천만가든마켓, '꽃과 나무 시장' 개장… \"정원의 모든 것 한곳에\"",
       "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=414812",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F02%2F20%2F294063.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스워커2시간 전",
+      "press": "뉴스워커5시간 전",
       "date": "2026. 2. 20.",
       "description": "뉴스워커..."
     },
     {
-      "id": 19,
+      "id": 21,
       "title": "순천만가든마켓, '꽃과 나무 시장' 개장",
       "link": "http://www.ttlnews.com/news/articleView.html?idxno=3081676",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F20%2F51538.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)3시간 전",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)6시간 전",
       "date": "2026. 2. 20.",
       "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
     {
-      "id": 20,
+      "id": 22,
       "title": "푸른수목원, 도시정원사 ‘푸르너 4기’ 3월 개강",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22516",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5521%2F2024%2F05%2F30%2Flogo_5521_18_20240530183859.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경3시간 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5824%2F2024%2F05%2F30%2Flogo_5824_18_20240530184401.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경6시간 전",
       "date": "2026. 2. 20.",
       "description": "환경과조경..."
     },
     {
-      "id": 21,
-      "title": "\"세안 직후 '3초'를 잡아라\"...NS홈쇼핑, 식물세포배양 퍼스트 에센스 출...",
-      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=262084",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5809%2F2026%2F02%2F20%2F75997.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스퀘스트3시간 전",
-      "date": "2026. 2. 20.",
-      "description": "뉴스퀘스트..."
-    },
-    {
-      "id": 22,
+      "id": 23,
       "title": "일명 '식물세포배양에센스'로 불리는 이 제품은 정제수 대신 식물세포배양여과물을 93% 함유한 것이 특징이다. '식물세포배양여과액'과 함께 눈으로... 이마, 미간, 눈가, 턱 라인",
       "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=193828",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5560%2F2026%2F02%2F20%2F145073.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼스트3시간 전",
+      "press": "더퍼스트7시간 전",
       "date": "2026. 2. 20.",
       "description": "더퍼스트..."
     },
     {
-      "id": 23,
+      "id": 24,
       "title": "\"봄을 심다, 정원을 잇다\"…순천만가든마켓, 40일간 '꽃과 나무 시장' 개...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=723374",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5052%2F2026%2F02%2F20%2F475188.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "폴리뉴스4시간 전",
+      "press": "폴리뉴스7시간 전",
       "date": "2026. 2. 20.",
       "description": "폴리뉴스..."
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "대원제약, '항산화엔 코엔자임Q10'·'면역 기능&키즈 프로폴리스 젤리' ...",
       "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=47099",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F02%2F20%2F31901.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이넷뉴스4시간 전",
+      "press": "이넷뉴스7시간 전",
       "date": "2026. 2. 20.",
       "description": "이넷뉴스..."
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "NS홈쇼핑, '리세포 셀바이오 시딩 에센스' 론칭…홈쇼핑 최초",
       "link": "https://www.mhj21.com/news/articleView.html?idxno=250564",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5420%2F2026%2F02%2F20%2F70220.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "문화저널214시간 전",
+      "press": "문화저널217시간 전",
       "date": "2026. 2. 20.",
       "description": "문화저널21..."
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "청주 가볼 만한 곳, 겨울 호수와 숲길이 어우러진 힐링 코스",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=15978498",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F20%2F1200534.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "톱스타뉴스4시간 전",
+      "press": "톱스타뉴스7시간 전",
       "date": "2026. 2. 20.",
       "description": "톱스타뉴스..."
     },
     {
-      "id": 27,
+      "id": 28,
       "title": "[브리핑] 현대백화점, 신학기 맞이 할인 행사",
       "link": "http://www.4th.kr/news/articleView.html?idxno=2107774",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5665%2F2026%2F02%2F20%2F120202.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "포쓰저널4시간 전",
+      "press": "포쓰저널7시간 전",
       "date": "2026. 2. 20.",
       "description": "포쓰저널..."
     },
     {
-      "id": 28,
+      "id": 29,
       "title": "[여행이슈] 가족과 자연이 함께 자라는 여행…뉴사우스웨일즈에서 만나...",
       "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=75518",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5443%2F2026%2F02%2F20%2F20612.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "미디어파인4시간 전",
+      "press": "미디어파인7시간 전",
       "date": "2026. 2. 20.",
       "description": "미디어파인..."
-    },
-    {
-      "id": 29,
-      "title": "\"새해 건강 잡자\" 제약업계, 간·장·피부 맞춤형 신제품 공세",
-      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=250220",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5759%2F2026%2F02%2F20%2F39897.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "여성경제신문4시간 전",
-      "date": "2026. 2. 20.",
-      "description": "여성경제신문..."
     },
     {
       "id": 30,
       "title": "NS홈쇼핑, '리세포 셀바이오 시딩 에센스' 업계 최초 론칭",
       "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125597",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5779%2F2026%2F02%2F20%2F77599.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스락4시간 전",
+      "press": "뉴스락7시간 전",
       "date": "2026. 2. 20.",
       "description": "뉴스락..."
     },
     {
       "id": 31,
-      "title": "대원제약 멘토라이프, 성인 활력·어린이 면역 돕는 제품 2종 출시",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=694157",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F20%2F497256.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "컨슈머타임스4시간 전",
-      "date": "2026. 2. 20.",
-      "description": "컨슈머타임스..."
-    },
-    {
-      "id": 32,
       "title": "대원제약 멘토라이프, 항산화·면역 신제품 2종 출시… 성인부터 키즈까...",
       "link": "https://www.geconomy.co.kr/news/article.html?no=316061",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5633%2F2026%2F02%2F20%2F63992.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "지이코노미4시간 전",
+      "press": "지이코노미7시간 전",
       "date": "2026. 2. 20.",
       "description": "지이코노미..."
+    },
+    {
+      "id": 32,
+      "title": "대원제약 멘토라이프, 성인 활력·어린이 면역 돕는 제품 2종 출시",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=694157",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F20%2F497256.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "컨슈머타임스7시간 전",
+      "date": "2026. 2. 20.",
+      "description": "컨슈머타임스..."
     },
     {
       "id": 33,
       "title": "청송 가볼 만한 곳, 사계절 다채로운 풍광을 만나는 여행",
       "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=524782",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F20%2F377020.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스4시간 전",
+      "press": "스타데일리뉴스7시간 전",
       "date": "2026. 2. 20.",
       "description": "스타데일리뉴스..."
     },
@@ -307,7 +307,7 @@
       "title": "[오늘의 장바구니] NS홈쇼핑·SSG닷컴·현대백화점 외",
       "link": "http://www.newsprime.co.kr/news/article.html?no=724841",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5325%2F2026%2F02%2F20%2F388012.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "프라임경제5시간 전",
+      "press": "프라임경제8시간 전",
       "date": "2026. 2. 20.",
       "description": "프라임경제..."
     },
@@ -316,7 +316,7 @@
       "title": "대원제약 멘토라이프, 신제품 2종 출시",
       "link": "http://www.fnnews.com/news/202602201302556810",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F20%2F5480283.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스5시간 전네이버뉴스",
+      "press": "파이낸셜뉴스8시간 전네이버뉴스",
       "date": "2026. 2. 20.",
       "description": "파이낸셜뉴스..."
     },
@@ -325,7 +325,7 @@
       "title": "[윤세라 더봄] 거대 자본주의 도시와 대결하는 대지미술···아그네스 데...",
       "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=250157",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5759%2F2026%2F02%2F20%2F39894.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "여성경제신문5시간 전",
+      "press": "여성경제신문8시간 전",
       "date": "2026. 2. 20.",
       "description": "여성경제신문..."
     },
@@ -334,7 +334,7 @@
       "title": "동국제약, 투모로우바이투게더 태현 센텔리안24 글로벌 앰배서더 선정",
       "link": "http://www.ttlnews.com/news/articleView.html?idxno=3081584",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F20%2F51519.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)6시간 전",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)9시간 전",
       "date": "2026. 2. 20.",
       "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
@@ -343,7 +343,7 @@
       "title": "대원제약, 비건 가능한 코엔자임Q10 신제품 2종 출시",
       "link": "http://www.ttlnews.com/news/articleView.html?idxno=3081597",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F20%2F51516.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)6시간 전",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)9시간 전",
       "date": "2026. 2. 20.",
       "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
@@ -352,7 +352,7 @@
       "title": "특히 이 제품은 혈압 관리와 비타민B군을 결합한 '항산화 에너지 포뮬러'를 채택해 바쁜 일상 속 피로와 노화 케어가 필요한 성인에게 적합하다. 또 동물성 원료를 배제한 식물성 캡슐",
       "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134826",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F20%2F59010.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스6시간 전",
+      "press": "메디소비자뉴스9시간 전",
       "date": "2026. 2. 20.",
       "description": "메디소비자뉴스..."
     },
@@ -361,7 +361,7 @@
       "title": "[기후는 말한다] 순천 장박골·광양 합강, 내륙 습지 정밀 조사",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8489428&ref=A",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F20%2F12127926.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS6시간 전네이버뉴스",
+      "press": "KBS9시간 전네이버뉴스",
       "date": "2026. 2. 20.",
       "description": "KBS..."
     },
@@ -370,7 +370,7 @@
       "title": "안산 가볼 만한 곳, 도심 속 자연과 문화가 어우러진 공간",
       "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=524748",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F20%2F376951.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스6시간 전",
+      "press": "스타데일리뉴스9시간 전",
       "date": "2026. 2. 20.",
       "description": "스타데일리뉴스..."
     },
@@ -379,7 +379,7 @@
       "title": "[신상품 브리핑] 간 건강부터 이너뷰티·주방 위생까지 신제품 풍성",
       "link": "https://www.seoultimes.news/news/article.html?no=2000091974",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5730%2F2026%2F02%2F20%2F35935.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "서울타임즈뉴스6시간 전",
+      "press": "서울타임즈뉴스9시간 전",
       "date": "2026. 2. 20.",
       "description": "서울타임즈뉴스..."
     },
@@ -388,7 +388,7 @@
       "title": "대원제약 '멘토라이프' 항산화&면역 케어 신제품 2종 출시",
       "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=73989",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5911%2F2026%2F02%2F20%2F24401.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "히트뉴스6시간 전",
+      "press": "히트뉴스9시간 전",
       "date": "2026. 2. 20.",
       "description": "히트뉴스..."
     },
@@ -397,7 +397,7 @@
       "title": "동국제약, '국민 건강 프로젝트' 위한 신제품 3종 론칭",
       "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=193802",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5560%2F2026%2F02%2F20%2F145046.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼스트6시간 전",
+      "press": "더퍼스트9시간 전",
       "date": "2026. 2. 20.",
       "description": "더퍼스트..."
     },
@@ -406,7 +406,7 @@
       "title": "[유통가 레이더] 퀵커머스 힘주는 SSG닷컴, '바로퀵' 거점 80곳으로 확대...",
       "link": "https://www.greened.kr/news/articleView.html?idxno=337120",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F20%2F176015.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문7시간 전",
+      "press": "녹색경제신문10시간 전",
       "date": "2026. 2. 20.",
       "description": "녹색경제신문..."
     },
@@ -415,7 +415,7 @@
       "title": "대원제약, 약국 전용 혈압·면역 관리 건기식 선봬…성인·어린이용 구...",
       "link": "https://www.nspna.com/news/?mode=view&newsid=803462",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F20%2F769854.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "NSP통신7시간 전",
+      "press": "NSP통신10시간 전",
       "date": "2026. 2. 20.",
       "description": "NSP통신..."
     },
@@ -424,7 +424,7 @@
       "title": "'박카리스나무 추출 그린프로폴리스' 대원제약, 어린이 면역케어 젤리 ...",
       "link": "https://www.catchnews.kr/news/articleView.html?idxno=120837",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5140%2F2026%2F02%2F20%2F100076.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "CATCH NEWS7시간 전",
+      "press": "CATCH NEWS10시간 전",
       "date": "2026. 2. 20.",
       "description": "CATCH NEWS..."
     },
@@ -433,7 +433,7 @@
       "title": "대원제약, 성인·아이 동시 겨냥···'멘토라이프' 신제품 2종 출시",
       "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2396245",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F20%2F1153717.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이뉴스투데이7시간 전",
+      "press": "이뉴스투데이10시간 전",
       "date": "2026. 2. 20.",
       "description": "이뉴스투데이..."
     },
@@ -442,7 +442,7 @@
       "title": "NS홈쇼핑, '리세포 셀바이오 시딩 에센스' 론칭",
       "link": "http://www.newswell.co.kr/news/articleView.html?idxno=16190",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5873%2F2026%2F02%2F20%2F8631.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스웰7시간 전",
+      "press": "뉴스웰10시간 전",
       "date": "2026. 2. 20.",
       "description": "뉴스웰..."
     },
@@ -451,7 +451,7 @@
       "title": "[제약업계 소식] 2월 20일",
       "link": "http://www.doctorstimes.com/news/articleView.html?idxno=236846",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5826%2F2026%2F02%2F20%2F21610.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "의사신문7시간 전",
+      "press": "의사신문10시간 전",
       "date": "2026. 2. 20.",
       "description": "의사신문..."
     }

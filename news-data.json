@@ -1,309 +1,408 @@
 {
-  "lastUpdated": "2026-02-23T04:54:45.146Z",
-  "lastUpdatedKST": "2026. 2. 23. 오후 1:54:45",
+  "lastUpdated": "2026-02-23T06:58:00.180Z",
+  "lastUpdatedKST": "2026. 2. 23. 오후 3:58:00",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "[기후는 말한다] ‘맹그로브’ 복원, 환경·지역경제 모두 살린다",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8490876&ref=A",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F23%2F12129071.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS1시간 전네이버뉴스",
+      "title": "제약업계, 건기식 시장 공략 가속···유통채널 다각화 잰걸음",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=305141",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5493%2F2026%2F02%2F23%2F133896.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "여성소비자신문3분 전",
       "date": "2026. 2. 23.",
-      "description": "KBS..."
+      "description": "여성소비자신문..."
     },
     {
       "id": 2,
-      "title": "영광 가볼 만한 곳, 서해 바다가 선사하는 여행의 감동",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126537",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F23%2F28047.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스1시간 전",
-      "date": "2026. 2. 23.",
-      "description": "이코노미사이언스..."
-    },
-    {
-      "id": 3,
-      "title": "몽클로스, '케라틴 본딩 헤어 팩 트리트먼트' 올리브영 선론칭",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241386",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5755%2F2026%2F02%2F23%2F158354.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "아시아에이2시간 전",
-      "date": "2026. 2. 23.",
-      "description": "아시아에이..."
-    },
-    {
-      "id": 4,
-      "title": "솔라시도 영암 삼호지구에 '붉은흙' 무더기 반입 환경 논란",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=295553",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5677%2F2026%2F02%2F23%2F139539.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "스트레이트뉴스2시간 전",
-      "date": "2026. 2. 23.",
-      "description": "스트레이트뉴스..."
-    },
-    {
-      "id": 5,
-      "title": "[유통가 레이더] 홈쇼핑 분화 시대... 롯데홈쇼핑, 채널별 특성 맞춘 뷰...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=337169",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F23%2F176059.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "녹색경제신문2시간 전",
-      "date": "2026. 2. 23.",
-      "description": "녹색경제신문..."
-    },
-    {
-      "id": 6,
-      "title": "로히 33.3(ROHI 33.3) 7종 효소 설계 '이지 퀵 스테인 리무버' 선보여",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=858463",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5264%2F2026%2F02%2F23%2F679331.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "공감신문3시간 전",
-      "date": "2026. 2. 23.",
-      "description": "공감신문..."
-    },
-    {
-      "id": 7,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5289%2F2024%2F05%2F31%2Flogo_5289_18_20240531140659.png&type=f54_54&expire=24&refresh=true",
-      "press": "로이슈1시간 전",
-      "date": "2026. 2. 23.",
-      "description": "로이슈..."
-    },
-    {
-      "id": 8,
-      "title": "습지 보전과 습지의 현명한 이용은 지금 시작하는 것이다!",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=444007",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5085%2F2026%2F02%2F23%2F198988.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "제주의소리4시간 전",
-      "date": "2026. 2. 23.",
-      "description": "제주의소리..."
-    },
-    {
-      "id": 9,
-      "title": "순천만가든마켓 '꽃과 나무 시장' 개장",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=902017",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F02%2F23%2F313168.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "남도일보4시간 전",
-      "date": "2026. 2. 23.",
-      "description": "남도일보..."
-    },
-    {
-      "id": 10,
-      "title": "아파트 관리 역사는 길어도 현장 교육자료는 부족",
-      "link": "https://www.hapt.co.kr/news/articleView.html?idxno=167704",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5870%2F2026%2F02%2F23%2F10204.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국아파트신문4시간 전",
-      "date": "2026. 2. 23.",
-      "description": "한국아파트신문..."
-    },
-    {
-      "id": 11,
-      "title": "씨엠아이 ‘슈퍼그린 수직정원’, 기후변화 대응 성능 실증 ‘성공’ 판...",
-      "link": "https://www.donga.com/news/Economy/article/all/20260220/133389954/1",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F23%2F3698856.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아일보4시간 전네이버뉴스",
-      "date": "2026. 2. 23.",
-      "description": "동아일보..."
-    },
-    {
-      "id": 12,
-      "title": "한국삼, 정성과 품격 담은 '홍삼진액 골드' 새롭게 선보여",
-      "link": "https://edu.donga.com/news/articleView.html?idxno=103564",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F02%2F23%2F97873.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "E동아4시간 전",
-      "date": "2026. 2. 23.",
-      "description": "E동아..."
-    },
-    {
-      "id": 13,
-      "title": "한국삼 '올데이 흑염소진액 스틱', 품질·편의성 앞세워 시장 내 스테디...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=47092",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F02%2F23%2F31920.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이넷뉴스4시간 전",
-      "date": "2026. 2. 23.",
-      "description": "이넷뉴스..."
-    },
-    {
-      "id": 14,
-      "title": "울산시, 태화강 국가정원서 '자연주의정원 컷백' 행사",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=862037",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F02%2F23%2F475510.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "글로벌경제5시간 전",
+      "title": "느린 노화 시대, 왜 '호두'가 주목받고 있을까",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=861997",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F02%2F23%2F475573.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "글로벌경제15분 전",
       "date": "2026. 2. 23.",
       "description": "글로벌경제..."
     },
     {
+      "id": 3,
+      "title": "'느린 노화' 시대...호두, 일상 속 건강 식습관 대안으로 부상",
+      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=100640",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5848%2F2026%2F02%2F23%2F36294.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "우먼타임스17분 전",
+      "date": "2026. 2. 23.",
+      "description": "우먼타임스..."
+    },
+    {
+      "id": 4,
+      "title": "몽클로스, '케라틴 본딩 헤어 팩 트리트먼트' 올리브영 선론칭",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2397150",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F23%2F1154429.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이뉴스투데이17분 전",
+      "date": "2026. 2. 23.",
+      "description": "이뉴스투데이..."
+    },
+    {
+      "id": 5,
+      "title": "느린 노화 시대, 왜 ‘호두’가 주목받고 있을까",
+      "link": "https://www.donga.com/news/Economy/article/all/20260223/133403586/1",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F23%2F3698949.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동아일보51분 전네이버뉴스",
+      "date": "2026. 2. 23.",
+      "description": "동아일보..."
+    },
+    {
+      "id": 6,
+      "title": "순천만가든마켓, 2월 20일~3월 31일까지 운영",
+      "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=174503",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5159%2F2026%2F02%2F23%2F155896.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스메이커59분 전",
+      "date": "2026. 2. 23.",
+      "description": "뉴스메이커..."
+    },
+    {
+      "id": 7,
+      "title": "김포 가볼 만한 곳, 가족 나들이에 좋은 실내외 명소",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=525001",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F23%2F377214.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스1시간 전",
+      "date": "2026. 2. 23.",
+      "description": "스타데일리뉴스..."
+    },
+    {
+      "id": 8,
+      "title": "[대전 24시] 대전소방, 2026년 펌뷸런스 연중 상시 가동...중증·교통사...",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=363459",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F586%2F2026%2F02%2F23%2F122886.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "시사저널1시간 전네이버뉴스",
+      "date": "2026. 2. 23.",
+      "description": "시사저널..."
+    },
+    {
+      "id": 9,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "/logo.png",
+      "press": "여성소비자신문3분 전",
+      "date": "2026. 2. 23.",
+      "description": "여성소비자신문..."
+    },
+    {
+      "id": 10,
+      "title": "임플란트 남 일 아닌데…정작 ‘관리법’은 모른다",
+      "link": "https://www.etoday.co.kr/news/view/2558518",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5003%2F2026%2F02%2F23%2F2145421.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이투데이1시간 전",
+      "date": "2026. 2. 23.",
+      "description": "이투데이..."
+    },
+    {
+      "id": 11,
+      "title": "임플란트 남 일 아닌데, 아직 관리할 줄 모른다구요?",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=201809",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5412%2F2026%2F02%2F23%2F153152.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "조세금융신문1시간 전",
+      "date": "2026. 2. 23.",
+      "description": "조세금융신문..."
+    },
+    {
+      "id": 12,
+      "title": "닥터펩티, 분당 1만2000회 진동 '엑소 바이옴 아이크림' 출시",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=718759",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5575%2F2026%2F02%2F23%2F638062.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "싱글리스트1시간 전",
+      "date": "2026. 2. 23.",
+      "description": "싱글리스트..."
+    },
+    {
+      "id": 13,
+      "title": "[기후는 말한다] ‘맹그로브’ 복원, 환경·지역경제 모두 살린다",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8490876&ref=A",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F23%2F12129071.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "KBS3시간 전네이버뉴스",
+      "date": "2026. 2. 23.",
+      "description": "KBS..."
+    },
+    {
+      "id": 14,
+      "title": "영광 가볼 만한 곳, 서해 바다가 선사하는 여행의 감동",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126537",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F23%2F28047.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스4시간 전",
+      "date": "2026. 2. 23.",
+      "description": "이코노미사이언스..."
+    },
+    {
       "id": 15,
+      "title": "이번 신제품은 두피와 모발을 얼굴 피부처럼 관리하는 '스키니피케이션(Skinification)' 트렌드를 반영해 개발됐다. 고기능성 성분을 중심으로 바쁜 일상... '케라틴 본딩 ",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241386",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5755%2F2026%2F02%2F23%2F158354.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "아시아에이4시간 전",
+      "date": "2026. 2. 23.",
+      "description": "아시아에이..."
+    },
+    {
+      "id": 16,
+      "title": "솔라시도 영암 삼호지구에 '붉은흙' 무더기 반입 환경 논란",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=295553",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5677%2F2026%2F02%2F23%2F139539.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "스트레이트뉴스4시간 전",
+      "date": "2026. 2. 23.",
+      "description": "스트레이트뉴스..."
+    },
+    {
+      "id": 17,
+      "title": "[유통가 레이더] 홈쇼핑 분화 시대... 롯데홈쇼핑, 채널별 특성 맞춘 뷰...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=337169",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5499%2F2026%2F02%2F23%2F176059.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "녹색경제신문4시간 전",
+      "date": "2026. 2. 23.",
+      "description": "녹색경제신문..."
+    },
+    {
+      "id": 18,
+      "title": "로히 33.3(ROHI 33.3) 7종 효소 설계 '이지 퀵 스테인 리무버' 선보여",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=858463",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5264%2F2026%2F02%2F23%2F679331.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "공감신문5시간 전",
+      "date": "2026. 2. 23.",
+      "description": "공감신문..."
+    },
+    {
+      "id": 19,
+      "title": "습지 보전과 습지의 현명한 이용은 지금 시작하는 것이다!",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=444007",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5085%2F2026%2F02%2F23%2F198988.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "제주의소리6시간 전",
+      "date": "2026. 2. 23.",
+      "description": "제주의소리..."
+    },
+    {
+      "id": 20,
+      "title": "순천만가든마켓 '꽃과 나무 시장' 개장",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=902017",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F02%2F23%2F313168.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "남도일보6시간 전",
+      "date": "2026. 2. 23.",
+      "description": "남도일보..."
+    },
+    {
+      "id": 21,
+      "title": "아파트 관리 역사는 길어도 현장 교육자료는 부족",
+      "link": "https://www.hapt.co.kr/news/articleView.html?idxno=167704",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5870%2F2026%2F02%2F23%2F10204.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국아파트신문6시간 전",
+      "date": "2026. 2. 23.",
+      "description": "한국아파트신문..."
+    },
+    {
+      "id": 22,
+      "title": "씨엠아이 ‘슈퍼그린 수직정원’, 기후변화 대응 성능 실증 ‘성공’ 판...",
+      "link": "https://www.donga.com/news/Economy/article/all/20260220/133389954/1",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F02%2F23%2F3698856.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동아일보6시간 전네이버뉴스",
+      "date": "2026. 2. 23.",
+      "description": "동아일보..."
+    },
+    {
+      "id": 23,
+      "title": "한국삼, 정성과 품격 담은 '홍삼진액 골드' 새롭게 선보여",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=103564",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5449%2F2026%2F02%2F23%2F97873.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "E동아6시간 전",
+      "date": "2026. 2. 23.",
+      "description": "E동아..."
+    },
+    {
+      "id": 24,
+      "title": "한국삼 '올데이 흑염소진액 스틱', 품질·편의성 앞세워 시장 내 스테디...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=47092",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5866%2F2026%2F02%2F23%2F31920.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이넷뉴스6시간 전",
+      "date": "2026. 2. 23.",
+      "description": "이넷뉴스..."
+    },
+    {
+      "id": 25,
+      "title": "울산시, 태화강 국가정원서 '자연주의정원 컷백' 행사",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=862037",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5445%2F2026%2F02%2F23%2F475510.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "글로벌경제7시간 전",
+      "date": "2026. 2. 23.",
+      "description": "글로벌경제..."
+    },
+    {
+      "id": 26,
       "title": "닥터펩티, ‘엑소 바이옴 아이크림’ 한·일 동시 출시",
       "link": "https://www.seoul.co.kr/news/economy/2026/02/20/20260220500181?wlog_tag3=naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F23%2F3619769.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울신문5시간 전네이버뉴스",
+      "press": "서울신문7시간 전네이버뉴스",
       "date": "2026. 2. 23.",
       "description": "서울신문..."
     },
     {
-      "id": 16,
+      "id": 27,
       "title": "[인사] 농림축산식품부",
       "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=314856",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5653%2F2024%2F05%2F30%2Flogo_5653_18_20240530172810.png&type=f54_54&expire=24&refresh=true",
-      "press": "농수축산신문6시간 전",
+      "thumbnail": "/logo.png",
+      "press": "농수축산신문8시간 전",
       "date": "2026. 2. 23.",
       "description": "농수축산신문..."
     },
     {
-      "id": 17,
+      "id": 28,
       "title": "[알아야 藥] 혈액순환 막히면 기억 흐려져… '은행잎 추출물' 주목",
       "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74017",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5911%2F2026%2F02%2F23%2F24423.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "히트뉴스7시간 전",
+      "press": "히트뉴스9시간 전",
       "date": "2026. 2. 23.",
       "description": "히트뉴스..."
     },
     {
-      "id": 18,
+      "id": 29,
       "title": "【분양현장 톺아보기】 부산 '금정산 하늘채 루미엘', 학군·상권·자연...",
       "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=750447",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5275%2F2026%2F02%2F23%2F98278.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "소비자가 만드는 신문7시간 전",
+      "press": "소비자가 만드는 신문9시간 전",
       "date": "2026. 2. 23.",
       "description": "소비자가 만드는 신문..."
     },
     {
-      "id": 19,
+      "id": 30,
       "title": "태화강국가정원 봄맞이 가지치기 행사(종합)",
       "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1049640",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5277%2F2026%2F02%2F23%2F403570.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경상일보13시간 전",
+      "press": "경상일보15시간 전",
       "date": "2026. 2. 23.",
       "description": "경상일보..."
     },
     {
-      "id": 20,
+      "id": 31,
       "title": "울산시, 태화강 자연주의정원 봄맞이 단장",
       "link": "https://www.ulsanpress.net/news/articleView.html?idxno=569581",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5906%2F2026%2F02%2F22%2F63454.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "울산신문16시간 전",
+      "press": "울산신문18시간 전",
       "date": "2026. 2. 23.",
       "description": "울산신문..."
     },
     {
-      "id": 21,
+      "id": 32,
       "title": "대구 국우동 행정복지센터-도남LH 1, 2단지 '원예 체험 프로그램' 업무협...",
       "link": "https://www.ksmnews.co.kr/news/view.php?idx=591433",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F02%2F22%2F464989.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경상매일신문17시간 전",
+      "press": "경상매일신문19시간 전",
       "date": "2026. 2. 23.",
       "description": "경상매일신문..."
     },
     {
-      "id": 22,
+      "id": 33,
       "title": "공주소방서 음식점 주방 후드·덕트 기름때 화재 주의 당부",
       "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2398672",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5116%2F2026%2F02%2F22%2F1036977.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청일보17시간 전",
+      "press": "충청일보19시간 전",
       "date": "2026. 2. 23.",
       "description": "충청일보..."
     },
     {
-      "id": 23,
+      "id": 34,
       "title": "[온누리] 서해 참소라",
       "link": "http://sjbnews.com/news/news.php?number=872194",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5153%2F2024%2F05%2F30%2Flogo_5153_18_20240530172242.png&type=f54_54&expire=24&refresh=true",
-      "press": "새전북신문17시간 전",
+      "press": "새전북신문19시간 전",
       "date": "2026. 2. 23.",
       "description": "새전북신문..."
     },
     {
-      "id": 24,
+      "id": 35,
       "title": "'반려식물'로 공기질·가습 해결 '일석이조'",
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1514807",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5155%2F2026%2F02%2F22%2F573303.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "OBS17시간 전",
+      "press": "OBS19시간 전",
       "date": "2026. 2. 23.",
       "description": "OBS..."
     },
     {
-      "id": 25,
+      "id": 36,
       "title": "포항, 과수화상병 차단 총력… 사과·배 농가에 예방약제 4종 무상 공급",
       "link": "https://www.dkilbo.com/news/articleView.html?idxno=534535",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5581%2F2026%2F02%2F22%2F296703.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대경일보18시간 전",
+      "press": "대경일보20시간 전",
       "date": "2026. 2. 23.",
       "description": "대경일보..."
     },
     {
-      "id": 26,
+      "id": 37,
       "title": "순천만가든마켓, '꽃과 나무 시장' 개장",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000024081",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5379%2F2026%2F02%2F22%2F295543.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전남일보20시간 전",
+      "press": "전남일보22시간 전",
       "date": "2026. 2. 23.",
       "description": "전남일보..."
     },
     {
-      "id": 27,
+      "id": 38,
       "title": "경기도의회, 그린바이오산업 육성·농업생명자원 보존 입법정책토론회...",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1232401",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F22%2F307178.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "전국매일신문21시간 전",
+      "press": "전국매일신문23시간 전",
       "date": "2026. 2. 23.",
       "description": "전국매일신문..."
     },
     {
-      "id": 28,
+      "id": 39,
       "title": "충남 공주소방서, 음식점 주방 후드·덕트 기름때 화재 주의해야...",
       "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1064077",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5278%2F2026%2F02%2F22%2F589832.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청매일22시간 전",
+      "press": "충청매일1일 전",
       "date": "2026. 2. 23.",
       "description": "충청매일..."
     },
     {
-      "id": 29,
+      "id": 40,
       "title": "공주소방서, 음식점 주방 후드·덕트 기름때 화재 주의 당부",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1338632",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F22%2F844680.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보22시간 전",
+      "press": "매일일보1일 전",
       "date": "2026. 2. 23.",
       "description": "매일일보..."
     },
     {
-      "id": 30,
+      "id": 41,
       "title": "청주시, 2026년 시민정원사 양성 교육과정 교육생 모집",
       "link": "https://www.inews365.com/news/article.html?no=907694",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5231%2F2026%2F02%2F22%2F461395.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충북일보23시간 전",
+      "press": "충북일보1일 전",
       "date": "2026. 2. 23.",
       "description": "충북일보..."
     },
     {
-      "id": 31,
+      "id": 42,
       "title": "포항시, 과수농가에 방제약제 무상 공급으로 과수화상병 사전 차단 총력",
       "link": "http://www.hidomin.com/news/articleView.html?idxno=609619",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5377%2F2026%2F02%2F22%2F312370.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경북도민일보23시간 전",
+      "press": "경북도민일보1일 전",
       "date": "2026. 2. 23.",
       "description": "경북도민일보..."
     },
     {
-      "id": 32,
+      "id": 43,
       "title": "인천시, 교과 연계 텃밭교육으로 창의-인성 함께 '쑥쑥'",
       "link": "https://www.cnbnews.com/news/article.html?no=779681",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5293%2F2026%2F02%2F22%2F500158.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "CNB뉴스23시간 전",
+      "press": "CNB뉴스1일 전",
       "date": "2026. 2. 23.",
       "description": "CNB뉴스..."
     },
     {
-      "id": 33,
+      "id": 44,
       "title": "심장·혈압에 좋은 '칼륨', 간편하게 식단에 추가하는 5가지 방법",
       "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=59090",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5246%2F2026%2F02%2F22%2F34388.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "하이닥23시간 전",
+      "press": "하이닥1일 전",
       "date": "2026. 2. 23.",
       "description": "하이닥..."
     },
     {
-      "id": 34,
+      "id": 45,
       "title": "농진청, '농작업 안전·치유농업·경관 화훼' 실무서 3종 발간",
       "link": "http://www.jeollailbo.com/news/articleView.html?idxno=792825",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5395%2F2026%2F02%2F22%2F311118.jpg&type=fface200_200&expire=2&refresh=true",
@@ -312,7 +411,7 @@
       "description": "전라일보..."
     },
     {
-      "id": 35,
+      "id": 46,
       "title": "순천만가든마켓 '꽃과 나무 시장' 개장… \"정원의 모든 것 한곳에\"",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1232305",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F22%2F307096.jpg&type=fface200_200&expire=2&refresh=true",
@@ -321,7 +420,7 @@
       "description": "전국매일신문..."
     },
     {
-      "id": 36,
+      "id": 47,
       "title": "국립생태원 내륙습지 정밀조사 연구에 전남 2곳 선정",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1232271",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F22%2F307071.jpg&type=fface200_200&expire=2&refresh=true",
@@ -330,7 +429,7 @@
       "description": "전국매일신문..."
     },
     {
-      "id": 37,
+      "id": 48,
       "title": "호주산 낙타유의 '역습'...美서 '슈퍼푸드'로 부상",
       "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=161342",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5256%2F2026%2F02%2F22%2F108360.jpg&type=fface200_200&expire=2&refresh=true",
@@ -339,7 +438,7 @@
       "description": "초이스경제..."
     },
     {
-      "id": 38,
+      "id": 49,
       "title": "원주 가볼 만한 곳, 겨울 자연과 역사 속에서 찾는 휴식",
       "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126472",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F22%2F27991.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
@@ -348,112 +447,13 @@
       "description": "이코노미사이언스..."
     },
     {
-      "id": 39,
+      "id": 50,
       "title": "청주시 '2026년 시민정원사 양성 교육' 교육생 모집",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3510592",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F22%2F2457983.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "국제뉴스1일 전",
       "date": "2026. 2. 23.",
       "description": "국제뉴스..."
-    },
-    {
-      "id": 40,
-      "title": "장흥 가볼 만한 곳, 억불산 자락이 품은 자연과 별빛",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15978398",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F22%2F1201191.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "톱스타뉴스1일 전",
-      "date": "2026. 2. 23.",
-      "description": "톱스타뉴스..."
-    },
-    {
-      "id": 41,
-      "title": "주변 경관과 어울리는 '공동주택 차폐수' 알아봐요",
-      "link": "https://www.hapt.co.kr/news/articleView.html?idxno=167701",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5870%2F2026%2F02%2F22%2F10202.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국아파트신문1일 전",
-      "date": "2026. 2. 23.",
-      "description": "한국아파트신문..."
-    },
-    {
-      "id": 42,
-      "title": "소파에 파묻혀 즐기는 '집콕 푸드' 7선 [푸드PICK]",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=729141",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5097%2F2026%2F02%2F22%2F425037.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이코노믹리뷰1일 전",
-      "date": "2026. 2. 23.",
-      "description": "이코노믹리뷰..."
-    },
-    {
-      "id": 43,
-      "title": "울산시, 태화강 국가정원 생태 인프라 고도화 컷백 기술 본격 도입",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=329673",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5338%2F2026%2F02%2F21%2F151615.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국토일보2일 전",
-      "date": "2026. 2. 23.",
-      "description": "국토일보..."
-    },
-    {
-      "id": 44,
-      "title": "역류성 식도염 증상 반복된다면…'알긴산' 기반 위 점막 보호 기전 살펴...",
-      "link": "http://www.biotimes.co.kr/news/articleView.html?idxno=27172",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5872%2F2026%2F02%2F21%2F18099.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "바이오타임즈2일 전",
-      "date": "2026. 2. 23.",
-      "description": "바이오타임즈..."
-    },
-    {
-      "id": 45,
-      "title": "겨울에 가볼 만한 곳, 서귀포의 자연이 선사하는 포근한 휴식",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=524832",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F21%2F377074.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스2일 전",
-      "date": "2026. 2. 23.",
-      "description": "스타데일리뉴스..."
-    },
-    {
-      "id": 46,
-      "title": "NS홈쇼핑, ‘리세포 셀바이오 시딩 에센스’ 홈쇼핑 최초 론칭",
-      "link": "https://cooknchefnews.com/news/view/1065570383472816",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5639%2F2026%2F02%2F21%2F23765.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "쿡앤셰프2일 전",
-      "date": "2026. 2. 23.",
-      "description": "쿡앤셰프..."
-    },
-    {
-      "id": 47,
-      "title": "이희구, 비염·이석증·수면무호흡증 겪은 40년차 코미디언의 건강 고민",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=15979545",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5353%2F2026%2F02%2F21%2F1200850.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "톱스타뉴스2일 전",
-      "date": "2026. 2. 23.",
-      "description": "톱스타뉴스..."
-    },
-    {
-      "id": 48,
-      "title": "NS홈쇼핑, '리세포 셀바이오 시딩 에센스' 론칭 방송 진행",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=125962",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F21%2F94852.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드2일 전",
-      "date": "2026. 2. 23.",
-      "description": "비즈월드..."
-    },
-    {
-      "id": 49,
-      "title": "\"하루 60mg으로 눈물량↑\"…눈 건조할 때 필요한 이것",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529667",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F21%2F113396.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "약사공론2일 전",
-      "date": "2026. 2. 23.",
-      "description": "약사공론..."
-    },
-    {
-      "id": 50,
-      "title": "야식, 끊지 못하면 바꿔라…어른이 먹는 '현명한 야식' 5가지",
-      "link": "http://weekly.chosun.com/news/articleView.html?idxno=49006",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F053%2F2026%2F02%2F21%2F56070.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "주간조선2일 전네이버뉴스",
-      "date": "2026. 2. 23.",
-      "description": "주간조선..."
     }
   ]
 }

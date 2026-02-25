@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-25T12:49:36.458Z",
-  "lastUpdatedKST": "2026. 2. 25. 오후 9:49:36",
+  "lastUpdated": "2026-02-25T15:56:38.072Z",
+  "lastUpdatedKST": "2026. 2. 26. 오전 12:56:38",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "[Review] 하루 살다 간 버섯에게서 배운 것들 - 미코, 버섯의 모든 것",
-      "link": "https://www.artinsight.co.kr/news/view.php?no=79845",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5726%2F2026%2F02%2F25%2F32786.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "아트인사이트27분 전",
+      "title": "쫀득한 헤어팩으로 물미역 머릿결 어때?",
+      "link": "https://www.sportsseoul.com/news/read/1588722?ref=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F468%2F2026%2F02%2F25%2F1219930.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스포츠서울1시간 전네이버뉴스",
       "date": "2026. 2. 25.",
-      "description": "아트인사이트..."
+      "description": "스포츠서울..."
     },
     {
       "id": 2,
-      "title": "경북농업의 미래, 청년과 AI로 완성한다",
-      "link": "https://www.ksmnews.co.kr/news/view.php?idx=592208",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F02%2F25%2F465668.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경상매일신문1시간 전",
+      "title": "항생제 사용 OECD 평균의 1.6배… 정부, 내성관리 3차 대책 가동",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57701",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F02%2F25%2F40844.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국영농신문1시간 전",
       "date": "2026. 2. 25.",
-      "description": "경상매일신문..."
+      "description": "한국영농신문..."
     },
     {
       "id": 3,
-      "title": "[독자권익위원 칼럼] 태화강 국가정원, 울산 시민의 쉼터로 자리 잡아가...",
-      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1060083",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5184%2F2026%2F02%2F25%2F354317.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "울산매일신문1시간 전",
+      "title": "해안 간척지에 '탄소중립 숲' 만든다… 공공·기업 ESG 협력 본격화",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=57710",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F02%2F25%2F40846.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국영농신문1시간 전",
       "date": "2026. 2. 25.",
-      "description": "울산매일신문..."
+      "description": "한국영농신문..."
     },
     {
       "id": 4,
-      "title": "공군 연병장서 출발하는 마라톤 어디? 진주남강마라톤대회",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=631306",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F25%2F305572.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보1시간 전",
+      "title": "광명시, 스마트폰 대신 정원 가꾸는 '청소년 인생정원' 개소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3378817",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F25%2F1159054.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "천지일보1시간 전",
       "date": "2026. 2. 25.",
-      "description": "경남일보..."
+      "description": "천지일보..."
     },
     {
       "id": 5,
-      "title": "'찾아가는 시민고충'·'과수화상병 선제 차단' 보령시 '현장행정 강화'",
-      "link": "https://www.bzeronews.com/news/articleView.html?idxno=812254",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F25%2F445934.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "공뉴스1시간 전",
+      "title": "한국 인체 항생제 사용량 OECD 2위…내성률도 세계 평균 1.7배",
+      "link": "https://medicalworldnews.co.kr/news/view.php?idx=1510973206",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5620%2F2026%2F02%2F25%2F44658.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "메디컬월드뉴스1시간 전",
       "date": "2026. 2. 25.",
-      "description": "공뉴스..."
+      "description": "메디컬월드뉴스..."
     },
     {
       "id": 6,
-      "title": "국회 윤준병 의원?, ‘헴프산업 육성 및 안전관리 특별법' 대표 발의",
-      "link": "http://sjbnews.com/news/news.php?number=872472",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5153%2F2024%2F05%2F30%2Flogo_5153_18_20240530172242.png&type=f54_54&expire=24&refresh=true",
-      "press": "새전북신문1시간 전",
+      "title": "구미경실련 저조한 고아 제2 농공단지...스마트팜 입주 관리기본계획 변...",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=535034",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5581%2F2026%2F02%2F25%2F297190.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대경일보2시간 전",
       "date": "2026. 2. 25.",
-      "description": "새전북신문..."
+      "description": "대경일보..."
     },
     {
       "id": 7,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5726%2F2024%2F05%2F31%2Flogo_5726_18_20240531142043.png&type=f54_54&expire=24&refresh=true",
-      "press": "아트인사이트27분 전",
+      "title": "[Review] 하루 살다 간 버섯에게서 배운 것들 - 미코, 버섯의 모든 것",
+      "link": "https://www.artinsight.co.kr/news/view.php?no=79845",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5726%2F2026%2F02%2F25%2F32786.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "아트인사이트3시간 전",
       "date": "2026. 2. 25.",
       "description": "아트인사이트..."
     },
     {
       "id": 8,
-      "title": "광명시, 정원 가꾸는 '청소년 인생정원' 문 열어",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3514152",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F25%2F2460956.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국제뉴스2시간 전",
+      "title": "경북농업의 미래, 청년과 AI로 완성한다",
+      "link": "https://www.ksmnews.co.kr/news/view.php?idx=592208",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F02%2F25%2F465668.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "경상매일신문4시간 전",
       "date": "2026. 2. 25.",
-      "description": "국제뉴스..."
+      "description": "경상매일신문..."
     },
     {
       "id": 9,
-      "title": "JW중외제약 헴리브라, 국제학술지에 일본 대규모 시판 후 조사 결과 게...",
-      "link": "http://www.newsmp.com/news/articleView.html?idxno=251819",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5842%2F2026%2F02%2F25%2F26406.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "의약뉴스2시간 전",
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5239%2F2026%2F02%2F05%2Flogo_5239_18_20260205113047.png&type=f54_54&expire=24&refresh=true",
+      "press": "위키트리14분 전",
       "date": "2026. 2. 25.",
-      "description": "의약뉴스..."
+      "description": "위키트리..."
     },
     {
       "id": 10,
-      "title": "경북도, 25일 안동서 ‘경북농업 AI 대전환 비전 선포 및 심포지엄’ 개...",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=804283",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F25%2F770639.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "NSP통신2시간 전",
+      "title": "[독자권익위원 칼럼] 태화강 국가정원, 울산 시민의 쉼터로 자리 잡아가...",
+      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1060083",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5184%2F2026%2F02%2F25%2F354317.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "울산매일신문4시간 전",
       "date": "2026. 2. 25.",
-      "description": "NSP통신..."
+      "description": "울산매일신문..."
     },
     {
       "id": 11,
-      "title": "[카드뉴스] 국가 안보 위협하는 항생제 내성∙∙∙정부의 대책은?",
-      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30078",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5872%2F2026%2F02%2F25%2F18173.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "바이오타임즈3시간 전",
+      "title": "공군 연병장서 출발하는 마라톤 어디? 진주남강마라톤대회",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=631306",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F02%2F25%2F305572.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경남일보4시간 전",
       "date": "2026. 2. 25.",
-      "description": "바이오타임즈..."
+      "description": "경남일보..."
     },
     {
       "id": 12,
-      "title": "노동집약 농업에서 AI 농업으로…경북농업기술원, '농업 AX' 전환 선언",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4065396",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F02%2F25%2F509620.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경북일보3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "경북일보..."
-    },
-    {
-      "id": 13,
-      "title": "산림청, 한국수목원정원관리원 및 OCI그룹과 해안식물 보전 기반 협력 ...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3378690",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F25%2F1158943.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "천지일보..."
-    },
-    {
-      "id": 14,
-      "title": "광명시, 스마트폰 대신 정원 가꾸는 ‘청소년 인생정원’ 문 열어",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=804280",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F25%2F770611.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "NSP통신3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "NSP통신..."
-    },
-    {
-      "id": 15,
-      "title": "\"선생님도 개학 준비 열공\"... 경기항공고, '캡스톤 디자인' 교원 연수",
-      "link": "http://www.hg-times.com/news/articleView.html?idxno=280025",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5290%2F2026%2F02%2F25%2F191437.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한강타임즈3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "한강타임즈..."
-    },
-    {
-      "id": 16,
-      "title": "해안 간척지에 탄소중립 모델 만든다···산림청·기업·공공기관 손잡...",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=263099",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F25%2F150566.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팍스경제TV3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "팍스경제TV..."
-    },
-    {
-      "id": 17,
-      "title": "산림청-한수정-OCI그룹, 해안 간척지 식생복원·탄소중립 모델 구축 협약",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22553",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5290%2F2024%2F05%2F31%2Flogo_5290_18_20240531140721.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "환경과조경..."
-    },
-    {
-      "id": 18,
-      "title": "‘항생제 오남용 차단’ 캠페인...범정부 국가대응 강화!",
-      "link": "https://www.kenews.co.kr/news/article.html?no=88948",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13294.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농촌경제신문4시간 전",
-      "date": "2026. 2. 25.",
-      "description": "한국농촌경제신문..."
-    },
-    {
-      "id": 19,
-      "title": "경북도, 경북농업의 판을 바꾼다...인공지능 대전환 원년 선포",
-      "link": "https://www.eroun.net/news/articleView.html?idxno=74188",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5738%2F2026%2F02%2F25%2F49341.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이로운넷4시간 전",
-      "date": "2026. 2. 25.",
-      "description": "이로운넷..."
-    },
-    {
-      "id": 20,
-      "title": "신구대 식물원, '수목원전문가 교육과정' 운영",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2398583",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F25%2F1155701.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이뉴스투데이4시간 전",
-      "date": "2026. 2. 25.",
-      "description": "이뉴스투데이..."
-    },
-    {
-      "id": 21,
-      "title": "광명시, 스마트폰 내려놓고 '자연으로' 청소년 공간 제공",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=819527",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F02%2F25%2F432237.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한스경제4시간 전",
-      "date": "2026. 2. 25.",
-      "description": "한스경제..."
-    },
-    {
-      "id": 22,
-      "title": "윤준병 의원, '헴프산업 육성 및 안전관리 특별법' 대표 발의",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=415412",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F02%2F25%2F294596.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스워커4시간 전",
-      "date": "2026. 2. 25.",
-      "description": "뉴스워커..."
-    },
-    {
-      "id": 23,
-      "title": "'시민과학 성과 한눈에'…국립세종수목원, '도시숲, 도시의 숨' 전시 개...",
-      "link": "https://www.bzeronews.com/news/articleView.html?idxno=812237",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F25%2F445917.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "공뉴스4시간 전",
+      "title": "'찾아가는 시민고충'·'과수화상병 선제 차단' 보령시 '현장행정 강화'",
+      "link": "https://www.bzeronews.com/news/articleView.html?idxno=812254",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F25%2F445934.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "공뉴스5시간 전",
       "date": "2026. 2. 25.",
       "description": "공뉴스..."
     },
     {
-      "id": 24,
-      "title": "속리산국립공원사무소,스템코(주)와 자연환경보전 협력",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=840154",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F25%2F466881.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동양일보4시간 전",
+      "id": 13,
+      "title": "국회 윤준병 의원?, ‘헴프산업 육성 및 안전관리 특별법' 대표 발의",
+      "link": "http://sjbnews.com/news/news.php?number=872472",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5153%2F2024%2F05%2F30%2Flogo_5153_18_20240530172242.png&type=f54_54&expire=24&refresh=true",
+      "press": "새전북신문5시간 전",
       "date": "2026. 2. 25.",
-      "description": "동양일보..."
+      "description": "새전북신문..."
     },
     {
-      "id": 25,
-      "title": "[멸종위기종의 안부를 묻다] 벌써 개구리 울음소리 들리는데...",
-      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21273",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F02%2F25%2F8711.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스펭귄4시간 전",
+      "id": 14,
+      "title": "광명시, 정원 가꾸는 '청소년 인생정원' 문 열어",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3514152",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F25%2F2460956.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스5시간 전",
       "date": "2026. 2. 25.",
-      "description": "뉴스펭귄..."
+      "description": "국제뉴스..."
     },
     {
-      "id": 26,
-      "title": "이철우 \"돈되는 농업…올해 AX 원년으로\"",
-      "link": "http://www.hidomin.com/news/articleView.html?idxno=610141",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5377%2F2026%2F02%2F25%2F312823.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경북도민일보4시간 전",
+      "id": 15,
+      "title": "JW중외제약 헴리브라, 국제학술지에 일본 대규모 시판 후 조사 결과 게...",
+      "link": "http://www.newsmp.com/news/articleView.html?idxno=251819",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5842%2F2026%2F02%2F25%2F26406.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의약뉴스5시간 전",
       "date": "2026. 2. 25.",
-      "description": "경북도민일보..."
+      "description": "의약뉴스..."
     },
     {
-      "id": 27,
-      "title": "산림청-수목원정원관리원-OCI그룹, 해안식물 보전 기반 협력 강화",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=100381",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5367%2F2026%2F02%2F25%2F83459.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농업신문4시간 전",
+      "id": 16,
+      "title": "경북도, 25일 안동서 ‘경북농업 AI 대전환 비전 선포 및 심포지엄’ 개...",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=804283",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F25%2F770639.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "NSP통신6시간 전",
       "date": "2026. 2. 25.",
-      "description": "한국농업신문..."
+      "description": "NSP통신..."
     },
     {
-      "id": 28,
-      "title": "[리빙 트렌드] 크린토피아, '바로옷장패키지' 전국 출시 外",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=149103",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F25%2F99041.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스4시간 전",
+      "id": 17,
+      "title": "[카드뉴스] 국가 안보 위협하는 항생제 내성∙∙∙정부의 대책은?",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30078",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5872%2F2026%2F02%2F25%2F18173.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "바이오타임즈6시간 전",
       "date": "2026. 2. 25.",
-      "description": "베이비뉴스..."
+      "description": "바이오타임즈..."
     },
     {
-      "id": 29,
-      "title": "범정부 차원 '항생제 오남용 차단' 선포… 내성 관리 대책 강화",
-      "link": "http://www.bokuennews.com/news/article.html?no=274275",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5602%2F2024%2F05%2F31%2Flogo_5602_18_20240531135908.png&type=f54_54&expire=24&refresh=true",
-      "press": "보건뉴스4시간 전",
+      "id": 18,
+      "title": "노동집약 농업에서 AI 농업으로…경북농업기술원, '농업 AX' 전환 선언",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4065396",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F02%2F25%2F509620.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경북일보6시간 전",
       "date": "2026. 2. 25.",
-      "description": "보건뉴스..."
+      "description": "경북일보..."
     },
     {
-      "id": 30,
-      "title": "경농, '퀸텍'으로 오이-참외-호박 노균병 한방에!",
-      "link": "https://www.kenews.co.kr/news/article.html?no=88944",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13292.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농촌경제신문5시간 전",
+      "id": 19,
+      "title": "산림청, 한국수목원정원관리원 및 OCI그룹과 해안식물 보전 기반 협력 ...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3378690",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F25%2F1158943.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "천지일보6시간 전",
       "date": "2026. 2. 25.",
-      "description": "한국농촌경제신문..."
+      "description": "천지일보..."
     },
     {
-      "id": 31,
-      "title": "日 난리난 '이 음료' 생산량 최고치 \"비싸도 소비량은 늘어\"",
-      "link": "https://www.insight.co.kr/news/544415",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F02%2F25%2F334472.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인사이트5시간 전",
+      "id": 20,
+      "title": "광명시, 스마트폰 대신 정원 가꾸는 ‘청소년 인생정원’ 문 열어",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=804280",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5025%2F2026%2F02%2F25%2F770611.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "NSP통신6시간 전",
       "date": "2026. 2. 25.",
-      "description": "인사이트..."
+      "description": "NSP통신..."
     },
     {
-      "id": 32,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 유통 확대",
-      "link": "http://www.bokuennews.com/news/article.html?no=274271",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F25%2F110144.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "보건뉴스5시간 전",
+      "id": 21,
+      "title": "\"선생님도 개학 준비 열공\"... 경기항공고, '캡스톤 디자인' 교원 연수",
+      "link": "http://www.hg-times.com/news/articleView.html?idxno=280025",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5290%2F2026%2F02%2F25%2F191437.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "한강타임즈6시간 전",
       "date": "2026. 2. 25.",
-      "description": "보건뉴스..."
+      "description": "한강타임즈..."
     },
     {
-      "id": 33,
-      "title": "과수농가 지키는 첫걸음...화상병 사전예방체계 본격 가동",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=893345",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5498%2F2026%2F02%2F25%2F367331.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청타임즈5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "충청타임즈..."
-    },
-    {
-      "id": 34,
-      "title": "제주 교래리 습지 모니터링 결과 담은 교재 발간된다",
-      "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=587613",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5267%2F2026%2F02%2F25%2F299499.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "헤드라인제주5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "헤드라인제주..."
-    },
-    {
-      "id": 35,
-      "title": "함평군, 검역·돌발병해충 방제 농약선정심의회 개최",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241737",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5755%2F2026%2F02%2F25%2F158607.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "아시아에이5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "아시아에이..."
-    },
-    {
-      "id": 36,
-      "title": "가전 넘어 소재까지…LG전자, '기능성 신소재'에서 찾는 새 성장축",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=134036",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5618%2F2026%2F02%2F25%2F54934.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "오피니언뉴스5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "오피니언뉴스..."
-    },
-    {
-      "id": 37,
-      "title": "질병관리청, '항생제 오남용 차단' 국가적 대응 강화",
-      "link": "https://idsn.co.kr/news/view/1065590488276188",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5812%2F2026%2F02%2F25%2F123742.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일안전신문5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "매일안전신문..."
-    },
-    {
-      "id": 38,
-      "title": "식약처 비임상미래전협의체 출범",
-      "link": "https://m.skyedaily.com/news_view.html?ID=299074",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5510%2F2026%2F02%2F25%2F206329.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스카이데일리5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "스카이데일리..."
-    },
-    {
-      "id": 39,
-      "title": "식약처, '비임상미래전략협의체' 출범…비임상 규제과학 '고도화'",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700830",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5093%2F2026%2F02%2F25%2F667732.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "EBN5시간 전",
-      "date": "2026. 2. 25.",
-      "description": "EBN..."
-    },
-    {
-      "id": 40,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 동시 입점",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125878",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5779%2F2026%2F02%2F25%2F77820.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스락6시간 전",
-      "date": "2026. 2. 25.",
-      "description": "뉴스락..."
-    },
-    {
-      "id": 41,
-      "title": "경기 광주 가볼 만한 곳, 자연 속 여유를 선물하는 겨울 여행",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=127005",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F25%2F28455.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이코노미사이언스6시간 전",
-      "date": "2026. 2. 25.",
-      "description": "이코노미사이언스..."
-    },
-    {
-      "id": 42,
-      "title": "광명시, 스마트폰 대신 정원 가꾸는 ‘인생정원’ 개장",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8493396&ref=A",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F25%2F12130896.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS6시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "KBS..."
-    },
-    {
-      "id": 43,
-      "title": "한우자조금, 글로벌 영양 기준 변화 속 ‘한우’의 영양학적 가치 재조...",
-      "link": "https://www.kenews.co.kr/news/article.html?no=88939",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13286.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국농촌경제신문6시간 전",
-      "date": "2026. 2. 25.",
-      "description": "한국농촌경제신문..."
-    },
-    {
-      "id": 44,
-      "title": "한수정, 이동형 반려식물 클리닉 본격 운영",
-      "link": "http://www.lak.co.kr/news/boardview.php?id=22544",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F056%2F2025%2F03%2F07%2Flogo_056_100_20250307145641.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경6시간 전",
+      "id": 22,
+      "title": "산림청-한수정-OCI그룹, 해안 간척지 식생복원·탄소중립 모델 구축 협약",
+      "link": "http://www.lak.co.kr/news/boardview.php?id=22553",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5025%2F2024%2F05%2F30%2Flogo_5025_18_20240530163503.png&type=f54_54&expire=24&refresh=true",
+      "press": "환경과조경7시간 전",
       "date": "2026. 2. 25.",
       "description": "환경과조경..."
     },
     {
-      "id": 45,
-      "title": "농진원, 전국 91개 치유농업 시설 첫 인증",
-      "link": "http://www.bokuennews.com/news/article.html?no=274258",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F25%2F110132.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "보건뉴스6시간 전",
+      "id": 23,
+      "title": "해안 간척지에 탄소중립 모델 만든다···산림청·기업·공공기관 손잡...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=263099",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F02%2F25%2F150566.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팍스경제TV7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "팍스경제TV..."
+    },
+    {
+      "id": 24,
+      "title": "‘항생제 오남용 차단’ 캠페인...범정부 국가대응 강화!",
+      "link": "https://www.kenews.co.kr/news/article.html?no=88948",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13294.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농촌경제신문7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "한국농촌경제신문..."
+    },
+    {
+      "id": 25,
+      "title": "경북도, 경북농업의 판을 바꾼다...인공지능 대전환 원년 선포",
+      "link": "https://www.eroun.net/news/articleView.html?idxno=74188",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5738%2F2026%2F02%2F25%2F49341.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이로운넷7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "이로운넷..."
+    },
+    {
+      "id": 26,
+      "title": "신구대 식물원, '수목원전문가 교육과정' 운영",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2398583",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F25%2F1155701.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이뉴스투데이7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "이뉴스투데이..."
+    },
+    {
+      "id": 27,
+      "title": "광명시, 스마트폰 내려놓고 '자연으로' 청소년 공간 제공",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=819527",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5438%2F2026%2F02%2F25%2F432237.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한스경제7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "한스경제..."
+    },
+    {
+      "id": 28,
+      "title": "광명시, 청소년 인생정원 '자연습장' 개소식...\"다감각 자연체험 공간\"",
+      "link": "https://www.newspim.com/news/view/20260225001142",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F25%2F3105437.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스핌7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "뉴스핌..."
+    },
+    {
+      "id": 29,
+      "title": "윤준병 의원, '헴프산업 육성 및 안전관리 특별법' 대표 발의",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=415412",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F02%2F25%2F294596.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스워커7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "뉴스워커..."
+    },
+    {
+      "id": 30,
+      "title": "'시민과학 성과 한눈에'…국립세종수목원, '도시숲, 도시의 숨' 전시 개...",
+      "link": "https://www.bzeronews.com/news/articleView.html?idxno=812237",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F25%2F445917.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "공뉴스7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "공뉴스..."
+    },
+    {
+      "id": 31,
+      "title": "속리산국립공원사무소,스템코(주)와 자연환경보전 협력",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=840154",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F25%2F466881.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동양일보7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "동양일보..."
+    },
+    {
+      "id": 32,
+      "title": "이철우 \"돈되는 농업…올해 AX 원년으로\"",
+      "link": "http://www.hidomin.com/news/articleView.html?idxno=610141",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5377%2F2026%2F02%2F25%2F312823.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "경북도민일보7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "경북도민일보..."
+    },
+    {
+      "id": 33,
+      "title": "[멸종위기종의 안부를 묻다] 벌써 개구리 울음소리 들리는데...",
+      "link": "https://www.newspenguin.com/news/articleView.html?idxno=21273",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5849%2F2026%2F02%2F25%2F8711.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스펭귄7시간 전",
+      "date": "2026. 2. 25.",
+      "description": "뉴스펭귄..."
+    },
+    {
+      "id": 34,
+      "title": "산림청-수목원정원관리원-OCI그룹, 해안식물 보전 기반 협력 강화",
+      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=100381",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5367%2F2026%2F02%2F25%2F83459.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농업신문8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "한국농업신문..."
+    },
+    {
+      "id": 35,
+      "title": "[리빙 트렌드] 크린토피아, '바로옷장패키지' 전국 출시 外",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=149103",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F25%2F99041.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "베이비뉴스8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "베이비뉴스..."
+    },
+    {
+      "id": 36,
+      "title": "범정부 차원 '항생제 오남용 차단' 선포… 내성 관리 대책 강화",
+      "link": "http://www.bokuennews.com/news/article.html?no=274275",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5602%2F2024%2F05%2F31%2Flogo_5602_18_20240531135908.png&type=f54_54&expire=24&refresh=true",
+      "press": "보건뉴스8시간 전",
       "date": "2026. 2. 25.",
       "description": "보건뉴스..."
     },
     {
-      "id": 46,
-      "title": "정부, '항생제 오남용 차단' 국가적 대응 강화",
-      "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=94702",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5740%2F2026%2F02%2F25%2F36818.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "e의료정보6시간 전",
+      "id": 37,
+      "title": "경농, '퀸텍'으로 오이-참외-호박 노균병 한방에!",
+      "link": "https://www.kenews.co.kr/news/article.html?no=88944",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13292.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농촌경제신문8시간 전",
       "date": "2026. 2. 25.",
-      "description": "e의료정보..."
+      "description": "한국농촌경제신문..."
+    },
+    {
+      "id": 38,
+      "title": "日 난리난 '이 음료' 생산량 최고치 \"비싸도 소비량은 늘어\"",
+      "link": "https://www.insight.co.kr/news/544415",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5486%2F2026%2F02%2F25%2F334472.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인사이트8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "인사이트..."
+    },
+    {
+      "id": 39,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 유통 확대",
+      "link": "http://www.bokuennews.com/news/article.html?no=274271",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5602%2F2026%2F02%2F25%2F110144.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "보건뉴스8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "보건뉴스..."
+    },
+    {
+      "id": 40,
+      "title": "과수농가 지키는 첫걸음...화상병 사전예방체계 본격 가동",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=893345",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5498%2F2026%2F02%2F25%2F367331.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청타임즈8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "충청타임즈..."
+    },
+    {
+      "id": 41,
+      "title": "제주 교래리 습지 모니터링 결과 담은 교재 발간된다",
+      "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=587613",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5267%2F2026%2F02%2F25%2F299499.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "헤드라인제주8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "헤드라인제주..."
+    },
+    {
+      "id": 42,
+      "title": "함평군, 검역·돌발병해충 방제 농약선정심의회 개최",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=241737",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5755%2F2026%2F02%2F25%2F158607.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "아시아에이8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "아시아에이..."
+    },
+    {
+      "id": 43,
+      "title": "가전 넘어 소재까지…LG전자, '기능성 신소재'에서 찾는 새 성장축",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=134036",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5618%2F2026%2F02%2F25%2F54934.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "오피니언뉴스8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "오피니언뉴스..."
+    },
+    {
+      "id": 44,
+      "title": "질병관리청, '항생제 오남용 차단' 국가적 대응 강화",
+      "link": "https://idsn.co.kr/news/view/1065590488276188",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5812%2F2026%2F02%2F25%2F123742.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일안전신문8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "매일안전신문..."
+    },
+    {
+      "id": 45,
+      "title": "식약처 비임상미래전협의체 출범",
+      "link": "https://m.skyedaily.com/news_view.html?ID=299074",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5510%2F2026%2F02%2F25%2F206329.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스카이데일리8시간 전",
+      "date": "2026. 2. 25.",
+      "description": "스카이데일리..."
+    },
+    {
+      "id": 46,
+      "title": "식약처, '비임상미래전략협의체' 출범…비임상 규제과학 '고도화'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700830",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5093%2F2026%2F02%2F25%2F667732.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "EBN9시간 전",
+      "date": "2026. 2. 25.",
+      "description": "EBN..."
     },
     {
       "id": 47,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 입점",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=708269",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F25%2F443769.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울와이어6시간 전",
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 동시 입점",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=125878",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5779%2F2026%2F02%2F25%2F77820.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스락9시간 전",
       "date": "2026. 2. 25.",
-      "description": "서울와이어..."
+      "description": "뉴스락..."
     },
     {
       "id": 48,
-      "title": "스템코㈜, 속리산국립공원사무소에 자연환경보전기금 200만원 기부",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1064926",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5278%2F2026%2F02%2F25%2F590349.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청매일6시간 전",
+      "title": "경기 광주 가볼 만한 곳, 자연 속 여유를 선물하는 겨울 여행",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=127005",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F25%2F28455.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스9시간 전",
       "date": "2026. 2. 25.",
-      "description": "충청매일..."
+      "description": "이코노미사이언스..."
     },
     {
       "id": 49,
-      "title": "'항생제 적정사용 관리사업' 300병상 이상 종합병원으로 확대",
-      "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3036710",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5229%2F2026%2F02%2F25%2F116093.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "청년의사6시간 전",
+      "title": "광명시, 스마트폰 대신 정원 가꾸는 ‘인생정원’ 개장",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8493396&ref=A",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F25%2F12130896.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "KBS9시간 전네이버뉴스",
       "date": "2026. 2. 25.",
-      "description": "청년의사..."
+      "description": "KBS..."
     },
     {
       "id": 50,
-      "title": "엘가닉, 약알칼리성 식물유래성분 버블핸드워시 '캔손세정제' 출시",
-      "link": "https://www.ikunkang.com/news/articleView.html?idxno=50565",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5454%2F2026%2F02%2F25%2F15592.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "건강다이제스트6시간 전",
+      "title": "한우자조금, 글로벌 영양 기준 변화 속 ‘한우’의 영양학적 가치 재조...",
+      "link": "https://www.kenews.co.kr/news/article.html?no=88939",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5663%2F2026%2F02%2F25%2F13286.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국농촌경제신문9시간 전",
       "date": "2026. 2. 25.",
-      "description": "건강다이제스트..."
+      "description": "한국농촌경제신문..."
     }
   ]
 }

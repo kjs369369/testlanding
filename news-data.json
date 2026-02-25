@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-25T01:30:25.259Z",
-  "lastUpdatedKST": "2026. 2. 25. 오전 10:30:25",
+  "lastUpdated": "2026-02-25T04:49:46.684Z",
+  "lastUpdatedKST": "2026. 2. 25. 오후 1:49:46",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "윤종영 경기도의원, 농업생명자원 관리·보존, 이제는 산업 전락이다, ...",
-      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/02/25/20260225500064?wlog_tag3=naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F25%2F3620669.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울신문7분 전네이버뉴스",
+      "title": "광명시, 스마트폰 대신 정원 가꾸는 ‘청소년 인생정원’ 문 열어",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=885588",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5199%2F2026%2F02%2F25%2F436389.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경기신문3분 전",
       "date": "2026. 2. 25.",
-      "description": "서울신문..."
+      "description": "경기신문..."
     },
     {
       "id": 2,
-      "title": "대원제약, '라임과피추출물' 함유 수면 건기식 '꿀잠샷' 출시",
-      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301667",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F25%2F49006.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팜뉴스13분 전",
+      "title": "‘항생제 오남용 차단’ 국가적 대응 강화",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42193",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F02%2F25%2F28241.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "농기자재신문11분 전",
       "date": "2026. 2. 25.",
-      "description": "팜뉴스..."
+      "description": "농기자재신문..."
     },
     {
       "id": 3,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영 입점",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432086",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F25%2F395057.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "핀포인트뉴스13분 전",
+      "title": "대원제약, 올리브영에 수면 기능식품 꿀잠샷 입점",
+      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3083086",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F25%2F52010.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)31분 전",
       "date": "2026. 2. 25.",
-      "description": "핀포인트뉴스..."
+      "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
     {
       "id": 4,
-      "title": "대원제약, 수면건기식 '꿀잠샷' 올리브영 입점…이원화 유통 전략으로 ...",
-      "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=323725",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F02%2F25%2F201584.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "약업신문15분 전",
-      "date": "2026. 2. 25.",
-      "description": "약업신문..."
-    },
-    {
-      "id": 5,
-      "title": "닥터제이페이스, 프리미엄 알부민샷 앰플 출시",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234874",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5369%2F2026%2F02%2F25%2F168279.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시선뉴스17분 전",
-      "date": "2026. 2. 25.",
-      "description": "시선뉴스..."
-    },
-    {
-      "id": 6,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F277%2F2025%2F03%2F12%2Flogo_277_100_20250312105338.png&type=f54_54&expire=24&refresh=true",
-      "press": "아시아경제6분 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "아시아경제..."
-    },
-    {
-      "id": 7,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 동시 입점",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=108314",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F25%2F63374.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림20분 전",
-      "date": "2026. 2. 25.",
-      "description": "뉴스드림..."
-    },
-    {
-      "id": 8,
-      "title": "오세희 의원, 화훼산업법 개정안 발의…\"독성 화훼 관리·교육 강화\"",
-      "link": "https://www.newspim.com/news/view/20260225000301",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F25%2F3104659.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스핌22분 전",
-      "date": "2026. 2. 25.",
-      "description": "뉴스핌..."
-    },
-    {
-      "id": 9,
-      "title": "케이다이어트랩, 수면 루틴에 맞춘 '나잇밤' 출시",
-      "link": "http://www.hemophilia.co.kr/news/articleView.html?idxno=41067",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5504%2F2026%2F02%2F25%2F26725.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "헤모필리아라이프24분 전",
-      "date": "2026. 2. 25.",
-      "description": "헤모필리아라이프..."
-    },
-    {
-      "id": 10,
-      "title": "얼굴 인상 관리 특화 '닥터제이페이스', 프리미엄 알부민샷 앰플 출시",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3513240",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F25%2F2460232.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국제뉴스30분 전",
-      "date": "2026. 2. 25.",
-      "description": "국제뉴스..."
-    },
-    {
-      "id": 11,
-      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 입점",
-      "link": "https://www.medipana.com/news/articleView.html?idxno=407303",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F02%2F25%2F232815.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디파나뉴스46분 전",
-      "date": "2026. 2. 25.",
-      "description": "메디파나뉴스..."
-    },
-    {
-      "id": 12,
-      "title": "전국 단위의 높은 접근성을 갖춘 일반 매장과 건강 관리 특화 매장을 동시에 공략하는 이원화 유통 전략을 통해 출시 초기부터 소비자와 접점을 폭넓게... 제품의 핵심 성분은 100%",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1339415",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F25%2F766821.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리한국52분 전",
-      "date": "2026. 2. 25.",
-      "description": "데일리한국..."
-    },
-    {
-      "id": 13,
-      "title": "침대 위, 기내, 숙소 등 언제 어디서나 물 없이 곧바로 섭취할 수 있어 바쁜 일상이나 여행 중에도 하루 한 포로 쉽고 빠르게 수면 건강을 관리할 수 있다. 제품의 핵심 성분은 1",
-      "link": "https://www.newspim.com/news/view/20260225000260",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F25%2F3104622.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스핌53분 전",
-      "date": "2026. 2. 25.",
-      "description": "뉴스핌..."
-    },
-    {
-      "id": 14,
-      "title": "대원제약 ‘꿀잠샷’ 올리브영·올리브베러 동시 입점",
-      "link": "https://www.dailypharm.com/user/news/335962?REFERER=NP",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F25%2F170887.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리팜58분 전",
-      "date": "2026. 2. 25.",
-      "description": "데일리팜..."
-    },
-    {
-      "id": 15,
-      "title": "대원제약, 수면용 건기식 ‘꿀잠샷’ 올리브영·올리브베러 동시 입점",
-      "link": "http://www.fnnews.com/news/202602250926178776",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F25%2F5482385.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스1시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 16,
-      "title": "덴마크 수입 분유 '루비락 골든그램 3단계', 취약계층을 위한 기부 선행",
-      "link": "https://kids.donga.com/news/articleView.html?idxno=168204",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5557%2F2026%2F02%2F25%2F19893.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "어린이동아1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "어린이동아..."
-    },
-    {
-      "id": 17,
-      "title": "생명연, 벼 유전자 하나로 메탄 배출 24% 줄여",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=874953",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F25%2F493389.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충남일보1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "충남일보..."
-    },
-    {
-      "id": 18,
-      "title": "대원제약, 수면 건기식 '꿀잠샷' 올리브영ㆍ올리브베러 입점",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=135015",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F25%2F59177.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "메디소비자뉴스..."
-    },
-    {
-      "id": 19,
-      "title": "윤준병 의원 , '헴프산업 육성 및 안전관리 특별법' 대표 발의",
-      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=434651",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5368%2F2026%2F02%2F25%2F167852.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "전민일보1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "전민일보..."
-    },
-    {
-      "id": 20,
-      "title": "느린 노화 시대, 왜 ‘호두’가 주목받고 있을까",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587452599753",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5770%2F2026%2F02%2F25%2F75188.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "메가경제1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "메가경제..."
-    },
-    {
-      "id": 21,
-      "title": "그린몬스터, 프리미엄 단백질 쉐이크 '밀슐랭' 3종 올리브영 론칭",
-      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30050",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5872%2F2026%2F02%2F25%2F18153.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "바이오타임즈1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "바이오타임즈..."
-    },
-    {
-      "id": 22,
-      "title": "프리미엄 단백질 쉐이크 '밀슐랭', 올리브영 온라인몰 출시",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134991",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F25%2F59167.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "메디소비자뉴스..."
-    },
-    {
-      "id": 23,
-      "title": "그린몬스터, 新프리미엄 단백질 쉐이크 '밀슐랭' 3종 올리브영 출시",
-      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14583",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F02%2F25%2F9663.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "ESG경제1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "ESG경제..."
-    },
-    {
-      "id": 24,
-      "title": "식물성 오메가-3 ALA 풍부하게 함유한 유일한 견과류 심혈관·두뇌·장 건강까지…연구로 살펴본 호두의 건강 효능 일상 속 섭취 호두 베이커리, 간편한... 이는 호두가 포함된 식단",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=316266",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5633%2F2026%2F02%2F25%2F64207.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "지이코노미1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "지이코노미..."
-    },
-    {
-      "id": 25,
-      "title": "윤준병 의원, \"헴프산업 육성 및 안전관리 특별법\" 대표 발의",
-      "link": "https://www.eroun.net/news/articleView.html?idxno=74086",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5738%2F2026%2F02%2F25%2F49247.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이로운넷1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "이로운넷..."
-    },
-    {
-      "id": 26,
-      "title": "\"숲·건강·배움·나눔까지\"…충북 증평군, 체류형 관광·예방돌봄·세대...",
-      "link": "https://www.bzeronews.com/news/articleView.html?idxno=812174",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5324%2F2026%2F02%2F25%2F445859.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "공뉴스1시간 전",
-      "date": "2026. 2. 25.",
-      "description": "공뉴스..."
-    },
-    {
-      "id": 27,
-      "title": "\"유해성분 농도 낮은 대마인 '햄프'산업 육성 및 안전관리체계 마련\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431981",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5829%2F2024%2F05%2F30%2Flogo_5829_18_20240530184510.png&type=f54_54&expire=24&refresh=true",
-      "press": "핀포인트뉴스2시간 전",
-      "date": "2026. 2. 25.",
-      "description": "핀포인트뉴스..."
-    },
-    {
-      "id": 28,
-      "title": "\"식단만 바꿔도 달라진다\"… LDL 콜레스테롤 낮추는 음식 10",
-      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=59137",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5246%2F2026%2F02%2F25%2F34408.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "하이닥2시간 전",
-      "date": "2026. 2. 25.",
-      "description": "하이닥..."
-    },
-    {
-      "id": 29,
-      "title": "“건강도 스펙”…HQ 트렌드에 고단백 시장 커진다",
-      "link": "https://www.dailian.co.kr/news/view/1613316/?sc=Naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F02%2F25%2F3062611.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리안2시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "데일리안..."
-    },
-    {
-      "id": 30,
-      "title": "농림축산식품부 인사발령",
-      "link": "http://www.nongup.net/news/articleView.html?idxno=32523",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5324%2F2026%2F02%2F13%2Flogo_5324_18_20260213192227.png&type=f54_54&expire=24&refresh=true",
-      "press": "농업정보신문2시간 전",
-      "date": "2026. 2. 25.",
-      "description": "농업정보신문..."
-    },
-    {
-      "id": 31,
-      "title": "“약 없이도 가능하다?” 콜레스테롤을 낮추는 습관",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=563453&class=27&grp=",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F02%2F25%2F2378331.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보3시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "조세일보..."
-    },
-    {
-      "id": 32,
-      "title": "ESG로 '가상자산' 신뢰감 높인다...두나무의 주목받는 전략",
-      "link": "https://www.socialvalue.kr/news/view/1065600021555664",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5825%2F2026%2F02%2F25%2F46189.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "소셜밸류3시간 전",
-      "date": "2026. 2. 25.",
-      "description": "소셜밸류..."
-    },
-    {
-      "id": 33,
-      "title": "한국수목원정원관리원, '이동형 반려식물 클리닉' 본격 운영",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=694652",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F02%2F25%2F497706.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "컨슈머타임스9시간 전",
-      "date": "2026. 2. 25.",
-      "description": "컨슈머타임스..."
-    },
-    {
-      "id": 34,
-      "title": "[MBTI 오늘의 운세] 2026년 2월 25일",
-      "link": "https://www.hankookilbo.com/news/article/A2026022409470002207?did=NA",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F469%2F2026%2F02%2F25%2F916094.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국일보10시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "한국일보..."
-    },
-    {
-      "id": 35,
-      "title": "[AI Trend] AI와 만난 예술…AI로 되살아난 70년 전 박인환...글로벌 휩쓴...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00007&news_seq_no=5177830",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F057%2F2026%2F02%2F24%2F1936843.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "MBN10시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "MBN..."
-    },
-    {
-      "id": 36,
-      "title": "[여기는 원주] 원주국토청, 해빙기 건설 현장 안전 점검 외",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8492500&ref=A",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F02%2F24%2F12130263.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "KBS14시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "KBS..."
-    },
-    {
-      "id": 37,
-      "title": "국립백두대간수목원 산림복지 프로그램 '숲에서 쉬다, 숲으로 웃다' 교...",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=534879",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5581%2F2026%2F02%2F24%2F297028.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "대경일보14시간 전",
-      "date": "2026. 2. 25.",
-      "description": "대경일보..."
-    },
-    {
-      "id": 38,
-      "title": "인천수목원, 황금빛 복수초 봄의 시작 알려",
-      "link": "https://www.kmaeil.com/news/articleView.html?idxno=630880",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5764%2F2026%2F02%2F24%2F302555.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "경인매일15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "경인매일..."
-    },
-    {
-      "id": 39,
-      "title": "글로벌 영양 트렌드 '양보다 질' 중심으로 변화... 한우 영양학적 가치...",
-      "link": "https://www.farminsight.net/news/articleView.html?idxno=16011",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5666%2F2026%2F02%2F24%2F13359.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농장에서식탁까지15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "농장에서식탁까지..."
-    },
-    {
-      "id": 40,
-      "title": "AI가 읽는 제주 숲… 산림 데이터 관리 시스템 구축",
-      "link": "http://www.fnnews.com/news/202602241847338038",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F24%2F5482260.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스15시간 전네이버뉴스",
-      "date": "2026. 2. 25.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 41,
-      "title": "물 마시러 왔다가 '쿵'··· 새 잡는 유리벽",
-      "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1033258",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5599%2F2026%2F02%2F24%2F140250.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전북중앙15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "전북중앙..."
-    },
-    {
-      "id": 42,
-      "title": "멸종위기 큰고니, 제주서 구사일생…\"서식지 보전 과제\"",
-      "link": "https://www.jemin.com/news/articleView.html?idxno=833917",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5158%2F2026%2F02%2F24%2F295855.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "제민일보15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "제민일보..."
-    },
-    {
-      "id": 43,
-      "title": "충청U대회, 지역기업과 맞손…에코바이오 헤어케어 공식 후원",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1064694",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5278%2F2026%2F02%2F24%2F590179.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청매일15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "충청매일..."
-    },
-    {
-      "id": 44,
-      "title": "국립백두대간수목원, 산림복지 프로그램 '숲에서 쉬다, 숲으로 웃다' 교...",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4065271",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5098%2F2026%2F02%2F24%2F509506.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경북일보15시간 전",
-      "date": "2026. 2. 25.",
-      "description": "경북일보..."
-    },
-    {
-      "id": 45,
-      "title": "'섹슈얼 웰니스' 글로벌 60조 시장 돌파, \"금기를 벗다\"",
-      "link": "http://www.ktnews.com/news/articleView.html?idxno=144244",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5381%2F2026%2F02%2F24%2F47276.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국섬유신문16시간 전",
-      "date": "2026. 2. 25.",
-      "description": "한국섬유신문..."
-    },
-    {
-      "id": 46,
-      "title": "시니어 관찰 데이터로 제주 숲 AI 분석",
-      "link": "https://www.jemin.com/news/articleView.html?idxno=833905",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5158%2F2026%2F02%2F24%2F295843.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "제민일보16시간 전",
-      "date": "2026. 2. 25.",
-      "description": "제민일보..."
-    },
-    {
-      "id": 47,
-      "title": "충청 U대회, 헤어케어 공식 후원 협약",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2399367",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5116%2F2026%2F02%2F24%2F1037415.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청일보16시간 전",
+      "title": "과수농가 지키는 첫걸음... 화상병 사전예방체계 본격 가동",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2399493",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5116%2F2026%2F02%2F25%2F1037539.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청일보47분 전",
       "date": "2026. 2. 25.",
       "description": "충청일보..."
     },
     {
-      "id": 48,
-      "title": "마리브 후코뮤신 이너뷰티 라인, '후코 콜라겐 글로우핏 젤리 스틱' 예약...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=126499",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F24%2F95241.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드16시간 전",
+      "id": 5,
+      "title": "사람·동식물·식품·환경 통합관리로 ‘항생제 오남용 차단’",
+      "link": "https://www.naeil.com/news/read/579118?ref=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5199%2F2024%2F05%2F31%2Flogo_5199_18_20240531135236.png&type=f54_54&expire=24&refresh=true",
+      "press": "내일신문47분 전",
       "date": "2026. 2. 25.",
-      "description": "비즈월드..."
+      "description": "내일신문..."
+    },
+    {
+      "id": 6,
+      "title": "경농 ‘퀸텍’, 예방과 치료를 동시에! 한 번에!",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42185",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5720%2F2026%2F02%2F25%2F28238.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "농기자재신문55분 전",
+      "date": "2026. 2. 25.",
+      "description": "농기자재신문..."
+    },
+    {
+      "id": 7,
+      "title": "광명시, 청소년 다감각 자연체험 공간 '자연습장' 개소",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1233568",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5844%2F2026%2F02%2F25%2F308054.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "전국매일신문1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "전국매일신문..."
+    },
+    {
+      "id": 8,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5199%2F2024%2F05%2F31%2Flogo_5199_18_20240531135236.png&type=f54_54&expire=24&refresh=true",
+      "press": "경기신문3분 전",
+      "date": "2026. 2. 25.",
+      "description": "경기신문..."
+    },
+    {
+      "id": 9,
+      "title": "정부, '항생제 오남용 차단' 국가적 대응 강화...사용 최적화 등 추진",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=135045",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F25%2F59208.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "메디소비자뉴스..."
+    },
+    {
+      "id": 10,
+      "title": "대원제약 수면케어 건기식 '꿀잠샷', 올리브영·올리브베러 온·오프 동...",
+      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316344",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5554%2F2026%2F02%2F25%2F61679.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "업다운뉴스1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "업다운뉴스..."
+    },
+    {
+      "id": 11,
+      "title": "[도시농부이야기] 우수, 얼어붙은 대지를 녹이는 생명의 전령",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=315698",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5688%2F2026%2F02%2F25%2F55193.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인천투데이1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "인천투데이..."
+    },
+    {
+      "id": 12,
+      "title": "\"ASP 전면 확대\"…약사, 항생제 내성 대응 핵심 파트너로 부상",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529970",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F25%2F113519.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "약사공론1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "약사공론..."
+    },
+    {
+      "id": 13,
+      "title": "뜻밖의 '저탄수·고단백 식품' 7가지… 닭가슴살 말고 이런 음식도",
+      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=59135",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5246%2F2026%2F02%2F25%2F34412.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "하이닥1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "하이닥..."
+    },
+    {
+      "id": 14,
+      "title": "OECD 1.6배 '항생제 오남용'… 7개 부처 합동 5년 관리대책 가동",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301676",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F25%2F49014.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 15,
+      "title": "\"항생제 오남용 차단\"…범부처, 국가대응 강화",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=934141",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5125%2F2026%2F02%2F25%2F151844.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리메디1시간 전",
+      "date": "2026. 2. 25.",
+      "description": "데일리메디..."
+    },
+    {
+      "id": 16,
+      "title": "농촌진흥청, 이달의 신간",
+      "link": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=63845",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5789%2F2026%2F02%2F25%2F15644.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "원예산업신문2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "원예산업신문..."
+    },
+    {
+      "id": 17,
+      "title": "농진원, 치유농업 '표준화' 시동",
+      "link": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=63833",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5789%2F2026%2F02%2F25%2F15656.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "원예산업신문2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "원예산업신문..."
+    },
+    {
+      "id": 18,
+      "title": "대원헬스 '꿀잠샷', 전국 올리브영 매장 입점",
+      "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=206304",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5466%2F2026%2F02%2F25%2F66493.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "백세시대2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "백세시대..."
+    },
+    {
+      "id": 19,
+      "title": "제15회 한국 난 산업박람회, 오는 28일 김천서 개최",
+      "link": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=63849",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5789%2F2026%2F02%2F25%2F15640.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "원예산업신문2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "원예산업신문..."
+    },
+    {
+      "id": 20,
+      "title": "[위클리오늘] 대원제약, 수면 건기식 '꿀잠샷' 올리브영·올리브베러 동...",
+      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=761222",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5294%2F2026%2F02%2F25%2F446347.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "위클리오늘2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "위클리오늘..."
+    },
+    {
+      "id": 21,
+      "title": "국내 항생제 사용량, OECD 1.6배…항생제 오남용 '총력 대응'",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3535793&seq_800=20528659",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5233%2F2024%2F05%2F31%2Flogo_5233_18_20240531135707.png&type=f54_54&expire=24&refresh=true",
+      "press": "TBS2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "TBS..."
+    },
+    {
+      "id": 22,
+      "title": "항생제 덜 쓰고, 깐깐하게 쓰고…병원 내 '적정사용 관리' 확대",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74125",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5911%2F2026%2F02%2F25%2F24517.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "히트뉴스2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "히트뉴스..."
+    },
+    {
+      "id": 23,
+      "title": "보령시, 과수농가 지키는 첫걸음... 화상병 사전예방체계 본격 가동",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=875037",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F25%2F493466.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충남일보2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "충남일보..."
+    },
+    {
+      "id": 24,
+      "title": "과테말라, 한-중미 FTA 발효 ‘최종 단계', 관세철폐 수혜품목·비즈니스...",
+      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=238944",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5630%2F2024%2F05%2F31%2Flogo_5630_18_20240531140142.png&type=f54_54&expire=24&refresh=true",
+      "press": "KOTRA해외시장뉴스2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "KOTRA해외시장뉴스..."
+    },
+    {
+      "id": 25,
+      "title": "대원제약, 수면용 건기식 ‘꿀잠샷’ 올리브영·올리브베러 입점",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03975366645354128",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F018%2F2026%2F02%2F25%2F6224284.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이데일리2시간 전네이버뉴스",
+      "date": "2026. 2. 25.",
+      "description": "이데일리..."
+    },
+    {
+      "id": 26,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영&올리브베러 동시 입점",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=126908",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5550%2F2026%2F02%2F25%2F28363.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이코노미사이언스2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "이코노미사이언스..."
+    },
+    {
+      "id": 27,
+      "title": "생명연, 온실가스 감축 전략 제시",
+      "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=402234",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F02%2F25%2F251285.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청뉴스2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "충청뉴스..."
+    },
+    {
+      "id": 28,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 동시 입점",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=124978",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5489%2F2026%2F02%2F25%2F92359.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "직썰2시간 전",
+      "date": "2026. 2. 25.",
+      "description": "직썰..."
+    },
+    {
+      "id": 29,
+      "title": "침대 위, 기내, 숙소 등 언제 어디서나 물 없이 곧바로 섭취할 수 있어 바쁜 일상이나 여행 중에도 하루 한 포로 쉽고 빠르게 수면 건강을 관리할 수 있다. 제품의 핵심 성분은 1",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1340253",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F02%2F25%2F845562.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "매일일보3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "매일일보..."
+    },
+    {
+      "id": 30,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 첫 진출",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2398111",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F25%2F1155405.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "이뉴스투데이3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "이뉴스투데이..."
+    },
+    {
+      "id": 31,
+      "title": "닥터제이페이스, 고기능성 알부민샷 앰플 선보여… \"얼굴 인상 관리 특...",
+      "link": "https://www.livesnews.com/news/article.html?no=59769",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5811%2F2026%2F02%2F25%2F27833.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "라이브뉴스3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "라이브뉴스..."
+    },
+    {
+      "id": 32,
+      "title": "윤준병 의원, '헴프산업 육성ㆍ안전관리 특별법' 발의",
+      "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=117389",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5595%2F2026%2F02%2F25%2F30296.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "식품저널 foodnews3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "식품저널 foodnews..."
+    },
+    {
+      "id": 33,
+      "title": "윤종영 경기도의원, 농업생명자원 관리·보존, 이제는 산업 전락이다, ...",
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/02/25/20260225500064?wlog_tag3=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F25%2F3620669.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울신문3시간 전네이버뉴스",
+      "date": "2026. 2. 25.",
+      "description": "서울신문..."
+    },
+    {
+      "id": 34,
+      "title": "대원제약, '라임과피추출물' 함유 수면 건기식 '꿀잠샷' 출시",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301667",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F25%2F49006.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 35,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영 입점",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432086",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F25%2F395057.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "핀포인트뉴스3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "핀포인트뉴스..."
+    },
+    {
+      "id": 36,
+      "title": "대원제약, 수면건기식 '꿀잠샷' 올리브영 입점…이원화 유통 전략으로 ...",
+      "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=323725",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5100%2F2026%2F02%2F25%2F201584.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "약업신문3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "약업신문..."
+    },
+    {
+      "id": 37,
+      "title": "닥터제이페이스, 프리미엄 알부민샷 앰플 출시",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=234874",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5369%2F2026%2F02%2F25%2F168279.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시선뉴스3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "시선뉴스..."
+    },
+    {
+      "id": 38,
+      "title": "오세희 의원, 화훼산업법 개정안 발의…\"독성 화훼 관리·교육 강화\"",
+      "link": "https://www.newspim.com/news/view/20260225000301",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F25%2F3104659.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스핌3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "뉴스핌..."
+    },
+    {
+      "id": 39,
+      "title": "케이다이어트랩, 수면 루틴에 맞춘 '나잇밤' 출시",
+      "link": "http://www.hemophilia.co.kr/news/articleView.html?idxno=41067",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5504%2F2026%2F02%2F25%2F26725.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "헤모필리아라이프3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "헤모필리아라이프..."
+    },
+    {
+      "id": 40,
+      "title": "얼굴 인상 관리 특화 '닥터제이페이스', 프리미엄 알부민샷 앰플 출시",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3513240",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F25%2F2460232.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스3시간 전",
+      "date": "2026. 2. 25.",
+      "description": "국제뉴스..."
+    },
+    {
+      "id": 41,
+      "title": "대원제약, 수면용 건기식 '꿀잠샷' 올리브영·올리브베러 입점",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=407303",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F02%2F25%2F232815.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디파나뉴스4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "메디파나뉴스..."
+    },
+    {
+      "id": 42,
+      "title": "전국 단위의 높은 접근성을 갖춘 일반 매장과 건강 관리 특화 매장을 동시에 공략하는 이원화 유통 전략을 통해 출시 초기부터 소비자와 접점을 폭넓게... 제품의 핵심 성분은 100%",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1339415",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F25%2F766821.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리한국4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "데일리한국..."
+    },
+    {
+      "id": 43,
+      "title": "대원제약 ‘꿀잠샷’ 올리브영·올리브베러 동시 입점",
+      "link": "https://www.dailypharm.com/user/news/335962?REFERER=NP",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F25%2F170887.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리팜4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "데일리팜..."
+    },
+    {
+      "id": 44,
+      "title": "대원제약, 수면용 건기식 ‘꿀잠샷’ 올리브영·올리브베러 동시 입점",
+      "link": "http://www.fnnews.com/news/202602250926178776",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F25%2F5482385.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스4시간 전네이버뉴스",
+      "date": "2026. 2. 25.",
+      "description": "파이낸셜뉴스..."
+    },
+    {
+      "id": 45,
+      "title": "덴마크 수입 분유 '루비락 골든그램 3단계', 취약계층을 위한 기부 선행",
+      "link": "https://kids.donga.com/news/articleView.html?idxno=168204",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5557%2F2026%2F02%2F25%2F19893.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "어린이동아4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "어린이동아..."
+    },
+    {
+      "id": 46,
+      "title": "생명연, 벼 유전자 하나로 메탄 배출 24% 줄여",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=874953",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5347%2F2026%2F02%2F25%2F493389.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충남일보4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "충남일보..."
+    },
+    {
+      "id": 47,
+      "title": "대원제약, 수면 건기식 '꿀잠샷' 올리브영ㆍ올리브베러 입점",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=135015",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F25%2F59177.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "메디소비자뉴스..."
+    },
+    {
+      "id": 48,
+      "title": "윤준병 의원 , '헴프산업 육성 및 안전관리 특별법' 대표 발의",
+      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=434651",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5368%2F2026%2F02%2F25%2F167852.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "전민일보4시간 전",
+      "date": "2026. 2. 25.",
+      "description": "전민일보..."
     },
     {
       "id": 49,
-      "title": "인천수목원, 황금빛 '복수초' 개화로 봄의 시작 알려",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=126409",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5813%2F2026%2F02%2F24%2F95239.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "비즈월드17시간 전",
+      "title": "그린몬스터, 新프리미엄 단백질 쉐이크 '밀슐랭' 3종 올리브영 출시",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=14583",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5913%2F2026%2F02%2F25%2F9663.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "ESG경제4시간 전",
       "date": "2026. 2. 25.",
-      "description": "비즈월드..."
+      "description": "ESG경제..."
     },
     {
       "id": 50,
-      "title": "인천수목원, 황금빛 복수초 개화로 봄의 시작 알려",
-      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280632903407",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5055%2F2024%2F05%2F30%2Flogo_5055_18_20240530163640.png&type=f54_54&expire=24&refresh=true",
-      "press": "시민일보17시간 전",
+      "title": "프리미엄 단백질 쉐이크 '밀슐랭', 올리브영 온라인몰 출시",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=134991",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F25%2F59167.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스4시간 전",
       "date": "2026. 2. 25.",
-      "description": "시민일보..."
+      "description": "메디소비자뉴스..."
     }
   ]
 }

@@ -1,459 +1,459 @@
 {
-  "lastUpdated": "2026-02-27T01:24:25.893Z",
-  "lastUpdatedKST": "2026. 2. 27. 오전 10:24:25",
+  "lastUpdated": "2026-02-27T04:42:56.871Z",
+  "lastUpdatedKST": "2026. 2. 27. 오후 1:42:56",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
-      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입∙판매 계약",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432828",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F02%2F27%2F395614.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "핀포인트뉴스1분 전",
+      "title": "남산·한강이 예식장으로… 서울 결혼지원 확대",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=96876",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5516%2F2026%2F02%2F27%2F51703.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "데일리팝6분 전",
       "date": "2026. 2. 27.",
-      "description": "핀포인트뉴스..."
+      "description": "데일리팝..."
     },
     {
       "id": 2,
-      "title": "휴메딕스, 창상피복재 '아르케' 도입∙판매 계약",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340770",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F27%2F767815.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리한국3분 전",
+      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입∙판매 계약",
+      "link": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=94750",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5243%2F2024%2F05%2F31%2Flogo_5243_18_20240531135828.png&type=f54_54&expire=24&refresh=true",
+      "press": "e의료정보8분 전",
+      "date": "2026. 2. 27.",
+      "description": "e의료정보..."
+    },
+    {
+      "id": 3,
+      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입·판매 계약",
+      "link": "https://www.pressman.kr/news/articleView.html?idxno=100501",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5681%2F2026%2F02%2F27%2F68285.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "프레스맨20분 전",
+      "date": "2026. 2. 27.",
+      "description": "프레스맨..."
+    },
+    {
+      "id": 4,
+      "title": "금번 계약을 통해 유통망을 전국 단위로 확대하고 제품 공급과 관리 체계를 확립하겠다는 목표다. 아르케는 식물 유래 저분자 수용성 키토산 원료의 특성을 적용한 창상피복재로 피부 장벽",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=92511",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5854%2F2026%2F02%2F27%2F53696.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시사캐스트20분 전",
+      "date": "2026. 2. 27.",
+      "description": "시사캐스트..."
+    },
+    {
+      "id": 5,
+      "title": "조달청, 23개 건설현장 해빙기 안전점검 실시",
+      "link": "https://www.koscaj.com/news/articleView.html?idxno=322573",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5465%2F2026%2F02%2F27%2F31906.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "대한전문건설신문24분 전",
+      "date": "2026. 2. 27.",
+      "description": "대한전문건설신문..."
+    },
+    {
+      "id": 6,
+      "title": "백두대간수목원, 25년 식물종자 품질관리 정보 2천여건 달성",
+      "link": "http://amenews.kr/news/view.php?idx=65877",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5644%2F2026%2F02%2F27%2F28676.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "신소재경제신문38분 전",
+      "date": "2026. 2. 27.",
+      "description": "신소재경제신문..."
+    },
+    {
+      "id": 7,
+      "title": "휴메딕스, 도움주식회사와 창상피복재 아르케 독점판매 계약",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7152146",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5723%2F2026%2F02%2F27%2F46991.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "주간한국46분 전",
+      "date": "2026. 2. 27.",
+      "description": "주간한국..."
+    },
+    {
+      "id": 8,
+      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
+      "link": "https://help.naver.com/alias/news/news_21.naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5243%2F2024%2F05%2F31%2Flogo_5243_18_20240531135828.png&type=f54_54&expire=24&refresh=true",
+      "press": "CEO스코어데일리4분 전",
+      "date": "2026. 2. 27.",
+      "description": "CEO스코어데일리..."
+    },
+    {
+      "id": 9,
+      "title": "부산 동구, 생활권 정원 조성 확대",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340818",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F27%2F767944.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리한국50분 전",
       "date": "2026. 2. 27.",
       "description": "데일리한국..."
     },
     {
-      "id": 3,
-      "title": "여성 밸런스 영양제 루나시톨, 6차분 매진...수요 증가로 추가 생산 착수",
-      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3084101",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F27%2F52301.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)3분 전",
-      "date": "2026. 2. 27.",
-      "description": "퍼블릭뉴스통신(public news-network for TTL)..."
-    },
-    {
-      "id": 4,
-      "title": "휴메딕스, 차세대 창상피복재 '아르케' 독점 도입…에스테틱 포트폴리오...",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=530103",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F27%2F113594.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "약사공론5분 전",
-      "date": "2026. 2. 27.",
-      "description": "약사공론..."
-    },
-    {
-      "id": 5,
-      "title": "국립백두대간수목원 시드뱅크, 야생식물종자 정보 2128건 구축",
-      "link": "http://www.fnnews.com/news/202602270955172572",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F27%2F5483866.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "파이낸셜뉴스10분 전네이버뉴스",
-      "date": "2026. 2. 27.",
-      "description": "파이낸셜뉴스..."
-    },
-    {
-      "id": 6,
-      "title": "금번 계약을 통해 유통망을 전국 단위로 확대하고 제품 공급과 관리 체계를 확립하겠다는 목표다. 아르케는 식물 유래 저분자 수용성 키토산 원료의 특성을 적용한 창상피복재로 피부 장벽",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=108598",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5896%2F2026%2F02%2F27%2F63648.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스드림11분 전",
-      "date": "2026. 2. 27.",
-      "description": "뉴스드림..."
-    },
-    {
-      "id": 7,
-      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입ㆍ독점 판매",
-      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=135167",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F27%2F59321.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "메디소비자뉴스13분 전",
-      "date": "2026. 2. 27.",
-      "description": "메디소비자뉴스..."
-    },
-    {
-      "id": 8,
-      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입·판매 계약",
-      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241873",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5517%2F2026%2F02%2F27%2F143243.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인사이트코리아13분 전",
-      "date": "2026. 2. 27.",
-      "description": "인사이트코리아..."
-    },
-    {
-      "id": 9,
-      "title": "관악구, '힐링 가드너' 운영 체계 전격 고도화",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3515612",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F27%2F2462164.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국제뉴스13분 전",
-      "date": "2026. 2. 27.",
-      "description": "국제뉴스..."
-    },
-    {
       "id": 10,
-      "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
-      "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5829%2F2024%2F05%2F30%2Flogo_5829_18_20240530184510.png&type=f54_54&expire=24&refresh=true",
-      "press": "핀포인트뉴스1분 전",
+      "title": "휴메딕스는 이번 계약을 통해 유통망을 전국 단위로 확대하고 제품 공급과 관리 체계를 확립하겠다는 목표다. 아르케는 식물 유래 저분자 수용성 키토산 원료의 특성을 적용한 창상피복재로",
+      "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3036798",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5229%2F2026%2F02%2F27%2F116170.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "청년의사54분 전",
       "date": "2026. 2. 27.",
-      "description": "핀포인트뉴스..."
+      "description": "청년의사..."
     },
     {
       "id": 11,
-      "title": "삼육대, 김용선·송창호·김낙철·류병열·김경남 교수 정년퇴임",
-      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120491",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5693%2F2026%2F02%2F27%2F102302.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스마트경제22분 전",
+      "title": "국립백두대간수목원, 야생식물종자 품질관리 정보 2천여 건 달성",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4069293",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5019%2F2026%2F02%2F27%2F475890.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "BBS NEWS1시간 전",
       "date": "2026. 2. 27.",
-      "description": "스마트경제..."
+      "description": "BBS NEWS..."
     },
     {
       "id": 12,
-      "title": "시민들에게 식물과 정원 가꾸기에 대한 이론과 실습 과정을 제공하고, 계절별 화단 조성 및 관리 등 심화 교육으로 체계적인 녹색 체험 기회를 마련했다. 이를 통해 시민 주도의 녹화 ",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=113460",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F02%2F27%2F75926.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "팝콘뉴스54분 전",
+      "title": "계룡시, '2026 반려식물 돌봄센터' 3월부터 운영",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1340890",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5358%2F2026%2F02%2F27%2F767917.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리한국1시간 전",
       "date": "2026. 2. 27.",
-      "description": "팝콘뉴스..."
+      "description": "데일리한국..."
     },
     {
       "id": 13,
-      "title": "[수원시 소식] 유해화학물질-화학사고 대응계획 수립·1인가구 지원부서...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832450",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F02%2F27%2F424397.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스웍스56분 전",
+      "title": "2026년 대구농업인대학 '양봉과정' 교육생 모집",
+      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=208822",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5820%2F2026%2F02%2F27%2F168616.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "잡포스트1시간 전",
       "date": "2026. 2. 27.",
-      "description": "뉴스웍스..."
+      "description": "잡포스트..."
     },
     {
       "id": 14,
-      "title": "삼육대, 김용선/송창호/김낙철/류병열/김경남 교수 정년퇴임",
-      "link": "http://www.veritas-a.com/news/articleView.html?idxno=599789",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5258%2F2026%2F02%2F27%2F387331.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "베리타스알파1시간 전",
-      "date": "2026. 2. 27.",
-      "description": "베리타스알파..."
-    },
-    {
-      "id": 15,
-      "title": "내달 3일 '양산의 금정산' 국립공원으로 정식 지정",
-      "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=123157",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5904%2F2026%2F02%2F27%2F7746.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "양산신문1시간 전",
-      "date": "2026. 2. 27.",
-      "description": "양산신문..."
-    },
-    {
-      "id": 16,
-      "title": "대전시, 2026년 시민정원사 양성과정 교육생 30명 모집",
-      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2196832",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5364%2F2026%2F02%2F27%2F1163462.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "신아일보1시간 전",
-      "date": "2026. 2. 27.",
-      "description": "신아일보..."
-    },
-    {
-      "id": 17,
-      "title": "그린알로에, '2026 소비자선정 최고의 브랜드 대상' 9년 연속 선정",
-      "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401604",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5204%2F2026%2F02%2F27%2F8008.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "포브스코리아1시간 전",
-      "date": "2026. 2. 27.",
-      "description": "포브스코리아..."
-    },
-    {
-      "id": 18,
-      "title": "대전시, 시민정원사 30명 선발",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2400059",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5116%2F2026%2F02%2F27%2F1037981.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청일보1시간 전",
-      "date": "2026. 2. 27.",
-      "description": "충청일보..."
-    },
-    {
-      "id": 19,
-      "title": "[2026 소비자 선정 최고의 브랜드 대상] 잘론네츄럴",
-      "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401505",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5204%2F2026%2F02%2F27%2F7882.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "포브스코리아2시간 전",
-      "date": "2026. 2. 27.",
-      "description": "포브스코리아..."
-    },
-    {
-      "id": 20,
-      "title": "그린알로에, ‘2026 소비자선정 최고의 브랜드 대상’ 알로에건강기능식...",
-      "link": "https://www.seoul.co.kr/news/economy/2026/02/26/20260226500154?wlog_tag3=naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F27%2F3621386.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "서울신문2시간 전네이버뉴스",
-      "date": "2026. 2. 27.",
-      "description": "서울신문..."
-    },
-    {
-      "id": 21,
-      "title": "국민 3명 중 1명 '식물 집사'…반려식물 키우기 열풍",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5177073",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F057%2F2026%2F02%2F27%2F1937292.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "MBN2시간 전네이버뉴스",
-      "date": "2026. 2. 27.",
-      "description": "MBN..."
-    },
-    {
-      "id": 22,
-      "title": "신천지자원봉사단 강서지부, 6·25 참전용사에 '다다익선' 식물 나눔",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=591644",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5721%2F2026%2F02%2F27%2F157053.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "오늘경제2시간 전",
-      "date": "2026. 2. 27.",
-      "description": "오늘경제..."
-    },
-    {
-      "id": 23,
-      "title": "이렇게 아름다운 도서관 이름이 그저 '경기도서관'이라니...",
-      "link": "https://www.newsverse.kr/news/articleView.html?idxno=9689",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5897%2F2026%2F02%2F27%2F5051.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "뉴스버스2시간 전",
-      "date": "2026. 2. 27.",
-      "description": "뉴스버스..."
-    },
-    {
-      "id": 24,
-      "title": "청주시, '반려식물병원' 3월 3일 재개…맞춤 진단·치료 3개월간 운영",
-      "link": "https://www.eroun.net/news/articleView.html?idxno=74337",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5738%2F2026%2F02%2F27%2F49463.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "이로운넷3시간 전",
-      "date": "2026. 2. 27.",
-      "description": "이로운넷..."
-    },
-    {
-      "id": 25,
-      "title": "지방간·만성피로까지…항산화·AMPK 활성화되는 이 성분",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529829",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F27%2F113575.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "약사공론4시간 전",
-      "date": "2026. 2. 27.",
-      "description": "약사공론..."
-    },
-    {
-      "id": 26,
-      "title": "동해시민 대상 '가드너 양성교육' 운영",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2036153",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F654%2F2025%2F04%2F03%2Flogo_654_100_20250403123318.png&type=f54_54&expire=24&refresh=true",
-      "press": "강원도민일보15면 1단10시간 전네이버뉴스",
-      "date": "2026. 2. 27.",
-      "description": "강원도민일보..."
-    },
-    {
-      "id": 27,
-      "title": "한국농업기술진흥원, 치유농업시설 인증…체험 넘어 보건·복지 연계 산...",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=428977",
-      "thumbnail": "/logo.png",
-      "press": "이코노뉴스12시간 전",
-      "date": "2026. 2. 27.",
-      "description": "이코노뉴스..."
-    },
-    {
-      "id": 28,
-      "title": "동해시, 시민 대상 '가드너 양성교육' 실시",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3515372",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F26%2F2461940.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국제뉴스13시간 전",
-      "date": "2026. 2. 27.",
-      "description": "국제뉴스..."
-    },
-    {
-      "id": 29,
-      "title": "아이소이, 킥플립 계훈 모델 발탁… 트러블 흔적세럼 캠페인 공개",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=295667",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5787%2F2026%2F02%2F26%2F169010.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼블릭14시간 전",
-      "date": "2026. 2. 27.",
-      "description": "더퍼블릭..."
-    },
-    {
-      "id": 30,
-      "title": "[푸드 트렌드] 돌코리아, 봄 시즌 '밖슐랭' 트렌드 겨냥 이색 과일 레시...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=149129",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F02%2F26%2F99084.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스15시간 전",
-      "date": "2026. 2. 27.",
-      "description": "베이비뉴스..."
-    },
-    {
-      "id": 31,
-      "title": "한국의 생태이야기/숲의 숨은 권력자 누리장나무가 호랑나비를 지배하...",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=840194",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F26%2F467063.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "동양일보16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "동양일보..."
-    },
-    {
-      "id": 32,
-      "title": "4년의 기적…양산 원동습지, 멸종위기 '서울개발나물' 7.7배 늘었다",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=840352",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F02%2F26%2F467062.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동양일보16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "동양일보..."
-    },
-    {
-      "id": 33,
-      "title": "\"우리 집에도 작은 정원\"… 동해시, 7주 과정 시민 가드너 양성교육 운...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3379230",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F02%2F26%2F1159409.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "천지일보..."
-    },
-    {
-      "id": 34,
-      "title": "'건강 히어로' 요요가 반복되는 이유 공개",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3515219",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F26%2F2461806.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "국제뉴스16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "국제뉴스..."
-    },
-    {
-      "id": 35,
-      "title": "봉사자들은 식물 관리 방법을 안내하고 안부를 묻는 등 정서적 교류에도 힘썼다. 6·25 참전유공자회 강서지부 김병옥 회장은 \"잊지 않고 찾아줘 고맙다\"며 \"전쟁을 겪은 세대로서 평",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=294397",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5679%2F2026%2F02%2F26%2F259553.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "포인트데일리16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "포인트데일리..."
-    },
-    {
-      "id": 36,
-      "title": "안전로 사람들 시즌2 (2)최동환 한국전기안전공사 전북본부장",
-      "link": "https://www.electimes.com/news/articleView.html?idxno=365471",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5235%2F2026%2F02%2F26%2F167231.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "전기신문16시간 전",
-      "date": "2026. 2. 27.",
-      "description": "전기신문..."
-    },
-    {
-      "id": 37,
-      "title": "[사이언스게시판] 과기정통부, 딥테크 창업 지원 특구펀드 신규 조성 外",
-      "link": "https://www.dongascience.com/news/view/76547",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F584%2F2026%2F02%2F26%2F36540.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아사이언스16시간 전네이버뉴스",
-      "date": "2026. 2. 27.",
-      "description": "동아사이언스..."
-    },
-    {
-      "id": 38,
-      "title": "[업체 소식] 노균병 전문약 '퀸텍'",
-      "link": "http://www.ikpnews.net/news/articleView.html?idxno=69683",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5414%2F2026%2F02%2F26%2F27802.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "한국농정신문17시간 전",
-      "date": "2026. 2. 27.",
-      "description": "한국농정신문..."
-    },
-    {
-      "id": 39,
-      "title": "증평 가볼 만한 곳 추천, 조용히 쉬어가기 좋은 여행지",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=525595",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F26%2F377761.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "스타데일리뉴스17시간 전",
+      "title": "아이와 함께 찾는 양산 가볼 만한 곳 추천 코스",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=525708",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5401%2F2026%2F02%2F27%2F377857.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스타데일리뉴스1시간 전",
       "date": "2026. 2. 27.",
       "description": "스타데일리뉴스..."
     },
     {
-      "id": 40,
-      "title": "진주시, 도시-농촌 상생발전 '농정시책' 펼친다",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=537102",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5714%2F2026%2F02%2F26%2F182181.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스경남17시간 전",
+      "id": 15,
+      "title": "화순군, '춘란 재배온실 사용자 대상' 간담회 실시",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=415708",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5521%2F2026%2F02%2F27%2F294845.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스워커1시간 전",
       "date": "2026. 2. 27.",
-      "description": "뉴스경남..."
+      "description": "뉴스워커..."
+    },
+    {
+      "id": 16,
+      "title": "국립백두대간수목원 시드뱅크, 2025년 야생식물종자 품질관리 정보 2128...",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=535229",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5581%2F2026%2F02%2F27%2F297384.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "대경일보2시간 전",
+      "date": "2026. 2. 27.",
+      "description": "대경일보..."
+    },
+    {
+      "id": 17,
+      "title": "2026년 한국 기업이 알아야 할 스위스 7대 주요 제도 변화: 출입국부터 ...",
+      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=239167",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F003%2F2025%2F03%2F07%2Flogo_003_100_20250307145615.png&type=f54_54&expire=24&refresh=true",
+      "press": "KOTRA해외시장뉴스2시간 전",
+      "date": "2026. 2. 27.",
+      "description": "KOTRA해외시장뉴스..."
+    },
+    {
+      "id": 18,
+      "title": "휴메딕스, 차세대 창상피복재 '아르케' 판권 도입",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=407475",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5126%2F2026%2F02%2F27%2F232971.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디파나뉴스2시간 전",
+      "date": "2026. 2. 27.",
+      "description": "메디파나뉴스..."
+    },
+    {
+      "id": 19,
+      "title": "휴메딕스, 창상피복재 '아르케' 독점 판매 계약",
+      "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2270799",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5376%2F2026%2F02%2F27%2F213510.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "의학신문3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "의학신문..."
+    },
+    {
+      "id": 20,
+      "title": "휴메딕스, 창상피복재 '아르케' 국내 독점 판매 계약 체결",
+      "link": "https://www.pharmnews.com/news/articleView.html?idxno=301742",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5828%2F2026%2F02%2F27%2F49076.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "팜뉴스3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "팜뉴스..."
+    },
+    {
+      "id": 21,
+      "title": "삼육대, 김용선·송창호·김낙철·류병열·김경남 교수 정년퇴임 훈",
+      "link": "http://www.kyosu.net/news/articleView.html?idxno=158898",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5150%2F2026%2F02%2F27%2F112375.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "교수신문3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "교수신문..."
+    },
+    {
+      "id": 22,
+      "title": "휴메딕스, ﻿차세대 창상피복재 '아르케' 도입·판매 계약",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=294462",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5679%2F2026%2F02%2F27%2F259609.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "포인트데일리3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "포인트데일리..."
+    },
+    {
+      "id": 23,
+      "title": "휴메딕스, 도움과 창상피복재 판매 계약 체결",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=309326",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5520%2F2026%2F02%2F27%2F105997.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "월요신문3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "월요신문..."
+    },
+    {
+      "id": 24,
+      "title": "휴메딕스, 차세대 창상피복재 ‘아르케’ 도입∙판매 계약",
+      "link": "https://www.dailypharm.com/user/news/336065?REFERER=NP",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5190%2F2026%2F02%2F27%2F170993.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "데일리팜3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "데일리팜..."
+    },
+    {
+      "id": 25,
+      "title": "쌀, 옥수수 생산 때문에 숲이 사라진다고? [사이언스 브런치]",
+      "link": "https://www.seoul.co.kr/news/plan/science-diverse-story/2026/02/27/20260227500023?wlog_tag3=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F27%2F3621463.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울신문3시간 전네이버뉴스",
+      "date": "2026. 2. 27.",
+      "description": "서울신문..."
+    },
+    {
+      "id": 26,
+      "title": "이번 계약을 통해 유통망을 전국 단위로 확대하고 제품 공급과 관리 체계를 확립하겠다는 목표다. 아르케는 식물 유래 저분자 수용성 키토산 원료의 특성을 적용한 창상피복재로 피부 장벽",
+      "link": "https://www.newspim.com/news/view/20260227000323",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F02%2F27%2F3107218.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스핌3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "뉴스핌..."
+    },
+    {
+      "id": 27,
+      "title": "휴메딕스, 창상피복재 '아르케' 도입∙판매 계약",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=708740",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5526%2F2026%2F02%2F27%2F444167.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울와이어3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "서울와이어..."
+    },
+    {
+      "id": 28,
+      "title": "휴메딕스, 창상피복재 '아르케' 국내 독점 유통",
+      "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74207",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5911%2F2026%2F02%2F27%2F24587.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "히트뉴스3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "히트뉴스..."
+    },
+    {
+      "id": 29,
+      "title": "여성 밸런스 영양제 루나시톨, 6차분 매진...수요 증가로 추가 생산 착수",
+      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3084101",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F02%2F27%2F52301.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "퍼블릭뉴스통신(public news-network for TTL)..."
+    },
+    {
+      "id": 30,
+      "title": "휴메딕스, 차세대 창상피복재 '아르케' 독점 도입…에스테틱 포트폴리오...",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=530103",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F27%2F113594.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "약사공론3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "약사공론..."
+    },
+    {
+      "id": 31,
+      "title": "국립백두대간수목원 시드뱅크, 야생식물종자 정보 2128건 구축",
+      "link": "http://www.fnnews.com/news/202602270955172572",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F014%2F2026%2F02%2F27%2F5483866.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "파이낸셜뉴스3시간 전네이버뉴스",
+      "date": "2026. 2. 27.",
+      "description": "파이낸셜뉴스..."
+    },
+    {
+      "id": 32,
+      "title": "휴메딕스, 차세대 창상피복재 '아르케' 도입ㆍ독점 판매",
+      "link": "http://www.medisobizanews.com/news/articleView.html?idxno=135167",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5576%2F2026%2F02%2F27%2F59321.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "메디소비자뉴스3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "메디소비자뉴스..."
+    },
+    {
+      "id": 33,
+      "title": "관악구, '힐링 가드너' 운영 체계 전격 고도화",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3515612",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5291%2F2026%2F02%2F27%2F2462164.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "국제뉴스3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "국제뉴스..."
+    },
+    {
+      "id": 34,
+      "title": "삼육대, 김용선·송창호·김낙철·류병열·김경남 교수 정년퇴임",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=120491",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5693%2F2026%2F02%2F27%2F102302.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "스마트경제3시간 전",
+      "date": "2026. 2. 27.",
+      "description": "스마트경제..."
+    },
+    {
+      "id": 35,
+      "title": "시민들에게 식물과 정원 가꾸기에 대한 이론과 실습 과정을 제공하고, 계절별 화단 조성 및 관리 등 심화 교육으로 체계적인 녹색 체험 기회를 마련했다. 이를 통해 시민 주도의 녹화 ",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=113460",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F02%2F27%2F75926.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "팝콘뉴스4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "팝콘뉴스..."
+    },
+    {
+      "id": 36,
+      "title": "[수원시 소식] 유해화학물질-화학사고 대응계획 수립·1인가구 지원부서...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=832450",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5525%2F2026%2F02%2F27%2F424397.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스웍스4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "뉴스웍스..."
+    },
+    {
+      "id": 37,
+      "title": "내달 3일 '양산의 금정산' 국립공원으로 정식 지정",
+      "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=123157",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5904%2F2026%2F02%2F27%2F7746.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "양산신문4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "양산신문..."
+    },
+    {
+      "id": 38,
+      "title": "삼육대, 김용선/송창호/김낙철/류병열/김경남 교수 정년퇴임",
+      "link": "http://www.veritas-a.com/news/articleView.html?idxno=599789",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5258%2F2026%2F02%2F27%2F387331.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "베리타스알파4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "베리타스알파..."
+    },
+    {
+      "id": 39,
+      "title": "대전시, 2026년 시민정원사 양성과정 교육생 30명 모집",
+      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2196832",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5364%2F2026%2F02%2F27%2F1163462.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "신아일보4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "신아일보..."
+    },
+    {
+      "id": 40,
+      "title": "그린알로에, '2026 소비자선정 최고의 브랜드 대상' 9년 연속 선정",
+      "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401604",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5204%2F2026%2F02%2F27%2F8008.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "포브스코리아4시간 전",
+      "date": "2026. 2. 27.",
+      "description": "포브스코리아..."
     },
     {
       "id": 41,
-      "title": "새학기 독감 유행 비상, 손 씻기만큼 중요한 '코 점막' 관리법은?",
-      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=59266",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5246%2F2026%2F02%2F26%2F34424.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "하이닥17시간 전",
+      "title": "대전시, 시민정원사 30명 선발",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2400059",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5116%2F2026%2F02%2F27%2F1037981.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "충청일보5시간 전",
       "date": "2026. 2. 27.",
-      "description": "하이닥..."
+      "description": "충청일보..."
     },
     {
       "id": 42,
-      "title": "서울시 '더 아름다운 결혼식' 인기 급증, 올해 예약 506쌍 돌파",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2399385",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5038%2F2026%2F02%2F26%2F1156444.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이뉴스투데이17시간 전",
+      "title": "[2026 소비자 선정 최고의 브랜드 대상] 잘론네츄럴",
+      "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401505",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5204%2F2026%2F02%2F27%2F7882.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "포브스코리아5시간 전",
       "date": "2026. 2. 27.",
-      "description": "이뉴스투데이..."
+      "description": "포브스코리아..."
     },
     {
       "id": 43,
-      "title": "여수시, 유아숲체험원 2026 운영 개시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=207306",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5746%2F2026%2F02%2F26%2F111077.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "AI타임스17시간 전",
+      "title": "그린알로에, ‘2026 소비자선정 최고의 브랜드 대상’ 알로에건강기능식...",
+      "link": "https://www.seoul.co.kr/news/economy/2026/02/26/20260226500154?wlog_tag3=naver",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F081%2F2026%2F02%2F27%2F3621386.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "서울신문5시간 전네이버뉴스",
       "date": "2026. 2. 27.",
-      "description": "AI타임스..."
+      "description": "서울신문..."
     },
     {
       "id": 44,
-      "title": "합천군, 과수화상병 예방 필수교육 실시",
-      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290213201944",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F02%2F26%2F880800.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민일보17시간 전",
+      "title": "국민 3명 중 1명 '식물 집사'…반려식물 키우기 열풍",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5177073",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F057%2F2026%2F02%2F27%2F1937292.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "MBN5시간 전네이버뉴스",
       "date": "2026. 2. 27.",
-      "description": "시민일보..."
+      "description": "MBN..."
     },
     {
       "id": 45,
-      "title": "충남 계룡시, \"생애주기별 어린이 원예교실\" 성료",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1065087",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5278%2F2026%2F02%2F26%2F590712.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청매일18시간 전",
+      "title": "신천지자원봉사단 강서지부, 6·25 참전용사에 '다다익선' 식물 나눔",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=591644",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5721%2F2026%2F02%2F27%2F157053.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "오늘경제5시간 전",
       "date": "2026. 2. 27.",
-      "description": "충청매일..."
+      "description": "오늘경제..."
     },
     {
       "id": 46,
-      "title": "산림과학원, 친환경 '수국 제초제' 개발",
-      "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71210",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5537%2F2026%2F02%2F26%2F37210.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농축유통신문18시간 전",
+      "title": "[세이프푸드] 기름 뺀 '샐러드' 건강할까?",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=239811",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5754%2F2026%2F02%2F27%2F50595.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "세이프타임즈5시간 전",
       "date": "2026. 2. 27.",
-      "description": "농축유통신문..."
+      "description": "세이프타임즈..."
     },
     {
       "id": 47,
-      "title": "제주시, 함께그린 도시숲 자원봉사 발대식 개최",
-      "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=587685",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5267%2F2026%2F02%2F26%2F299551.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "헤드라인제주18시간 전",
+      "title": "이렇게 아름다운 도서관 이름이 그저 '경기도서관'이라니...",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=9689",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5897%2F2026%2F02%2F27%2F5051.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "뉴스버스5시간 전",
       "date": "2026. 2. 27.",
-      "description": "헤드라인제주..."
+      "description": "뉴스버스..."
     },
     {
       "id": 48,
-      "title": "[위클리오늘] '우리 집에도 작은 정원' 동해시, 7주 과정 시민 가드너 양...",
-      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=761779",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5294%2F2026%2F02%2F26%2F446744.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "위클리오늘19시간 전",
+      "title": "청주시, '반려식물병원' 3월 3일 재개…맞춤 진단·치료 3개월간 운영",
+      "link": "https://www.eroun.net/news/articleView.html?idxno=74337",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5738%2F2026%2F02%2F27%2F49463.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "이로운넷6시간 전",
       "date": "2026. 2. 27.",
-      "description": "위클리오늘..."
+      "description": "이로운넷..."
     },
     {
       "id": 49,
-      "title": "하루 '피칸' 한 줌, 콜레스테롤 8mg↓...\"심혈관 건강·식단 질 동시에 ...",
-      "link": "https://news.hidoc.co.kr/news/articleView.html?idxno=59202",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5246%2F2026%2F02%2F26%2F34422.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "하이닥19시간 전",
+      "title": "지방간·만성피로까지…항산화·AMPK 활성화되는 이 성분",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=529829",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5332%2F2026%2F02%2F27%2F113575.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "약사공론7시간 전",
       "date": "2026. 2. 27.",
-      "description": "하이닥..."
+      "description": "약사공론..."
     },
     {
       "id": 50,
-      "title": "TNGLAB, '잇츠 네이처' 카페로 창업 모델 확장 선언... \"플랜테리어와 스...",
-      "link": "https://kr.aving.net/news/articleView.html?idxno=1809093",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5015%2F2026%2F02%2F26%2F206818.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "에이빙뉴스19시간 전",
+      "title": "동해시민 대상 '가드너 양성교육' 운영",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2036153",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F654%2F2025%2F04%2F03%2Flogo_654_100_20250403123318.png&type=f54_54&expire=24&refresh=true",
+      "press": "강원도민일보15면 1단13시간 전네이버뉴스",
       "date": "2026. 2. 27.",
-      "description": "에이빙뉴스..."
+      "description": "강원도민일보..."
     }
   ]
 }

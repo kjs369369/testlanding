@@ -1,250 +1,250 @@
 {
-  "lastUpdated": "2026-03-11T15:41:53.649Z",
-  "lastUpdatedKST": "2026. 3. 12. 오전 12:41:53",
+  "lastUpdated": "2026-03-11T18:45:52.332Z",
+  "lastUpdatedKST": "2026. 3. 12. 오전 3:45:52",
   "keyword": "식물 관리",
   "totalCount": 50,
   "displayCount": 9,
   "articles": [
     {
       "id": 1,
+      "title": "\"정원으로 마음의 상처 치유\" 한국수목원정원관리원, '희망정원 나눔 프...",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=697073",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5174%2F2026%2F03%2F12%2F499871.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "컨슈머타임스19분 전",
+      "date": "2026. 3. 11.",
+      "description": "컨슈머타임스..."
+    },
+    {
+      "id": 2,
+      "title": "DMZ 식물원서 복수초 올해 첫 개화… 최근 3년 연속 '개화 시기 앞당겨져...",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=58039",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F03%2F12%2F41103.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "한국영농신문2시간 전",
+      "date": "2026. 3. 11.",
+      "description": "한국영농신문..."
+    },
+    {
+      "id": 3,
       "title": "아산시, 제8기 시민정원사 양성과정 개강",
       "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=403723",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5569%2F2026%2F03%2F12%2F252641.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "충청뉴스17분 전",
+      "press": "충청뉴스3시간 전",
       "date": "2026. 3. 11.",
       "description": "충청뉴스..."
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "김제시, 새만금수목원 개원 맞춘 경제활성화 방안 고민",
       "link": "http://www.newstnt.com/news/articleView.html?idxno=594651",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5788%2F2026%2F03%2F11%2F199430.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스티앤티1시간 전",
-      "date": "2026. 3. 11.",
-      "description": "뉴스티앤티..."
-    },
-    {
-      "id": 3,
-      "title": "NH농협은행, 안동 산불피해 지역 찾아 희망정원 나눔 사업 실시",
-      "link": "https://www.donga.com/news/Economy/article/all/20260311/133512332/2",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F03%2F11%2F3703285.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "동아일보3시간 전네이버뉴스",
-      "date": "2026. 3. 11.",
-      "description": "동아일보..."
-    },
-    {
-      "id": 4,
-      "title": "한국의 생태이야기/씨앗은 봄을 꿈꾸며 잠을 잔다",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=841904",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F03%2F11%2F468619.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "동양일보3시간 전",
-      "date": "2026. 3. 11.",
-      "description": "동양일보..."
-    },
-    {
-      "id": 5,
-      "title": "포항기청산식물원, 생태전환교육 중심지로 부상",
-      "link": "https://www.ksmnews.co.kr/news/view.php?idx=594355",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F03%2F11%2F467744.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경상매일신문4시간 전",
-      "date": "2026. 3. 11.",
-      "description": "경상매일신문..."
-    },
-    {
-      "id": 6,
-      "title": "[브리프] 신한은행 하나금융 하나은행 NH농협은행 外",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=350303",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F03%2F11%2F178741.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "비즈트리뷴4시간 전",
-      "date": "2026. 3. 11.",
-      "description": "비즈트리뷴..."
-    },
-    {
-      "id": 7,
-      "title": "선발된 30명의 교육생은 오는 7월까지 총 19회에 걸쳐 △정원의 이해 △식물 관리 △정원 디자인 △정원 조성 및 관리 등 이론과 실습을 병행한 전문 교육을 받게 된다. 교육을 수",
-      "link": "http://www.newstnt.com/news/articleView.html?idxno=594211",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5788%2F2026%2F03%2F11%2F199405.jpg&type=fface200_200&expire=2&refresh=true",
       "press": "뉴스티앤티4시간 전",
       "date": "2026. 3. 11.",
       "description": "뉴스티앤티..."
     },
     {
-      "id": 8,
-      "title": "울산 태화강 수상정원 조성 사업 본격화",
-      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1060489",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5184%2F2026%2F03%2F11%2F354704.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "울산매일신문5시간 전",
+      "id": 5,
+      "title": "NH농협은행, 안동 산불피해 지역 찾아 희망정원 나눔 사업 실시",
+      "link": "https://www.donga.com/news/Economy/article/all/20260311/133512332/2",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F020%2F2026%2F03%2F11%2F3703285.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "동아일보6시간 전네이버뉴스",
       "date": "2026. 3. 11.",
-      "description": "울산매일신문..."
+      "description": "동아일보..."
+    },
+    {
+      "id": 6,
+      "title": "한국의 생태이야기/씨앗은 봄을 꿈꾸며 잠을 잔다",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=841904",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5344%2F2026%2F03%2F11%2F468619.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "동양일보7시간 전",
+      "date": "2026. 3. 11.",
+      "description": "동양일보..."
+    },
+    {
+      "id": 7,
+      "title": "포항기청산식물원, 생태전환교육 중심지로 부상",
+      "link": "https://www.ksmnews.co.kr/news/view.php?idx=594355",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5321%2F2026%2F03%2F11%2F467744.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경상매일신문7시간 전",
+      "date": "2026. 3. 11.",
+      "description": "경상매일신문..."
+    },
+    {
+      "id": 8,
+      "title": "[브리프] 신한은행 하나금융 하나은행 NH농협은행 外",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=350303",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5469%2F2026%2F03%2F11%2F178741.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "비즈트리뷴7시간 전",
+      "date": "2026. 3. 11.",
+      "description": "비즈트리뷴..."
     },
     {
       "id": 9,
       "title": "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요.",
       "link": "https://help.naver.com/alias/news/news_21.naver",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5569%2F2024%2F05%2F31%2Flogo_5569_18_20240531135634.png&type=f54_54&expire=24&refresh=true",
-      "press": "충청뉴스17분 전",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5174%2F2024%2F05%2F31%2Flogo_5174_18_20240531134949.png&type=f54_54&expire=24&refresh=true",
+      "press": "컨슈머타임스19분 전",
       "date": "2026. 3. 11.",
-      "description": "충청뉴스..."
+      "description": "컨슈머타임스..."
     },
     {
       "id": 10,
-      "title": "거제식물원, 식물문화센터 3월 가드닝데이 운영",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=632262",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F03%2F11%2F306459.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "경남일보5시간 전",
+      "title": "선발된 30명의 교육생은 오는 7월까지 총 19회에 걸쳐 △정원의 이해 △식물 관리 △정원 디자인 △정원 조성 및 관리 등 이론과 실습을 병행한 전문 교육을 받게 된다. 교육을 수",
+      "link": "http://www.newstnt.com/news/articleView.html?idxno=594211",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5788%2F2026%2F03%2F11%2F199405.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "뉴스티앤티7시간 전",
       "date": "2026. 3. 11.",
-      "description": "경남일보..."
+      "description": "뉴스티앤티..."
     },
     {
       "id": 11,
+      "title": "울산 태화강 수상정원 조성 사업 본격화",
+      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1060489",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5184%2F2026%2F03%2F11%2F354704.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "울산매일신문8시간 전",
+      "date": "2026. 3. 11.",
+      "description": "울산매일신문..."
+    },
+    {
+      "id": 12,
       "title": "아산시시설관리공단, 생태곤충원 '희귀식물 특별전' 개최",
       "link": "http://www.newstown.co.kr/news/articleView.html?idxno=696660",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5136%2F2026%2F03%2F11%2F362198.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스타운5시간 전",
+      "press": "뉴스타운8시간 전",
       "date": "2026. 3. 11.",
       "description": "뉴스타운..."
     },
     {
-      "id": 12,
+      "id": 13,
+      "title": "거제식물원, 식물문화센터 3월 가드닝데이 운영",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=632262",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5217%2F2026%2F03%2F11%2F306459.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "경남일보8시간 전",
+      "date": "2026. 3. 11.",
+      "description": "경남일보..."
+    },
+    {
+      "id": 14,
       "title": "미 “이란 완전 박살”…잔디 뽑기 대신 잔디 깎기?",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000518493",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F449%2F2026%2F03%2F11%2F337903.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "채널A5시간 전네이버뉴스",
+      "press": "채널A8시간 전네이버뉴스",
       "date": "2026. 3. 11.",
       "description": "채널A..."
     },
     {
-      "id": 13,
+      "id": 15,
       "title": "경기생물다양성센터, 이달부터 활동 시작",
       "link": "https://www.naeil.com/news/read/580889?ref=naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5312%2F2026%2F03%2F11%2F327434.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "내일신문5시간 전",
+      "press": "내일신문8시간 전",
       "date": "2026. 3. 11.",
       "description": "내일신문..."
     },
     {
-      "id": 14,
+      "id": 16,
       "title": "김제시, 국립새만금수목원 개원 대비 상생방안 논의",
       "link": "http://sjbnews.com/news/news.php?number=873503",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5153%2F2026%2F03%2F11%2F341701.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "새전북신문5시간 전",
+      "press": "새전북신문8시간 전",
       "date": "2026. 3. 11.",
       "description": "새전북신문..."
     },
     {
-      "id": 15,
+      "id": 17,
       "title": "\"참치보다 많다\" 오메가3 폭탄 식품 7가지 정체는",
       "link": "http://www.joseilbo.com/news/news_read.php?uid=564415&class=27&grp=",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F123%2F2026%2F03%2F11%2F2379274.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "조세일보5시간 전네이버뉴스",
+      "press": "조세일보8시간 전네이버뉴스",
       "date": "2026. 3. 11.",
       "description": "조세일보..."
     },
     {
-      "id": 16,
+      "id": 18,
       "title": "NH농협은행, 산불 피해 주민 위한 '희망정원 나눔' 실시",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=297058",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5787%2F2026%2F03%2F11%2F170176.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼블릭5시간 전",
+      "press": "더퍼블릭8시간 전",
       "date": "2026. 3. 11.",
       "description": "더퍼블릭..."
     },
     {
-      "id": 17,
+      "id": 19,
       "title": "이상기후로 빨라진 진딧물 발생…시설재배 농가 '초기 방제' 중요성 커...",
       "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=58009",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5548%2F2026%2F03%2F11%2F41079.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "한국영농신문5시간 전",
+      "press": "한국영농신문9시간 전",
       "date": "2026. 3. 11.",
       "description": "한국영농신문..."
     },
     {
-      "id": 18,
+      "id": 20,
       "title": "NH농협은행, 작년 산불피해 지역 찾아 '희망정원 나눔' 사업 실시",
       "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=259368",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5120%2F2026%2F03%2F11%2F202875.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "화이트페이퍼6시간 전",
+      "press": "화이트페이퍼9시간 전",
       "date": "2026. 3. 11.",
       "description": "화이트페이퍼..."
     },
     {
-      "id": 19,
+      "id": 21,
       "title": "화성특례시, 온뜰정원 힐링가드너 모집…자연 속에서 몸과 마음을 치유...",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1345401",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5385%2F2026%2F03%2F11%2F849572.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "매일일보6시간 전",
+      "press": "매일일보9시간 전",
       "date": "2026. 3. 11.",
       "description": "매일일보..."
     },
     {
-      "id": 20,
+      "id": 22,
       "title": "NH농협은행, '25년 산불피해 지역 찾아 '희망정원 나눔'사업 진행",
       "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30265",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5705%2F2026%2F03%2F11%2F13433.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "리얼캐스트6시간 전",
+      "press": "리얼캐스트9시간 전",
       "date": "2026. 3. 11.",
       "description": "리얼캐스트..."
     },
     {
-      "id": 21,
+      "id": 23,
       "title": "NH농협은행, 산불피해 주민 위한 희망정원 나눔 사업 실시",
       "link": "http://www.ttlnews.com/news/articleView.html?idxno=3087734",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5643%2F2026%2F03%2F11%2F53037.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "퍼블릭뉴스통신(public news-network for TTL)6시간 전",
+      "press": "퍼블릭뉴스통신(public news-network for TTL)9시간 전",
       "date": "2026. 3. 11.",
       "description": "퍼블릭뉴스통신(public news-network for TTL)..."
     },
     {
-      "id": 22,
+      "id": 24,
       "title": "서구, '서봄정원사' 모집…마을정원 가꾼다",
       "link": "https://www.namdonews.com/news/articleView.html?idxno=903723",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5539%2F2026%2F03%2F11%2F314523.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "남도일보6시간 전",
+      "press": "남도일보9시간 전",
       "date": "2026. 3. 11.",
       "description": "남도일보..."
     },
     {
-      "id": 23,
+      "id": 25,
       "title": "'저지 백서향 향기축제' 난대아열대산림연구소 지원",
       "link": "https://www.jemin.com/news/articleView.html?idxno=834535",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5158%2F2026%2F03%2F11%2F296379.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "제민일보6시간 전",
+      "press": "제민일보9시간 전",
       "date": "2026. 3. 11.",
       "description": "제민일보..."
     },
     {
-      "id": 24,
+      "id": 26,
       "title": "경기도, '경기생물다양성센터' 설치… 도민 참여 생물조사 넓힌다",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3383469",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F03%2F11%2F1162925.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보6시간 전",
+      "press": "천지일보9시간 전",
       "date": "2026. 3. 11.",
       "description": "천지일보..."
-    },
-    {
-      "id": 25,
-      "title": "서구, 마을정원 가꿀 정원사 모집",
-      "link": "http://www.siminsori.com/news/articleView.html?idxno=313415",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F03%2F11%2F53807.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민의소리6시간 전",
-      "date": "2026. 3. 11.",
-      "description": "시민의소리..."
-    },
-    {
-      "id": 26,
-      "title": "일상을 예술로 가꾸는 가드닝, 정원에 빠지다!",
-      "link": "http://www.siminsori.com/news/articleView.html?idxno=313428",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F03%2F11%2F53800.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민의소리6시간 전",
-      "date": "2026. 3. 11.",
-      "description": "시민의소리..."
     },
     {
       "id": 27,
       "title": "영광테마식물원 유리온실, 사계절 자연 체험 공간으로 부각",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3383491",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5041%2F2026%2F03%2F11%2F1162924.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "천지일보6시간 전",
+      "press": "천지일보9시간 전",
       "date": "2026. 3. 11.",
       "description": "천지일보..."
     },
@@ -253,207 +253,207 @@
       "title": "영광테마식물원 유리온실, 사계절 자연을 즐기는 힐링 공간",
       "link": "http://www.siminsori.com/news/articleView.html?idxno=313436",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F03%2F11%2F53801.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민의소리6시간 전",
+      "press": "시민의소리9시간 전",
       "date": "2026. 3. 11.",
       "description": "시민의소리..."
     },
     {
       "id": 29,
+      "title": "일상을 예술로 가꾸는 가드닝, 정원에 빠지다!",
+      "link": "http://www.siminsori.com/news/articleView.html?idxno=313428",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F03%2F11%2F53800.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시민의소리9시간 전",
+      "date": "2026. 3. 11.",
+      "description": "시민의소리..."
+    },
+    {
+      "id": 30,
+      "title": "서구, 마을정원 가꿀 정원사 모집",
+      "link": "http://www.siminsori.com/news/articleView.html?idxno=313415",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5439%2F2026%2F03%2F11%2F53807.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "시민의소리9시간 전",
+      "date": "2026. 3. 11.",
+      "description": "시민의소리..."
+    },
+    {
+      "id": 31,
       "title": "[나눔 트렌드] 대한적십자사 서울지사, 아동·청소년 취약계층 250가구 ...",
       "link": "https://www.ibabynews.com/news/articleView.html?idxno=149528",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5295%2F2026%2F03%2F11%2F99407.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "베이비뉴스6시간 전",
+      "press": "베이비뉴스9시간 전",
       "date": "2026. 3. 11.",
       "description": "베이비뉴스..."
     },
     {
-      "id": 30,
+      "id": 32,
       "title": "전북대 연구팀, 식물로 탄소 줄일 ‘최적 CO₂ 농도’ 찾았다",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22657",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5439%2F2024%2F05%2F31%2Flogo_5439_18_20240531130155.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경6시간 전",
+      "thumbnail": "/logo.png",
+      "press": "환경과조경9시간 전",
       "date": "2026. 3. 11.",
       "description": "환경과조경..."
     },
     {
-      "id": 31,
+      "id": 33,
       "title": "아산시, 시민과 함께 만드는 정원도시…제8기 시민정원사 양성과정 개강",
       "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316222",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F03%2F11%2F135194.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농수축산신문7시간 전",
+      "press": "농수축산신문10시간 전",
       "date": "2026. 3. 11.",
       "description": "농수축산신문..."
     },
     {
-      "id": 32,
-      "title": "영광테마식물원 유리온실, 사계절 자연 즐기는 힐링 공간 - 터널 속 자연...",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=264827",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F03%2F11%2F152077.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팍스경제TV7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "팍스경제TV..."
-    },
-    {
-      "id": 33,
+      "id": 34,
       "title": "구례군, '일상을 예술로 가꾸는 가드닝, 정원에 빠지다' - 2026년 정원관...",
       "link": "http://www.paxetv.com/news/articleView.html?idxno=264820",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5802%2F2026%2F03%2F11%2F152082.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팍스경제TV7시간 전",
+      "press": "팍스경제TV10시간 전",
       "date": "2026. 3. 11.",
       "description": "팍스경제TV..."
     },
     {
-      "id": 34,
+      "id": 35,
       "title": "[지자체 이슈] 영광군, '영광테마식물원 유리온실, 사계절 자연을 즐기...",
       "link": "http://www.queen.co.kr/news/articleView.html?idxno=452846",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5472%2F2026%2F03%2F11%2F159305.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "Queen 이코노미퀸7시간 전",
+      "press": "Queen 이코노미퀸10시간 전",
       "date": "2026. 3. 11.",
       "description": "Queen 이코노미퀸..."
     },
     {
-      "id": 35,
+      "id": 36,
       "title": "화성특례시, 온뜰정원 힐링가드너 모집",
       "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292433748542",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5055%2F2026%2F03%2F11%2F883997.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "시민일보7시간 전",
+      "press": "시민일보10시간 전",
       "date": "2026. 3. 11.",
       "description": "시민일보..."
     },
     {
-      "id": 36,
+      "id": 37,
       "title": "NH농협은행, 지난해 산불 피해 주민 대상 '희망정원 나눔' 진행",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=114875",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5868%2F2026%2F03%2F11%2F77221.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "팝콘뉴스7시간 전",
+      "press": "팝콘뉴스10시간 전",
       "date": "2026. 3. 11.",
       "description": "팝콘뉴스..."
     },
     {
-      "id": 37,
+      "id": 38,
       "title": "광주 서구, 마을정원 가꿀 서봄정원사 모집",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435943",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F03%2F11%2F398234.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "핀포인트뉴스7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "핀포인트뉴스..."
-    },
-    {
-      "id": 38,
-      "title": "구례군 정원관리사 양성 교육생 모집",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435940",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F03%2F11%2F398231.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "핀포인트뉴스7시간 전",
+      "press": "핀포인트뉴스10시간 전",
       "date": "2026. 3. 11.",
       "description": "핀포인트뉴스..."
     },
     {
       "id": 39,
+      "title": "구례군 정원관리사 양성 교육생 모집",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435940",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5829%2F2026%2F03%2F11%2F398231.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "핀포인트뉴스10시간 전",
+      "date": "2026. 3. 11.",
+      "description": "핀포인트뉴스..."
+    },
+    {
+      "id": 40,
       "title": "NH농협은행, 산불피해 안동 주민 찾아 '희망정원 나눔' 실시",
       "link": "https://www.delighti.co.kr/news/articleView.html?idxno=113157",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5214%2F2026%2F03%2F11%2F62179.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "딜라이트닷넷7시간 전",
+      "press": "딜라이트닷넷10시간 전",
       "date": "2026. 3. 11.",
       "description": "딜라이트닷넷..."
     },
     {
-      "id": 40,
+      "id": 41,
       "title": "[거제 24시] 거제식물원, '3월 가드닝데이' 운영…봄꽃 심기 체험",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=365423",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F586%2F2026%2F03%2F11%2F124163.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "시사저널7시간 전네이버뉴스",
+      "press": "시사저널10시간 전네이버뉴스",
       "date": "2026. 3. 11.",
       "description": "시사저널..."
     },
     {
-      "id": 41,
+      "id": 42,
       "title": "NH농협은행, 안동 산불 피해 주민 위한 '희망정원 나눔' 실시",
       "link": "http://www.srtimes.kr/news/articleView.html?idxno=198437",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5589%2F2026%2F03%2F11%2F141236.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "SR타임스7시간 전",
+      "press": "SR타임스10시간 전",
       "date": "2026. 3. 11.",
       "description": "SR타임스..."
-    },
-    {
-      "id": 42,
-      "title": "천안시, 시민정원사 양성 확대…정원문화 확산 나선다",
-      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316198",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F03%2F11%2F135189.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "농수축산신문7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "농수축산신문..."
     },
     {
       "id": 43,
       "title": "한수정, 안동 산불 피해지역에 ‘희망정원’ 70곳 조성",
       "link": "http://www.lak.co.kr/news/boardview.php?id=22656",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fmimgnews.pstatic.net%2Fimage%2Fupload%2Foffice_logo%2F5055%2F2024%2F05%2F30%2Flogo_5055_18_20240530163640.png&type=f54_54&expire=24&refresh=true",
-      "press": "환경과조경7시간 전",
+      "thumbnail": "/logo.png",
+      "press": "환경과조경10시간 전",
       "date": "2026. 3. 11.",
       "description": "환경과조경..."
     },
     {
       "id": 44,
+      "title": "천안시, 시민정원사 양성 확대…정원문화 확산 나선다",
+      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316198",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5442%2F2026%2F03%2F11%2F135189.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "농수축산신문10시간 전",
+      "date": "2026. 3. 11.",
+      "description": "농수축산신문..."
+    },
+    {
+      "id": 45,
       "title": "동국제약 센텔리안24, 일본 큐텐 ‘메가와리’서 ‘마데카 PDRN 사쿠라 패...",
       "link": "https://www.etoday.co.kr/news/view/2564348",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5003%2F2026%2F03%2F11%2F2150995.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "이투데이7시간 전",
+      "press": "이투데이10시간 전",
       "date": "2026. 3. 11.",
       "description": "이투데이..."
     },
     {
-      "id": 45,
-      "title": "도시 녹지 유지 관리비 절감 등 도시 숲 조성 시범 사업 실시",
-      "link": "http://www.gocj.net/news/articleView.html?idxno=146261",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5069%2F2026%2F03%2F11%2F112948.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "대전시티저널7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "대전시티저널..."
-    },
-    {
       "id": 46,
-      "title": "[새로운 경기교육] 수원 금곡초등학교 '겨울방학 원예·독서교실'",
-      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1318571",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5193%2F2026%2F03%2F11%2F622651.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "인천일보7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "인천일보..."
-    },
-    {
-      "id": 47,
       "title": "화성특례시, '온뜰정원' 힐링가드너 모집",
       "link": "https://www.dailian.co.kr/news/view/1619704/?sc=Naver",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F119%2F2026%2F03%2F11%2F3067979.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "데일리안7시간 전네이버뉴스",
+      "press": "데일리안10시간 전네이버뉴스",
       "date": "2026. 3. 11.",
       "description": "데일리안..."
     },
     {
+      "id": 47,
+      "title": "도시 녹지 유지 관리비 절감 등 도시 숲 조성 시범 사업 실시",
+      "link": "http://www.gocj.net/news/articleView.html?idxno=146261",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5069%2F2026%2F03%2F11%2F112948.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
+      "press": "대전시티저널10시간 전",
+      "date": "2026. 3. 11.",
+      "description": "대전시티저널..."
+    },
+    {
       "id": 48,
+      "title": "[새로운 경기교육] 수원 금곡초등학교 '겨울방학 원예·독서교실'",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1318571",
+      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5193%2F2026%2F03%2F11%2F622651.jpg&type=fface200_200&expire=2&refresh=true",
+      "press": "인천일보10시간 전",
+      "date": "2026. 3. 11.",
+      "description": "인천일보..."
+    },
+    {
+      "id": 49,
       "title": "NH농협은행, 안동 산불피해 주민 마음치유 정원 지원",
       "link": "http://www.finomy.com/news/articleView.html?idxno=251216",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5288%2F2026%2F03%2F11%2F158252.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "현대경제신문7시간 전",
+      "press": "현대경제신문10시간 전",
       "date": "2026. 3. 11.",
       "description": "현대경제신문..."
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "NH농협은행, 25년 산불피해 지역 찾아 '희망정원 나눔' 진행",
       "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=195264",
       "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5560%2F2026%2F03%2F11%2F146363.jpg&type=ofullfill208_208_dominantcolor&expire=2&refresh=true",
-      "press": "더퍼스트7시간 전",
+      "press": "더퍼스트10시간 전",
       "date": "2026. 3. 11.",
       "description": "더퍼스트..."
-    },
-    {
-      "id": 50,
-      "title": "NH농협은행, 안동시 산불피해 주민 치유 위한 '희망정원 나눔' 실시",
-      "link": "https://www.newspim.com/news/view/20260311001300",
-      "thumbnail": "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5002%2F2026%2F03%2F11%2F3117319.jpg&type=fface200_200&expire=2&refresh=true",
-      "press": "뉴스핌7시간 전",
-      "date": "2026. 3. 11.",
-      "description": "뉴스핌..."
     }
   ]
 }
